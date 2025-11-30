@@ -1,0 +1,1042 @@
+I want to give you a set of nested React.js components and I want you to suggest me a full musical functionality based components that will be used to play songs over in front of the screen holding the guitar and singing along with it.
+
+Actually I want you to display a playback component that will display the lyrics and the chords of a lot of songs form many genres and for you according to a certain BPM to highlight what the artist needs to imitate.
+
+By the end of the developement of this component / page, I want to be able to generate a PDF for every famous musical genre in the Internet which will be a repertoire of famous songs to cover to play in parties or in front of a public.
+
+I want you to edit only the playWithProgression, playWithPlayback, MusicApp,, SongsSelector components
+
+But first take them as an input :
+
+// ===========================================
+//   SongsSelector.jsx  (FULL FILE WITH TABS)
+// ===========================================
+
+import React, { useState } from 'react';
+import {
+  Button,
+  Card,
+  CardContent,
+  Typography,
+  Tabs,
+  Tab
+} from '@mui/material';
+import { styled } from '@mui/system';
+import { mostCommonSongs } from '../../../config/mostCommonSongs';
+import guitar from '../../../config/guitar';
+
+/* -------------------- Styles -------------------- */
+const Root = styled('div')({
+  display: 'flex',
+  flexDirection: 'column',
+});
+
+const StyledButton = styled(Button)({
+  borderRadius: '20px',
+  margin: '10px',
+});
+
+const BackButton = styled(Button)({
+  margin: 20,
+  borderRadius: '20px',
+});
+
+const SectionContainer = styled('div')({
+  marginBottom: '30px',
+});
+
+const BarRow = styled('div')({
+  display: 'flex',
+  flexDirection: 'row',
+  marginLeft: 20,
+  marginBottom: 10,
+  alignItems: 'center',
+});
+
+const ChordBox = styled('div')({
+  padding: '8px 12px',
+  marginRight: 10,
+  borderRadius: 8,
+  background: '#fafafa',
+  border: '1px solid #ccc',
+  minWidth: 55,
+  textAlign: 'center',
+  cursor: 'pointer',
+  fontWeight: 'bold',
+  fontSize: 14,
+  transition: '0.2s',
+  '&:hover': {
+    background: '#f0f0f0',
+    transform: 'scale(1.05)',
+  },
+});
+
+const StyledCard = styled(Card)({
+  minWidth: 180,
+  cursor: 'pointer',
+  margin: '10px',
+  transition: 'transform 0.3s ease',
+  '&:hover': { transform: 'scale(1.03)' },
+});
+
+/* -------------------- Parse Chord -------------------- */
+function parseChordName(chordName) {
+  let root = chordName[0];
+  if (chordName[1] === "#" || chordName[1] === "b") root += chordName[1];
+
+  const remainder = chordName.slice(root.length);
+  let degree = remainder.startsWith("m") ? "min" : "M";
+
+  const keyIndex = guitar.notes.sharps.indexOf(root);
+
+  return { name: degree, root, chord: chordName, key: keyIndex };
+}
+
+/* -------------------- Flatten Bars -------------------- */
+const buildFullBars = (song) => {
+  const bars = [];
+  let barCount = 1;
+
+  song.sections.forEach((section) => {
+    for (let r = 0; r < section.repeat; r++) {
+      section.bars.forEach((bar) => {
+        bars.push({
+          number: barCount++,
+          chords: bar.chords.map((ch) => {
+            const parsed = parseChordName(ch.name);
+            return {
+              ...parsed,
+              shape: ch.shape,
+              fret: ch.fret,
+            };
+          }),
+        });
+      });
+    }
+  });
+
+  return bars;
+};
+
+/* -------------------- Component -------------------- */
+const SongsSelector = ({ playProgression, playSingleChord }) => {
+  const [selectedSongIndex, setSelectedSongIndex] = useState(null);
+  const [selectedGenre, setSelectedGenre] = useState('');
+  const [filteredSongs, setFilteredSongs] = useState(mostCommonSongs.songs);
+  const [showSongView, setShowSongView] = useState(false);
+  const [tabView, setTabView] = useState('bars'); // NEW TABS STATE
+
+  const selectedSong =
+    selectedSongIndex !== null ? filteredSongs[selectedSongIndex] : null;
+
+  /* -------------------- Play Section -------------------- */
+  const handlePlaySection = (section) => {
+    const chords = [];
+
+    for (let r = 0; r < section.repeat; r++) {
+      section.bars.forEach((bar) => {
+        bar.chords.forEach((ch) => {
+          const parsed = parseChordName(ch.name);
+          chords.push({
+            ...parsed,
+            shape: ch.shape,
+            fret: ch.fret,
+          });
+        });
+      });
+    }
+
+    playProgression(chords);
+  };
+
+  /* -------------------- Play Full Song -------------------- */
+  const handlePlayFullSong = (song) => {
+    const fullBars = buildFullBars(song);
+    const flat = [];
+    fullBars.forEach((bar) => bar.chords.forEach((c) => flat.push(c)));
+    playProgression(flat);
+  };
+
+  /* -------------------- Genre Filter -------------------- */
+  const handleGenreFilter = (genre) => {
+    setSelectedGenre(genre);
+    const filtered = mostCommonSongs.songs.filter((s) =>
+      s.genre.toLowerCase().includes(genre.toLowerCase())
+    );
+    setFilteredSongs(filtered);
+    setSelectedSongIndex(null);
+  };
+
+  const uniqueGenres = Array.from(
+    new Set(mostCommonSongs.songs.map((s) => s.genre))
+  );
+
+  /* -------------------- Render -------------------- */
+  return (
+    <Root>
+      {showSongView && selectedSong ? (
+        <>
+          <Typography variant="h5" style={{ marginLeft: 20, marginTop: 10 }}>
+            {selectedSong.title} – {selectedSong.artist}
+          </Typography>
+
+          <BackButton
+            variant="outlined"
+            onClick={() => {
+              setShowSongView(false);
+              setSelectedSongIndex(null);
+            }}
+          >
+            Back
+          </BackButton>
+
+          <Button
+            variant="contained"
+            color="primary"
+            style={{ marginLeft: 20, marginBottom: 20 }}
+            onClick={() => handlePlayFullSong(selectedSong)}
+          >
+            Play Full Song
+          </Button>
+
+          {/* ===================== TABS (Bars / Sections) ===================== */}
+          <Tabs
+            value={tabView}
+            onChange={(e, v) => setTabView(v)}
+            TabIndicatorProps={{ style: { display: 'none' } }}
+            sx={{
+              width: '100%',
+              minWidth: '100%',
+              display: 'flex',
+              border: '1px solid #ccc',
+              marginBottom: 2,
+              padding: 0,
+            }}
+          >
+            <Tab
+              label="All Bars"
+              value="bars"
+              sx={{
+                flex: 1,
+                maxWidth: '50%',
+                margin: 0,
+                borderRight: '1px solid black',
+                '&.Mui-selected': {
+                  backgroundColor: '#e0e0e0',
+                  borderColor: '#999',
+                },
+              }}
+            />
+
+            <Tab
+              label="Sections"
+              value="sections"
+              sx={{
+                flex: 1,
+                maxWidth: '50%',
+                margin: 0,
+                '&.Mui-selected': {
+                  backgroundColor: '#e0e0e0',
+                  borderColor: '#999',
+                },
+              }}
+            />
+          </Tabs>
+
+          {/* ============ RENDER ALL BARS ============ */}
+          {tabView === 'bars' && (
+            <>
+              <Typography variant="h6" style={{ marginLeft: 20 }}>
+                Full Bars List
+              </Typography>
+
+              {buildFullBars(selectedSong).map((bar) => (
+                <BarRow key={bar.number}>
+                  <Typography
+                    variant="body2"
+                    style={{
+                      width: 60,
+                      fontWeight: 'bold',
+                      marginRight: 15,
+                    }}
+                  >
+                    Bar {bar.number}
+                  </Typography>
+
+                  {bar.chords.map((ch, i) => (
+                    <ChordBox key={i} onClick={() => playSingleChord(ch)}>
+                      {ch.root}{ch.name === "min" ? "m" : ""}
+                    </ChordBox>
+                  ))}
+                </BarRow>
+              ))}
+            </>
+          )}
+
+          {/* ============ RENDER SECTIONS ============ */}
+          {tabView === 'sections' && (
+            <>
+              {selectedSong.sections.map((section, idx) => (
+                <SectionContainer key={idx}>
+                  <Typography variant="subtitle1" style={{ marginLeft: 20 }}>
+                    {section.name} × {section.repeat}
+                  </Typography>
+
+                  {section.bars.map((bar, bIndex) => (
+                    <BarRow key={bIndex}>
+                      <Typography
+                        variant="body2"
+                        style={{
+                          width: 60,
+                          fontWeight: 'bold',
+                          marginRight: 15,
+                        }}
+                      >
+                        Bar {bIndex + 1}
+                      </Typography>
+
+                      {bar.chords.map((ch, i) => {
+                        const parsed = parseChordName(ch.name);
+                        return (
+                          <ChordBox
+                            key={i}
+                            onClick={() =>
+                              playSingleChord({
+                                ...parsed,
+                                shape: ch.shape,
+                                fret: ch.fret,
+                              })
+                            }
+                          >
+                            {ch.name}
+                          </ChordBox>
+                        );
+                      })}
+                    </BarRow>
+                  ))}
+
+                  <Button
+                    variant="outlined"
+                    color="secondary"
+                    style={{ marginLeft: 20 }}
+                    onClick={() => handlePlaySection(section)}
+                  >
+                    Play {section.name}
+                  </Button>
+                </SectionContainer>
+              ))}
+            </>
+          )}
+        </>
+      ) : (
+        <>
+          {/* Genres */}
+          <Typography variant="h6" style={{ marginLeft: 20, marginTop: 20 }}>
+            Genres
+          </Typography>
+
+          <div style={{ marginLeft: 20 }}>
+            {uniqueGenres.map((genre, i) => (
+              <StyledButton
+                key={i}
+                variant={selectedGenre === genre ? 'contained' : 'outlined'}
+                onClick={() => handleGenreFilter(genre)}
+              >
+                {genre}
+              </StyledButton>
+            ))}
+          </div>
+
+          {/* Song List */}
+          <div style={{ display: 'flex', flexWrap: 'wrap' }}>
+            {filteredSongs.map((song, i) => (
+              <StyledCard
+                key={i}
+                onClick={() => {
+                  setSelectedSongIndex(i);
+                  setShowSongView(true);
+                }}
+              >
+                <CardContent>
+                  <Typography variant="h6">{song.title}</Typography>
+                  <Typography variant="subtitle1">{song.artist}</Typography>
+                  <Typography variant="body2">Key: {song.key}</Typography>
+                  <Typography variant="body2">Genre: {song.genre}</Typography>
+                  <Typography variant="body2">
+                    Sections: {song.sections.length}
+                  </Typography>
+                </CardContent>
+              </StyledCard>
+            ))}
+          </div>
+        </>
+      )}
+    </Root>
+  );
+};
+
+export default SongsSelector;
+
+
+import { IconButton } from '@mui/material';
+import { styled } from '@mui/system';
+import { useCallback, useEffect } from 'react';
+import AddCircleOutlineIcon from '@mui/icons-material/AddCircleOutline';
+import FretboardControls from '../Pages/Fretboard/FretboardControls';
+import Progressor from '../UpComingPages/Page.ChordProgressionsComposer/OldVersion.Trialed.NotSucceeded/Progressor';
+import CircleOfFifths from '../Pages/CircleOfFifths/CircleOfFifths';
+import FretboardDisplay from '../Pages/Fretboard/FretboardDisplay';
+import ChordComposer from '../UpComingPages/Page.ChordProgressionsComposer/ChordComposer';
+import withFretboardState from '../../hocs/withFretboardState';
+import withChordProgression from '../../hocs/withChordProgression';
+import withPlayback from '../../hocs/withPlayback';
+import { connect } from 'react-redux';
+import { addFretboard, updateStateProperty, setProgression, setProgressionKey } from '../../redux/actions';
+import guitar from '../../config/guitar';
+import SongsSelector from '../Pages/LearnSongs/SongsSelector';
+import { useDispatch } from 'react-redux';
+import Meta from '../Partials/Head';
+import { GoogleTagManager } from '@next/third-parties/google';
+
+const Root = styled('div')({
+  display: 'flex',
+  flexDirection: 'column',
+  margin: '0 auto',
+  width: '80%', // Default width for mobile and tablet
+  '@media (min-width: 1024px)': {
+    width: '65%', // Adjust the width for desktop (1024px and above)
+  },
+});
+
+const FretboardContainer = styled('div')({
+  width: '100%',
+  marginTop: '20px',
+  marginBottom: '20px',
+});
+
+const ChordPressionDisplay = styled('div')({
+  marginTop: '20px',
+  marginBottom: '20px',
+});
+
+const MusicApp = (props) => {
+  const dispatch = useDispatch();
+
+  const {
+    boards,
+    selectedFretboard,
+    selectedFretboardIndex,
+    handleFretboardSelect,
+    handleChoiceChange,
+    createNewBoardDisplay,
+    cleanFretboard,
+    onElementChange,
+    addChordToProgression,
+    saveProgression,
+    playProgression,
+    playSelectedNotes,
+    progressions,
+    setProgression,
+    setProgressionKey,
+    getScaleNotes,
+    showFretboardControls,
+    showProgressor,
+    showCircleOfFifths,
+    showChordComposer,
+    showSongsSelector,
+    showAddMoreFretboardsButton,
+    showFretboard,
+    updateBoards,
+    keyIndex,
+    scale,
+    modeIndex,
+    shape,
+    quality,
+    display,
+    onNoteClick,
+    playSingleChord,
+  } = props;
+
+  const updateBoardsCallback = useCallback(() => {
+    if (selectedFretboard?.id) {
+      if (!isNaN(keyIndex)) {
+        dispatch(updateBoards(selectedFretboard.id, 'keySettings.' + display, keyIndex));
+      }
+
+      if (!isNaN(modeIndex)) {
+        dispatch(updateBoards(selectedFretboard.id, 'keySettings.mode', modeIndex));
+      }
+
+      if (display === 'scale') {
+        dispatch(updateBoards(selectedFretboard.id, 'generalSettings.choice', 'scale'));
+        dispatch(updateBoards(selectedFretboard.id, 'scaleSettings.scale', scale));
+        if (guitar.scales[scale]?.isModal) {
+          dispatch(
+            updateBoards(
+              selectedFretboard.id,
+              'modeSettings.mode',
+              guitar.scales[scale].modes[modeIndex].name
+            )
+          );
+          if (shape !== '') {
+            dispatch(updateBoards(selectedFretboard.id, 'modeSettings.shape', shape));
+            dispatch(updateBoards(selectedFretboard.id, 'scaleSettings.shape', shape));
+          }
+        } else {
+          dispatch(updateBoards(selectedFretboard.id, 'scaleSettings.shape', shape));
+        }
+      }
+
+      if (display === 'arppegio') {
+        dispatch(updateBoards(selectedFretboard.id, 'generalSettings.choice', 'arppegio'));
+        dispatch(updateBoards(selectedFretboard.id, 'arppegioSettings.arppegio', quality));
+        if (shape !== '') {
+          dispatch(updateBoards(selectedFretboard.id, 'arppegioSettings.shape', shape));
+        }
+      }
+
+      if (display === 'chord') {
+        dispatch(updateBoards(selectedFretboard.id, 'generalSettings.choice', 'chord'));
+        dispatch(updateBoards(selectedFretboard.id, 'chordSettings.chord', quality));
+        if (shape !== '') {
+          dispatch(updateBoards(selectedFretboard.id, 'chordSettings.shape', shape));
+        }
+      }
+    }
+  }, [
+    dispatch,
+    display,
+    selectedFretboard,
+    keyIndex,
+    modeIndex,
+    scale,
+    shape,
+    quality,
+    updateBoards,
+  ]);
+
+  useEffect(() => {
+    updateBoardsCallback();
+  }, [updateBoardsCallback]);
+
+  if (!selectedFretboard) {
+    return <div>Loading...</div>;
+  }
+
+  const getDegree = (choice) => {
+    const defaultDegree = 'Major';
+    if (!choice || selectedFretboardIndex === -1 || !boards.length) return defaultDegree;
+
+    if (choice === 'scale') {
+      const scale = guitar.scales[selectedFretboard.scaleSettings.scale];
+      return scale ? scale.degree : defaultDegree;
+    } else if (choice === 'chord' || choice === 'arppegio') {
+      const chord = guitar.arppegios[selectedFretboard[choice + 'Settings'][choice]];
+      return chord ? chord.degree : defaultDegree;
+    }
+    return defaultDegree;
+  };
+
+  const getCircleData = () => {
+    const defaultPoint = { tone: 'C', degree: 'Major' };
+    if (selectedFretboardIndex === -1 || !selectedFretboard) return defaultPoint;
+    const selectedKey = selectedFretboard.keySettings[selectedFretboard.generalSettings.choice];
+    const selectedTone = guitar.notes.flats[selectedKey];
+    return { tone: selectedTone, degree: getDegree(selectedFretboard.generalSettings.choice) };
+  };
+
+  const circleData = getCircleData();
+
+  const currentScale =
+    selectedFretboardIndex >= 0 && selectedFretboard
+      ? guitar.scales[selectedFretboard.scaleSettings.scale]
+      : 'major';
+  const scaleModes = currentScale?.isModal ? currentScale.modes : [];
+
+  const { choice } = selectedFretboard.generalSettings;
+
+  const selectedKey = selectedFretboard.keySettings[choice];
+  const selectedShape = selectedFretboard[choice + 'Settings'].shape;
+  const selectedArppegio = selectedFretboard.arppegioSettings.arppegio;
+  const { fret } = selectedFretboard.chordSettings;
+  const selectedChord = selectedFretboard.chordSettings.chord;
+  const selectedScale = selectedFretboard.scaleSettings.scale;
+  const { mode } = selectedFretboard.modeSettings;
+
+  const components = (
+    <Root>
+      <Meta
+        title="Musical Guitar Sheets | Complete References (5000 pages for FREE / No Subscription / No Fees / No Payments)"
+        description="Explore my complete references for musical keys, scales, modes, and arpeggios. Find detailed information and resources for all keys, sharps, scales, modes, and arpeggios to enhance your musical knowledge"
+      />
+      <GoogleTagManager gtmId="GTM-XXXXXXX" />
+      {showAddMoreFretboardsButton && (
+        <IconButton onClick={createNewBoardDisplay}>
+          <AddCircleOutlineIcon />
+        </IconButton>
+      )}
+      {showFretboard && (
+        <FretboardContainer>
+          <FretboardDisplay
+            selectedFretboard={selectedFretboard}
+            boards={boards}
+            handleFretboardSelect={handleFretboardSelect}
+            onElementChange={onElementChange}
+            onNoteClick={onNoteClick}
+          />
+        </FretboardContainer>
+      )}
+      <div>
+        <section className="controls">
+          {showFretboardControls && (
+            <FretboardControls
+              playSelectedNotes={playSelectedNotes}
+              handleChoiceChange={handleChoiceChange}
+              scaleModes={scaleModes}
+              arppegiosNames={Object.keys(guitar.arppegios)}
+              choice={choice}
+              onCleanFretboard={cleanFretboard}
+              selectedKey={isNaN(selectedKey) ? '' : selectedKey}
+              onCopyLink={() => console.log('onCopyLink')}
+              selectedMode={mode || ''}
+              selectedScale={selectedScale || ''}
+              selectedChord={selectedChord || ''}
+              selectedShape={selectedShape || ''}
+              selectedArppegio={selectedArppegio}
+              selectedFret={fret}
+              addChordToProgression={addChordToProgression}
+              saveProgression={saveProgression}
+              playProgression={playProgression}
+              progressions={progressions.progression}
+              onElementChange={onElementChange}
+            />
+          )}
+        </section>
+        {showCircleOfFifths && (
+          <CircleOfFifths
+            tone={circleData.tone}
+            onElementChange={onElementChange}
+            selectedFretboardIndex={selectedFretboardIndex}
+            quality={circleData.degree}
+          />
+        )}
+        {showChordComposer && (
+          <ChordComposer
+            addChordToProgression={addChordToProgression}
+            playProgression={playProgression}
+            saveProgression={saveProgression}
+            onElementChange={onElementChange}
+            selectedArppegio={selectedArppegio}
+            selectedKey={selectedKey}
+          />
+        )}
+        {showProgressor && (
+          <Progressor
+            className={ChordPressionDisplay}
+            progression={progressions.progression}
+            setProgression={setProgression}
+            playProgression={playProgression}
+            setProgressionKey={setProgressionKey}
+            selectedKey={progressions.key}
+            getScaleNotes={getScaleNotes}
+          />
+        )}
+        {showSongsSelector && (
+          <SongsSelector
+            playProgression={playProgression}
+            getScaleNotes={getScaleNotes}
+            onElementChange={onElementChange}
+            playSingleChord={playSingleChord}
+          />
+        )}
+      </div>
+    </Root>
+  );
+
+  return <>{components}</>;
+};
+
+const mapStateToProps = (state, ownProps) => {
+  const filteredBoards = state.fretboard.components.filter(
+    (board) => board.generalSettings.page === ownProps.board
+  );
+  return {
+    boards: filteredBoards,
+    progressions: state.partitions,
+  };
+};
+
+const mapDispatchToProps = {
+  addFretboard,
+  updateBoards: updateStateProperty,
+  setProgression,
+  setProgressionKey,
+};
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(withFretboardState(withChordProgression(withPlayback(MusicApp))));
+
+
+// ===========================================
+//   withPlayback.jsx  (FULL & FINAL VERSION)
+// ===========================================
+import React, { useCallback, useEffect } from 'react';
+import { useDispatch } from 'react-redux';
+import Soundfont from 'soundfont-player';
+import { updateStateProperty } from '../redux/actions';
+import guitar from '../config/guitar';
+
+/* =====================================================
+   HIGHER-ORDER COMPONENT
+===================================================== */
+const withPlayback = (WrappedComponent) => {
+    return (props) => {
+        const dispatch = useDispatch();
+        const { selectedFretboard, selectedFretboardIndex } = props;
+
+        /* --------------------------------------------
+           CHORD DISPLAY LOCK (5 seconds)
+           Prevents auto-redraw from wiping clicked chord
+        -------------------------------------------- */
+        const chordDisplayLocked = React.useRef(false);
+
+        /* --------------------------------------------
+           Signature tracking to avoid repeat triggering
+        -------------------------------------------- */
+        const prevSig = React.useRef(null);
+
+        const getChordSignature = () => {
+            const choice = selectedFretboard.generalSettings.choice;
+
+            return JSON.stringify({
+                choice,
+                key: selectedFretboard.keySettings[choice],
+                chord: selectedFretboard.chordSettings.chord,
+                shape: selectedFretboard.chordSettings.shape,
+                notes: selectedFretboard.chordSettings.notes || []
+            });
+        };
+
+        /* =====================================================
+           AUTO-UPDATE MODE (scale/arppegio learning)
+        ====================================================== */
+        useEffect(() => {
+            if (!selectedFretboard) return;
+            if (selectedFretboard.generalSettings.page !== 'learn') return;
+
+            // Skip if a single chord was clicked (lock enabled)
+            if (chordDisplayLocked.current) return;
+
+            const newSig = getChordSignature();
+
+            // Skip if signature unchanged
+            if (prevSig.current === newSig) return;
+
+            prevSig.current = newSig;
+
+            // Play the currently displayed object (scale/chord/arpeggio)
+            playSelectedNotes();
+        }, [
+            selectedFretboard,
+            selectedFretboard?.generalSettings.choice,
+            selectedFretboard?.chordSettings.chord,
+            selectedFretboard?.chordSettings.shape,
+            selectedFretboard?.chordSettings.notes,
+            selectedFretboard?.keySettings
+        ]);
+
+        /* =====================================================
+           PLAY FULL PROGRESSION (e.g., entire song)
+        ====================================================== */
+        const playProgression = useCallback(async (progression) => {
+            for (let i = 0; i < progression.length; i++) {
+                const { name, shape, key } = progression[i];
+
+                dispatch(updateStateProperty(selectedFretboard.id, 'generalSettings.choice', 'chord'));
+                dispatch(updateStateProperty(selectedFretboard.id, 'chordSettings.chord', name));
+                dispatch(updateStateProperty(selectedFretboard.id, 'chordSettings.shape', shape));
+                dispatch(updateStateProperty(selectedFretboard.id, 'keySettings.chord', key));
+
+                // Wait between chords (full progression playback)
+                await new Promise(r => setTimeout(r, 1000));
+            }
+        }, [dispatch, selectedFretboard]);
+
+        /* =====================================================
+           PLAY ONE SINGLE CHORD (clicked chord box)
+           → Show chord
+           → Lock auto updates for 5000ms
+           → Play it
+        ====================================================== */
+        const playSingleChord = async (ch) => {
+            chordDisplayLocked.current = true;
+
+            dispatch(updateStateProperty(selectedFretboard.id, 'generalSettings.choice', 'chord'));
+            dispatch(updateStateProperty(selectedFretboard.id, 'chordSettings.chord', ch.name));
+            dispatch(updateStateProperty(selectedFretboard.id, 'chordSettings.shape', ch.shape));
+            dispatch(updateStateProperty(selectedFretboard.id, 'keySettings.chord', ch.key));
+
+            // Play chord as short progression
+            playProgression([ch]);
+
+            // Unlock after 5 seconds
+            setTimeout(() => {
+                chordDisplayLocked.current = false;
+            }, 5000);
+        };
+
+        /* =====================================================
+           PLAY A SINGLE NOTE
+        ====================================================== */
+        const playNote = async (note) => {
+            const guitarSound = await Soundfont.instrument(new AudioContext(), 'acoustic_guitar_nylon');
+            guitarSound.play(note);
+        };
+
+        /* =====================================================
+           PLAY CHORD NOTES (your original version)
+        ====================================================== */
+        const playChordNotes = async () => {
+            if (selectedFretboardIndex === -1) return;
+            const guitarSound = await Soundfont.instrument(new AudioContext(), 'acoustic_guitar_nylon');
+            const chordNotes = [];
+
+            selectedFretboard.chordSettings.fretboard.forEach((string, stringIndex) => {
+                string.forEach((note, fretIndex) => {
+                    if (note.show) {
+                        const noteIndex = (selectedFretboard.generalSettings.tuning[stringIndex] + fretIndex) % 12;
+                        const displayedNote = guitar.notes.sharps[noteIndex];
+                        const octave = calculateOctave(stringIndex, fretIndex, displayedNote);
+                        chordNotes.push({
+                            note: `${displayedNote}${octave}`,
+                            stringIndex,
+                            fretIndex
+                        });
+                    }
+                });
+            });
+
+            chordNotes.sort((a, b) => {
+                if (a.stringIndex === b.stringIndex) {
+                    return a.fretIndex - b.fretIndex;
+                }
+                return a.stringIndex - b.stringIndex;
+            });
+
+            for (let i = chordNotes.length - 1; i >= 0; i--) {
+                const { note, stringIndex, fretIndex } = chordNotes[i];
+                highlightNoteForDuration(stringIndex, fretIndex, 500);
+                guitarSound.play(note);
+                await new Promise(r => setTimeout(r, 500));
+            }
+
+            chordNotes.forEach(chordNote => guitarSound.play(chordNote.note));
+        };
+
+        /* =====================================================
+           PLAY SELECTED NOTES (scale/arpeggio mode)
+        ====================================================== */
+        const playSelectedNotes = async () => {
+            const choice = selectedFretboard.generalSettings.choice;
+            const choiceSettings = selectedFretboard[choice + 'Settings'];
+            const selectedScale = selectedFretboard.scaleSettings.scale;
+            const shape = selectedFretboard[choice + 'Settings'].shape;
+            let rootNoteIndex = 0;
+
+            const computeModeOffsets = (formula) => {
+                let offsets = [0];
+                for (let i = 1; i < formula.length; i++) {
+                    offsets.push((offsets[i - 1] + formula[i - 1]) % 12);
+                }
+                return offsets;
+            };
+
+            if (choice === 'scale') {
+                const modeIndex = selectedFretboard.modeSettings.mode || 0;
+                const modeOffsets = computeModeOffsets(guitar.scales[selectedScale.toLowerCase()].formula);
+                const modeOffset = modeOffsets[modeIndex];
+                rootNoteIndex = (selectedFretboard.keySettings[choice] + modeOffset) % 12;
+            } else if (choice === 'arppegio') {
+                rootNoteIndex = selectedFretboard.keySettings[choice];
+            }
+
+            if (choice === 'chord') {
+                await playChordNotes();
+                return;
+            }
+
+            let selectedCagedShapes = [];
+
+            if (!shape == choice == 'scale') {
+                selectedCagedShapes = guitar.scales[selectedScale].indexes;
+            } else if (!shape == choice == 'arppegio') {
+                selectedCagedShapes = guitar.shapes.indexes;
+            } else if (shape && choice === 'scale') {
+                const shapeIndex = guitar.shapes.names.indexOf(shape);
+                const scaleIndexes = guitar.scales[selectedScale].indexes;
+                selectedCagedShapes = [scaleIndexes[shapeIndex]];
+            } else if (shape && choice === 'arppegio') {
+                const shapeIndex = guitar.shapes.names.indexOf(shape);
+                const arppegioIndexes = guitar.shapes.indexes[shapeIndex];
+                selectedCagedShapes = [arppegioIndexes];
+            }
+
+            let notesForShape = [];
+
+            selectedCagedShapes.forEach((caged) => {
+                const notesInShape = [];
+
+                choiceSettings.fretboard.forEach((string, stringIndex) => {
+                    for (let fretIndex = 0; fretIndex < string.length; fretIndex++) {
+                        const note = string[fretIndex];
+                        if (note.show) {
+                            const displayedNote = note.current;
+                            const octave = calculateOctave(stringIndex, fretIndex);
+                            notesInShape.push({
+                                note: `${displayedNote}${octave}`,
+                                stringIndex,
+                                fretIndex
+                            });
+                        }
+                    }
+                });
+
+                notesForShape.push(notesInShape);
+            });
+
+            for (const scopedNotes of notesForShape) {
+                if (scopedNotes.length > 0) {
+                    const rootNote = scopedNotes
+                        .filter(n => n.note.startsWith(guitar.notes.sharps[rootNoteIndex]))
+                        .sort((a, b) => b.stringIndex - a.stringIndex || a.fretIndex - b.fretIndex)[0];
+
+                    scopedNotes.sort((a, b) =>
+                        b.stringIndex - a.stringIndex || a.fretIndex - b.fretIndex
+                    );
+
+                    const startNoteIndex = scopedNotes.indexOf(rootNote);
+
+                    const downAfterRoot = scopedNotes.slice(startNoteIndex + 1);
+                    const upScale = scopedNotes.slice().reverse();
+                    const downBeforeRoot = scopedNotes.slice(0, startNoteIndex);
+
+                    const fullSequence = [
+                        rootNote,
+                        ...downAfterRoot,
+                        ...upScale,
+                        ...downBeforeRoot,
+                        rootNote,
+                    ];
+
+                    await playNotesWithinInterval(fullSequence);
+                }
+            }
+        };
+
+        /* =====================================================
+           Play Notes (interval walkthrough)
+        ====================================================== */
+        const playNotesWithinInterval = async (notes) => {
+            const guitarSound = await Soundfont.instrument(new AudioContext(), 'acoustic_guitar_nylon');
+
+            for (let i = 0; i < notes.length; i++) {
+                const { note, stringIndex, fretIndex } = notes[i];
+                highlightNoteForDuration(stringIndex, fretIndex, 500);
+                guitarSound.play(note);
+                await new Promise(r => setTimeout(r, 500));
+            }
+        };
+
+        /* =====================================================
+           Highlight Notes
+        ====================================================== */
+        const highlightNoteForDuration = (stringIndex, fretIndex, duration) => {
+            const noteElement = document.getElementById(`note-${selectedFretboardIndex}-${stringIndex}-${fretIndex}`);
+            if (noteElement) {
+                noteElement.classList.add('note-playing');
+                setTimeout(() => {
+                    noteElement.classList.remove('note-playing');
+                }, duration);
+            }
+        };
+
+        /* =====================================================
+           Calculate Octave
+        ====================================================== */
+        const calculateOctave = (stringIndex, fretIndex) => {
+            const baseOctaves = selectedFretboard.generalSettings.baseOctaves;
+            let octave = baseOctaves[stringIndex];
+            const tuning = selectedFretboard.generalSettings.tuning;
+            const notes = guitar.notes.sharps;
+
+            for (let i = 0; i <= fretIndex; i++) {
+                const note = notes[(tuning[stringIndex] + i) % 12];
+                if (note === 'B') octave++;
+            }
+
+            return octave;
+        };
+
+        /* =====================================================
+           RETURN WRAPPED COMPONENT
+        ====================================================== */
+        return (
+            <WrappedComponent
+                {...props}
+                playProgression={playProgression}
+                playChordNotes={playChordNotes}
+                playSelectedNotes={playSelectedNotes}
+                playSingleChord={playSingleChord}
+                onNoteClick={playNote}
+            />
+        );
+    };
+};
+
+export default withPlayback;
+
+import React from 'react';
+import { useDispatch } from 'react-redux';
+import { setProgression } from '../redux/actions';
+
+const withChordProgression = (WrappedComponent) => {
+    return (props) => {
+        const dispatch = useDispatch();
+        const { progressions, selectedFretboard, selectedKey } = props;
+
+        const addChordToProgression = () => {
+            const { keySignature, chord, shape, fret } = selectedFretboard;
+            if (!keySignature || !chord || (!shape && !fret)) return;
+            const chordObject = {
+                key: keySignature,
+                chord,
+                shape,
+                fret: parseInt(fret, 10),
+                highlighted: false,
+                id: progressions.length + 1
+            };
+            const newChordProgression = [...progressions, chordObject];
+            dispatch(setProgression(newChordProgression));
+            localStorage.setItem('progression', JSON.stringify(newChordProgression));
+        };
+
+        const saveProgression = () => {
+            if (progressions.length) {
+                localStorage.setItem("progression", JSON.stringify(progressions));
+            }
+        };
+
+        return (
+            <WrappedComponent
+                {...props}
+                addChordToProgression={addChordToProgression}
+                saveProgression={saveProgression}
+            />
+        );
+    };
+};
+
+export default withChordProgression;
+
