@@ -1,138 +1,327 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import Meta from '../Partials/Head';
-import ArticleCard from './ArticleCard';
-import { Card, CardContent, Typography } from '@mui/material';
+
+import {
+  Card,
+  CardContent,
+  Typography,
+  Button,
+  Box
+} from '@mui/material';
+
 import { styled } from '@mui/material/styles';
+import guitar from '../../config/guitar.js';
 
-const content = `# Preface
+// -----------------------------------------
+// CONSTANTS
+// -----------------------------------------
 
-Welcome to the **Comprehensive Reference Book for Guitar Music Sheets: Chords, Arpeggios, Modes, and Scales in All Keys and Shapes**. This book is designed to be an exhaustive resource for guitarists of all levels, offering a structured and systematic approach to mastering the intricacies of guitar music theory and technique.
+const keysSharps = ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"];
+const normalizedKeys = keysSharps.map(k => k.replace("#", "sharp"));
 
-## Purpose of This Book
+const degreesDynamic = Object.keys(guitar.arppegios);
+const scaleTypes = Object.keys(guitar.scales);
 
-The primary purpose of this book is to provide guitarists with a complete and organized collection of music sheets that encompass:
+const allModesDynamic = [
+  ...new Set(
+    Object.values(guitar.scales)
+      .flatMap(scale => scale.modes?.map(m => m.name) || [])
+  )
+];
 
-- **Chords**: Major, minor, augmented, diminished, suspended, and extended chords in all keys.
-- **Arpeggios**: Essential arpeggio patterns for each chord type, facilitating melodic and harmonic playing.
-- **Modes**: The seven modes derived from the major scale, along with modes derived from other scales such as harmonic minor and melodic minor.
-- **Scales**: Major, minor (natural, harmonic, and melodic), pentatonic, blues, and exotic scales in all keys and positions.
+// -----------------------------------------
+// HELPERS
+// -----------------------------------------
 
-Whether you are a beginner seeking to build a solid foundation or an advanced player aiming to refine your skills and expand your repertoire, this book serves as an invaluable tool to enhance your musical journey.
+const normalizeKey = (str) => str?.replace("sharp", "#");
+const denormalizeKey = (str) => str?.replace("#", "sharp");
 
-## How to Use This Book
+const normalizeDegree = (str) =>
+  str?.replace(/sharp/g, "#").replace(/#/g, "sharp");
 
-### Organization
+// NEW: Normalize mode names with spaces → hyphens for URL
+const normalizeModeName = (str) => {
+  if (!str) return "";
+  return str
+    .toLowerCase()
+    .replace(/\s+/g, "-")
+    .replace(/_/g, "-")
+    .replace(/--+/g, "-")
+    .replace(/#/g, "sharp") 
+    .trim();
+};
 
-The book is structured into four main sections:
 
-1. **Chords**: Detailed charts for all chord types across all keys, with multiple voicings and positions.
-2. **Arpeggios**: Comprehensive arpeggio patterns corresponding to each chord, enabling fluid transitions and improvisation.
-3. **Modes**: In-depth coverage of modes, including fingerings, applications, and contextual usage.
-4. **Scales**: Extensive scale diagrams for a variety of scales, with emphasis on finger positioning and tonal characteristics.
-
-Each section is meticulously organized to allow for easy reference and progressive learning.
-
-### Practice Tips
-
-To get the most out of this book, consider the following practice tips:
-
-1. **Consistency**: Practice regularly. Dedicate a specific amount of time each day to work on different sections of the book. Consistency is key to building muscle memory and understanding.
-
-2. **Slow and Steady**: Start slow. When learning new chords, arpeggios, modes, or scales, begin at a slow tempo. Focus on accuracy and clarity before increasing speed.
-
-3. **Visualization**: Visualize the shapes and patterns on the fretboard. Familiarize yourself with how different chords, arpeggios, modes, and scales look and feel under your fingers.
-
-4. **Application**: Apply what you learn. Incorporate new chords, arpeggios, modes, and scales into your playing. Use them in improvisation, composition, and while learning songs.
-
-5. **Variation**: Practice in different keys and positions. This will help you become comfortable navigating the entire fretboard and understanding the relationships between different notes and shapes.
-
-6. **Ear Training**: Develop your ear. Listen to how different chords, arpeggios, modes, and scales sound. Practice playing by ear and identifying the sounds you hear.
-
-7. **Jam Sessions**: Play with others. Join jam sessions, bands, or ensembles. Playing with other musicians will challenge you and help you apply your knowledge in a musical context.
-
-8. **Recording**: Record your practice sessions. Listening back to your recordings can provide insights into areas that need improvement and track your progress over time.
-
-## Final Thoughts
-
-Embarking on the journey to master guitar music theory and technique is a rewarding endeavor that offers endless possibilities for creativity and expression. This book is your companion on this journey, providing the resources and guidance you need to achieve your musical goals. Remember, progress takes time, patience, and dedication. Enjoy the process, celebrate your milestones, and keep pushing your boundaries.
-
-Happy playing!`;
+// -----------------------------------------
+// STYLES
+// -----------------------------------------
 
 const StyledCard = styled(Card)(({ theme }) => ({
   margin: '16px',
   width: '100%',
-  margin: '0 auto', 
+  margin: '0 auto',
   padding: '20px',
-  [theme.breakpoints.up('md')]: {
-    maxWidth: '65%',
-  },
-  [theme.breakpoints.down('md')]: {
-    maxWidth: '80%',
-  },
-  '@media print': {
-    margin: '0',
-    width: '100%',
-    maxWidth: '100%',
-  },
+  [theme.breakpoints.up('md')]: { maxWidth: '65%' },
+  [theme.breakpoints.down('md')]: { maxWidth: '80%' },
+  '@media print': { margin: 0, width: '100%', maxWidth: '100%' }
 }));
 
+const OptionButton = styled(Button)(({ selected }) => ({
+  borderRadius: "20px",
+  margin: "4px",
+  background: selected ? "#1976d2" : "transparent",
+  color: selected ? "#fff" : "#1976d2",
+  border: "1px solid #1976d2",
+  "&:hover": {
+    background: selected ? "#11529b" : "rgba(25,118,210,0.1)"
+  }
+}));
+
+
+// -----------------------------------------
+// COMPONENT
+// -----------------------------------------
+
 const References = ({ elements = [] }) => {
-    const router = useRouter();
-    const { key, type, subType, quality, shape, mode } = router.query;
+  const router = useRouter();
+  const { key, type, subType, quality, shape, mode } = router.query;
 
-    const breadcrumb = [
-        { label: 'Play And Visualize', href: '/' },
-        { label: 'Learn Songs', href: '/learn' },
-        { label: 'The Circle Of Fifths', href: '/circle' },
-        key && { label: key, href: `/references/${key}` },
-        type && { label: type, href: `/references/${key}/${type}` },
-        subType && { label: subType, href: `/references/${key}/${type}/${subType}` },
-        quality && { label: quality, href: `/references/${key}/${type}/${subType}/${quality}` },
-        shape && { label: shape, href: `/references/${key}/${type}/${subType}/${quality}/${shape}` },
-        mode && { label: mode, href: `/references/${key}/${type}/${subType}/${quality}/${shape}/${mode}` },
-    ].filter(Boolean);
+  // Filters
+  const [searchType, setSearchType] = useState("");      
+  const [searchKey, setSearchKey] = useState("");
+  const [searchScaleType, setSearchScaleType] = useState("");
+  const [searchMode, setSearchMode] = useState("");
+  const [searchDegree, setSearchDegree] = useState("");
 
-    return (
-        <div>
-            <Meta 
-                title="Musical Guitar Sheets Complete References (5000 pages for FREE / No Subscription / No Fees / No Payments)" 
-                description="Explore my complete references for musical keys, scales, modes, and arpeggios. Find detailed information and resources for all keys, sharps, scales, modes, and arpeggios to enhance your musical knowledge."
-            />
-            <StyledCard>
-                <Typography variant="h3">
-                    Site Pages :
-                </Typography>
-                <CardContent>
-                    <nav aria-label="breadcrumb">
-                        <ol className="breadcrumb">
-                            {breadcrumb.map((crumb, index) => (
-                                <li key={index} className="breadcrumb-item">
-                                    <Link href={crumb.href}>
-                                        {crumb.label}
-                                    </Link>
-                                </li>
-                            ))}
-                        </ol>
-                    </nav>
-                </CardContent>
-            </StyledCard>
-            <StyledCard>
-                <CardContent>
-                    <ol>
-                        {elements.map((element, index) => (
-                            <li key={index}>
-                                <Link href={element.href}>
-                                    {element.label}
-                                </Link>
-                            </li>
-                        ))}
-                    </ol>
-                </CardContent>
-            </StyledCard>
-        </div>
-    );
+  // ============================================================
+  // FILTER LOGIC WITH ALL FIXES
+  // ============================================================
+  const filteredElements = useMemo(() => {
+    return elements.filter(el => {
+      const href = el.href;
+      const parts = href.split("/");
+
+      const elementType = parts[2];
+      const elementKeyRaw = parts[3];
+      const elementScaleType = parts[4];
+
+      // ALWAYS last segment = mode
+      const elementModeRaw = parts[parts.length - 1];
+
+      // Normalize mode
+      const elementMode = normalizeModeName(elementModeRaw);
+
+      // Fix degree (7sharp5) → normalized
+      const elementDegreeRaw = parts[4];
+      const elementDegree = normalizeDegree(elementDegreeRaw);
+
+      const elementKey = normalizeKey(elementKeyRaw);
+
+      // TYPE
+      if (searchType === "scale" && elementType !== "scales") return false;
+      if (searchType === "chord" && elementType !== "chords") return false;
+      if (searchType === "arp"   && elementType !== "arppegios") return false;
+
+      // KEY
+      if (searchKey && elementKey !== searchKey) return false;
+
+      // SCALE TYPE
+      if (searchScaleType && elementType === "scales") {
+        if (elementScaleType !== searchScaleType) return false;
+      }
+
+      // MODE FIX — works for multi-word mode names
+      if (searchMode && elementType === "scales") {
+        const normSearch = normalizeModeName(searchMode);
+        if (normSearch !== elementMode) return false;
+      }
+
+      // DEGREE FIX — normalize both sides
+      if (searchDegree && elementType !== "scales") {
+        const normSearch = normalizeDegree(searchDegree);
+        if (normSearch !== elementDegree) return false;
+      }
+
+      return true;
+    });
+  }, [
+    elements,
+    searchType,
+    searchKey,
+    searchScaleType,
+    searchMode,
+    searchDegree
+  ]);
+
+
+  // ============================================================
+  // Breadcrumb
+  // ============================================================
+
+  const breadcrumb = [
+    { label: 'Play And Visualize', href: '/' },
+    { label: 'Learn Songs', href: '/learn' },
+    { label: 'The Circle Of Fifths', href: '/circle' },
+    key && { label: key, href: `/references/${key}` },
+    type && { label: type, href: `/references/${key}/${type}` },
+    subType && { label: subType, href: `/references/${key}/${type}/${subType}` },
+    quality && { label: quality, href: `/references/${key}/${type}/${subType}/${quality}` },
+    shape && { label: shape, href: `/references/${key}/${type}/${subType}/${quality}/${shape}` },
+    mode && { label: mode, href: `/references/${key}/${type}/${subType}/${quality}/${shape}/${mode}` }
+  ].filter(Boolean);
+
+
+  // ============================================================
+  // RENDER
+  // ============================================================
+
+  return (
+    <div>
+      <Meta
+        title="Musical Guitar Sheets Complete References"
+        description="Explore chords, scales, modes and arpeggios for every key."
+      />
+
+      {/* BREADCRUMB */}
+      <StyledCard>
+        <Typography variant="h3">Site Pages :</Typography>
+        <CardContent>
+          <ol>
+            {breadcrumb.map((c, i) => (
+              <li key={i}><Link href={c.href}>{c.label}</Link></li>
+            ))}
+          </ol>
+        </CardContent>
+      </StyledCard>
+
+      {/* SEARCH FILTERS */}
+      <StyledCard>
+        <CardContent>
+          <Typography variant="h4" gutterBottom>Search References</Typography>
+
+          {/* STEP 1 – CATEGORY */}
+          <Box mb={2}>
+            <Typography variant="h6">Category</Typography>
+
+            <OptionButton selected={searchType === "scale"} onClick={() => {
+              setSearchType("scale");
+              setSearchDegree("");
+              setSearchScaleType("");
+              setSearchMode("");
+            }}>Scales</OptionButton>
+
+            <OptionButton selected={searchType === "chord"} onClick={() => {
+              setSearchType("chord");
+              setSearchScaleType("");
+              setSearchMode("");
+            }}>Chords</OptionButton>
+
+            <OptionButton selected={searchType === "arp"} onClick={() => {
+              setSearchType("arp");
+              setSearchScaleType("");
+              setSearchMode("");
+            }}>Arpeggios</OptionButton>
+          </Box>
+
+          {/* STEP 2 – KEY */}
+          {searchType && (
+            <Box mb={2}>
+              <Typography variant="h6">Key</Typography>
+
+              {normalizedKeys.map((nk, idx) => {
+                const display = keysSharps[idx];
+                return (
+                  <OptionButton
+                    key={nk}
+                    selected={searchKey === keysSharps[idx]}
+                    onClick={() =>
+                      setSearchKey(searchKey === keysSharps[idx] ? "" : keysSharps[idx])
+                    }
+                  >
+                    {display}
+                  </OptionButton>
+                );
+              })}
+            </Box>
+          )}
+
+          {/* STEP 3 – SCALE TYPE */}
+          {searchType === "scale" && searchKey && (
+            <Box mb={2}>
+              <Typography variant="h6">Scale Type</Typography>
+              {scaleTypes.map(s => (
+                <OptionButton
+                  key={s}
+                  selected={searchScaleType === s}
+                  onClick={() => {
+                    const newScale = (searchScaleType === s ? "" : s);
+                    setSearchScaleType(newScale);
+                    setSearchMode("");
+                  }}
+                >
+                  {s}
+                </OptionButton>
+              ))}
+            </Box>
+          )}
+
+          {/* STEP 4 – MODE */}
+          {searchType === "scale" &&
+            searchKey &&
+            searchScaleType &&
+            guitar.scales[searchScaleType].modes?.length > 0 && (
+              <Box mb={2}>
+                <Typography variant="h6">Modes</Typography>
+
+                {guitar.scales[searchScaleType].modes.map(m => (
+                  <OptionButton
+                    key={m.name}
+                    selected={searchMode === m.name}
+                    onClick={() => setSearchMode(searchMode === m.name ? "" : m.name)}
+                  >
+                    {m.name}
+                  </OptionButton>
+                ))}
+              </Box>
+            )}
+
+          {/* STEP 5 – DEGREE */}
+          {(searchType === "chord" || searchType === "arp") && searchKey && (
+            <Box mb={2}>
+              <Typography variant="h6">Degree</Typography>
+              {degreesDynamic.map(d => (
+                <OptionButton
+                  key={d}
+                  selected={searchDegree === d}
+                  onClick={() => setSearchDegree(d === searchDegree ? "" : d)}
+                >
+                  {d}
+                </OptionButton>
+              ))}
+            </Box>
+          )}
+
+        </CardContent>
+      </StyledCard>
+
+      {/* RESULTS */}
+      <StyledCard>
+        <CardContent>
+          <ol>
+            {filteredElements.map((element, index) => (
+              <li key={index}>
+                <Link href={element.href}>
+                  {typeof element.label === "string" ? element.label : element.label?.name}
+                </Link>
+              </li>
+            ))}
+          </ol>
+        </CardContent>
+      </StyledCard>
+    </div>
+  );
 };
 
 export default References;
