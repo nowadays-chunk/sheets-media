@@ -10,12 +10,12 @@
 /coverage
 
 # next.js
-/.next/
-/_next/
-/deploy/
-/screens/
-/pdf-pages/
-/pdf/
+/.next
+/_next
+/deploy
+/screens
+/pdf-pages
+/pdf
 
 # production
 /build
