@@ -66,15 +66,6 @@ function buildPathsByKey() {
             }
         });
 
-        // 4. Arpeggios (references)
-        Object.keys(guitar.arppegios).forEach((arp) => {
-            result[key].push({
-                label: `Arpeggio: ${guitar.arppegios[arp].name} in ${key}`,
-                section: "Arpeggios",
-                href: `/references/arppegios/${key.replace('#','sharp')}/${arp.replace('#','sharp')}`
-            });
-        });
-
         // 5. Arpeggios (spreading)
         Object.keys(guitar.arppegios).forEach((arp) => {
             result[key].push({

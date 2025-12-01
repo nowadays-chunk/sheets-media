@@ -22,9 +22,10 @@ export const getStaticPaths = async () => {
 export const getStaticProps = async ({ params }) => {
     const { key, arppegio } = params;
 
-    const keyIndex = guitar.notes.sharps.indexOf(key);
     const decodedKey = key.replace('sharp', '#');
     const decodedArppegio = arppegio.replace('sharp', '#');
+
+    const keyIndex = guitar.notes.sharps.indexOf(decodedKey);
 
     // Generate the title based on the params
     const title = `Arpeggio ${guitar.arppegios[decodedArppegio].name} in ${decodedKey}`;

@@ -17,7 +17,7 @@ export const getStaticProps = async (context) => {
             return [
                 {
                     label: title,
-                    href: `/references/arppegios/${key.replace('#', 'sharp')}/${arppegioKey.replace('#', 'sharp')}`,
+                    href: `/spreading/arppegios/${key.replace('#', 'sharp')}/${arppegioKey.replace('#', 'sharp')}`,
                 },
             ];
         });
@@ -29,7 +29,7 @@ export const getStaticProps = async (context) => {
                         const title = `Scale: ${guitar.scales[scaleKey].name} in ${key} (Mode: ${mode.name})`;
                         return {
                             label: title,
-                            href: `/references/scales/${key.replace('#', 'sharp')}/${scaleKey}/modal/${decodeURIComponent(mode.name.toLowerCase().replace(' ', '-')).replace('#', 'sharp')}`,
+                            href: `/spreading/scales/${key.replace('#', 'sharp')}/${scaleKey}/modal/${decodeURIComponent(mode.name.toLowerCase().replace(' ', '-')).replace('#', 'sharp')}`,
                         };
                     }),
                 ];
@@ -38,7 +38,7 @@ export const getStaticProps = async (context) => {
                 return [
                     {
                         label: title,
-                        href: `/references/scales/${key.replace('#', 'sharp')}/${scaleKey}/single`,
+                        href: `/spreading/scales/${key.replace('#', 'sharp')}/${scaleKey}/single`,
                     },
                 ];
             }

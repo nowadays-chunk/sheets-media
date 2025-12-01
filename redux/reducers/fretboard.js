@@ -43,6 +43,8 @@ const initialState = {
     newFretboard(6, 15, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "references3-D", 'arppegio'), // all 3 displays accordingly set in the component, over-ride
     newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "circle"), // no fretboard only circle of fifths
     newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "generate"), // chords only
+    newFretboard(6, 15, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "empty"), // chords only
+    // chords only
     // newFretboard(6, 22, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "fill-only"), // fill only
   ]
 };

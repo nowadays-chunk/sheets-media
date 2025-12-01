@@ -111,7 +111,7 @@ const withFretboardState = (WrappedComponent) => {
       const adjustFretIndex = (fretIndex) => fretIndex;
 
       const adjustShapeInterval = (interval, page) => {
-        if (page.includes('references')) {
+        if (page.includes('references') || page === 'empty') {
           if (interval > 12) interval -= 12;
           if (interval < 0) interval = 0;
         }
@@ -157,7 +157,7 @@ const withFretboardState = (WrappedComponent) => {
               let startInterval = shapeIntervals.start + rootNoteIndex;
               let endInterval = shapeIntervals.end + rootNoteIndex;
 
-              if (generalSettings.page.includes('references') && endInterval > 12) {
+              if ((generalSettings.page === 'empty' || generalSettings.page.includes('references')) && endInterval > 12) {
                 endInterval -= 12;
                 startInterval -= 12;
                 if (startInterval < 0) startInterval = 0;
@@ -326,6 +326,9 @@ const withFretboardState = (WrappedComponent) => {
       const formula = guitar.arppegios[arppegio]?.formula;
       const keyIndex = parseInt(selectedFretboard.keySettings.arppegio);
 
+      console.log("arppegio", selectedFretboard.keySettings.arppegio)
+
+      console.log("key Index ", keyIndex)
       if (!formula || isNaN(keyIndex)) return [];
 
       let currentIndex = keyIndex;

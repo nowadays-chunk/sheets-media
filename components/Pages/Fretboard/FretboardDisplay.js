@@ -170,9 +170,7 @@ const FretboardDisplay = ({
       12
     );
 
-    const numFrets = selectedFretboard.generalSettings.page.includes('references')
-      ? fretboard.generalSettings.nofrets
-      : fretboard.generalSettings.nofrets;
+    const numFrets = fretboard.generalSettings.nofrets;
 
     const fretNumbers = Array.from({ length: numFrets }, (_, i) => i);
 
