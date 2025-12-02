@@ -157,13 +157,13 @@ function App({ Component, pageProps }) {
             </ListItemText>
           </ListItem>
         </Link>
-        {/* <Link href="/generate" passHref>
+        <Link href="/compose" passHref>
           <ListItem onClick={handleDrawerToggle}>
             <ListItemText>
-              <Typography>Generate Tabs</Typography>
+              <Typography>Compose Music</Typography>
             </ListItemText>
           </ListItem>
-        </Link> */}
+        </Link>
         <Link href="/references" passHref>
           <ListItem onClick={handleDrawerToggle}>
             <ListItemText>
@@ -221,9 +221,9 @@ function App({ Component, pageProps }) {
                     <StyledLink href="/circle">
                       <Button color="inherit">The Circle Of Fifths</Button>
                     </StyledLink>
-                    {/* <StyledLink href="/generate">
-                      <Button color="inherit">Generate Tabs</Button>
-                    </StyledLink> */}
+                    <StyledLink href="/compose">
+                      <Button color="inherit">Compose Music</Button>
+                    </StyledLink>
                     <StyledLink href="/references">
                       <Button color="inherit">References</Button>
                     </StyledLink>

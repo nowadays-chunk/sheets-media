@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from 'react';
-import { FormControl, Button, Grid, Select, MenuItem, InputLabel, Card, Typography } from '@mui/material';
+import { FormControl, Button, Grid, Box, Select, MenuItem, InputLabel, Card, Typography } from '@mui/material';
 import { styled } from '@mui/system';
 import ChordGraph from './ChordGraph';
 import PropTypes from 'prop-types';
 import guitar from '../../../config/guitar';
-import { KeySelector } from '../../Pages/Fretboard/FretboardControls';
+// import { KeySelector } from '../../Pages/Fretboard/FretboardControls';
 
 function isLowerCase(str) {
   return str === str.toLowerCase();
@@ -15,6 +15,28 @@ const Root = styled('div')({
   flexDirection: 'column',
   alignItems: 'center',
 });
+
+// Step Title
+const StepTitle = ({ children }) => (
+  <Typography variant="h6" sx={{ mt: 2, mb: 1 }}>
+    {children}
+  </Typography>
+);
+
+// ---------------------------------------------------------
+// SHARED BUTTON STYLE
+// ---------------------------------------------------------
+const OptionButton = styled(Button)(({ selected }) => ({
+  borderRadius: "20px",
+  margin: "4px",
+  background: selected ? "#1976d2" : "transparent",
+  color: selected ? "#fff" : "#1976d2",
+  border: "1px solid #1976d2",
+  "&:hover": {
+    background: selected ? "#11529b" : "rgba(25,118,210,0.1)",
+  },
+  textTransform: "none",
+}));
 
 const StyledFormControl = styled(FormControl)({
   width: '100%',
@@ -173,7 +195,23 @@ const ChordComposer = ({ addChordToProgression, saveProgression, playProgression
       <Grid container spacing={2}>
         <Grid item xs={12}>
           <Typography variant="h6">Please, chose a key to begin</Typography>
-          <KeySelector choice="key" selectedKey={selectedKey || 0} onElementChange={onElementChange} />
+          {/* <KeySelector choice="key" selectedKey={selectedKey || 0} onElementChange={onElementChange} /> */}
+                {(
+                  <>
+                    <StepTitle>Key</StepTitle>
+                    <Box>
+                      {guitar.notes.sharps.map((k, index) => (
+                        <OptionButton
+                          key={index}
+                          selected={selectedKey === index}
+                          onClick={() => onElementChange(index, "key")}
+                        >
+                          {k}
+                        </OptionButton>
+                      ))}
+                    </Box>
+                  </>
+                )}
         </Grid>
         <Grid item xs={12}>
           <ProgressionContainer>

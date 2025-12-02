@@ -1,5 +1,5 @@
 // ===========================================
-//   SongsSelector.jsx (FULL LYRICS VERSION)
+//   SongsSelector.jsx (SELF-CONTAINED VERSION)
 // ===========================================
 
 import React, { useState } from 'react';
@@ -109,8 +109,34 @@ const buildFullBars = (song) => {
   return bars;
 };
 
+/* -------------------- INTERNAL PLAYERS -------------------- */
+// Fake playback – replace with real WebAudio if you want
+function useInternalPlayers() {
+
+  // plays a SINGLE chord
+  const playSingleChord = (chord) => {
+    console.log("▶️ Playing chord:", chord);
+  };
+
+  // plays a FULL progression
+  const playProgression = async (chords) => {
+    console.log("▶️ Playing progression:", chords);
+
+    for (const ch of chords) {
+      console.log("   →", ch.root, ch.name === "min" ? "m" : "");
+      await new Promise((res) => setTimeout(res, 500)); // 0.5s per chord
+    }
+
+    console.log("✓ progression finished");
+  };
+
+  return { playSingleChord, playProgression };
+}
+
 /* -------------------- Component -------------------- */
-const SongsSelector = ({ playProgression, playSingleChord }) => {
+const SongsSelector = () => {
+  const { playSingleChord, playProgression } = useInternalPlayers();
+
   const [selectedSongIndex, setSelectedSongIndex] = useState(null);
   const [selectedGenre, setSelectedGenre] = useState('');
   const [filteredSongs, setFilteredSongs] = useState(mostCommonSongs.songs);
@@ -225,7 +251,7 @@ const SongsSelector = ({ playProgression, playSingleChord }) => {
                 maxWidth: '50%',
                 margin: 0,
                 '&.Mui-selected': {
-                  backgroundColor: '#e0e0e0',
+                  backgroundbackgroundColor: '#e0e0e0',
                 },
               }}
             />
@@ -240,7 +266,6 @@ const SongsSelector = ({ playProgression, playSingleChord }) => {
 
               {buildFullBars(selectedSong).map((bar) => (
                 <BarRow key={bar.number}>
-
                   <Typography
                     variant="body2"
                     style={{ width: 60, fontWeight: 'bold', marginRight: 15 }}
@@ -248,9 +273,8 @@ const SongsSelector = ({ playProgression, playSingleChord }) => {
                     Bar {bar.number}
                   </Typography>
 
-                  {/* Chords + Lyrics */}
                   <div style={{ display: 'flex', flexDirection: 'column' }}>
-                    {/* CHORD ROW */}
+                    {/* CHORDS */}
                     <div style={{ display: 'flex' }}>
                       {bar.chords.map((ch, i) => (
                         <ChordBox key={i} onClick={() => playSingleChord(ch)}>
@@ -259,7 +283,7 @@ const SongsSelector = ({ playProgression, playSingleChord }) => {
                       ))}
                     </div>
 
-                    {/* LYRICS ROW */}
+                    {/* LYRICS */}
                     <div style={{ display: 'flex', marginTop: 4 }}>
                       {bar.lyrics?.map((ly, i) => (
                         <Typography
@@ -292,7 +316,6 @@ const SongsSelector = ({ playProgression, playSingleChord }) => {
 
                   {section.bars.map((bar, bIndex) => (
                     <BarRow key={bIndex}>
-
                       <Typography
                         variant="body2"
                         style={{
@@ -304,10 +327,7 @@ const SongsSelector = ({ playProgression, playSingleChord }) => {
                         Bar {bIndex + 1}
                       </Typography>
 
-                      {/* CHORDS + LYRICS */}
                       <div style={{ display: 'flex', flexDirection: 'column' }}>
-
-                        {/* CHORD ROW */}
                         <div style={{ display: 'flex' }}>
                           {bar.chords.map((ch, i) => {
                             const parsed = parseChordName(ch.name);
@@ -328,7 +348,6 @@ const SongsSelector = ({ playProgression, playSingleChord }) => {
                           })}
                         </div>
 
-                        {/* LYRICS ROW */}
                         <div style={{ display: 'flex', marginTop: 4 }}>
                           {bar.lyrics?.map((ly, i) => (
                             <Typography

@@ -1,5 +1,5 @@
 import React from 'react';
-import MusicApp from '../../components/Containers/MusicApp';
+import SongsSelector from '../../components/Pages/LearnSongs/SongsSelector';
 import Meta from '../../components/Partials/Head';
 import ArticleCard from '../../components/Listing/ArticleCard';
 
@@ -48,14 +48,7 @@ const LearnSongs = () => {
         title="Learn Songs"
         description="Learn Songs Using Interactive Musical Components Like The Circle Of Fifths, Visual Colored Fretboard And A Chord Progressions Visualizer And Mapper"
       ></Meta>
-      <MusicApp 
-        board="learn"
-        showFretboardControls={false} 
-        showCircleOfFifths={false} 
-        showFretboard={true} 
-        showChordComposer={false} 
-        showProgressor={false} 
-        showSongsSelector={true} />
+      <SongsSelector />
     </div>
   );
 };

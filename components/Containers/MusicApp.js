@@ -6,7 +6,7 @@ import FretboardControls from '../Pages/Fretboard/FretboardControls';
 import Progressor from '../UpComingPages/Page.ChordProgressionsComposer/OldVersion.Trialed.NotSucceeded/Progressor';
 import CircleOfFifths from '../Pages/CircleOfFifths/CircleOfFifths';
 import FretboardDisplay from '../Pages/Fretboard/FretboardDisplay';
-import ChordComposer from '../UpComingPages/Page.ChordProgressionsComposer/ChordComposer';
+import ChordComposer from '../Pages/Composer/ChordComposer';
 import withFretboardState from '../../hocs/withFretboardState';
 import withChordProgression from '../../hocs/withChordProgression';
 import withPlayback from '../../hocs/withPlayback';
