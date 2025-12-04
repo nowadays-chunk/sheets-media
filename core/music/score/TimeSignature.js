@@ -1,8 +1,15 @@
-// core/music/score/TimeSignature.js
 export default class TimeSignature {
   constructor(beats = 4, beatValue = 4) {
     this.beats = beats;
     this.beatValue = beatValue;
+  }
+
+  toString() {
+    return `${this.beats}/${this.beatValue}`;
+  }
+
+  clone() {
+    return new TimeSignature(this.beats, this.beatValue);
   }
 
   serialize() {
@@ -12,12 +19,7 @@ export default class TimeSignature {
     };
   }
 
-  static deserialize(json) {
-    if (!json) return new TimeSignature(4, 4);
-    return new TimeSignature(json.beats, json.beatValue);
-  }
-
-  clone() {
-    return new TimeSignature(this.beats, this.beatValue);
+  static deserialize(d) {
+    return new TimeSignature(d.beats, d.beatValue);
   }
 }

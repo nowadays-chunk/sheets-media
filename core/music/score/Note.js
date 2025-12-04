@@ -3,53 +3,55 @@ import Pitch from "./Pitch";
 import Duration from "./Duration";
 
 export default class Note {
-  constructor(pitch = new Pitch(), duration = new Duration("q")) {
+  constructor(pitch, duration) {
     this.pitch = pitch;
-    this.duration = duration;
+    this.duration = duration instanceof Duration ? duration : new Duration("q");
+    this.isRest = false;
   }
 
-  static fromFretboard(fretNote) {
-    // fretNote = { string, fret, midi, noteName, octave, velocity }
+  static fromFretboard(f) {
+    // f = { string, fret, midi or noteName, octave }
+    console.log("note selected ", f)
+    // If MIDI is available, use it
+    let pitch;
+    if (f.midi != null) {
+      pitch = Pitch.fromMidi(f.midi);
+    } else {
+      // fallback: string + fret → pitchClass + octave
+      pitch = Pitch.fromStringFret(f.string, f.fret);
+    }
 
-    if (!fretNote) throw new Error("Invalid fretboard note input");
-
-    // Extract pitch class (C, C#, D, etc.)
-    const pitchClass = fretNote.noteName?.toUpperCase() ?? "C";
-
-    let step = pitchClass[0];        // C, D, E, F, G, A, B
-    let alter = pitchClass.includes("#") ? 1 : 0;
-    let octave = fretNote.octave ?? 4;
-
-    // Build Pitch object
-    const pitch = new Pitch(step, alter, octave);
-
-    // Duration default = quarter
-    const dur = new Duration("q");
-
-    // Create Note instance
-    const n = new Note(pitch, dur);
-
-    // Optional expression data from fretboard
-    n.velocity = fretNote.velocity ?? 0.8;
-    n.string = fretNote.string ?? null;
-    n.fret = fretNote.fret ?? null;
-    n.midi = fretNote.midi ?? pitch.toMidi();
-
-    return n;
+    return new Note({
+      pitch,
+      duration: new Duration("q"),
+      string: f.string + 1, // VexFlow TAB uses 1–6
+      fret: f.fret
+    });
   }
 
   serialize() {
     return {
-      pitch: this.pitch.serialize(),
+      pitch: this.pitch ? this.pitch.serialize() : null,
       duration: this.duration.serialize(),
+      isRest: this.isRest ?? false,
+      string: this.string,
+      fret: this.fret,
+      midi: this.midi
     };
   }
 
   static deserialize(json) {
-    return new Note(
-      Pitch.deserialize(json.pitch),
-      Duration.deserialize(json.duration)
-    );
+    const pitch = json.pitch ? Pitch.deserialize(json.pitch) : null;
+    const duration = Duration.deserialize(json.duration);
+
+    const n = new Note(pitch, duration);
+
+    n.isRest = json.isRest ?? false;
+    n.string = json.string;
+    n.fret = json.fret;
+    n.midi = json.midi;
+
+    return n;
   }
 
   clone() {

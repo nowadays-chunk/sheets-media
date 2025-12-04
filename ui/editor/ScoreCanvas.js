@@ -1,10 +1,9 @@
-// ui/editor/ScoreCanvas.jsx
 import React, { useEffect, useRef } from "react";
 import CombinedRenderer from "@/core/music/render/CombinedRenderer";
 import { useScore } from "@/core/editor/ScoreContext";
 
 export default function ScoreCanvas() {
-  const { score, selection } = useScore();
+  const { score } = useScore();
   const container = useRef(null);
   const renderer = useRef(null);
 
@@ -13,13 +12,9 @@ export default function ScoreCanvas() {
 
     renderer.current = new CombinedRenderer({
       container: container.current,
-      score,
-      layout: {},
+      score: score,
+      layout: {}
     });
-
-    renderer.current.onNoteClick = (note) => {
-      selection?.select?.(note);
-    };
 
     renderer.current.render();
   }, [score]);

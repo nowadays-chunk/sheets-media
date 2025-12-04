@@ -1,81 +1,83 @@
-// core/music/render/TabRenderer.js
-import { Renderer, TabStave, TabNote } from "vexflow";
+import {
+  Renderer,
+  TabStave,
+  TabNote,
+  Voice,
+  Formatter
+} from "vexflow";
 
 export default class TabRenderer {
-  constructor() {}
+  constructor({ container, score, layout = {} }) {
+    this.container = container;
+    this.score = score;
+    this.layout = layout;
+  }
 
   render() {
-    if (!this.container || !this.score) return;
+    const container = this.container;
+    const score = this.score;
 
-    // Reset container
-    this.container.innerHTML = "";
+    if (!container || !score) return;
 
-    const renderer = new Renderer(this.container, Renderer.Backends.SVG);
-    renderer.resize(800, 200);
-    const context = renderer.getContext();
+    container.innerHTML = "";
 
-    const stave = new TabStave(10, 40, 780);
+    const renderer = new Renderer(container, Renderer.Backends.SVG);
+    renderer.resize(800, 180);
+    const ctx = renderer.getContext();
+
+    const stave = new TabStave(10, 30, 780);
     stave.addTabGlyph();
-    stave.setContext(context).draw();
+    stave.setContext(ctx).draw();
 
-    // -----------------------------------------
-    // FIX: Declare notes array BEFORE the loops
-    // -----------------------------------------
     const notes = [];
 
-    // Convert score ➜ tab notes
-    for (const measure of this.score.measures) {
-      for (const voice of measure.voices) {
-        voice.elements.forEach((entry) => {
-          // Normalize the structure
-          const element = entry?.element || entry?.data || entry;
+    // Extract notes from Score model
+    for (const m of score.measures) {
+      for (const v of m.voices) {
+        v.elements.forEach((entry) => {
+          const el = entry.element || entry;
+          if (!el) return;
 
-          if (!element) return;
+          let { string, fret } = el;
 
-          // Default values
-          let str = 3;
-          let fret = 0;
-          const dur = element.duration?.toVexflow?.() ?? "q";
-
-          // Rest
-          if (element.type === "rest" || element.isRest) {
-            notes.push(
-
-              new TabNote([{ str, fret }], dur)
-            );
-            return;
+          // Fallback: compute from pitch
+          if ((string == null || fret == null) && el.pitch) {
+            const tuning = [64, 59, 55, 50, 45, 40]; // E4, B3, G3, D3, A2, E2
+            const midi = el.pitch.toMidi();
+            string = 1; // high E
+            fret = Math.max(0, midi - tuning[0]);
           }
 
-          // Missing pitch → safe fallback
-          if (!element.pitch) {
-            notes.push(
-              new TabNote([{ str, fret: 0 }], dur)
-            );
-            return;
-          }
+          string = string ?? 1;
+          fret = fret ?? 0;
 
-          // Pitch → naive conversion
-          const midi = element.pitch.toMidi
-            ? element.pitch.toMidi()
-            : element.pitch.octave * 12;
+          const duration = el.duration?.symbol ?? "q";
 
-          fret = midi % 12;
-          str = 1;
+          // VexFlow 4 TAB note syntax
+          const tabNote = new TabNote({
+            positions: [{ str: string, fret }],
+            duration
+          });
 
-          notes.push(
-            new TabNote([{ str, fret }], dur)
-          );
+          notes.push(tabNote);
         });
       }
     }
 
-    // VexFlow requires voice + formatter
-    const voice = new TabVoice({ num_beats: notes.length, beat_value: 4 });
-    voice.addTickables(notes);
+    const voice = new Voice({
+      time: score.timeSignature?.toString() || "4/4",
+    }).setMode(Voice.Mode.SOFT);
 
-    new Formatter().joinVoices([voice]).format([voice], 700);
+    if (notes.length > 0) {
+      voice.addTickables(notes);
 
-    notes.forEach((n) => n.setContext(context));
-    notes.forEach((n) => n.draw());
+      new Formatter().joinVoices([voice]).format([voice], 700);
+
+      notes.forEach((n) => {
+        n.setStave(stave);
+        n.setContext(ctx);
+        n.draw();
+      });
+    }
   }
 }

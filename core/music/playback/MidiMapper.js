@@ -23,7 +23,8 @@ export default class MidiMapper {
             });
           }
 
-          voiceBeat += el.duration.total;
+          const dur = el.duration?.total ?? 1;  // default quarter note
+          voiceBeat += dur;
         });
 
         beatCursor = Math.max(beatCursor, voiceBeat);

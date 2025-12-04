@@ -25,6 +25,7 @@ export default class Score {
     return m;
   }
 
+
   addNote(beat, note) {
     const beatsPerMeasure = this.timeSignature.beats;
     const measureIndex = Math.floor(beat / beatsPerMeasure);

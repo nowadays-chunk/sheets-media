@@ -1,70 +1,83 @@
-// core/music/render/NotationRenderer.js
-import { Renderer, Stave, StaveNote } from "vexflow";
+import {
+  Renderer,
+  Stave,
+  StaveNote,
+  Voice,
+  Formatter
+} from "vexflow";
 
 export default class NotationRenderer {
-  constructor() {}
+  constructor({ container, score, layout = {} }) {
+    this.container = container;
+    this.score = score;
+    this.layout = layout;
+  }
 
   render() {
     if (!this.container || !this.score) return;
 
-    // Clear container
+    const score = this.score;
+
+    // Reset container
     this.container.innerHTML = "";
 
-    // VexFlow setup
     const renderer = new Renderer(this.container, Renderer.Backends.SVG);
     renderer.resize(800, 200);
     const context = renderer.getContext();
 
-    // Create stave
     const stave = new Stave(10, 40, 780);
     stave.addClef("treble");
-    stave.addTimeSignature(this.score.timeSignature.toString());
+    stave.addTimeSignature(score.timeSignature.toString());
     stave.setContext(context).draw();
 
     const vfNotes = [];
 
-    // Convert Score → VexFlow notes
-    for (const measure of this.score.measures) {
+    // Extract from Score model
+    for (const measure of score.measures) {
       for (const voice of measure.voices) {
         for (const entry of voice.elements) {
-          const element = entry.element || entry.data || entry;
+          const el = entry.element || entry.data || entry;
 
-          // Skip invalid
-          if (!element) continue;
+          if (!el) continue;
 
           // Rest
-          if (element.isRest || element.type === "rest") {
+          if (el.isRest) {
+            const dur = el.duration?.toVexflow?.() ?? "qr";
+
             vfNotes.push(
               new StaveNote({
                 clef: "treble",
                 keys: ["b/4"],
-                duration: element.duration?.symbol ?? "qr",
+                duration: dur
               })
             );
+
             continue;
           }
 
-          // Note missing pitch → skip
-          if (!element.pitch) continue;
+          // Note, must have pitch
+          if (!el.pitch) continue;
 
-          const key = `${element.pitch.step.toLowerCase()}${
-            element.pitch.alter === 1 ? "#" : ""
-          }/${element.pitch.octave}`;
+          const key = `${el.pitch.step.toLowerCase()}${
+            el.pitch.alter === 1 ? "#" : ""
+          }/${el.pitch.octave}`;
 
-          const dur = element.duration?.toVexflow?.() ?? "q";
+          const duration = el.duration?.toVexflow?.() ?? "q";
 
           vfNotes.push(
             new StaveNote({
               clef: "treble",
               keys: [key],
-              duration: dur,
+              duration
             })
           );
         }
       }
     }
 
-    // VexFlow requires a voice
+    // Cannot create a voice if no notes → skip
+    if (vfNotes.length === 0) return;
+
     const voice = new Voice({
       num_beats: vfNotes.length,
       beat_value: 4,
@@ -72,11 +85,8 @@ export default class NotationRenderer {
 
     voice.addTickables(vfNotes);
 
-    // MUST format before drawing
     new Formatter().joinVoices([voice]).format([voice], 700);
 
-    // Draw
     voice.draw(context, stave);
   }
-
 }
