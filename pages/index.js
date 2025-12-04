@@ -57,7 +57,7 @@ const PlayAndVisualize = () => {
             showChordComposer={false} 
             showProgressor={false} 
             showSongsSelector={false} />
-        <ScoreProvider />
+        </ ScoreProvider >
       </div>
   );
 };
