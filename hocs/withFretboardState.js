@@ -537,9 +537,6 @@ const withFretboardState = (WrappedComponent) => {
       dispatchPropertiesUpdate(propertiesUpdate);
     };
 
-
-    console.log("withFetboardState - selectedFretboard:", selectedFretboard);
-
     return (
       <WrappedComponent
         {...props}

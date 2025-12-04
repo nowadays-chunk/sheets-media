@@ -16,6 +16,18 @@ export default class Duration {
     }
   }
 
+  toVexflow() {
+    switch (this.value) {
+      case 1: return "w";
+      case 2: return "h";
+      case 4: return "q";
+      case 8: return "8";
+      case 16: return "16";
+      default: return "q";
+    }
+}
+
+
   serialize() {
     return { symbol: this.symbol };
   }

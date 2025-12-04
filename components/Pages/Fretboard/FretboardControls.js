@@ -53,13 +53,6 @@ const FretboardControls = ({
 }) => {
   const keysSharps = guitar.notes.sharps;
 
-  console.log("selectedKey :", selectedKey);
-  console.log("selectedScale :", selectedScale);
-  console.log("selectedMode :", selectedMode);
-  console.log("selectedChord :", selectedChord);
-  console.log("selectedArppegio :", selectedArppegio);
-  console.log("selectedShape :", selectedShape)
-
   const capitalize = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 
   // ---------------------------------------------------------

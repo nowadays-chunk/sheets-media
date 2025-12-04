@@ -11,13 +11,17 @@ export default function ScoreCanvas() {
   useEffect(() => {
     if (!container.current || !score) return;
 
-    renderer.current = new CombinedRenderer(container.current);
+    renderer.current = new CombinedRenderer({
+      container: container.current,
+      score,
+      layout: {},
+    });
 
     renderer.current.onNoteClick = (note) => {
-      selection.select(note);
+      selection?.select?.(note);
     };
 
-    renderer.current.render(score);
+    renderer.current.render();
   }, [score]);
 
   return (

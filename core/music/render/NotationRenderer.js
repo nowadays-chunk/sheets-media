@@ -1,70 +1,82 @@
 // core/music/render/NotationRenderer.js
-import { VF, createStave, createVexNote, createVexRest } from "./VexflowExtensions.js";
-import BeamEngine from "./BeamEngine.js";
-import TieEngine from "./TieEngine.js";
-import TupletEngine from "./TupletEngine.js";
+import { Renderer, Stave, StaveNote } from "vexflow";
 
 export default class NotationRenderer {
-  constructor({ container, score, layout }) {
-    this.container = container;
-    this.score = score;
-    this.layout = layout;
-
-    container.innerHTML = "";
-
-    this.renderer = new VF.Renderer(container, VF.Renderer.Backends.SVG);
-    this.context = this.renderer.getContext();
-  }
+  constructor() {}
 
   render() {
-    const width = 900;
-    const height = this.score.measures.length * 180;
-    this.renderer.resize(width, height);
+    if (!this.container || !this.score) return;
 
-    let yOffset = 20;
+    // Clear container
+    this.container.innerHTML = "";
 
-    this.score.measures.forEach((measure, i) => {
-      const stave = createStave({
-        x: 20,
-        y: yOffset,
-        width: 850,
-        clef: this.score.clef,
-        timeSignature: measure.timeSignature,
-        keySignature: this.score.keySignature,
-      });
+    // VexFlow setup
+    const renderer = new Renderer(this.container, Renderer.Backends.SVG);
+    renderer.resize(800, 200);
+    const context = renderer.getContext();
 
-      stave.setContext(this.context).draw();
+    // Create stave
+    const stave = new Stave(10, 40, 780);
+    stave.addClef("treble");
+    stave.addTimeSignature(this.score.timeSignature.toString());
+    stave.setContext(context).draw();
 
-      // Convert score → vexflow tickables
-      let tickables = [];
+    const vfNotes = [];
 
-      measure.voices.forEach((voice) => {
-        voice.elements.forEach((el) => {
-          tickables.push(el.pitch ? createVexNote(el) : createVexRest(el));
-        });
-      });
+    // Convert Score → VexFlow notes
+    for (const measure of this.score.measures) {
+      for (const voice of measure.voices) {
+        for (const entry of voice.elements) {
+          const element = entry.element || entry.data || entry;
 
-      // Format
-      const formatter = new VF.Formatter();
-      formatter.joinVoices([new VF.Voice({
-        num_beats: measure.timeSignature.beats,
-        beat_value: measure.timeSignature.beatValue,
-      }).addTickables(tickables)]);
-      formatter.formatToStave(tickables, stave);
+          // Skip invalid
+          if (!element) continue;
 
-      // Draw notes
-      tickables.forEach((t) => t.setContext(this.context).draw());
+          // Rest
+          if (element.isRest || element.type === "rest") {
+            vfNotes.push(
+              new StaveNote({
+                clef: "treble",
+                keys: ["b/4"],
+                duration: element.duration?.symbol ?? "qr",
+              })
+            );
+            continue;
+          }
 
-      // Beams
-      BeamEngine.renderBeams(this.context, tickables);
+          // Note missing pitch → skip
+          if (!element.pitch) continue;
 
-      // Tuplets
-      TupletEngine.renderTuplets(this.context, tickables);
+          const key = `${element.pitch.step.toLowerCase()}${
+            element.pitch.alter === 1 ? "#" : ""
+          }/${element.pitch.octave}`;
 
-      // Ties
-      TieEngine.renderTies(this.context, measure.voices, tickables);
+          const dur = element.duration?.toVexflow?.() ?? "q";
 
-      yOffset += 160;
+          vfNotes.push(
+            new StaveNote({
+              clef: "treble",
+              keys: [key],
+              duration: dur,
+            })
+          );
+        }
+      }
+    }
+
+    // VexFlow requires a voice
+    const voice = new Voice({
+      num_beats: vfNotes.length,
+      beat_value: 4,
     });
+
+    voice.addTickables(vfNotes);
+
+    // MUST format before drawing
+    new Formatter().joinVoices([voice]).format([voice], 700);
+
+    // Draw
+    voice.draw(context, stave);
   }
+
 }

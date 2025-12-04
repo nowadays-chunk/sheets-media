@@ -64,21 +64,16 @@ export function ScoreProvider({ children }) {
      HIGH-LEVEL API: ADD NOTE FROM FRETBOARD
   ------------------------------------------------------------- */
 
-  const addNoteFromFretboard = (noteObj) => {
-    if (!noteObj) return;
+  const addNoteFromFretboard = (fretNote) => {
+    if (!score) return;
 
-    // Create score on first use
-    if (!score) {
-      const s = new Score();
-      setScore(s);
-      // delay insert until score exists:
-      requestAnimationFrame(() =>
-        insertNoteIntoScore(noteObj, s, updateScore)
-      );
-      return;
-    }
+    const newNote = Note.fromFretboard(fretNote); // You must implement this mapping
 
-    insertNoteIntoScore(noteObj, score, updateScore);
+    updateScore((draft) => {
+      draft.addNote(cursorBeat, newNote);
+    });
+
+    setCursorBeat((prev) => prev + 1);
   };
 
   /**

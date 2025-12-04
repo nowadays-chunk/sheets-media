@@ -1,50 +1,81 @@
 // core/music/render/TabRenderer.js
-import { VF } from "./VexflowExtensions.js";
+import { Renderer, TabStave, TabNote } from "vexflow";
 
 export default class TabRenderer {
-  constructor({ container, score }) {
-    this.container = container;
-    this.score = score;
-
-    container.innerHTML = "";
-    this.renderer = new VF.Renderer(container, VF.Renderer.Backends.SVG);
-    this.context = this.renderer.getContext();
-  }
+  constructor() {}
 
   render() {
-    const width = 900;
-    const height = this.score.measures.length * 160;
-    this.renderer.resize(width, height);
+    if (!this.container || !this.score) return;
 
-    let yOffset = 20;
+    // Reset container
+    this.container.innerHTML = "";
 
-    this.score.measures.forEach((measure) => {
-      const tabStave = new VF.TabStave(20, yOffset, 850);
-      tabStave.addClef("tab").setContext(this.context).draw();
+    const renderer = new Renderer(this.container, Renderer.Backends.SVG);
+    renderer.resize(800, 200);
+    const context = renderer.getContext();
 
-      const notes = [];
+    const stave = new TabStave(10, 40, 780);
+    stave.addTabGlyph();
+    stave.setContext(context).draw();
 
-      measure.voices[0].elements.forEach((el) => {
-        if (!el.pitch) return; // rests ignored for tab
+    // -----------------------------------------
+    // FIX: Declare notes array BEFORE the loops
+    // -----------------------------------------
+    const notes = [];
 
-        const tabNote = new VF.TabNote({
-          positions: [{ str: el.string + 1, fret: el.fret }],
-          duration: "q", // TODO: match notation duration exactly
+    // Convert score ➜ tab notes
+    for (const measure of this.score.measures) {
+      for (const voice of measure.voices) {
+        voice.elements.forEach((entry) => {
+          // Normalize the structure
+          const element = entry?.element || entry?.data || entry;
+
+          if (!element) return;
+
+          // Default values
+          let str = 3;
+          let fret = 0;
+          const dur = element.duration?.toVexflow?.() ?? "q";
+
+          // Rest
+          if (element.type === "rest" || element.isRest) {
+            notes.push(
+
+              new TabNote([{ str, fret }], dur)
+            );
+            return;
+          }
+
+          // Missing pitch → safe fallback
+          if (!element.pitch) {
+            notes.push(
+              new TabNote([{ str, fret: 0 }], dur)
+            );
+            return;
+          }
+
+          // Pitch → naive conversion
+          const midi = element.pitch.toMidi
+            ? element.pitch.toMidi()
+            : element.pitch.octave * 12;
+
+          fret = midi % 12;
+          str = 1;
+
+          notes.push(
+            new TabNote([{ str, fret }], dur)
+          );
         });
+      }
+    }
 
-        notes.push(tabNote);
-      });
+    // VexFlow requires voice + formatter
+    const voice = new TabVoice({ num_beats: notes.length, beat_value: 4 });
+    voice.addTickables(notes);
 
-      const voice = new VF.Voice({
-        num_beats: measure.timeSignature.beats,
-        beat_value: measure.timeSignature.beatValue,
-      }).addTickables(notes);
+    new Formatter().joinVoices([voice]).format([voice], 700);
 
-      new VF.Formatter().joinVoices([voice]).format([voice], 800);
-
-      voice.draw(this.context, tabStave);
-
-      yOffset += 140;
-    });
+    notes.forEach((n) => n.setContext(context));
+    notes.forEach((n) => n.draw());
   }
 }
