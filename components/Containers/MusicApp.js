@@ -3,6 +3,7 @@ import { IconButton } from "@mui/material";
 import { styled } from "@mui/system";
 import { useEffect, useCallback, useState, useRef } from "react";
 import AddCircleOutlineIcon from "@mui/icons-material/AddCircleOutline";
+import { useScore } from "@/core/editor/ScoreContext";
 
 import FretboardControls from "../Pages/Fretboard/FretboardControls";
 import CircleOfFifths from "../Pages/CircleOfFifths/CircleOfFifths";
@@ -23,6 +24,8 @@ import {
   setProgression,
   setProgressionKey,
 } from "../../redux/actions";
+
+import AppShell from "@/ui/app/AppShell";
 
 import useMidiEngine from "../Pages/Composer/useMidiEngine";
 
@@ -91,6 +94,8 @@ const MusicApp = (props) => {
     loopStartBeat: 0,
     loopEndBeat: 16,
   });
+
+  const { addNoteFromFretboard } = useScore();
 
   // incoming note from fretboard
   const [incomingNote, setIncomingNote] = useState(null);
@@ -190,32 +195,12 @@ const MusicApp = (props) => {
             boards={boards}
             handleFretboardSelect={handleFretboardSelect}
             onElementChange={onElementChange}
-            onNoteClick={finalNoteClick}
+            onNoteClick={(noteObj) => {
+              addNoteFromFretboard(noteObj);
+            }}
             visualizerModalIndex={selectedFretboard.modeSettings.mode}
           />
         </FretboardContainer>
-      )}
-
-      {board === "compose" && (
-        <>
-          <ScoreRenderer notes={timelineNotesRef.current} />
-
-          <TimelineComposer
-            incomingNote={incomingNote}
-            onNotesChange={(arr) => (timelineNotesRef.current = arr)}
-            externalCursorBeat={cursor}
-            playNote={playNote}
-          />
-
-          <div style={{ marginTop: 20, display: "flex", gap: 12 }}>
-            <button onClick={() => start(timelineNotesRef)} disabled={isPlaying}>
-              ▶ Play
-            </button>
-            <button onClick={stop} disabled={!isPlaying}>
-              ■ Stop
-            </button>
-          </div>
-        </>
       )}
 
       {showFretboardControls && (
