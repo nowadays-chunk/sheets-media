@@ -207,7 +207,6 @@ const MusicApp = (props) => {
         title="Musical Guitar Sheets | Complete References (5000 pages for FREE / No Subscription / No Fees / No Payments)"
         description="Explore my complete references for musical keys, scales, modes, and arpeggios. Find detailed information and resources for all keys, sharps, scales, modes, and arpeggios to enhance your musical knowledge"
       />
-      <GoogleTagManager gtmId="GTM-XXXXXXX" />
       {showAddMoreFretboardsButton && (
         <IconButton onClick={createNewBoardDisplay}>
           <AddCircleOutlineIcon />
