@@ -2,7 +2,6 @@
 import React from 'react';
 import MusicApp from '../../Containers/MusicApp'; // Adjust the path if needed
 import { styled } from '@mui/system';
-import ArticleCard from '../../Listing/ArticleCard'; // Adjust the path if needed
 import Meta from '../../Partials/Head';
 import { Typography } from '@mui/material';
 import { ScoreProvider } from "@/core/editor/ScoreContext";
