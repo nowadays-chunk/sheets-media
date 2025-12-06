@@ -105,9 +105,6 @@ const withFretboardState = (WrappedComponent) => {
       /* ---------------------------
         CLAMP HELPER FOR REFERENCES
       ---------------------------- */
-      const clampFretToReferenceDisplay = (fret, sueil) => {
-        return fret > sueil ? fret - 12 : fret;
-      };
 
       /* ---------------------------
         3. SHAPED MODE
@@ -173,11 +170,9 @@ const withFretboardState = (WrappedComponent) => {
             if (!notes.includes(currentNote)) continue;
 
             // clamp for references
-            const displayedFret = clampFretToReferenceDisplay(fretIndex);
-            if (displayedFret === null) continue;
 
             const row = choiceBoard[stringIndex];
-            const noteData = row?.[displayedFret];
+            const noteData = row?.[fretIndex];
             if (!noteData) continue;
 
               noteData.show = true;
@@ -224,27 +219,6 @@ const withFretboardState = (WrappedComponent) => {
       // reverse orientation for your board (low→high to high→low)
       realFrets = realFrets.reverse();
 
-      const lowestFret = Math.min(...realFrets.filter(f => f !== null));
-      const highestFret = Math.max(...realFrets.filter(f => f !== null));
-
-      // ---------------------
-      // RULE 1: if shape STARTS >= 12 → shift 12 left
-      // ---------------------
-      let shift = 0;
-
-      if (lowestFret >= 12) {
-        shift = 12;
-      }
-
-      // ---------------------
-      // RULE 2: if shape STARTS < 12 but ENDS > 12 → DO NOT shift
-      // ---------------------
-      if (lowestFret < 12 && highestFret > 12) {
-        shift = 0;
-      }
-
-      const displayedFrets = realFrets.map(f => f === null ? null : f - shift);
-
       // build chord notes
       const { formula } = guitar.arppegios[chord];
       let currentNoteIndex = key;
@@ -270,7 +244,7 @@ const withFretboardState = (WrappedComponent) => {
       // display shape
       newBoard.forEach((string, stringIndex) => {
         string.forEach((note, fretIndex) => {
-          const targetFret = displayedFrets[stringIndex];
+          const targetFret = realFrets[stringIndex];
 
           if (targetFret === null) return;
           if (fretIndex !== targetFret) return;
