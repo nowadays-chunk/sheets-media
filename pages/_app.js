@@ -71,6 +71,7 @@ const AppBarStyled = styled(AppBar, {
       duration: theme.transitions.duration.enteringScreen,
     }),
   }),
+  zIndex: 3000
 }));
 
 const DrawerHeader = styled('div')(({ theme }) => ({
@@ -231,7 +232,7 @@ function App({ Component, pageProps }) {
                 </Hidden>
               </ToolbarContent>
             </AppBarStyled>}
-            <nav>
+            <nav style={{zIndex: 3000}}>
               <Hidden mdUp>
                 <Drawer
                   sx={{

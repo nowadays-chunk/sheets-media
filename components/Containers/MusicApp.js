@@ -2,7 +2,6 @@
 import { IconButton } from "@mui/material";
 import { styled } from "@mui/system";
 import { useEffect, useCallback, useState } from "react";
-import AddCircleOutlineIcon from "@mui/icons-material/AddCircleOutline";
 import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
 import ChevronRightIcon from "@mui/icons-material/ChevronRight";
 
@@ -26,12 +25,9 @@ import {
 import guitar from "../../config/guitar";
 import Meta from "../Partials/Head";
 
-
 // ============================================================================
 // FIXED DRAWER LAYOUT — UPDATED WITH ALL REQUIREMENTS
 // ============================================================================
-
-const HEADER_HEIGHT = 45;
 
 const AppWrapper = styled("div")({
   display: "flex",
@@ -41,27 +37,55 @@ const AppWrapper = styled("div")({
   position: "relative",
 });
 
+const HEADER_HEIGHT_DESKTOP = 43;
+const HEADER_HEIGHT_MOBILE = 59; // adjust to your actual mobile header height
+
+const MainContent = styled("div")(({ drawerOpen }) => ({
+  position: "relative",
+  zIndex: 100,
+  marginLeft: drawerOpen ? -600 : 30,
+  marginTop: HEADER_HEIGHT_DESKTOP,
+  transition: "margin-left 0.3s ease, margin-top 0.3s ease",
+  paddingLeft: 100,
+  paddingRight: 100,
+  width: "calc(100vw - 200px)",
+  minHeight: `calc(100vh - ${HEADER_HEIGHT_DESKTOP}px)`,
+  boxSizing: "border-box",
+  overflowY: "auto",
+  display: "flex",
+  justifyContent: "center",
+  "@media (max-width: 1200px) and (min-width: 900px)": {
+    marginTop: HEADER_HEIGHT_MOBILE,
+    minHeight: `calc(100vh - ${HEADER_HEIGHT_MOBILE}px)`,
+  }
+}));
+
 const SideDrawer = styled("div")(({ open }) => ({
   position: "fixed",
-  top: HEADER_HEIGHT,
-  left: 0,
-  height: `calc(100vh - ${HEADER_HEIGHT}px)`,
-  width: open ? 600 : 60,
-  minWidth: open ? 600 : 60,
+  top: HEADER_HEIGHT_DESKTOP,
+  right: 0,
+  minHeight: `calc(100vh - ${HEADER_HEIGHT_DESKTOP}px)`,
+  width: open ? 600 : 80,
+  minWidth: open ? 600 : 80,
   transition: "width 0.3s ease",
   backgroundColor: "#f5f5f5",
   borderRight: "1px solid #ddd",
   display: "flex",
   flexDirection: "column",
-  padding: 8,
+  padding: 23,
   boxSizing: "border-box",
   zIndex: 2000,            // drawer ALWAYS stays above content
   overflow: "hidden",
+  "@media (max-width: 1200px) and (min-width: 900px)": {
+    top: HEADER_HEIGHT_MOBILE,
+    minHeight: `calc(100vh - ${HEADER_HEIGHT_MOBILE}px)`,
+  }
 }));
 
 const DrawerToggle = styled(IconButton)({
-  alignSelf: "flex-end",
+  alignSelf: "flex-start",
   marginBottom: 10,
+  marginRight: 10,
   width: 36,
   height: 36,
 });
@@ -75,26 +99,6 @@ const DrawerContent = styled("div")(({ open }) => ({
   opacity: open ? 1 : 0,
   pointerEvents: open ? "auto" : "none",
   transition: "opacity 0.2s ease",
-}));
-
-
-// ======================
-// MAIN CONTENT WRAPPER
-// ======================
-const MainContent = styled("div")(({ drawerOpen }) => ({
-  position: "relative",
-  zIndex: 100, // always below drawer
-  marginLeft: drawerOpen ? 600 : 60,
-  marginTop: HEADER_HEIGHT,
-  transition: "margin-left 0.3s ease",
-  paddingLeft: 100,
-  paddingRight: 100,
-  width: "calc(100vw - 200px)",    // ALWAYS 100% - 100px left - 100px right
-  minHeight: "calc(100vh - 45px)",
-  boxSizing: "border-box",
-  overflowY: "auto",
-  display: "flex",
-  justifyContent: "center",
 }));
 
 const MainInner = styled("div")({
@@ -263,11 +267,15 @@ const MusicApp = (props) => {
   // ========================================================================
   return (
     <AppWrapper>
+        {/* MAIN PAGE CONTENT */}
+      <MainContent drawerOpen={drawerOpen}>
+        <MainInner>{components}</MainInner>
+      </MainContent>
 
       {/* FIXED DRAWER ALWAYS ON TOP */}
       <SideDrawer open={drawerOpen}>
         <DrawerToggle onClick={() => setDrawerOpen(!drawerOpen)}>
-          {drawerOpen ? <ChevronLeftIcon /> : <ChevronRightIcon />}
+          {drawerOpen ? <ChevronRightIcon /> : <ChevronLeftIcon />}
         </DrawerToggle>
 
         <DrawerContent open={drawerOpen}>
@@ -295,13 +303,6 @@ const MusicApp = (props) => {
           )}
         </DrawerContent>
       </SideDrawer>
-
-
-      {/* MAIN PAGE CONTENT */}
-      <MainContent drawerOpen={drawerOpen}>
-        <MainInner>{components}</MainInner>
-      </MainContent>
-
     </AppWrapper>
   );
 };
@@ -314,6 +315,9 @@ const mapStateToProps = (state, ownProps) => {
   const filteredBoards = state.fretboard.components.filter(
     (board) => board.generalSettings.page === ownProps.board
   );
+
+
+  console.log("filteredBoards ", filteredBoards);
   return {
     boards: filteredBoards,
     progressions: state.partitions,

@@ -4,7 +4,6 @@ import {
   Button,
   Grid,
   Card,
-  CardContent,
   Typography
 } from "@mui/material";
 
@@ -18,65 +17,73 @@ import guitar from "@/config/guitar";
 
 const COLORS = ["#1976d2", "#9c27b0", "#ff9800", "#4caf50", "#e91e63", "#009688"];
 
-// Card style
 const StatCard = styled(Card)({
   borderRadius: "16px",
   padding: "16px",
   marginBottom: "20px",
 });
 
-// Convert undefined → ignore
+/* ----------------------------------------------------------
+   SAFE NOTE EXTRACTION
+---------------------------------------------------------- */
 const extractNotes = (fretboard) => {
+  if (!Array.isArray(fretboard)) return [];
+
   const notes = [];
-  fretboard?.forEach(string =>
+  fretboard.forEach(string =>
     string?.forEach(fret => {
-      if (fret?.show && fret.current) notes.push(fret.current);
+      if (fret?.show === true && fret.current) {
+        notes.push(fret.current);
+      }
     })
   );
   return notes;
 };
 
-// Extract all notes from multiple boards
-const extractNotesFromItems = (items, path = "fretboard") => {
-  const list = [];
-  items.forEach(i => {
-    list.push(...extractNotes(i[path]));
+const extractNotesFromItems = (items, getFbPath) => {
+  const notes = [];
+
+  items.forEach(board => {
+    const fb = getFbPath(board);
+    if (fb) notes.push(...extractNotes(fb));
   });
-  return list;
+
+  return notes;
 };
 
-// Count occurrences
 const count = (arr) =>
   arr.reduce((acc, item) => {
+    if (!item) return acc; // skip undefined/null
     acc[item] = (acc[item] || 0) + 1;
     return acc;
   }, {});
 
-// Build pie data
 const buildPie = (map) =>
   Object.keys(map).map(k => ({ name: k, value: map[k] }));
 
-// Collect shapes
-const countShapes = (items, field = "shape") => {
+const countShapes = (items) => {
   const map = {};
   items.forEach(i => {
-    const v = i[field];
-    if (v) map[v] = (map[v] || 0) + 1;
+    const choice = i?.generalSettings?.choice;
+    const shape = i?.[choice + "Settings"]?.shape;
+    if (shape) map[shape] = (map[shape] || 0) + 1;
   });
   return buildPie(map);
 };
 
-// Count keys (C, C#, …)
 const countKeys = (items) => {
   const map = {};
   items.forEach(i => {
-    const note = guitar.notes.sharps[i.keyIndex];
-    map[note] = (map[note] || 0) + 1;
+    const choice = i?.generalSettings?.choice;
+    const keyIndex = i?.keySettings?.[choice];
+    if (typeof keyIndex === "number") {
+      const note = guitar.notes.sharps[keyIndex];
+      if (note) map[note] = (map[note] || 0) + 1;
+    }
   });
   return buildPie(map);
 };
 
-// Render pie chart
 const PieGraph = ({ data }) => (
   <PieChart width={400} height={300}>
     <Pie data={data} cx="50%" cy="50%" outerRadius={100} label dataKey="value">
@@ -89,131 +96,169 @@ const PieGraph = ({ data }) => (
   </PieChart>
 );
 
-// Render bar chart
-const BarGraph = ({ data, keyName = "value" }) => (
+const BarGraph = ({ data }) => (
   <BarChart width={500} height={300} data={data}>
     <XAxis dataKey="name" />
     <YAxis />
     <Tooltip />
-    <Bar dataKey={keyName} fill="#1976d2" />
+    <Bar dataKey="value" fill="#1976d2" />
   </BarChart>
 );
 
 
-// ====================================================================
-//                               STATS COMPONENT
-// ====================================================================
-export default function Stats({ boards = [], chords = [], arpeggios = [], scales = [] }) {
-
+/* ----------------------------------------------------------
+   COMPONENT
+---------------------------------------------------------- */
+export default function Stats({
+  boards = [],
+  chords = [],
+  arpeggios = [],
+  scales = []
+}) {
   const [tab, setTab] = useState(0);
-
   const tabs = ["All", "Chords", "Arpeggios", "Scales"];
-  const tabWidth = `${100 / tabs.length}%`;
+
+  /* --------------------------------------------------------
+     HOMEPAGE DETECTION FIX
+  -------------------------------------------------------- */
+  const isHomepage =
+    boards.length > 0 &&
+    chords.length === 0 &&
+    arpeggios.length === 0 &&
+    scales.length === 0;
+
+  let boardsChord = [];
+  let boardsArp = [];
+  let boardsScale = [];
+  let boardsAll = [];
+
+  if (isHomepage) {
+    boardsAll = boards;
+
+    boards.forEach(b => {
+      const choice = b?.generalSettings?.choice;
+      if (choice === "chord") boardsChord.push(b);
+      if (choice === "arppegio") boardsArp.push(b);
+      if (choice === "scale") boardsScale.push(b);
+    });
+
+  } else {
+    boardsChord = chords;
+    boardsArp = arpeggios;
+    boardsScale = scales;
+    boardsAll = [...chords, ...arpeggios, ...scales];
+  }
 
 
-  // ============================================================
-  // ------------- GLOBAL NOTE ANALYTICS -------------------------
-  // ============================================================
+  /* --------------------------------------------------------
+     SAFE DYNAMIC FRETBOARD ACCESS
+  -------------------------------------------------------- */
+
+  const getHomepageFb = (board) => {
+    try {
+      const choice = board.generalSettings.choice;
+      return board[choice + "Settings"]?.fretboard;
+    } catch {
+      return null;
+    }
+  };
+
+  const getStatsFb = (board) => board.fretboard;
+
+
+  const fbSelector = isHomepage ? getHomepageFb : getStatsFb;
+
+
+  /* --------------------------------------------------------
+     ANALYTICS COMPUTATION
+  -------------------------------------------------------- */
+
   const allBoardsNotes = useMemo(
-    () => extractNotesFromItems(boards, "scaleSettings.fretboard"),
-    [boards]
+    () => extractNotesFromItems(boardsAll, fbSelector),
+    [boardsAll, isHomepage]
   );
+  const allBoardsCount = count(allBoardsNotes);
 
-  const allBoardsCount = useMemo(() => count(allBoardsNotes), [allBoardsNotes]);
-
-  const noteFrequencyChart = Object.keys(allBoardsCount).map(n => ({
-    name: n,
-    value: allBoardsCount[n],
+  const noteFrequencyChart = Object.entries(allBoardsCount).map(([name, value]) => ({
+    name,
+    value
   }));
 
 
-  // ============================================================
-  // ------------- CHORD ANALYTICS ------------------------------
-  // ============================================================
+  /* --------------------------------------------------------
+     CHORDS
+  -------------------------------------------------------- */
   const chordNotes = useMemo(
-    () => extractNotesFromItems(chords, "fretboard"),
-    [chords]
+    () => extractNotesFromItems(boardsChord, fbSelector),
+    [boardsChord, isHomepage]
   );
-  const chordNoteCount = useMemo(() => count(chordNotes), [chordNotes]);
-  const chordNoteChart = buildPie(chordNoteCount);
-
-  const chordShapes = useMemo(() => countShapes(chords), [chords]);
-  const chordKeyDistribution = useMemo(() => countKeys(chords), [chords]);
+  const chordNoteChart = buildPie(count(chordNotes));
+  const chordShapesChart = countShapes(boardsChord);
+  const chordKeysChart = countKeys(boardsChord);
 
 
-  // ============================================================
-  // ------------- ARPEGGIO ANALYTICS ---------------------------
-  // ============================================================
+  /* --------------------------------------------------------
+     ARPEGGIOS
+  -------------------------------------------------------- */
   const arpNotes = useMemo(
-    () => extractNotesFromItems(arpeggios, "fretboard"),
-    [arpeggios]
+    () => extractNotesFromItems(boardsArp, fbSelector),
+    [boardsArp]
   );
-  const arpNoteCount = useMemo(() => count(arpNotes), [arpNotes]);
-  const arpNoteChart = buildPie(arpNoteCount);
-
-  const arpShapes = useMemo(() => countShapes(arpeggios), [arpeggios]);
-  const arpKeys = useMemo(() => countKeys(arpeggios), [arpeggios]);
+  const arpNoteChart = buildPie(count(arpNotes));
+  const arpShapesChart = countShapes(boardsArp);
+  const arpKeysChart = countKeys(boardsArp);
 
 
-  // ============================================================
-  // ------------- SCALE ANALYTICS ------------------------------
-  // ============================================================
+  /* --------------------------------------------------------
+     SCALES
+  -------------------------------------------------------- */
   const scaleNotes = useMemo(
-    () => extractNotesFromItems(scales, "fretboard"),
-    [scales]
+    () => extractNotesFromItems(boardsScale, fbSelector),
+    [boardsScale]
   );
-  const scaleNoteCount = useMemo(() => count(scaleNotes), [scaleNotes]);
-  const scaleNoteChart = buildPie(scaleNoteCount);
-
-  const scaleShapes = useMemo(() => countShapes(scales), [scales]);
-  const scaleKeys = useMemo(() => countKeys(scales), [scales]);
+  const scaleNoteChart = buildPie(count(scaleNotes));
+  const scaleShapesChart = countShapes(boardsScale);
+  const scaleKeysChart = countKeys(boardsScale);
 
 
-  // ============================================================
-  // ------------- RENDER ---------------------------------------
-  // ============================================================
+  /* --------------------------------------------------------
+     RENDER
+  -------------------------------------------------------- */
   return (
     <Box sx={{ p: 4 }}>
       <Typography variant="h4" sx={{ mb: 3 }}>
         🎸 Strum Dot Fun — Analytics Dashboard
       </Typography>
 
-      {/* ================== TABS ================== */}
+      {/* Tabs */}
       <Box sx={{ display: "flex", mb: 3 }}>
         {tabs.map((label, i) => (
           <Button
             key={i}
             onClick={() => setTab(i)}
             variant={tab === i ? "contained" : "outlined"}
-            sx={{
-              width: tabWidth,
-              borderRadius: 0,
-              textTransform: "none",
-            }}
+            sx={{ flex: 1, borderRadius: 0 }}
           >
             {label}
           </Button>
         ))}
       </Box>
 
-      {/* =====================================================
-          ALL / CHORDS / ARPEGGIOS / SCALES RENDER SECTIONS
-         ===================================================== */}
 
-      {/* ======================= ALL ======================= */}
+      {/* ------------------ ALL ------------------ */}
       {tab === 0 && (
         <Grid container spacing={3}>
 
           <Grid item xs={12} md={6}>
             <StatCard>
-              <Typography variant="h6">Note Frequency (Boards)</Typography>
+              <Typography variant="h6">Note Frequency</Typography>
               <BarGraph data={noteFrequencyChart} />
             </StatCard>
           </Grid>
 
           <Grid item xs={12} md={6}>
             <StatCard>
-              <Typography variant="h6">Notes Proportion (Boards)</Typography>
+              <Typography variant="h6">Notes Proportion</Typography>
               <PieGraph data={noteFrequencyChart} />
             </StatCard>
           </Grid>
@@ -222,7 +267,7 @@ export default function Stats({ boards = [], chords = [], arpeggios = [], scales
       )}
 
 
-      {/* ======================= CHORDS ======================= */}
+      {/* ------------------ CHORDS ------------------ */}
       {tab === 1 && (
         <Grid container spacing={3}>
 
@@ -236,21 +281,22 @@ export default function Stats({ boards = [], chords = [], arpeggios = [], scales
           <Grid item xs={12} md={6}>
             <StatCard>
               <Typography variant="h6">Chord Shapes</Typography>
-              <PieGraph data={chordShapes} />
+              <PieGraph data={chordShapesChart} />
             </StatCard>
           </Grid>
 
           <Grid item xs={12}>
             <StatCard>
               <Typography variant="h6">Keys Used in Chords</Typography>
-              <BarGraph data={chordKeyDistribution} />
+              <BarGraph data={chordKeysChart} />
             </StatCard>
           </Grid>
+
         </Grid>
       )}
 
 
-      {/* ======================= ARPEGGIOS ======================= */}
+      {/* ------------------ ARPEGGIOS ------------------ */}
       {tab === 2 && (
         <Grid container spacing={3}>
 
@@ -264,21 +310,22 @@ export default function Stats({ boards = [], chords = [], arpeggios = [], scales
           <Grid item xs={12} md={6}>
             <StatCard>
               <Typography variant="h6">Arpeggio Shapes</Typography>
-              <PieGraph data={arpShapes} />
+              <PieGraph data={arpShapesChart} />
             </StatCard>
           </Grid>
 
           <Grid item xs={12}>
             <StatCard>
               <Typography variant="h6">Keys Used in Arpeggios</Typography>
-              <BarGraph data={arpKeys} />
+              <BarGraph data={arpKeysChart} />
             </StatCard>
           </Grid>
+
         </Grid>
       )}
 
 
-      {/* ======================= SCALES ======================= */}
+      {/* ------------------ SCALES ------------------ */}
       {tab === 3 && (
         <Grid container spacing={3}>
 
@@ -292,19 +339,19 @@ export default function Stats({ boards = [], chords = [], arpeggios = [], scales
           <Grid item xs={12} md={6}>
             <StatCard>
               <Typography variant="h6">Scale Shapes</Typography>
-              <PieGraph data={scaleShapes} />
+              <PieGraph data={scaleShapesChart} />
             </StatCard>
           </Grid>
 
           <Grid item xs={12}>
             <StatCard>
               <Typography variant="h6">Keys Used in Scales</Typography>
-              <BarGraph data={scaleKeys} />
+              <BarGraph data={scaleKeysChart} />
             </StatCard>
           </Grid>
+
         </Grid>
       )}
-
     </Box>
   );
 }
