@@ -54,7 +54,7 @@ const FRET_COUNT = 25;
 // ---------------------------------------------
 const StatCard = styled(Card)({
   borderRadius: "14px",
-  padding: "16px",
+  padding: "0px",
   marginBottom: "24px",
   background: "#ffffff",
 });
