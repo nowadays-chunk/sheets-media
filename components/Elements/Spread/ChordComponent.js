@@ -35,6 +35,7 @@ const ChordComponent = ( props ) => {
                         quality={el.quality}
                         shape={el.shape}
                         
+                        showStats={false}
                         showFretboardControls={false}
                         showCircleOfFifths={false}
                         showFretboard={true}

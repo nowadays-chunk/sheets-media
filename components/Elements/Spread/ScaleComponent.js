@@ -34,6 +34,8 @@ const ScaleComponent = ( props ) => {
                   scale={el.scale}
                   modeIndex={el.modeIndex}
                   shape={el.shape}
+
+                  showStats={false}
                   showFretboardControls={false}
                   showCircleOfFifths={false}
                   showFretboard={true}

@@ -37,7 +37,8 @@ const drawerWidth = 240;
 
 const Main = styled('main', { shouldForwardProp: (prop) => prop !== 'open' })(({ theme, open }) => ({
   flexGrow: 1,
-  padding: theme.spacing(3),
+  padding: 0,
+  marginTop: 100,
   transition: theme.transitions.create('margin', {
     easing: theme.transitions.easing.sharp,
     duration: theme.transitions.duration.leavingScreen,
@@ -47,7 +48,6 @@ const Main = styled('main', { shouldForwardProp: (prop) => prop !== 'open' })(({
       easing: theme.transitions.easing.easeOut,
       duration: theme.transitions.duration.enteringScreen,
     }),
-    marginLeft: 0,
   }),
 }));
 
@@ -60,12 +60,14 @@ const AppBarStyled = styled(AppBar, {
     duration: theme.transitions.duration.leavingScreen,
   }),
   padding: '0 25px',
+  margin: 0,
   '@media print': {
     display: 'none',
   },
+  width: '100%',
   ...(open && {
     width: `calc(100vw - ${drawerWidth}px)`,
-    marginLeft: `${drawerWidth}px`,
+    left: `${drawerWidth}px`,
     transition: theme.transitions.create(['margin', 'width'], {
       easing: theme.transitions.easing.easeOut,
       duration: theme.transitions.duration.enteringScreen,
@@ -83,6 +85,8 @@ const DrawerHeader = styled('div')(({ theme }) => ({
 
 const Container = styled('div')({
   width: '100%',
+  margin: 0,
+  padding: 0
 });
 
 const NavLinks = styled('div')({
@@ -191,7 +195,7 @@ function App({ Component, pageProps }) {
       `}</style>
       <Provider store={store}>
         <ThemeProvider theme={theme}>
-          <Box sx={{ display: 'flex' }}>
+          <Box sx={{ display: 'flex', width: '100vw', margin: 0, padding: 0 }}>
             {<AppBarStyled position="fixed" open={drawerOpen}>
               <ToolbarContent>
                 <IconButton
@@ -236,7 +240,7 @@ function App({ Component, pageProps }) {
                       <Button color="inherit">References</Button>
                     </StyledLink>
                   </NavLinks>
-              </ToolbarContent>
+            </ToolbarContent>
             </AppBarStyled>}
             <nav style={{ zIndex: 10000 }}>
                 <Drawer
@@ -264,7 +268,6 @@ function App({ Component, pageProps }) {
                 </Drawer>
             </nav>        
             <Main open={drawerOpen}>
-              <DrawerHeader />
               <Container>
                 <Component {...pageProps} leftDrawerOpen={drawerOpen} leftDrawerWidth={drawerWidth} />
               </Container>

@@ -940,7 +940,7 @@ export default function Stats({
   // RENDER SWITCH
   // ---------------------------------------------------------
   return (
-    <Box sx={{ p: 0 }}>
+    <Box sx={{ p: 0, m: 0}}>
       <Typography variant="h4" sx={{ mb: 3 }}>
         🎸 Strum Dot Fun — Analytics Dashboard
       </Typography>
