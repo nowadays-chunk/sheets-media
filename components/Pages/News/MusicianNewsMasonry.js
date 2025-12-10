@@ -1,13 +1,12 @@
 "use client";
 
-import React, { useState, useEffect, useRef, useCallback } from "react";
+import React, { useState, useEffect, useRef, useCallback, useMemo } from "react";
 import {
   Card,
   CardHeader,
   CardContent,
   CardMedia,
   CardActions,
-  Collapse,
   IconButton,
   Typography,
   Avatar,
@@ -15,28 +14,25 @@ import {
 } from "@mui/material";
 
 import FavoriteIcon from "@mui/icons-material/Favorite";
-import ShareIcon from "@mui/icons-material/Share";
-import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
-import MoreVertIcon from "@mui/icons-material/MoreVert";
 import OpenInNewIcon from "@mui/icons-material/OpenInNew";
+import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
+import ChevronRightIcon from "@mui/icons-material/ChevronRight";
+import KeyboardArrowDownIcon from "@mui/icons-material/KeyboardArrowDown";
+import KeyboardArrowUpIcon from "@mui/icons-material/KeyboardArrowUp";
+
 import { red } from "@mui/material/colors";
 import { styled } from "@mui/material/styles";
 
-// MUI Expand Component
-const ExpandMore = styled((props) => {
-  const { expand, ...other } = props;
-  return <IconButton {...other} />;
-})(({ theme, expand }) => ({
-  marginLeft: "auto",
-  transform: !expand ? "rotate(0deg)" : "rotate(180deg)",
-  transition: theme.transitions.create("transform", {
-    duration: theme.transitions.duration.shortest,
-  }),
-}));
+// ============================================================================
+// CONSTANTS
+// ============================================================================
+const SIDEBAR_WIDTH = 350;
+const SIDEBAR_CLOSED = 40;
+const HEADER_HEIGHT = 44;
 
-// -----------------------------------------
-//   100 RSS FEEDS
-// -----------------------------------------
+// ============================================================================
+// RSS FEEDS
+// ============================================================================
 const RSS_FEEDS = [
   "https://pan-african-music.com/en/feed/",
   "https://native-mag.com/feed/",
@@ -48,109 +44,201 @@ const RSS_FEEDS = [
   "https://yawapress.com/feed/",
   "https://www.yabiladi.com/rss/actualites/musique",
   "https://www.hitradio.ma/feed",
-  "https://www.maghrebvoices.com/rss",
-  "https://en.hespress.com/feed",
-  "https://www.thenationalnews.com/culture/music/rss",
-  "https://www.musicnation.me/feed/",
-  "https://www.pulse.ng/lifestyle/music/rss",
-  "https://ghanamotion.com/feed/",
-  "https://www.ghanamusic.com/feed/",
-  "https://rapradar.com/feed/",
-  "https://www.okayplayer.com/feed/",
-  "https://pitchfork.com/rss/news/",
-  "https://www.rollingstone.com/music/music-news/feed/",
-  "https://www.billboard.com/feed/",
-  "https://www.nme.com/feed",
-  "https://www.stereogum.com/feed/",
-  "https://consequence.net/feed/",
-  "https://www.spin.com/feed/",
-  "https://www.thefader.com/feed",
-  "https://www.npr.org/rss/rss.php?id=1039",
-  "https://www.bbc.co.uk/music/articles.rss",
-  "https://hotnewhiphop.com/feed/",
-  "https://genius.com/articles.rss",
-  "https://jpopasia.com/feed/",
-  "https://www.koreaboo.com/feed/",
-  "https://www.soompi.com/feed",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCdN4aXTrHAtfgbVG9HjBmxQ",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC2Qw1dzXDBAZPwS7zm37g8g",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCLkAepWjdylmXSltofFvsYQ",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC5nc_ZtjKW1htCVZVRxlQAQ",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCt7fwAhXDy3oNFTAzF2o8Pw",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCZFWPqqPkFlNwIxcpsLOwew",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UC3IZKseVpdzPSBaWxBxundA",
-  "https://www.youtube.com/feeds/videos.xml?channel_id=UCsRM0YB_dabtEPGPTKo-gcw",
 ];
 
-// -----------------------------------------
-// CORS-SAFE RSS FETCHER (rss2json)
-// -----------------------------------------
+// ============================================================================
+// RESPONSIVE CONTAINER
+// ============================================================================
+const ResponsiveContainer = styled("div")({
+  width: "100%",
+  maxWidth: "100vw",
+  overflowX: "hidden",
+  padding: "0 80px",
+  margin: "0 auto",
+  boxSizing: "border-box",
+
+  "@media (max-width:1200px)": {
+    padding: "0 20px",
+  },
+});
+
+// ============================================================================
+// MASONRY
+// ============================================================================
+const MasonryWrapper = styled("div")(({ theme }) => ({
+  width: "100%",
+  maxWidth: "100%",
+  columnGap: "20px",
+  columnCount: 1,
+  overflowX: "hidden",
+  boxSizing: "border-box",
+
+  [theme.breakpoints.up("md")]: { columnCount: 2 },
+  [theme.breakpoints.up("lg")]: { columnCount: 3 },
+}));
+
+const MasonryItem = styled("div")({
+  breakInside: "avoid",
+  width: "100%",
+  display: "block",
+  marginBottom: 20,
+});
+
+// ============================================================================
+// DESKTOP SIDEBAR (scrollable Y, invisible scrollbar)
+// ============================================================================
+const Sidebar = styled("div")(({ open }) => ({
+  position: "fixed",
+  top: HEADER_HEIGHT,
+  right: 0,
+  width: open ? SIDEBAR_WIDTH : SIDEBAR_CLOSED,
+  height: `calc(100vh - ${HEADER_HEIGHT}px)`,
+  background: "#f5f5f5",
+  borderLeft: "1px solid #ddd",
+  transition: "width 0.3s ease",
+  zIndex: 3000,
+  overflow: "hidden",
+
+  "@media (max-width:1200px)": {
+    display: "none",
+  },
+}));
+
+const SidebarHeader = styled("div")(({ open }) => ({
+  height: 45,
+  borderBottom: "1px solid #ddd",
+  display: "flex",
+  alignItems: "center",
+  justifyContent: open ? "flex-start" : "center",
+  paddingLeft: 12,
+  paddingRight: 12,
+  boxSizing: "border-box",
+}));
+
+const SidebarToggleDesktop = styled(IconButton)({
+  width: 24,
+  height: 24,
+  padding: 4,
+  background: "#fff",
+  border: "2px solid #463f4b",
+  borderRadius: "50%",
+  "&:hover": { background: "#eee" },
+});
+
+const SidebarScroll = styled("div")({
+  height: "calc(100% - 45px)",
+  overflowY: "auto",
+  padding: "20px",
+  boxSizing: "border-box",
+
+  /* HIDE SCROLLBAR */
+  scrollbarWidth: "none",
+  msOverflowStyle: "none",
+  "&::-webkit-scrollbar": {
+    display: "none",
+  },
+});
+
+// ============================================================================
+// MOBILE SIDEBAR
+// ============================================================================
+const MobileDrawer = styled("div")(({ open }) => ({
+  position: "fixed",
+  top: HEADER_HEIGHT,
+  left: 0,
+  right: 0,
+
+  width: "100%",
+  maxWidth: "100%",
+  background: "#f5f5f5",
+  borderBottom: "1px solid #ddd",
+  transition: "max-height 0.35s ease",
+
+  maxHeight: open ? "80vh" : 40,
+  overflow: "hidden",
+  zIndex: 5000,
+
+  "@media (min-width:1200px)": { display: "none" },
+}));
+
+const MobileDrawerHeader = styled("div")({
+  height: 40,
+  display: "flex",
+  justifyContent: "flex-end",
+  alignItems: "center",
+  paddingRight: 20,
+});
+
+const MobileDrawerToggle = styled(IconButton)({
+  width: 24,
+  height: 24,
+  borderRadius: "50%",
+  border: "2px solid #463f4b",
+  background: "#fff",
+});
+
+const MobileDrawerScroll = styled("div")({
+  height: "calc(80vh - 40px)",
+  overflowY: "auto",
+  padding: "20px",
+  boxSizing: "border-box",
+
+  scrollbarWidth: "none",
+  msOverflowStyle: "none",
+  "&::-webkit-scrollbar": {
+    display: "none",
+  },
+});
+
+// ============================================================================
+// FETCH RSS
+// ============================================================================
 async function fetchRSS(url) {
   try {
     const res = await fetch(
       `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(url)}`
     );
-
-    if (!res.ok) throw new Error("Failed RSS");
-
     const data = await res.json();
-    if (!data.items) return [];
+    if (!res.ok || !data.items) return [];
 
     return data.items.map((i) => ({
+      id: i.link,
       title: i.title,
       link: i.link,
-      date: i.pubDate,
-      content: i.description,
-      thumbnail: i.thumbnail || i.enclosure?.link || "",
+      date: new Date(i.pubDate).getTime(),
+      content: i.description?.replace(/<[^>]+>/g, "") || "",
+      thumbnail: i.thumbnail || i.enclosure?.link || null,
       source: data.feed?.title || url,
     }));
-  } catch (e) {
-    console.log("RSS error for", url);
+  } catch {
     return [];
   }
 }
 
-// -----------------------------------------
+// ============================================================================
 // MAIN COMPONENT
-// -----------------------------------------
+// ============================================================================
 export default function MusicianNewsMasonry() {
   const [articles, setArticles] = useState([]);
+  const [latest10PerFeed, setLatest10PerFeed] = useState([]);
   const [search, setSearch] = useState("");
-  const [expandedIndex, setExpandedIndex] = useState(null);
-  const [loading, setLoading] = useState(true);
   const [bookmarks, setBookmarks] = useState([]);
-  const [filters, setFilters] = useState({
-    artists: [],
-    genres: [],
-    songs: [],
-  });
+  const [loading, setLoading] = useState(true);
 
-  const observer = useRef(null);
   const [page, setPage] = useState(1);
   const [hasMore, setHasMore] = useState(true);
 
-  // -----------------------------------------
-  // Load bookmarks from localStorage
-  // -----------------------------------------
+  const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
+
+  const observer = useRef(null);
+
+  // LOAD BOOKMARKS
   useEffect(() => {
     const stored = localStorage.getItem("bookmarks_music");
     if (stored) setBookmarks(JSON.parse(stored));
-
-    const storedFilters = localStorage.getItem("filters_music");
-    if (storedFilters) setFilters(JSON.parse(storedFilters));
   }, []);
 
-  const saveBookmarks = (list) => {
-    localStorage.setItem("bookmarks_music", JSON.stringify(list));
-  };
-
-  const saveFilters = (f) => {
-    localStorage.setItem("filters_music", JSON.stringify(f));
-  };
-
-  // -----------------------------------------
-  // Add bookmark
-  // -----------------------------------------
   const toggleBookmark = (article) => {
     let updated;
     if (bookmarks.some((b) => b.link === article.link)) {
@@ -158,63 +246,44 @@ export default function MusicianNewsMasonry() {
     } else {
       updated = [...bookmarks, article];
     }
+
     setBookmarks(updated);
-    saveBookmarks(updated);
+    localStorage.setItem("bookmarks_music", JSON.stringify(updated));
   };
 
-  // -----------------------------------------
-  // Filtering (artist/genre/song less)
-  // -----------------------------------------
-  const addFilter = (type, value) => {
-    const updated = {
-      ...filters,
-      [type]: [...filters[type], value.toLowerCase()],
-    };
-    setFilters(updated);
-    saveFilters(updated);
-  };
-
-  const applyFilters = (items) => {
-    return items.filter((a) => {
-      const text = (a.title + " " + a.content).toLowerCase();
-      return !filters.artists.some((f) => text.includes(f)) &&
-             !filters.genres.some((f) => text.includes(f)) &&
-             !filters.songs.some((f) => text.includes(f));
-    });
-  };
-
-  // -----------------------------------------
-  // Load More Feeds (infinite scroll)
-  // -----------------------------------------
-  const fetchPage = async () => {
+  // FETCH RSS PAGES
+  const fetchPageData = async () => {
     if (!hasMore) return;
+
     setLoading(true);
 
     const batch = RSS_FEEDS.slice((page - 1) * 5, page * 5);
     if (batch.length === 0) {
       setHasMore(false);
-      setLoading(false);
       return;
     }
 
     let results = [];
-    for (let f of batch) {
-      const r = await fetchRSS(f);
-      results.push(...r);
+    let perFeedTop10 = [];
+
+    for (const feed of batch) {
+      const items = await fetchRSS(feed);
+      results.push(...items);
+      perFeedTop10.push(...items.slice(0, 10));
     }
 
-    const merged = [...articles, ...results];
-    merged.sort((a, b) => new Date(b.date) - new Date(a.date));
+    setLatest10PerFeed((prev) => [...prev, ...perFeedTop10]);
 
+    const merged = [...articles, ...results].sort((a, b) => b.date - a.date);
     setArticles(merged);
     setLoading(false);
   };
 
-  useEffect(() => { fetchPage(); }, [page]);
+  useEffect(() => {
+    fetchPageData();
+  }, [page]);
 
-  // -----------------------------------------
-  // Infinite Scroll Observer
-  // -----------------------------------------
+  // INFINITE SCROLL OBSERVER
   const lastRef = useCallback(
     (node) => {
       if (loading) return;
@@ -222,7 +291,9 @@ export default function MusicianNewsMasonry() {
       if (observer.current) observer.current.disconnect();
 
       observer.current = new IntersectionObserver((entries) => {
-        if (entries[0].isIntersecting && hasMore) setPage((p) => p + 1);
+        if (entries[0].isIntersecting && hasMore) {
+          setPage((n) => n + 1);
+        }
       });
 
       if (node) observer.current.observe(node);
@@ -230,140 +301,201 @@ export default function MusicianNewsMasonry() {
     [loading, hasMore]
   );
 
-  // -----------------------------------------
-  // Search filter
-  // -----------------------------------------
-  const filteredArticles = applyFilters(
-    articles.filter((a) =>
-      a.title.toLowerCase().includes(search.toLowerCase())
-    )
-  );
+  // SEARCH ENGINE
+  const normalize = (t) =>
+    t.toLowerCase().replace(/\s+/g, " ").trim();
 
-  // -----------------------------------------
-  // UI
-  // -----------------------------------------
+  const searchResults = useMemo(() => {
+    if (!search) return [];
+
+    const q = normalize(search);
+
+    return latest10PerFeed
+      .map((item) => {
+        const t = normalize(item.title);
+        const c = normalize(item.content);
+        let score = 0;
+
+        if (t.includes(q)) score += 5;
+        if (c.includes(q)) score += 2;
+
+        return score ? { ...item, score } : null;
+      })
+      .filter(Boolean)
+      .sort((a, b) => b.score - a.score)
+      .slice(0, 50);
+  }, [search, latest10PerFeed]);
+
+  // ========================================================================
+  // RENDER
+  // ========================================================================
   return (
-    <div style={{ paddingLeft: 100, paddingRight: 100, paddingTop: 30 }}>
-      {/* Search */}
-      <input
-        placeholder="Search news..."
-        value={search}
-        onChange={(e) => setSearch(e.target.value)}
-        style={{
-          width: "100%",
-          padding: "12px",
-          borderRadius: "8px",
-          border: "1px solid #ccc",
-          marginBottom: "20px",
-        }}
-      />
+    <>
+      {/* DESKTOP SIDEBAR */}
+      <Sidebar open={sidebarOpen}>
+        <SidebarHeader open={sidebarOpen}>
+          <SidebarToggleDesktop onClick={() => setSidebarOpen((o) => !o)}>
+            {sidebarOpen ? <ChevronRightIcon /> : <ChevronLeftIcon />}
+          </SidebarToggleDesktop>
+        </SidebarHeader>
 
-      {/* Masonry columns */}
-      <div
-        style={{
-          columnCount: 3,
-          columnGap: "25px",
-        }}
-      >
-        {filteredArticles.map((a, idx) => {
-          const isLast = idx === filteredArticles.length - 1;
+        {sidebarOpen && (
+          <SidebarScroll>
+            <Typography variant="h6" sx={{ mb: 2 }}>
+              Bookmarked News
+            </Typography>
 
-          return (
-            <div
-              key={idx}
-              ref={isLast ? lastRef : null}
-              style={{ breakInside: "avoid", marginBottom: 25 }}
-            >
-              <Card sx={{ width: "100%", display: "inline-block" }}>
-                <CardHeader
-                  avatar={<Avatar sx={{ bgcolor: red[500] }}>M</Avatar>}
-                  action={
-                    <IconButton
-                      onClick={() => {
-                        // Filtering menu
-                        addFilter("artists", a.title.split(" ")[0]);
-                      }}
-                    >
-                      <MoreVertIcon />
-                    </IconButton>
-                  }
-                  title={a.title}
-                  subheader={new Date(a.date).toLocaleString()}
-                />
+            {bookmarks.length === 0 && (
+              <Typography>No bookmarks yet.</Typography>
+            )}
 
-                {a.thumbnail && !a._imgError ? (
-                  <CardMedia
-                    component="img"
-                    height="220"
-                    image={a.thumbnail}
-                    alt=""
-                    onError={() => {
-                      a._imgError = true;
-                      setArticles([...articles]); // trigger re-render removing image
-                    }}
-                  />
-                ) : null}
-
-
-                <CardContent>
-                  <Typography variant="body2" sx={{ color: "text.secondary" }}>
-                    {a.content.replace(/<[^>]+>/g, "").slice(0, 200)}...
-                  </Typography>
-                </CardContent>
-
-                <CardActions disableSpacing>
-                  <IconButton onClick={() => toggleBookmark(a)}>
-                    <FavoriteIcon
-                      color={
-                        bookmarks.some((b) => b.link === a.link)
-                          ? "error"
-                          : "inherit"
-                      }
-                    />
-                  </IconButton>
-
-                  <IconButton
-                    aria-label="share"
-                    onClick={() => window.open(a.link, "_blank")}
-                  >
-                    <OpenInNewIcon />
-                  </IconButton>
-
-                  <ExpandMore
-                    expand={expandedIndex === idx}
-                    onClick={() =>
-                      setExpandedIndex(expandedIndex === idx ? null : idx)
-                    }
-                    aria-expanded={expandedIndex === idx}
-                  >
-                    <ExpandMoreIcon />
-                  </ExpandMore>
-                </CardActions>
-
-                <Collapse in={expandedIndex === idx} timeout="auto">
-                  <CardContent>
-                    <Typography>
-                      {a.content.replace(/<[^>]+>/g, "")}
-                    </Typography>
-                  </CardContent>
-                </Collapse>
-              </Card>
-            </div>
-          );
-        })}
-
-        {/* Loading Skeletons */}
-        {loading && (
-          <>
-            <Skeleton variant="rectangular" height={300} sx={{ mb: 3 }} />
-            <Skeleton variant="rectangular" height={300} sx={{ mb: 3 }} />
-            <Skeleton variant="rectangular" height={300} sx={{ mb: 3 }} />
-            <Skeleton variant="rectangular" height={300} sx={{ mb: 3 }} />
-            <Skeleton variant="rectangular" height={300} sx={{ mb: 3 }} />
-            <Skeleton variant="rectangular" height={300} sx={{ mb: 3 }} />
-          </>
+            {bookmarks.map((b) => (
+              <Typography
+                key={b.id}
+                sx={{
+                  mb: 1,
+                  cursor: "pointer",
+                  "&:hover": { textDecoration: "underline" },
+                }}
+                onClick={() => window.open(b.link, "_blank")}
+              >
+                • {b.title}
+              </Typography>
+            ))}
+          </SidebarScroll>
         )}
-      </div>
-    </div>
+      </Sidebar>
+
+      {/* MOBILE SIDEBAR */}
+      <MobileDrawer open={mobileSidebarOpen}>
+        <MobileDrawerHeader>
+          <MobileDrawerToggle
+            onClick={() => setMobileSidebarOpen((o) => !o)}
+          >
+            {mobileSidebarOpen ? (
+              <KeyboardArrowUpIcon />
+            ) : (
+              <KeyboardArrowDownIcon />
+            )}
+          </MobileDrawerToggle>
+        </MobileDrawerHeader>
+
+        <MobileDrawerScroll>
+          <Typography variant="h6" sx={{ mb: 2 }}>
+            Bookmarked News
+          </Typography>
+
+          {bookmarks.map((b) => (
+            <Typography
+              key={b.id}
+              sx={{
+                mb: 1,
+                cursor: "pointer",
+                "&:hover": { textDecoration: "underline" },
+              }}
+              onClick={() => window.open(b.link, "_blank")}
+            >
+              • {b.title}
+            </Typography>
+          ))}
+        </MobileDrawerScroll>
+      </MobileDrawer>
+
+      {/* MAIN CONTENT */}
+      <ResponsiveContainer>
+        <input
+          placeholder="Search latest 10 news per feed…"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          style={{
+            width: "100%",
+            padding: "12px",
+            borderRadius: "8px",
+            border: "1px solid #ccc",
+            marginBottom: "20px",
+          }}
+        />
+
+        {/* SEARCH RESULTS */}
+        {search && (
+          <MasonryWrapper>
+            {searchResults.map((a) => (
+              <MasonryItem key={a.id}>
+                <Card>
+                  <CardHeader
+                    avatar={<Avatar sx={{ bgcolor: red[500] }}>M</Avatar>}
+                    title={a.title}
+                    subheader={new Date(a.date).toLocaleString()}
+                  />
+                  {a.thumbnail && (
+                    <CardMedia component="img" image={a.thumbnail} />
+                  )}
+                  <CardContent>
+                    <Typography>{a.content.slice(0, 200)}...</Typography>
+                  </CardContent>
+                  <CardActions>
+                    <IconButton onClick={() => window.open(a.link, "_blank")}>
+                      <OpenInNewIcon />
+                    </IconButton>
+                  </CardActions>
+                </Card>
+              </MasonryItem>
+            ))}
+          </MasonryWrapper>
+        )}
+
+        {/* LATEST NEWS */}
+        {!search && (
+          <MasonryWrapper>
+            {articles.map((a, idx) => {
+              const isLast = idx === articles.length - 1;
+              return (
+                <MasonryItem key={a.id} ref={isLast ? lastRef : null}>
+                  <Card>
+                    <CardHeader
+                      avatar={<Avatar sx={{ bgcolor: red[500] }}>M</Avatar>}
+                      title={a.title}
+                      subheader={new Date(a.date).toLocaleString()}
+                    />
+
+                    {a.thumbnail && (
+                      <CardMedia component="img" image={a.thumbnail} />
+                    )}
+
+                    <CardContent>
+                      <Typography>{a.content.slice(0, 200)}...</Typography>
+                    </CardContent>
+
+                    <CardActions>
+                      <IconButton onClick={() => toggleBookmark(a)}>
+                        <FavoriteIcon
+                          color={
+                            bookmarks.some((b) => b.link === a.link)
+                              ? "error"
+                              : "inherit"
+                          }
+                        />
+                      </IconButton>
+
+                      <IconButton onClick={() => window.open(a.link, "_blank")}>
+                        <OpenInNewIcon />
+                      </IconButton>
+                    </CardActions>
+                  </Card>
+                </MasonryItem>
+              );
+            })}
+
+            {loading && (
+              <>
+                <Skeleton height={300} sx={{ mb: 3 }} />
+                <Skeleton height={300} sx={{ mb: 3 }} />
+                <Skeleton height={300} sx={{ mb: 3 }} />
+              </>
+            )}
+          </MasonryWrapper>
+        )}
+      </ResponsiveContainer>
+    </>
   );
 }

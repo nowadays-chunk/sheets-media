@@ -44,7 +44,7 @@ const CoverOne = () => {
 
 const PlayAndVisualize = (props) => {
   return (
-    <>
+    <div style={{width: '100%'}}>
         <Meta 
           title="Play And Visualize"
           description="Play And Visualize Chords, Scales And Arppegios In A Complete Reference Of Guitar Music Sheets."></Meta>
@@ -63,7 +63,7 @@ const PlayAndVisualize = (props) => {
             leftDrawerWidth={props.leftDrawerWidth}
             />
         </ ScoreProvider >
-      </>
+      </div>
   );
 };
 

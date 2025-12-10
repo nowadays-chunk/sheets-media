@@ -1,10 +1,5 @@
 // ============================================================================
-// MusicApp.jsx — FINAL VERSION
-// - AppWrapper ALWAYS stays inside 100vw
-// - Fretboard scrolls horizontally inside proper container
-// - Desktop drawer ≥ 1200px
-// - Mobile dropdown < 1200px
-// - CSS-only, hydration safe
+// MusicApp.jsx — FINAL VERSION (Hydration-Safe)
 // ============================================================================
 
 import React, { useEffect, useCallback, useState } from "react";
@@ -41,45 +36,33 @@ import Meta from "../Partials/Head";
 // ============================================================================
 const SIDEBAR_CLOSED = 40;
 const SIDEBAR_OPEN = 600;
-
 const HEADER_HEIGHT = 44;
-const HEADER_PADDING = 16;
 
 // ============================================================================
 // STYLED COMPONENTS
 // ============================================================================
 
-// ROOT WRAPPER — NEVER exceed the viewport width
+// Root wrapper
 const AppWrapper = styled("div")({
   display: "flex",
   flexDirection: "column",
-
   maxWidth: "100vw",
-
   overflowX: "hidden",
   overflowY: "hidden",
-
   position: "relative",
-  margin: 0,
-  padding: 0,
 });
 
-// MAIN CONTENT AREA (inside viewport always)
+// Main content
 const MainContent = styled("div")(({ drawerOpen }) => ({
   position: "relative",
   flex: 1,
-
   width: "100%",
-
-  padding: 0,
-  margin: 0,
-
   overflowY: "auto",
   overflowX: "hidden",
-
+  margin: 0,
+  padding: 0,
   transition: "margin-left 0.3s ease",
 
-  // Only shift on desktop when sidebar is open
   ...(drawerOpen && {
     "@media (min-width:1200px)": {
       marginLeft: -SIDEBAR_OPEN,
@@ -92,57 +75,45 @@ const MainInner = styled("div")({
   maxWidth: "100vw",
   overflowX: "hidden",
   margin: 0,
-  "@media (max-width:1200px)": {
-    padding: '0px 15px',
-  },
-  "@media (min-width:1200px)": {
-    padding: '0px 180px',
-  },
+  "@media (max-width:1200px)": { padding: "0px 15px" },
+  "@media (min-width:1200px)": { padding: "0px 180px" },
   boxSizing: "border-box",
 });
 
-// ============================================================================
-// DESKTOP RIGHT SIDEBAR (≥ 1200px)
-// ============================================================================
+// Desktop drawer
 const SideDrawer = styled("div")(({ open }) => ({
   position: "fixed",
   top: HEADER_HEIGHT,
   right: 0,
   height: `calc(100vh - ${HEADER_HEIGHT}px)`,
-
   width: open ? SIDEBAR_OPEN : SIDEBAR_CLOSED,
   minWidth: open ? SIDEBAR_OPEN : SIDEBAR_CLOSED,
-
   backgroundColor: "#f5f5f5",
   borderLeft: "1px solid #ddd",
-
   zIndex: 2000,
   transition: "width 0.3s ease",
-
   display: "flex",
   flexDirection: "column",
 
-  "@media (max-width:1200px)": {
-    display: "none",
-  },
+  "@media (max-width:1200px)": { display: "none" },
 }));
 
 const DrawerHeader = styled("div")(({ open }) => ({
   height: open ? 25 : 45,
   borderBottom: "1px solid #ddd",
   display: "flex",
+  padding: open ? 10 : 0,
   alignItems: open ? "flex-start" : "center",
   justifyContent: open ? "flex-start" : "center",
-  padding: open ? 10 : 0,
 }));
 
 const DrawerToggleDesktop = styled(IconButton)({
   width: 24,
   height: 24,
-  padding: 6,
-  background: "#fff",
   border: "2px solid #463f4b",
   borderRadius: "50%",
+  background: "#fff",
+  padding: 6,
   "&:hover": { background: "#f0f0f0" },
 });
 
@@ -156,56 +127,37 @@ const DrawerContent = styled("div")(({ open }) => ({
   overflowY: "auto",
 }));
 
-// ============================================================================
-// MOBILE TOP DRAWER (< 1200px)
-// ============================================================================
+// Mobile drawer
 const MobileDrawer = styled("div")(({ open }) => ({
   position: "fixed",
-
   top: HEADER_HEIGHT,
-
-  // ABSOLUTE edges — prevents any gap
   left: 0,
   right: 0,
-
-  // REAL device width (safer than 100vw)
   width: "100%",
   maxWidth: "100%",
-
   margin: 0,
   padding: 0,
-
-  // Fix rounding issues on mobile
   transform: "translateZ(0)",
   WebkitTransform: "translateZ(0)",
   WebkitOverflowScrolling: "touch",
-
   backgroundColor: "#f5f5f5",
   borderBottom: "1px solid #5a5656ff",
-
   zIndex: 3000,
-
-  overflowY: 'hidden',
   overflowX: "hidden",
-
-  // Expansion animation
+  overflowY: open ? "auto" : "hidden",
   maxHeight: open ? "100%" : SIDEBAR_CLOSED,
   transition: "max-height 0.35s ease",
 
-  "@media (min-width:1200px)": {
-    display: "none",
-  },
+  "@media (min-width:1200px)": { display: "none" },
 }));
 
 const MobileDrawerHeader = styled("div")({
   height: 40,
   display: "flex",
-  alignItems: "center",
   justifyContent: "flex-end",
-  width: "100%",
-  boxSizing: "border-box",
+  alignItems: "center",
   borderBottom: "1px solid #ccc",
-  paddingRight: 20
+  paddingRight: 20,
 });
 
 const MobileDrawerToggle = styled(IconButton)({
@@ -214,60 +166,48 @@ const MobileDrawerToggle = styled(IconButton)({
   borderRadius: "50%",
   border: "2px solid #463f4b",
   background: "#fff",
-  "&:hover": { background: "#f0f0f0" },
 });
 
 const MobileDrawerContent = styled("div")({
-  width: "100vw",
+  width: "100%",
   maxWidth: "100%",
-  padding: '0px 40px 50px 30px',
+  padding: "0px 40px 50px 30px",
   boxSizing: "border-box",
   overflowX: "hidden",
-
 });
 
-
-// ============================================================================
-// SCROLL-FRIENDLY FRETBOARD WRAPPER
-// ============================================================================
-const FretboardContainer = styled("div")({
-  width: "100vw",
+// **HYDRATION-SAFE SCROLL WRAPPER**
+const FretboardScroll = styled("div")({
+  width: "100%",
   maxWidth: "100%",
-  marginBottom: 20,
-  padding: 0,
-  marginRight: 0,
-  marginLeft: 0,
-
-  "& .fretboard-scroll": {
-    width: "100%",
-    maxWidth: "100%",
-
-    overflowX: "auto",
-    overflowY: "hidden",
-    WebkitOverflowScrolling: "touch",
-
-    "> *": {
-      maxWidth: "none !important",
-    },
+  overflowX: "auto",
+  overflowY: "hidden",
+  WebkitOverflowScrolling: "touch",
+  "& > *": {
+    maxWidth: "none !important",
   },
 });
 
-// ============================================================================
-// MAIN COMPONENT
-// ============================================================================
+// Outer fretboard container
+const FretboardContainer = styled("div")({
+  width: "100%",
+  maxWidth: "100%",
+  marginBottom: 20,
+});
+
+// Root content wrapper
 const Root = styled("div")({
   width: "100%",
-  maxWidth: "100vw",
   display: "flex",
   flexDirection: "column",
   overflowX: "hidden",
-  padding: 0,
-  margin: 0
 });
 
+// ============================================================================
+// COMPONENT
+// ============================================================================
 const MusicApp = (props) => {
   const dispatch = useDispatch();
-
   const [drawerOpen, setDrawerOpen] = useState(false);
   const [mobileDrawerOpen, setMobileDrawerOpen] = useState(false);
 
@@ -293,12 +233,12 @@ const MusicApp = (props) => {
     showCircleOfFifths,
     showStats,
     leftDrawerOpen,
-    leftDrawerWidth
+    leftDrawerWidth,
   } = props;
 
   const { addNoteFromFretboard } = useScore();
 
-  // STATE UPDATE LOGIC
+  // UPDATE LOGIC (unchanged)
   const updateBoardsCallback = useCallback(() => {
     if (!selectedFretboard?.id) return;
 
@@ -320,7 +260,6 @@ const MusicApp = (props) => {
             guitar.scales[scale].modes[modeIndex].name
           )
         );
-
         if (shape !== "") {
           dispatch(updateBoards(selectedFretboard.id, "modeSettings.shape", shape));
           dispatch(updateBoards(selectedFretboard.id, "scaleSettings.shape", shape));
@@ -342,15 +281,8 @@ const MusicApp = (props) => {
       if (shape !== "") dispatch(updateBoards(selectedFretboard.id, "chordSettings.shape", shape));
     }
   }, [
-    dispatch,
-    display,
-    selectedFretboard,
-    keyIndex,
-    modeIndex,
-    scale,
-    shape,
-    quality,
-    updateBoards,
+    dispatch, display, selectedFretboard, keyIndex, modeIndex,
+    scale, shape, quality, updateBoards
   ]);
 
   useEffect(() => {
@@ -365,48 +297,44 @@ const MusicApp = (props) => {
   return (
     <AppWrapper>
 
-      {/* MOBILE DRAWER (<1200px) */}
+      {/* MOBILE DRAWER */}
       {showFretboardControls && (
         <MobileDrawer
+          open={mobileDrawerOpen}
           sx={{
             left: leftDrawerOpen ? leftDrawerWidth : 0,
-            right: 0,                  // force full width
             width: leftDrawerOpen
-              ? `calc(100% - ${leftDrawerWidth}px)`  // use % instead of vw
+              ? `calc(100% - ${leftDrawerWidth}px)`
               : "100%",
-            overflowY: mobileDrawerOpen ? 'auto' : 'hiddens'
           }}
-          open={mobileDrawerOpen}
         >
           <MobileDrawerHeader>
-            <MobileDrawerToggle onClick={() => setMobileDrawerOpen(x => !x)}>
+            <MobileDrawerToggle onClick={() => setMobileDrawerOpen(v => !v)}>
               {mobileDrawerOpen ? <KeyboardArrowUpIcon /> : <KeyboardArrowDownIcon />}
             </MobileDrawerToggle>
           </MobileDrawerHeader>
 
           <MobileDrawerContent>
-              <FretboardControls
-                createNewBoardDisplay={createNewBoardDisplay}
-                handleChoiceChange={handleChoiceChange}
-                onCleanFretboard={cleanFretboard}
-                selectedKey={
-                  selectedFretboard.keySettings[selectedFretboard.generalSettings.choice]
-                }
-                selectedScale={selectedFretboard.scaleSettings.scale}
-                selectedChord={selectedFretboard.chordSettings.chord}
-                selectedShape={
-                  selectedFretboard[selectedFretboard.generalSettings.choice + "Settings"].shape
-                }
-                selectedMode={selectedFretboard.modeSettings.mode}
-                onElementChange={onElementChange}
-                scaleModes={
-                  selectedFretboard.scaleSettings.scale
-                    ? guitar.scales[selectedFretboard.scaleSettings.scale].modes
-                    : []
-                }
-                arppegiosNames={Object.keys(guitar.arppegios)}
-                choice={selectedFretboard.generalSettings.choice}
-              />
+            <FretboardControls
+              createNewBoardDisplay={createNewBoardDisplay}
+              handleChoiceChange={handleChoiceChange}
+              onCleanFretboard={cleanFretboard}
+              selectedKey={selectedFretboard.keySettings[selectedFretboard.generalSettings.choice]}
+              selectedScale={selectedFretboard.scaleSettings.scale}
+              selectedChord={selectedFretboard.chordSettings.chord}
+              selectedShape={
+                selectedFretboard[selectedFretboard.generalSettings.choice + "Settings"].shape
+              }
+              selectedMode={selectedFretboard.modeSettings.mode}
+              onElementChange={onElementChange}
+              scaleModes={
+                selectedFretboard.scaleSettings.scale
+                  ? guitar.scales[selectedFretboard.scaleSettings.scale].modes
+                  : []
+              }
+              arppegiosNames={Object.keys(guitar.arppegios)}
+              choice={selectedFretboard.generalSettings.choice}
+            />
           </MobileDrawerContent>
         </MobileDrawer>
       )}
@@ -419,12 +347,12 @@ const MusicApp = (props) => {
 
             {showFretboard && (
               <FretboardContainer>
-                <div className="fretboard-scroll">
+                <FretboardScroll>
                   <FretboardDisplay
                     selectedFretboard={selectedFretboard}
                     boards={boards}
-                    handleFretboardSelect={(fbIndex) => {
-                      handleFretboardSelect(fbIndex);
+                    handleFretboardSelect={(i) => {
+                      handleFretboardSelect(i);
                       setMobileDrawerOpen(true);
                       setDrawerOpen(true);
                     }}
@@ -432,11 +360,10 @@ const MusicApp = (props) => {
                     onNoteClick={(noteObj) => {
                       if (selectedFretboard.generalSettings.page === "compose")
                         addNoteFromFretboard(noteObj);
-                      }
-                    }
+                    }}
                     visualizerModalIndex={selectedFretboard.modeSettings.mode}
                   />
-                </div>
+                </FretboardScroll>
               </FretboardContainer>
             )}
 
@@ -461,41 +388,40 @@ const MusicApp = (props) => {
         </MainInner>
       </MainContent>
 
-      {/* DESKTOP SIDEBAR (≥1200px) */}
+      {/* DESKTOP SIDEBAR */}
       {showFretboardControls && (
         <SideDrawer open={drawerOpen}>
           <DrawerHeader open={drawerOpen}>
-            <DrawerToggleDesktop onClick={() => setDrawerOpen(x => !x)}>
+            <DrawerToggleDesktop onClick={() => setDrawerOpen(v => !v)}>
               {drawerOpen ? <ChevronRightIcon /> : <ChevronLeftIcon />}
             </DrawerToggleDesktop>
           </DrawerHeader>
 
           <DrawerContent open={drawerOpen}>
-              <FretboardControls
-                createNewBoardDisplay={createNewBoardDisplay}
-                handleChoiceChange={handleChoiceChange}
-                onCleanFretboard={cleanFretboard}
-                selectedKey={
-                  selectedFretboard.keySettings[selectedFretboard.generalSettings.choice]
-                }
-                selectedScale={selectedFretboard.scaleSettings.scale}
-                selectedChord={selectedFretboard.chordSettings.chord}
-                selectedShape={
-                  selectedFretboard[selectedFretboard.generalSettings.choice + "Settings"].shape
-                }
-                selectedMode={selectedFretboard.modeSettings.mode}
-                onElementChange={onElementChange}
-                scaleModes={
-                  selectedFretboard.scaleSettings.scale
-                    ? guitar.scales[selectedFretboard.scaleSettings.scale].modes
-                    : []
-                }
-                arppegiosNames={Object.keys(guitar.arppegios)}
-                choice={selectedFretboard.generalSettings.choice}
-              />
+            <FretboardControls
+              createNewBoardDisplay={createNewBoardDisplay}
+              handleChoiceChange={handleChoiceChange}
+              onCleanFretboard={cleanFretboard}
+              selectedKey={selectedFretboard.keySettings[selectedFretboard.generalSettings.choice]}
+              selectedScale={selectedFretboard.scaleSettings.scale}
+              selectedChord={selectedFretboard.chordSettings.chord}
+              selectedShape={
+                selectedFretboard[selectedFretboard.generalSettings.choice + "Settings"].shape
+              }
+              selectedMode={selectedFretboard.modeSettings.mode}
+              onElementChange={onElementChange}
+              scaleModes={
+                selectedFretboard.scaleSettings.scale
+                  ? guitar.scales[selectedFretboard.scaleSettings.scale].modes
+                  : []
+              }
+              arppegiosNames={Object.keys(guitar.arppegios)}
+              choice={selectedFretboard.generalSettings.choice}
+            />
           </DrawerContent>
         </SideDrawer>
       )}
+
     </AppWrapper>
   );
 };
@@ -505,9 +431,8 @@ const MusicApp = (props) => {
 // ============================================================================
 const mapStateToProps = (state, ownProps) => {
   const filteredBoards = state.fretboard.components.filter(
-    (board) => board.generalSettings.page === ownProps.board
+    (b) => b.generalSettings.page === ownProps.board
   );
-
   return {
     boards: filteredBoards,
     progressions: state.partitions,
