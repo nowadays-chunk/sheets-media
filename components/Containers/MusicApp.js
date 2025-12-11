@@ -358,8 +358,10 @@ const MusicApp = (props) => {
                     }}
                     onElementChange={onElementChange}
                     onNoteClick={(noteObj) => {
-                      if (selectedFretboard.generalSettings.page === "compose")
+                      if (selectedFretboard.generalSettings.page === "compose"){
+                        console.log(noteObj);
                         addNoteFromFretboard(noteObj);
+                      }
                     }}
                     visualizerModalIndex={selectedFretboard.modeSettings.mode}
                   />

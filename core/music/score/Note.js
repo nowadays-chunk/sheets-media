@@ -5,56 +5,46 @@ import Duration from "./Duration";
 export default class Note {
   constructor(pitch, duration) {
     this.pitch = pitch;
-    this.duration = duration instanceof Duration ? duration : new Duration("q");
+    this.duration = duration;
     this.isRest = false;
-  }
 
-  static fromFretboard(f) {
-    // f = { string, fret, midi or noteName, octave }
-    console.log("note selected ", f)
-    // If MIDI is available, use it
-    let pitch;
-    if (f.midi != null) {
-      pitch = Pitch.fromMidi(f.midi);
-    } else {
-      // fallback: string + fret → pitchClass + octave
-      pitch = Pitch.fromStringFret(f.string, f.fret);
-    }
+    // Guitar metadata
+    this.string = null;
+    this.fret = null;
 
-    return new Note({
-      pitch,
-      duration: new Duration("q"),
-      string: f.string + 1, // VexFlow TAB uses 1–6
-      fret: f.fret
-    });
+    // Performance metadata
+    this.midi = null;
+    this.velocity = 1;
   }
 
   serialize() {
     return {
-      pitch: this.pitch ? this.pitch.serialize() : null,
-      duration: this.duration.serialize(),
-      isRest: this.isRest ?? false,
+      pitch: this.pitch?.serialize() || null,
+      duration: this.duration?.serialize() || null,
+      isRest: this.isRest,
+
       string: this.string,
       fret: this.fret,
-      midi: this.midi
+
+      midi: this.midi,
+      velocity: this.velocity
     };
   }
 
   static deserialize(json) {
-    const pitch = json.pitch ? Pitch.deserialize(json.pitch) : null;
-    const duration = Duration.deserialize(json.duration);
+    const n = new Note(
+      Pitch.deserialize(json.pitch),
+      Duration.deserialize(json.duration)
+    );
 
-    const n = new Note(pitch, duration);
+    n.isRest = json.isRest;
 
-    n.isRest = json.isRest ?? false;
-    n.string = json.string;
-    n.fret = json.fret;
-    n.midi = json.midi;
+    n.string = json.string ?? null;
+    n.fret = json.fret ?? null;
+
+    n.midi = json.midi ?? null;
+    n.velocity = json.velocity ?? 1;
 
     return n;
-  }
-
-  clone() {
-    return new Note(this.pitch.clone(), this.duration.clone());
   }
 }

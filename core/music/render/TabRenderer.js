@@ -1,61 +1,37 @@
-import {
-  Renderer,
-  TabStave,
-  TabNote,
-  Voice,
-  Formatter
-} from "vexflow";
+// core/music/render/NotationRenderer.js
+import Vex from "vexflow";
+const VF = Vex;
 
 export default class TabRenderer {
-  constructor({ container, score, layout = {} }) {
+  constructor({ container, score }) {
     this.container = container;
     this.score = score;
-    this.layout = layout;
   }
 
   render() {
-    const container = this.container;
-    const score = this.score;
+    if (!this.container || !this.score) return;
+    this.container.innerHTML = "";
 
-    if (!container || !score) return;
-
-    container.innerHTML = "";
-
-    const renderer = new Renderer(container, Renderer.Backends.SVG);
+    const renderer = new VF.Renderer(this.container, VF.Renderer.Backends.SVG);
     renderer.resize(800, 180);
     const ctx = renderer.getContext();
 
-    const stave = new TabStave(10, 30, 780);
+    const stave = new VF.TabStave(10, 30, 780);
     stave.addTabGlyph();
     stave.setContext(ctx).draw();
 
     const notes = [];
 
-    // Extract notes from Score model
-    for (const m of score.measures) {
+    for (const m of this.score.measures) {
       for (const v of m.voices) {
-        v.elements.forEach((entry) => {
-          const el = entry.element || entry;
+        v.elements.forEach(entry => {
+          const el = entry.note ?? entry.element ?? entry;
           if (!el) return;
-
-          let { string, fret } = el;
-
-          // Fallback: compute from pitch
-          if ((string == null || fret == null) && el.pitch) {
-            const tuning = [64, 59, 55, 50, 45, 40]; // E4, B3, G3, D3, A2, E2
-            const midi = el.pitch.toMidi();
-            string = 1; // high E
-            fret = Math.max(0, midi - tuning[0]);
-          }
-
-          string = string ?? 1;
-          fret = fret ?? 0;
 
           const duration = el.duration?.symbol ?? "q";
 
-          // VexFlow 4 TAB note syntax
-          const tabNote = new TabNote({
-            positions: [{ str: string, fret }],
+          const tabNote = new VF.TabNote({
+            positions: [{ str: el.string || 1, fret: el.fret || 0 }],
             duration
           });
 
@@ -64,20 +40,18 @@ export default class TabRenderer {
       }
     }
 
-    const voice = new Voice({
-      time: score.timeSignature?.toString() || "4/4",
-    }).setMode(Voice.Mode.SOFT);
+    if (notes.length === 0) return;
 
-    if (notes.length > 0) {
-      voice.addTickables(notes);
+    const voice = new VF.Voice({
+      num_beats: this.score.timeSignature?.beats ?? 4,
+      beat_value: this.score.timeSignature?.beatValue ?? 4,
+    });
 
-      new Formatter().joinVoices([voice]).format([voice], 700);
+    voice.setMode(VF.Voice.Mode.SOFT); // IMPORTANT for incomplete bars
+    voice.addTickables(notes);
 
-      notes.forEach((n) => {
-        n.setStave(stave);
-        n.setContext(ctx);
-        n.draw();
-      });
-    }
+    new VF.Formatter().joinVoices([voice]).format([voice], 700);
+
+    voice.draw(ctx, stave);
   }
 }

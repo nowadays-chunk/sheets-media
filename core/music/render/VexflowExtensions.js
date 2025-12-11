@@ -1,87 +1,67 @@
 // core/music/render/VexflowExtensions.js
 import Vex from "vexflow";
 
-export const VF = Vex.Flow;
+const {
+  StaveNote,
+  TabNote,
+  Accidental,
+} = Vex;
 
-export function createStave({ x = 20, y = 40, width = 600, clef = "treble", timeSignature, keySignature }) {
-  const stave = new VF.Stave(x, y, width);
-
-  if (clef) stave.addClef(clef);
-  if (timeSignature) stave.addTimeSignature(timeSignature.toString());
-  if (keySignature) stave.addKeySignature(keySignature.key);
-
-  return stave;
-}
-
+/* -------------------- Convert Pitch → Vex Key -------------------- */
 export function pitchToVexKey(pitch) {
-  // { step: "C", accidental: 1, octave: 4 } => "c#/4"
-  const steps = {
-    C: "c",
-    D: "d",
-    E: "e",
-    F: "f",
-    G: "g",
-    A: "a",
-    B: "b",
-  };
-
+  const steps = { C: "c", D: "d", E: "e", F: "f", G: "g", A: "a", B: "b" };
   const accidental =
-    pitch.accidental === 1
-      ? "#"
-      : pitch.accidental === -1
-      ? "b"
-      : pitch.accidental > 1
-      ? "##"
-      : pitch.accidental < -1
-      ? "bb"
-      : "";
+    pitch.alter === 1 ? "#" :
+    pitch.alter === -1 ? "b" :
+    pitch.alter === 2 ? "##" :
+    pitch.alter === -2 ? "bb" : "";
 
   return `${steps[pitch.step]}${accidental}/${pitch.octave}`;
 }
 
+/* -------------------- Convert Duration Object → VexFlow Duration -------------------- */
 export function durationToVex(duration) {
-  // 1 = quarter → "q"
   const map = {
-    1: "q",
-    0.5: "8",
-    0.25: "16",
-    2: "h",
-    4: "w",
+    1: "q",     // quarter
+    0.5: "8",   // eighth
+    0.25: "16", // sixteenth
+    2: "h",     // half
+    4: "w"      // whole
   };
 
   const base = map[duration.value] || "q";
-  return base + (duration.dots > 0 ? "d".repeat(duration.dots) : "");
+  return base + (duration.dots ? "d".repeat(duration.dots) : "");
 }
 
+/* -------------------- Create Stave Note -------------------- */
 export function createVexNote(note) {
-  const keys = [pitchToVexKey(note.pitch)];
+  const key = pitchToVexKey(note.pitch);
   const dur = durationToVex(note.duration);
 
-  const vfNote = new VF.StaveNote({
-    keys,
+  const vfNote = new StaveNote({
+    keys: [key],
     duration: dur,
+    clef: "treble",
   });
 
-  // accidentals
-  if (note.pitch.accidental === 1) vfNote.addAccidental(0, new VF.Accidental("#"));
-  if (note.pitch.accidental === -1) vfNote.addAccidental(0, new VF.Accidental("b"));
-  if (note.pitch.accidental === 2) vfNote.addAccidental(0, new VF.Accidental("##"));
-  if (note.pitch.accidental === -2) vfNote.addAccidental(0, new VF.Accidental("bb"));
-
-  // articulations
-  note.articulations?.forEach((a) => {
-    if (a === "staccato") vfNote.addArticulation(0, new VF.Articulation("a.").setPosition(3));
-    if (a === "accent") vfNote.addArticulation(0, new VF.Articulation("a>").setPosition(3));
-    if (a === "tenuto") vfNote.addArticulation(0, new VF.Articulation("a-").setPosition(3));
-  });
+  if (note.pitch.alter === 1) vfNote.addModifier(new Accidental("#"), 0);
+  if (note.pitch.alter === -1) vfNote.addModifier(new Accidental("b"), 0);
+  if (note.pitch.alter === 2) vfNote.addModifier(new Accidental("##"), 0);
+  if (note.pitch.alter === -2) vfNote.addModifier(new Accidental("bb"), 0);
 
   return vfNote;
 }
 
+/* -------------------- Create Rest -------------------- */
 export function createVexRest(rest) {
   const dur = durationToVex(rest.duration);
-  return new VF.StaveNote({
-    keys: ["b/4"],
-    duration: `${dur}r`,
+  return new StaveNote({ keys: ["b/4"], duration: dur + "r" });
+}
+
+/* -------------------- Create TAB Note -------------------- */
+export function createVexTab(note) {
+  return new TabNote({
+    positions: [{ str: note.string, fret: note.fret }],
+    duration: durationToVex(note.duration),
   });
 }

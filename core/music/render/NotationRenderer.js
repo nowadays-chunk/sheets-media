@@ -1,10 +1,8 @@
-import {
-  Renderer,
-  Stave,
-  StaveNote,
-  Voice,
-  Formatter
-} from "vexflow";
+// core/music/render/NotationRenderer.js
+import Vex from "vexflow";
+const VF = Vex;
+
+import { createVexNote, createVexRest } from "./VexflowExtensions.js";
 
 export default class NotationRenderer {
   constructor({ container, score, layout = {} }) {
@@ -13,80 +11,78 @@ export default class NotationRenderer {
     this.layout = layout;
   }
 
+  destroy() {
+    if (this.container) this.container.innerHTML = "";
+  }
+
   render() {
     if (!this.container || !this.score) return;
 
-    const score = this.score;
+    this.destroy();
 
-    // Reset container
-    this.container.innerHTML = "";
-
-    const renderer = new Renderer(this.container, Renderer.Backends.SVG);
-    renderer.resize(800, 200);
+    const renderer = new VF.Renderer(this.container, VF.Renderer.Backends.SVG);
+    renderer.resize(900, 250);
     const context = renderer.getContext();
 
-    const stave = new Stave(10, 40, 780);
-    stave.addClef("treble");
-    stave.addTimeSignature(score.timeSignature.toString());
+    const stave = new VF.Stave(10, 40, 860);
+
+    // clef
+    stave.addClef(this.score.clef?.name || "treble");
+
+    // time signature
+    if (this.score.timeSignature)
+      stave.addTimeSignature(this.score.timeSignature.toString());
+
+    // key signature
+    if (this.score.keySignature)
+      stave.addKeySignature(this.score.keySignature.key);
+
     stave.setContext(context).draw();
 
-    const vfNotes = [];
+    // --------------------------------------
+    // Build VexFlow voices
+    // --------------------------------------
+    const vfVoices = [];
 
-    // Extract from Score model
-    for (const measure of score.measures) {
+    for (const measure of this.score.measures) {
       for (const voice of measure.voices) {
+        if (!voice.elements || voice.elements.length === 0) continue;
+
+        const tickables = [];
+
         for (const entry of voice.elements) {
-          const el = entry.element || entry.data || entry;
+          const n = entry.note ?? entry.element ?? entry.data ?? null;
+          if (!n) continue;
 
-          if (!el) continue;
-
-          // Rest
-          if (el.isRest) {
-            const dur = el.duration?.toVexflow?.() ?? "qr";
-
-            vfNotes.push(
-              new StaveNote({
-                clef: "treble",
-                keys: ["b/4"],
-                duration: dur
-              })
-            );
-
-            continue;
-          }
-
-          // Note, must have pitch
-          if (!el.pitch) continue;
-
-          const key = `${el.pitch.step.toLowerCase()}${
-            el.pitch.alter === 1 ? "#" : ""
-          }/${el.pitch.octave}`;
-
-          const duration = el.duration?.toVexflow?.() ?? "q";
-
-          vfNotes.push(
-            new StaveNote({
-              clef: "treble",
-              keys: [key],
-              duration
-            })
-          );
+          if (n.isRest) tickables.push(createVexRest(n));
+          else tickables.push(createVexNote(n));
         }
+
+        if (tickables.length === 0) continue;
+
+        const vfVoice = new VF.Voice({
+          num_beats: measure.timeSignature.beats,
+          beat_value: measure.timeSignature.beatValue,
+        });
+
+        // ❗ VEXFLOW 4 FEATURE — SOFT MODE  
+        // Accepts incomplete measures WITHOUT throwing errors
+        vfVoice.setMode(VF.Voice.Mode.SOFT);
+
+        vfVoice.addTickables(tickables);
+        vfVoices.push(vfVoice);
       }
     }
 
-    // Cannot create a voice if no notes → skip
-    if (vfNotes.length === 0) return;
+    if (vfVoices.length === 0) return;
 
-    const voice = new Voice({
-      num_beats: vfNotes.length,
-      beat_value: 4,
-    });
+    // --------------------------------------
+    // Format & Draw without errors
+    // --------------------------------------
+    const formatter = new VF.Formatter();
+    formatter.joinVoices(vfVoices);
+    formatter.format(vfVoices, 700);
 
-    voice.addTickables(vfNotes);
-
-    new Formatter().joinVoices([voice]).format([voice], 700);
-
-    voice.draw(context, stave);
+    vfVoices.forEach(v => v.draw(context, stave));
   }
 }

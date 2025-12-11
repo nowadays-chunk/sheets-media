@@ -162,6 +162,39 @@ const FretboardDisplay = ({
     return octave;
   };
 
+  const buildDawEvent = (stringIndex, fret) => {
+    const displayedNoteIndex =
+      (selectedFretboard.generalSettings.tuning[stringIndex] + fret) % 12;
+
+    const noteName = guitar.notes.sharps[displayedNoteIndex];
+    const octave = calculateOctave(stringIndex, fret);
+
+    // MIDI calc: tuning + fret + 12*octave
+    const midi =
+      (selectedFretboard.generalSettings.tuning[stringIndex] + fret) +
+      octave * 12;
+
+    return {
+      type: "note",
+      raw: noteName + octave,
+      pitch: {
+        name: noteName,
+        step: noteName[0],
+        accidental: noteName.includes("#") ? "#" : "",
+        octave,
+        midi
+      },
+      guitar: {
+        string: stringIndex,
+        fret,
+        tuningIndex: selectedFretboard.generalSettings.tuning[stringIndex]
+      },
+      velocity: 0.9,
+      duration: 1 // default = quarter note
+    };
+  }
+
+
   const fretboardElements = boards.map((fretboard, fretboardIndex) => {
     const numStrings = Math.min(
       selectedFretboard.generalSettings.page.includes('references')
@@ -219,7 +252,9 @@ const FretboardDisplay = ({
             <TableData
               key={`note-${fretboardIndex}-${i}-${fret}`}
               onClick={() => {
-                onNoteClick(displayedNote + calculateOctave(i, fret), i, fret);
+                const event = buildDawEvent(i, fret);
+                console.log("DAW event → ", event);
+                onNoteClick(event);
               }}
             >
               <NoteLine />

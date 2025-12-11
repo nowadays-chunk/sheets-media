@@ -3,30 +3,23 @@ import CombinedRenderer from "@/core/music/render/CombinedRenderer";
 import { useScore } from "@/core/editor/ScoreContext";
 
 export default function ScoreCanvas() {
+  const containerRef = useRef(null);
   const { score } = useScore();
-  const container = useRef(null);
-  const renderer = useRef(null);
 
   useEffect(() => {
-    if (!container.current || !score) return;
+    if (!score || !containerRef.current) return;
 
-    renderer.current = new CombinedRenderer({
-      container: container.current,
-      score: score,
-      layout: {}
-    });
+    new CombinedRenderer({
+      container: containerRef.current,
+      score
+    }).render();
 
-    renderer.current.render();
   }, [score]);
 
   return (
-    <div
-      ref={container}
-      style={{
-        width: "100%",
-        overflowX: "auto",
-        borderBottom: "1px solid #eee",
-      }}
-    />
+    <div ref={containerRef} style={{ display: "flex", flexDirection: "column", gap: 20 }}>
+      <div className="notation"></div>
+      <div className="tablature"></div>
+    </div>
   );
 }

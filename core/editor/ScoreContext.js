@@ -1,3 +1,4 @@
+// core/editor/ScoreContext.js
 import React, { createContext, useContext, useEffect, useRef, useState } from "react";
 
 import Score from "@/core/music/score/Score";
@@ -8,10 +9,12 @@ import Pitch from "@/core/music/score/Pitch";
 import UndoManager from "./UndoManager";
 import SelectionManager from "./SelectionManager";
 import NoteInputManager from "./NoteInputManager";
-import TimeSignature from "../music/score/TimeSignature";
-import KeySignature from "../music/score/KeySignature";
-import Clef from "../music/score/Clef";
-import PlaybackEngine from "../music/playback/PlaybackEngine";
+
+import TimeSignature from "@/core/music/score/TimeSignature";
+import KeySignature from "@/core/music/score/KeySignature";
+import Clef from "@/core/music/score/Clef";
+
+import PlaybackEngine from "@/core/music/playback/PlaybackEngine";
 
 export const ScoreContext = createContext(null);
 
@@ -25,43 +28,35 @@ export function ScoreProvider({ children }) {
 
   const playback = useRef(null);
 
+  // Initialize score
   useEffect(() => {
     if (!score) {
       const s = new Score({
         title: "Untitled",
         composer: "Anonymous",
-        timeSignature: new TimeSignature(4,4),
+        timeSignature: new TimeSignature(4, 4),
         keySignature: new KeySignature("C"),
         clef: new Clef("treble")
       });
 
-      s.addMeasure();   // <--- VERY important
+      s.addMeasure();
       setScore(s);
     }
   }, []);
 
-  const initAudio = async () => {
-    if (typeof window === "undefined") return;
-    if (playback.current) return;
-
-    playback.current = new PlaybackEngine();
-  };
-
+  // Init audio
   useEffect(() => {
-    window.addEventListener("click", initAudio, { once: true });
-    return () => window.removeEventListener("click", initAudio);
+    const init = () => {
+      if (!playback.current) {
+        playback.current = new PlaybackEngine();
+      }
+    };
+
+    window.addEventListener("click", init, { once: true });
+    return () => window.removeEventListener("click", init);
   }, []);
 
-  // // Initialize score + audio only on client
-  // useEffect(() => {
-  //   if (!score) {
-  //     setScore(new Score());
-  //   }
-  //   if (typeof window !== "undefined" && !playback.current) {
-  //     playback.current = new PlaybackEngine();
-  //   }
-  // }, []);
-
+  // Safe score update with undo snapshot
   const updateScore = (mutator) => {
     if (!score) return;
 
@@ -74,29 +69,32 @@ export function ScoreProvider({ children }) {
     });
   };
 
-  // Called when clicking a fretboard note
-  const addNoteFromFretboard = (fbNote) => {
-    if (!score) return;
+  // Called by fretboard DAW
+  const addNoteFromFretboard = (event) => {
+    if (!score || !event) return;
+    if (event.type !== "note" || !event.pitch) return;
 
-    const pitchClass = fbNote.noteName[0].toUpperCase();
-    const alter = fbNote.noteName.includes("#") ? 1 : 0;
+    const p = event.pitch;
 
     const pitch = new Pitch(
-      pitchClass,
-      alter,
-      fbNote.octave ?? 4
+      p.step.toUpperCase(),
+      p.accidental === "#" ? 1 : p.accidental === "b" ? -1 : 0,
+      p.octave
     );
 
-    const duration = new Duration("q");
+    const duration = new Duration("q", 1); // ALWAYS 1 beat quarter
+
     const note = new Note(pitch, duration);
 
-    note.fret = fbNote.fret;
-    note.string = fbNote.string;
-    note.velocity = fbNote.velocity ?? 0.8;
-    note.midi = fbNote.midi;
+    note.midi = p.midi;
+    note.velocity = event.velocity ?? 0.9;
 
-    updateScore(d => {
-      d.addNote(cursorBeat, note);
+    // Guitar metadata
+    note.fret = event.guitar?.fret ?? 0;
+    note.string = event.guitar?.string ?? 1;
+
+    updateScore(draft => {
+      draft.addNote(cursorBeat, note);
     });
 
     setCursorBeat(c => c + 1);

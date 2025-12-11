@@ -1,39 +1,28 @@
-import NotationRenderer from "./NotationRenderer.js";
-import TabRenderer from "./TabRenderer.js";
+// core/music/render/CombinedRenderer.js
+import NotationRenderer from "./NotationRenderer";
+import TabRenderer from "./TabRenderer";
 
 export default class CombinedRenderer {
-  constructor({ container, score, layout = {} }) {
+  constructor({ container, score }) {
     this.container = container;
     this.score = score;
-    this.layout = layout;
+
+    this.staffDiv = container.querySelector(".notation");
+    this.tabDiv   = container.querySelector(".tablature");
+
+    this.notation = new NotationRenderer({
+      container: this.staffDiv,
+      score
+    });
+
+    this.tab = new TabRenderer({
+      container: this.tabDiv,
+      score
+    });
   }
 
   render() {
-    if (!this.container || !this.score) return;
-
-    this.container.innerHTML = "";
-
-    const wrapper = document.createElement("div");
-    wrapper.style.display = "flex";
-    wrapper.style.gap = "30px";
-
-    const notationDiv = document.createElement("div");
-    const tabDiv = document.createElement("div");
-
-    wrapper.appendChild(notationDiv);
-    wrapper.appendChild(tabDiv);
-    this.container.appendChild(wrapper);
-
-    new NotationRenderer({
-      container: notationDiv,
-      score: this.score,
-      layout: this.layout
-    }).render();
-
-    new TabRenderer({
-      container: tabDiv,
-      score: this.score,
-      layout: this.layout
-    }).render();
+    this.notation.render();
+    this.tab.render();
   }
 }
