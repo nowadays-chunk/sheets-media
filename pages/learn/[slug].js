@@ -55,7 +55,7 @@ export async function getStaticPaths() {
   const fs = require("fs");
   const path = require("path");
 
-  const dir = path.join(process.cwd(), "tabs");
+  const dir = path.join(process.cwd(), "songs");
   const files = fs.readdirSync(dir);
 
   return {
