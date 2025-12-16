@@ -1,0 +1,70 @@
+{
+  "url": "https://www.chordie.com/chord.pere/dylanchords.info/10_selfportrait/all_the_tired_horses.htm",
+  "title": "All the Tired Horses",
+  "artist": "Bob Dylan",
+  "key": null,
+  "scrapedAt": "2025-12-16T14:33:27.377Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "All the tired horses"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "in the sun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "How'm I supposed to get any"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ridin' done?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Hmm."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emsus4",
+              "lyrics": "Hmm."
+            },
+            {
+              "chord": "G",
+              "lyrics": "Hmm."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Eyolf Østrem - dylanchords.info"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

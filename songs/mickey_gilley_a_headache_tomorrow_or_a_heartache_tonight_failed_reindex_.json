@@ -1,0 +1,410 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.allcountrytabs.com/tabs/gilley-mickey/a-headache-tomorrow-or-a-heartache-tonight-25680.html",
+  "title": "A Headache Tomorrow (or A Heartache Tonight) (failed - reindex)",
+  "artist": "Mickey Gilley",
+  "key": null,
+  "scrapedAt": "2025-12-16T10:18:50.697Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "By Mickey Gilley"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 3 (Key of F with no capo)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords relative to Capo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D = x00232 D/C# = x4x232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/B = x2x232 D/A = x00232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 320001 E7 = 020130"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gm = 355333"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "whiskey doesn�t"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "get me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I know the memories will"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "�Cause"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "you left a"
+            },
+            {
+              "chord": "D/B",
+              "lyrics": "hole in my"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Too deep to f"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "drink or two, maybe"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "three or four"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "For awhile I�m outta"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "sight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It�s a"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "headache to"
+            },
+            {
+              "chord": "D/B",
+              "lyrics": "morrow"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Or a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "heartache to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "night"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "sun goes down, the"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "blues come around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And the choice is black and white"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Low"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "down and"
+            },
+            {
+              "chord": "D/B",
+              "lyrics": "lonesome"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "High as a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "kite"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "you can�t win for"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "lo-o-osin�"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You know it�s just not"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "It�s a"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "headache to"
+            },
+            {
+              "chord": "D/B",
+              "lyrics": "morrow"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Or a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "heartache to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No matter which one you choose, you lose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know which one I�ll take"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When the sun comes up tomorrow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Something�s gonna ache"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I can take a pill to kill the pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know I�ll be all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It�s a headache tomorrow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or a heartache tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

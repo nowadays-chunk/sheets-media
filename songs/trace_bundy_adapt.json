@@ -1,0 +1,7406 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/trace-bundy/337994.html",
+  "title": "Adapt",
+  "artist": "Trace Bundy",
+  "key": null,
+  "scrapedAt": "2025-12-16T10:54:24.408Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Adapt\" by Trace Bundy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Pierce Darragh (pierce.darragh gmail.com)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard Tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "6-string Capo 2nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3-string Capo 4th on strings 3,4,5 (the lower inner strings)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Relative to 6-string capo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is my first large-scale tab, so bare with me. The notation"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "might be a bit confusing, but I didn't know a better way to represent"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Trace's technique in tabs. Also, it's a bit different from Trace's"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "version, but I promise that's on purpose."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I will probably upload an HD video at some point, in which case I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "will update these tabs with a link to it. However, I do have a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "recording available at: http://goo.gl/VtLoA"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Additionally, there is a video of Trace playing the song at:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://www.youtube.com/watch?v=_ah6ZOqzrFA"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All of the parts go in order (1, 2, etc.), but part 4 is played 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "separate times, each with varying levels of what I shall call"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"enthusiasm.\" Listen to Trace play it, or my version, for an"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "example of this. The last playthrough of part 4 ends with the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Ending\" section instead. I'm sure you can figure it out - I just"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "didn't want to go through the trouble of tabbing every last thing!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key to Tab Notation:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||--#---|| -> Pick fret #"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||--X---|| -> Scratch the string (use your fingernail)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||--h#--|| -> Hammer-on to #"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||--p#--|| -> Pull-off to #"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||--/#--|| -> slide up to #"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||--#\\--|| -> Slide from # down and release"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||---|| -> Finger-tap #"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||--{#--|| -> Left-hand tap #"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||--#}--|| -> Right hand tap #"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||--P---|| -> Pull off the finger and pluck the string"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||--#~~~|| -> Sustain # for the duration of ~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T represents a right-hand tab, and S represents a left-hand slap."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PART 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T T"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X---------------X-------|----0---X---5--p3--p0-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------X---------------X---3--h|5-------X---------------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||4--h5---X---4--h5--p4---X-------|--------X-------------------2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------X---------------X-------|--------X-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------X---------------X-------|--------X-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||5-------X---5-----------X---5---|--------X---5-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X-----------0---X---3--p|1--p0-------0-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||0--h1---X---0h1h3-------X-------|--------3-------1--p0-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------X---------------X-------|------------------------2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------X---------------X-------|----------------------------2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------X---------------X-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||1-------X---1-----------X---1---|--------1-------1---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X-----------0---X---0h3h|5--p3--p0-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||0--h3---X---0h3h5-------X-------|-----------h5--p3--p0-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------X---------------X-------|------------------------2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------X---------------X-------|----------------------------2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------X---------------X-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0--h3---X---3-----------X---3---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------4h5p4p2h4--p2-------2---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||------------------------5-------|4h5p4p2h4--p2-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|---------------h5--s3--p2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||5-------5-----------------------|5----------------------------0--|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X---------------X-------|----0---X---5--p3--p0-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------X-----------0---X---0--h|5-------X---------------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||4--h5---X---5--s7-------X-------|--------X-------------------2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------X---------------X-------|--------X-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------X---------------X-------|--------X-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||5-------X---5-----------X---5---|--------X---5-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X-----------0---X---0h1h|3--p1--p0-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||0--h1---X---0h1h3-------X-------|------------3--p1--p0-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------X---------------X-------|------------------------2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------X---------------X-------|----------------------------2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------X---------------X-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0--h1---X---1-----------X---1---|------------1-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X-----------0---X---0h3h|5--p3--p0-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||0--h3---X---0h3h5-------X-------|-----------h5--p3--p0-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------X---------------X-------|------------------------2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------X---------------X-------|----------------------------2---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------X---------------X-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0--h3---X---3-----------X---3---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||------------0---4---5---4---0---|------------0---4---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------2-----------------------|--------2-------2---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----4---------------------------|----4-----------4---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|s6-------------------------------|6---------------2---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PART 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||3h5p3p0---------------------0---|3h5p3p0---------------------0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||-------h5-------3h5p3p0---------|-------h5-------3h5p3p0---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||-----------------------h4-------|-----------------------h4-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0-----------0-------------------|0-----------0-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||3h5p3p0---------------------0---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||-------h5-------3h5p3p0---------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||-----------------------h4-------|4h5p4p2-----0-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------------------------------|-------h5------p4h5p4p2-----0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|-----------------------h5-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0-----------0-------------------|0-------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||3h5p3p0---------------------0---|3h5p3p0---------------------0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||-------h5-------3h5p3p0---------|-------h5-------3h5p3p0---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||-----------------------h4-------|-----------------------h4-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0-----------0-------------------|0-----------0-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T T T T"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||3h5p3p0---------------------0---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||-------h5-------3h5p3p0---------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||-----------------------h4-------|4h5p4p2-----0-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------------------------------|-------h5------p4h5p4p2-----0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|-----------------------h5-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0-----------0-------------------|0-------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T T T T"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NOTE: The timing of the tabs changes here, because the notation"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "takes up too much space to write it in as short a fashion:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-----------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-----------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||----------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||3h5p3p0-0---------------0---0---|3h5p3p0-0---------------0---0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||-------h5-------3h5p3p0-0-------|-------h5-------3h5p3p0-0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------2--------------h4-------|--------2--------------h4-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------2---------------2-------|--------2---------------2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0-----------0-------------------|0-----------0-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T T T T"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||3h5p3p0-0---------------0---0---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||-------h5-------3h5p3p0-0-------|--------0-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------2--------------h4-------|4h5p4p2-2---0-----------2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------2---------------2-------|-------h5------p4h5p4p2-2---0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|--------2--------------h5-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0-----------0-------------------|0-----------------------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T T T T"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||3h5p3p0-0---------------0---0---|3h5p3p0-0---------------0---0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||-------h5-------3h5p3p0-0-------|-------h5-------3h5p3p0-0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------2--------------h4-------|--------2--------------h4-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------2---------------2-------|--------2---------------2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0-----------0-------------------|0-----------0-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T T T T"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||3h5p3p0-0---------------0---0---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||-------h5-------3h5p3p0-0-------|--------0-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------2--------------h4-------|4h5p4p2-2---0-----------2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------2---------------2-------|-------h5------p4h5p4p2-2---0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|--------2--------------h5-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0-----------0-------------------|0-----------------------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T T T T"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-----------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-----------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-----------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||----------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|--------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||-------------------------|-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||-------------------------|-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T S T S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|--------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||-------------------------|----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||-------------------------|----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T S T S T S T S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|--------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||-------------------------|-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||-------------------------|-------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T S T S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|--------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||-------------------------|----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||-------------------------|----------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PART 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||2--{7-------P--{5-------P--{4---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||-------}9----------}7-----------}5---P--{4--h5--s7---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------|------------------------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||2--{7-------P--{5-------P--{4---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||-------}9----------}7-----------}5---P--{4--h5--s7---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------|------------------------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||2--{7-------P--{5-------P--{4---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||-------}9----------}7-----------}5---P--{4--h5--s7---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------|------------------------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0--{7--}6---P--{5--}10--P--{3---}12--P--{2--}3---Pb~~~~>-P-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------0-----------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------5-----------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||--------4-----------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||--------2-----------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------2-----------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------0-----------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PART 4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------3---P-------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||------5---------P--{3---P-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||-----4--------------------------|7-----------------------7\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----2---------------------------|9-----------------------9\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|9-----------------------9\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0-------------------------------|7-----------------------7\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||0-------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||0--h3------------------s|4s--5---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||2--h4------------------s|5s--6---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||5--h5------------------s|6s--7---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||5--h5------------------s|6s--7---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0--h3---------------------------|4s--5---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------3---P-------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||------5---------P--{3---P-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||-----4--------------------------|7---P--{7---P-----------7\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----2---------------------------|9-----------------------9\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|9-----------------------9\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0-------------------------------|7-----------------------7\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||0-------0-----------------------|------------------------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||0--h3---3--------------s|4s--5-------------------5-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||2--h4---4--------------s|5s--6-------------------6-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||5--h5---5--------------s|6s--7-------------------7-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||5--h5---5--------------s|6s--7-------------------7-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0--h3---3-----------------------|4s--5-------------------5-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------3---P-------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||------5---------P--{3---P-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||-----4--------------------------|7---P--{7---P--{7---P---7\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----2---------------------------|9-----------------------9\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|9-----------------------9\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0-------------------------------|7-----------------------7\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||0-------0-----------------------|--------------------0---0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||0--h3---3--------------s|4s--5---------------5---5-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||2--h4---4--------------s|5s--6---------------6---6-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||5--h5---5--------------s|6s--7---------------7---7-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||5--h5---5--------------s|6s--7---------------7---7-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0--h3---3-----------------------|4s--5---------------5---5-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------3---P-------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||------5---------P--{3---P-------|--------------------7-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||-----4--------------------------|7---P--{7---P--{7---7---7\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----2---------------------------|9-------------------9---9\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|9-------------------9---9\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0-------------------------------|7-------------------7---7\\------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||0-------0---0-------0-----------|0-------0---0-------0-------0---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||0--{3---3---3-------3-----------|3--\\5---5---5-------5-------5---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||2-------2---2--{4---2--{4---P---|2--\\4---4---4--{6---4--{6---P---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||5-------5---5-------5-----------|5--\\7---7---7-------7-------7---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||5-------5---5-------5-----------|5--\\7---7---7-------7-------7---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||0--{3---3---3-------3-----------|3--\\5---5---5-------5-------5---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||0---0---0---0---0---0---0---0---|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||5---5---5---5---5---5---5---0---|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||4---4---4---6---6---6---6---2---|6-------X---9-------9---X---8---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||7---7---7---7---7---7---7---2---|2-------X---2-------2---X---9---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||7---7---7---7---7---7---7---2---|4-------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||5---5---5---5---5---5---5---0---|--------X-------9-------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X-------0-------X-------|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------X-----0-----0---X---0---|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----8---X---8-----------X---2---|6-------X---9-------9---X---8---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----9---X---------------X---2---|2-------X---2-------2---X---9---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||2-------X---------------X-------|4-------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------X---------------X-------|--------X-------9-------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X-------7---P---X-------|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------X-----0---------X---0---|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----8---X---8-----------X---2---|6-------X---9-------9---X---8---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----9---X---------------X---2---|2-------X---2-------2---X---9---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||2-------X---------------X-------|4-------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------X---------------X-------|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X---------------X-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------X---------------X-------|--------5-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----8---X---8s--11------X---2---|------6---------------------6---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----9---X---------------X---2---|----6---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||2-------X---------------X---2---|4-------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------X---------------X-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T T"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||----------------X-------X-------|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||----------------X-------X---0---|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----6-------6---X-------X---2---|6-------X---9-------9---X---8---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----------------X-------X---2---|2-------X---2-------2---X---9---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||4-------4-------X-------X-------|4-------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||----------------X-------X-------|--------X-------9-------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X-------0-------X-------|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------X-----0-----0---X---0---|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----8---X---8-----------X---2---|6-------X---9-------9---X---8---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----9---X---------------X---2---|2-------X---2-------2---X---9---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||2-------X---------------X-------|4-------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------X---------------X-------|--------X-------9-------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X-------9---P---X-------|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------X-----0---------X---0---|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----8---X---8-----------X---2---|6-------X---9-------9---X---8---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----9---X---------------X---2---|2-------X---2-------2---X---9---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||2-------X---------------X-------|4-------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------X---------------X-------|--------X---------------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X---------------X-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------X---------------X-------|--------5-----------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----8---X---8s--11------X---2---|------6---------------------6---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----9---X---------------X---2---|----6-----------------------6---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||2-------X---------------X---2---|4---------------------------4---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------X---------------X-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T T"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||X-------X---0---X---0---X---0---|7---7---X---7---X---7---X---7---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||X---5---X---5---X---5---X---0---|7---7---X---7---X---7---X---7---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||X---6---X---6---X---6---X---2---|8---8---X---8---X---8---X---8---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||X---6---X---6---X---6---X---2---|9---9---X---9---X---9---X---9---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||X---4---X---4---X---4---X-------|--------X-------X-------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||X-------X-------X---0---X-------|--------X-------X-------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||X---7---X---7---X---7---7---0---|--------0---0-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||X---7---X---7---X---7---7---0---|--------0---0-----------0--s5---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||X---8---X---8---X---8---8---2---|--------4---4-----------4--s6---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||X---9---X---9---X---9---9---2---|--------2---2--h6-------6--s7---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||X-------X-------X---------------|------------2--h6-------6--s7---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||X-------X-------X---------------|0-------------------0-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||-------------------------------s|7---7---X---7---X---7---X---7---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||----5---5---5---5---5---5---5--s|7---7---X---7---X---7---X---7---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----6---6---6---6---6---6---6--s|8---8---X---8---X---8---X---8---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----7---7---7---7---7---7---7--s|9---9---X---9---X---9---X---9---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||----7---7---7---7---7---7---7---|--------X-------X-------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------|--------X-------X-------X-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||X---7---X---7---X---7---7---0---|--------0---0-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||X---7---X---7---X---7---7---0---|--------0---0-----------0--s5---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||X---8---X---8---X---8---8---2---|--------4---4-----------4--s6---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||X---9---X---9---X---9---9---2---|--------2---2--h6-------6--s7---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||X-------X-------X---------------|------------2--h6-------6--s7---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||X-------X-------X---------------|0-------------------0-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||----0---0---0---0---0---0---0---|--------0---0-------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||----5---5---5---5---5---5---5---|--------0---0-----------0--s5---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----2--h6---2--h6---2--h6---6---|--------4---4-----------4--s6---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----7---7---7---7---7---7---7---|--------2---2--h6-------6--s7---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||----7---7---7---7---7---7---7---|------------2--h6-------6--s7---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||----0---0---0---0---0---0---0---|0-------------------0-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||----0---0---0---0---5---0---0---|X---X---X---X---X---X---X---X---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||----5---5---0--h5---5---5--P0---|4--h5---5---4--h5---5---4--h5---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----2--h6---6---6---6---6---6---|4---4---4---4---4---4---4---4---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----7---7---7---7---7---7---7---|4---4---4---4---4---4---4---4---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||----7---7---7---7---7---7---7---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||----0---0---0---0---0---0---0---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||X---X---X---X---X---X---X---X---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||5---4--h5---5---4--h5---5---4---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||4---4---4---4---4---4---4---4---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||4---4---4---4---4---4---4---4---|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||--------------------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------------------------------|0-------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ENDING"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------X---------------X-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||--------X---------------X-------|------------5--p4---------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----8---X---8s--11~~~~~~~~~~~~~\\|--------6-----------6-----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||----9---X---------------X-------|----6-------------------6-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||2-------X---------------X-------|4---------------------------4---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||--------X---------------X-------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "1",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "2",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            },
+            {
+              "chord": "4",
+              "lyrics": ""
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e||--------4-----------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B||---------5----------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G||----------6---------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D||-----------6--------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A||------------4-------------------|--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E||-------------4------------------|--------------------------------|"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

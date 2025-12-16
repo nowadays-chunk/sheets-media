@@ -1,0 +1,518 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.tabcountry.com/song749/Lonestar-All-the-Way",
+  "title": "All the Way",
+  "artist": "Lonestar",
+  "key": null,
+  "scrapedAt": "2025-12-16T11:43:54.725Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Title: All the Way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: Lonestar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CD: Lonely Grille"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They seem to like the key of G#, so capo 1st fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hey we're walking t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hrough this together"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I'm holding o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing can separate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "This this little twist of fate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You're the one my he"
+            },
+            {
+              "chord": "D",
+              "lyrics": "art belongs"
+            },
+            {
+              "chord": "C",
+              "lyrics": "to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing's quite as sw"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eet as the journey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "So let's go around"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Takin' in everything,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "No matter what life brings"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "We're gonna be c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hasing forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "To the end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Of my life, and bac"
+            },
+            {
+              "chord": "D",
+              "lyrics": "k again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Everyday"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I'll be here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Loving you, all th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rough the years"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "There's so much f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "reedom in knowing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "How sure we a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "re that we're going"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "People ask me, th"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ink ya'll can make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I tell them h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "onestly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "This ain't no fleeting thing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We're not imagining"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This is it, we k"
+            },
+            {
+              "chord": "D",
+              "lyrics": "now it's mean"
+            },
+            {
+              "chord": "C",
+              "lyrics": "t to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(they step up here, I don't, but I will transcribe it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "like they play it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Cause I love you, l"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ove you completely"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I've never felt l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ike this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I don't want nothing but"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Something this passionate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Cause the only way I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "know how to love is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2 (in new key)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "All the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "To the end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Of my life, and bac"
+            },
+            {
+              "chord": "E",
+              "lyrics": "k again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Everyday"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I'll be here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Loving you, all th"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rough the years"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "There's so much f"
+            },
+            {
+              "chord": "E",
+              "lyrics": "reedom in knowing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "How sure we a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "re that we're going"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Lead plays chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repead bridge 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat \"All the way\" to end."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

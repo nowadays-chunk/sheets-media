@@ -1,0 +1,686 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/enrique-iglesias/101401.html",
+  "title": "Alguien soy yo",
+  "artist": "Enrique Iglesias",
+  "key": null,
+  "scrapedAt": "2025-12-16T11:17:21.489Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning:standard with CAPO on first fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C: x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D: xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj7: x32000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7: x02010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7/G: 3x2010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D7add2/F#:2x0120"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm: x24432"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro(and whenever G and C are being played)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|------------------------------0----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-------3---3-3-3-3--3---3-----1----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-------2---0-2-0-2--2h4-2-----0----------| 2x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------0---0-0-0-0--0---0-----2----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|------------------------------3----------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|---3-------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "�, no s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "abes q"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "uien soy"
+            },
+            {
+              "chord": "G",
+              "lyrics": "yo,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "s� quien"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "eres t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "�,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "realidad"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ", quien s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "abe que somos los"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dos."
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "yo, co"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mo un se"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "cuestrad"
+            },
+            {
+              "chord": "G",
+              "lyrics": "or,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "sigo"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "por am"
+            },
+            {
+              "chord": "G",
+              "lyrics": "or,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "t� no"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "sepas"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "mi direcci�n,"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7add2/F#",
+              "lyrics": "llido y mi voz,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "lave de"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "mi cora"
+            },
+            {
+              "chord": "D7add2/F#",
+              "lyrics": "z�n..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "ere,alguien te es"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pera,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "ue�a y t� no sabes que soy"
+            },
+            {
+              "chord": "C",
+              "lyrics": "yo,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "iensa, constantem"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ente,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "busca y por fin te encontr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "m�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "alguien soy yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "!"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Yo, no p"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ido"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "nada m�s,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "liz si"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "tu lo estas"
+            },
+            {
+              "chord": "G",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "irte bien,"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "aunque"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "no sepas quien"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7add2/F#",
+              "lyrics": "quiere sin m�s,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "cima del"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "bien y del"
+            },
+            {
+              "chord": "D7add2/F#",
+              "lyrics": "mal."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "quiere,alguien te"
+            },
+            {
+              "chord": "D",
+              "lyrics": "espera,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "ue�a y t� no sabes que soy"
+            },
+            {
+              "chord": "C",
+              "lyrics": "yo,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "iensa, constantem"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ente,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "busca y por fin te encontr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "o!"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "fondo de mi vida,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "ueda otra salida"
+            },
+            {
+              "chord": "G",
+              "lyrics": "...que no seas"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t�!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "�, no s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "abes q"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "uien soy yo,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "� quien"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "eres t�"
+            },
+            {
+              "chord": "G",
+              "lyrics": "..."
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Ya somos dos!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "ere,alguien te es"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pera,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "ue�a y t� no sabes que soy"
+            },
+            {
+              "chord": "C",
+              "lyrics": "yo,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "iensa, constantem"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ente,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "busca y por fin te encontr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "m�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "alguien soy yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "!"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "m�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "alguien soy yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "! oh"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "yeah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

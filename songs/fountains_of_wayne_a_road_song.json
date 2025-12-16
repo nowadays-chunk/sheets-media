@@ -1,0 +1,654 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/f/fountains_of_wayne/a_road_song_crd.html",
+  "title": "A Road Song",
+  "artist": "Fountains of Wayne",
+  "key": null,
+  "scrapedAt": "2025-12-16T10:32:15.732Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This file is the author's own work and represents their"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "interpretation of the song."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You may only use this file for private study, scholarship,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "or research."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#--------------------------------------------------------#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: Fountains of Wayne"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Sky Full of Holes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: A Road Song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tabber: John Baer (eddiebauerman16@aol.com)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tabbed on 8/6/2011"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: F, Fsus4 (133311), F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro/lead guitar: (slide/steel guitar):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E------13-------------17---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B-8h10---------10/11-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G--------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D--------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A--------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E--------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "We're still in Wisconsin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "As far as I know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Today was Green Bay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "tomorrow's Chicago"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Wish I was lying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "much to report"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "My phone is dying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "got to keep it short"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I just wanted to s"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ay..."
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "hey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "writing you a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "road song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "iche, but"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "hey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "doesn't make it"
+            },
+            {
+              "chord": "C",
+              "lyrics": "so wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "etween the stops at the"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "Cracker Barrel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "forty movies w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ith Will Ferrell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "need some way to"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "occupy my"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "road song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "sure hope"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you don't min"
+            },
+            {
+              "chord": "F",
+              "lyrics": "d"
+            },
+            {
+              "chord": "Fsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "ooh ooh o"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "oh"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ooh ooh ooh ooh"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ooh uh"
+            },
+            {
+              "chord": "F",
+              "lyrics": "huh"
+            },
+            {
+              "chord": "Fsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I bought you a light blue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "T shirt last night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "From some band I couldn't stand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "logo's alright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Some kid threw a bottle onstage"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "arm like a pro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "I know it's getting late"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I should let you go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "ay..."
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "hey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "writing you a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "road song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "away cause"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "hey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "romise it won't be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "too long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "not what you'd call"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "necessary"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "I know that I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "no Steve Perry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "even if you"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "roll your eyes and"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "groan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "road song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "you can"
+            },
+            {
+              "chord": "C",
+              "lyrics": "call your"
+            },
+            {
+              "chord": "F",
+              "lyrics": "own"
+            },
+            {
+              "chord": "Fsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "ooh ooh o"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "oh"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ooh ooh ooh ooh"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ooh uh"
+            },
+            {
+              "chord": "F",
+              "lyrics": "huh"
+            },
+            {
+              "chord": "Fsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "End: F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cheers, and buy Sky Full of Holes!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "www.fountainsofwayne.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-John Baer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

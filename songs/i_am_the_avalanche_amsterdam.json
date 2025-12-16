@@ -1,0 +1,858 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/i/iamtheavalanche-tabs-43789/amsterdam-tabs-472589.html",
+  "title": "Amsterdam",
+  "artist": "I Am the Avalanche",
+  "key": "F",
+  "scrapedAt": "2025-12-16T14:41:16.444Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I Am The Avalanche"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Avalanche United"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2011"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key: F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm xx0231"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb x13331"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "C"
+            },
+            {
+              "chord": "133211",
+              "lyrics": "x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "A/C#"
+            },
+            {
+              "chord": "355333",
+              "lyrics": "x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Dm C F Bb Dm C F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To the"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "coffee shop on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "rented bike"
+            },
+            {
+              "chord": "F",
+              "lyrics": "8 a."
+            },
+            {
+              "chord": "C",
+              "lyrics": "m."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Feeling s"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "trangely close to"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "here with my"
+            },
+            {
+              "chord": "F",
+              "lyrics": "clo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sest friends"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Amste"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rdam! With a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "camera in my"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "hand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And a parking"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in the other"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "It's times like"
+            },
+            {
+              "chord": "C",
+              "lyrics": "this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "mean"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eve"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ry"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "thing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Amster"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dam I miss you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "When did you grow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "those"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "giant horns?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I for"
+            },
+            {
+              "chord": "C",
+              "lyrics": "got that the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "world is upside"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At least to the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rest"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "us"
+            },
+            {
+              "chord": "C",
+              "lyrics": "right now"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Amste"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rdam! With a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "camera in my"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "hand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And a parking"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in the other"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "It's times like"
+            },
+            {
+              "chord": "C",
+              "lyrics": "this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "mean"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eve"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ry"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "thing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Amster"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dam I miss you"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Sunrise"
+            },
+            {
+              "chord": "C",
+              "lyrics": "our eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ver so bright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Are"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "burning holes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in"
+            },
+            {
+              "chord": "F",
+              "lyrics": "your streets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Our"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hearts beat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "for"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "you"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Your streets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Our"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hearts beat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "for"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "you"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Guitar Solo: F C Gm Bb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "The best"
+            },
+            {
+              "chord": "C",
+              "lyrics": "part"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "when we see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb Dm C F Drumbeats"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "how far we've come"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Amste"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rdam! With a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "camera in my"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "hand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And a parking"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in the other"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "It's times like"
+            },
+            {
+              "chord": "C",
+              "lyrics": "this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "mean"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eve"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ry"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "thing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Amster"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dam I miss you"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "It's times like"
+            },
+            {
+              "chord": "C",
+              "lyrics": "this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "mean"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eve"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ry"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "thing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Amster"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dam"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "still Amster"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dam"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Amster"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dam"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F(palm mute) F(Hold)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want you"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

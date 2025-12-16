@@ -1,0 +1,674 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/jimmy-webb/370430.html",
+  "title": "All I Know",
+  "artist": "Jimmy Webb",
+  "key": null,
+  "scrapedAt": "2025-12-16T11:27:52.777Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The best-known recording of this song is the Art Garfunkel version; this tab is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "transcribed from a combination of the acoustic version Jimmy Webb recorded with"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Linda Ronstadt and the Five for Fighting version from the \"Chicken Little\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "soundtrack."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm using the vertical bar character (i.e., |) to indicate measures in the intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and outro. Hope that's OK. Watch out for the third verse -- the chords are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "slightly different than the first two."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G D Em |D7sus4 D7 G C/E|G G/B Cadd9 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "ch",
+              "lyrics": "Cadd9/A"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": "G|Cmaj7 Dsus4 D |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9 G/D |C D C/E|G Am7|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bruise"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you,"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": "you"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "bruise"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "both"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bruise"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "too"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "eas -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "i -"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ly,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "eas-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "i-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ly to"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "let"
+            },
+            {
+              "chord": "D",
+              "lyrics": "it show"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "I love"
+            },
+            {
+              "chord": "Am/D",
+              "lyrics": "you, and that's"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "All"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know"
+            },
+            {
+              "chord": "D/C",
+              "lyrics": "."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All"
+            },
+            {
+              "chord": "D",
+              "lyrics": "my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "plans"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": "have"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "fallen"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "through."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "plans"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "de"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "pend"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "pend"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you to"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "help"
+            },
+            {
+              "chord": "D",
+              "lyrics": "them grow"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "I love"
+            },
+            {
+              "chord": "Am/D",
+              "lyrics": "you, and that's"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "All"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know"
+            },
+            {
+              "chord": "D/C",
+              "lyrics": "."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "When the"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "singer's"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "gone, let the"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": "song"
+            },
+            {
+              "chord": "D",
+              "lyrics": "go"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "on."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "ch",
+              "lyrics": "B7/D#"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": "Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's a fine line between the darkness and the dawn."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "darkest"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "night there's a"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "light beyond."
+            },
+            {
+              "chord": "Am7/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "end"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ing"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "always"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "comes at"
+            },
+            {
+              "chord": "G",
+              "lyrics": "last,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "ings"
+            },
+            {
+              "chord": "C",
+              "lyrics": "always"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "come"
+            },
+            {
+              "chord": "D",
+              "lyrics": "too"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fast."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "come"
+            },
+            {
+              "chord": "G",
+              "lyrics": "too"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fast, but they"
+            },
+            {
+              "chord": "Am7/D",
+              "lyrics": "pass"
+            },
+            {
+              "chord": "D",
+              "lyrics": "too"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "slow."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/D",
+              "lyrics": "I love"
+            },
+            {
+              "chord": "Am7/D",
+              "lyrics": "you and that's"
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": "all,"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "all"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "know."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "k"
+            },
+            {
+              "chord": "G",
+              "lyrics": "now,"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7/D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "ch",
+              "lyrics": "Bm/D"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": "Cadd9 D7sus4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's all I know,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "kno"
+            },
+            {
+              "chord": "D",
+              "lyrics": "w."
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gadd9 G/B C |G/D D7 G"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,27 +1,32 @@
-// core/music/render/TabRenderer.js
 import Vex from "vexflow";
 const VF = Vex;
 
+function attachInteraction(tabNote, dawNote, selection) {
+  const el = tabNote.getSVGElement?.();
+  if (!el) return;
+
+  el.style.cursor = "pointer";
+  el.addEventListener("click", e => {
+    e.stopPropagation();
+    selection.select(dawNote);
+  });
+}
+
 export default class TabRenderer {
-  constructor({ container, score }) {
+  constructor({ container, score, selection }) {
     this.container = container;
     this.score = score;
-  }
-
-  destroy() {
-    if (this.container) this.container.innerHTML = "";
+    this.selection = selection;
   }
 
   render() {
     if (!this.container || !this.score) return;
-    this.destroy();
+    this.container.innerHTML = "";
 
-    // Big enough SVG for multi-line layout
     const renderer = new VF.Renderer(this.container, VF.Renderer.Backends.SVG);
-    renderer.resize(900, 1200);
+    renderer.resize(900, 1400);
     const ctx = renderer.getContext();
 
-    // ---- Layout constants ----
     const MEASURES_PER_LINE = 4;
     const MEASURE_WIDTH = 200;
     const SYSTEM_HEIGHT = 100;
@@ -30,78 +35,46 @@ export default class TabRenderer {
     let x = START_X;
     let y = 40;
 
-    const measures = this.score.measures || [];
-
-    measures.forEach((measure, index) => {
-      const isFirstInLine = index % MEASURES_PER_LINE === 0;
-
-      // New line?
-      if (isFirstInLine && index !== 0) {
+    this.score.measures.forEach((measure, index) => {
+      if (index % MEASURES_PER_LINE === 0 && index !== 0) {
         x = START_X;
-        y += SYSTEM_HEIGHT;  
+        y += SYSTEM_HEIGHT;
       }
 
-      // -------------------------------
-      // CREATE TAB STAVE FOR THIS MEASURE
-      // -------------------------------
       const stave = new VF.TabStave(x, y, MEASURE_WIDTH);
-
-      if (index === 0) {
-        stave.addClef("tab");
-      }
-
+      if (index === 0) stave.addClef("tab");
       stave.setContext(ctx).draw();
 
-      // -------------------------------
-      // BUILD TICKABLES FOR THIS MEASURE
-      // -------------------------------
       const notes = [];
 
-      for (const voice of measure.voices) {
-        if (!voice.elements) continue;
-
-        for (const entry of voice.elements) {
-          const n = entry.note ?? entry.element ?? entry;
-          if (!n) continue;
-
-          const duration = n.duration?.symbol || "q";
-
-          const stringNumber = n.string || 1;
-          const fretNumber = n.fret || 0;
+      measure.voices.forEach(voice => {
+        voice.elements.forEach(entry => {
+          const n = entry.note ?? entry;
+          if (!n) return;
 
           const tabNote = new VF.TabNote({
-            positions: [{ str: stringNumber, fret: fretNumber }],
-            duration,
+            positions: [{ str: n.string || 1, fret: n.fret || 0 }],
+            duration: n.duration?.symbol || "q",
           });
 
+          attachInteraction(tabNote, n, this.selection);
           notes.push(tabNote);
-        }
-      }
-
-      if (notes.length === 0) {
-        x += MEASURE_WIDTH;
-        return;
-      }
-
-      // -------------------------------
-      // Build the VexFlow voice *for this measure only*
-      // -------------------------------
-      const vfVoice = new VF.Voice({
-        num_beats: measure.timeSignature?.beats || 4,
-        beat_value: measure.timeSignature?.beatValue || 4,
+        });
       });
 
-      vfVoice.setMode(VF.Voice.Mode.SOFT);  // allow incomplete measures
-      vfVoice.addTickables(notes);
+      if (notes.length) {
+        const vfVoice = new VF.Voice({
+          num_beats: measure.timeSignature.beats,
+          beat_value: measure.timeSignature.beatValue,
+        });
 
-      // Format inside the measure width
-      new VF.Formatter()
-        .joinVoices([vfVoice])
-        .format([vfVoice], MEASURE_WIDTH - 20);
+        vfVoice.setMode(VF.Voice.Mode.SOFT);
+        vfVoice.addTickables(notes);
 
-      vfVoice.draw(ctx, stave);
+        new VF.Formatter().joinVoices([vfVoice]).format([vfVoice], MEASURE_WIDTH - 20);
+        vfVoice.draw(ctx, stave);
+      }
 
-      // Advance X
       x += MEASURE_WIDTH;
     });
   }

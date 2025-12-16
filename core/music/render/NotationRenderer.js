@@ -1,117 +1,99 @@
-// core/music/render/NotationRenderer.js
 import Vex from "vexflow";
 const VF = Vex;
 
+function attachInteraction(vfNote, dawNote, selection) {
+  const el = vfNote.getSVGElement?.();
+  if (!el) return;
+
+  el.style.cursor = "pointer";
+  el.addEventListener("click", e => {
+    e.stopPropagation();
+    selection.select(dawNote);
+  });
+}
+
 export default class NotationRenderer {
-  constructor({ container, score }) {
+  constructor({ container, score, selection }) {
     this.container = container;
     this.score = score;
-  }
-
-  destroy() {
-    if (this.container) this.container.innerHTML = "";
+    this.selection = selection;
   }
 
   render() {
     if (!this.container || !this.score) return;
-
-    this.destroy();
+    this.container.innerHTML = "";
 
     const renderer = new VF.Renderer(this.container, VF.Renderer.Backends.SVG);
-    renderer.resize(900, 1200); // enough height for multiple systems
+    renderer.resize(900, 1400);
     const ctx = renderer.getContext();
 
-    // ---- LAYOUT CONSTANTS ----
     const MEASURES_PER_LINE = 4;
     const MEASURE_WIDTH = 200;
+    const SYSTEM_HEIGHT = 120;
     const START_X = 20;
 
     let x = START_X;
     let y = 40;
-    const SYSTEM_HEIGHT = 120;
 
-    const measures = this.score.measures || [];
-
-    measures.forEach((measure, index) => {
-      const isFirstInLine = index % MEASURES_PER_LINE === 0;
-
-      // Start new system?
-      if (isFirstInLine && index !== 0) {
+    this.score.measures.forEach((measure, index) => {
+      if (index % MEASURES_PER_LINE === 0 && index !== 0) {
         x = START_X;
         y += SYSTEM_HEIGHT;
       }
 
-      // -------------------------------
-      // CREATE STAVE FOR THIS MEASURE
-      // -------------------------------
       const stave = new VF.Stave(x, y, MEASURE_WIDTH);
 
       if (index === 0) {
-        stave.addClef(this.score.clef?.name || "treble");
-        stave.addTimeSignature(this.score.timeSignature.toString());
-        stave.addKeySignature(this.score.keySignature.key);
+        stave
+          .addClef(this.score.clef?.name || "treble")
+          .addTimeSignature(this.score.timeSignature.toString())
+          .addKeySignature(this.score.keySignature.key);
       }
 
       stave.setContext(ctx).draw();
 
-      // -------------------------------
-      // BUILD VOICES FOR THIS MEASURE
-      // -------------------------------
-      const vfVoices = [];
+      const voices = [];
 
-      for (const voice of measure.voices) {
-        if (!voice.elements || voice.elements.length === 0) continue;
+      measure.voices.forEach(voice => {
+        if (!voice.elements.length) return;
 
-        const tickables = [];
+        const notes = [];
 
-        for (const entry of voice.elements) {
-          const n = entry.note ?? entry.element ?? entry;
-          if (!n) continue;
+        voice.elements.forEach(entry => {
+          const n = entry.note ?? entry;
+          if (!n) return;
 
-          let vexNote;
+          let vfNote;
           const dur = n.duration?.symbol || "q";
 
           if (n.isRest) {
-            vexNote = new VF.StaveNote({
-              keys: ["b/4"],
-              duration: dur + "r",
-            });
+            vfNote = new VF.StaveNote({ keys: ["b/4"], duration: dur + "r" });
           } else {
-            const key = `${n.pitch.step.toLowerCase()}${n.pitch.alter === 1 ? "#" : n.pitch.alter === -1 ? "b" : ""}/${n.pitch.octave}`;
-            vexNote = new VF.StaveNote({
-              keys: [key],
-              duration: dur,
-            });
+            const key = `${n.pitch.step.toLowerCase()}${
+              n.pitch.alter === 1 ? "#" : n.pitch.alter === -1 ? "b" : ""
+            }/${n.pitch.octave}`;
+
+            vfNote = new VF.StaveNote({ keys: [key], duration: dur });
+            attachInteraction(vfNote, n, this.selection);
           }
 
-          tickables.push(vexNote);
-        }
-
-        if (tickables.length === 0) continue;
+          notes.push(vfNote);
+        });
 
         const vfVoice = new VF.Voice({
           num_beats: measure.timeSignature.beats,
           beat_value: measure.timeSignature.beatValue,
         });
 
-        vfVoice.setMode(VF.Voice.Mode.SOFT); // allow incomplete measures
-        vfVoice.addTickables(tickables);
+        vfVoice.setMode(VF.Voice.Mode.SOFT);
+        vfVoice.addTickables(notes);
+        voices.push(vfVoice);
+      });
 
-        vfVoices.push(vfVoice);
+      if (voices.length) {
+        new VF.Formatter().joinVoices(voices).format(voices, MEASURE_WIDTH - 20);
+        voices.forEach(v => v.draw(ctx, stave));
       }
-
-      // Nothing to draw for this measure?
-      if (vfVoices.length === 0) {
-        x += MEASURE_WIDTH;
-        return;
-      }
-
-      // Format & Draw voices only within THIS measure box
-      const formatter = new VF.Formatter();
-      formatter.joinVoices(vfVoices);
-      formatter.format(vfVoices, MEASURE_WIDTH - 20);
-
-      vfVoices.forEach(v => v.draw(ctx, stave));
 
       x += MEASURE_WIDTH;
     });

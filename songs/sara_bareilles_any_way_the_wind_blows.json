@@ -1,0 +1,934 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/sara-bareilles/182181.html",
+  "title": "Any Way the Wind Blows",
+  "artist": "Sara Bareilles",
+  "key": null,
+  "scrapedAt": "2025-12-16T12:57:21.759Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-------------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ANY WAY THE WIND BLOWS ? Sara Bareilles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-------------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Kengus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The intro/verse is sort of half-muted at times; I just put the tabs in to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "give an idea of what may be going on. I think I got most of it. To my ear,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "there's something going on with the Cadd9 in some parts, it may be a kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "of Cmaj7 as well. Check it out."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo on fourth fret!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9 = x32033 A7 = x02020 Em7add6 = 040050 Cadd9/E = 032033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 320033 Em7 = 022030 Dadd4 = x54035 Am7 = x02013"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m7#5 = 200230 Cadd9* = x32030 Am9 = x05500"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em = 022000 D11/E = 032032 A7sus4 = x02030 Remember: capo on 4th"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO (repeat x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G5",
+              "lyrics": ""
+            },
+            {
+              "chord": "Aadd4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G5",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---------------------------------3--------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---------------------------------3----------------------3---------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|---------------------------------0-0-0-0-0-0-0-0--0-0-0-0-0-0-0-0-| x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----------------------0-0-0-0-x-2-2-2-5-5-5-5-5--2-2-2-4-4-4-4-4-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-2-----4---x-x-x-5-x-x-4-4-4-5-x-3~----5-5-5-5-5--3-3-3-5-5-5-5-5-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-0-0-0-0-0-x-x-x-3-x-x-5~----5-x-------3~---------0-0-0-0-0-0-0-0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "Ca"
+            },
+            {
+              "chord": "C#m/E",
+              "lyrics": "n't tell you the tr"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "uth"
+            },
+            {
+              "chord": "Aadd4",
+              "lyrics": ", 'least I"
+            },
+            {
+              "chord": "D5/A",
+              "lyrics": "don't"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "lie about"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "that"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "Kin"
+            },
+            {
+              "chord": "C#m/E",
+              "lyrics": "d of comfort in y"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "ou,"
+            },
+            {
+              "chord": "Aadd4",
+              "lyrics": "comes when"
+            },
+            {
+              "chord": "D5/A",
+              "lyrics": "you"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "lie right"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "back"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "Safe from such a str"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ange poin"
+            },
+            {
+              "chord": "F#m7#5",
+              "lyrics": "t of view"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "To hear your o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wn wor"
+            },
+            {
+              "chord": "F#m7#5",
+              "lyrics": "ds on you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em F#m7#5 G Cadd9 G Cadd9*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want you go to be gone, you are any way the wind blows"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Any way"
+            },
+            {
+              "chord": "F#m7#5",
+              "lyrics": "the wind blows in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "D"
+            },
+            {
+              "chord": "F#m7#5",
+              "lyrics": "on't wanna come dow"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n too"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "low,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "any way the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wind blows"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9* F#m7#5 Em7 F#m7#5 G Cadd9* Em7 F#m7#5 G D11/E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Any way the wind blows in, any way the wind blows in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE2 (play like verse 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Same all the creatures we are, chasing the pipe dream down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Love elusive so far, keeps us divided now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS (play like before)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Go, go on and write me love songs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I have something to sing when you're gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em F#m7#5 G Cadd9 G Cadd9*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want you go to be gone, you are any way the wind blows"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Any way"
+            },
+            {
+              "chord": "F#m7#5",
+              "lyrics": "the wind blows in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "D"
+            },
+            {
+              "chord": "F#m7#5",
+              "lyrics": "on't wanna come dow"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n too"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "low,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "any way the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wind blows"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9* F#m7#5 Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Any way the wind blows in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m7#5",
+              "lyrics": "n't wanna come d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "own, do you k"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "now the"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "way, to"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "be in one place b"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ut sway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Any way t"
+            },
+            {
+              "chord": "F#m7#5",
+              "lyrics": "he winds blo"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "w in"
+            },
+            {
+              "chord": "Em7add6",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(originally posted on www.ultimate-guitar.com)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dadd4",
+              "lyrics": "love, you are monsters and angels, un"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "touched, unseen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dadd4",
+              "lyrics": "one, I take all that you are, 'cause you're"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "just like me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am9",
+              "lyrics": "move and it's hard to stay close to a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "satellite"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9* A7 (A7sus4 A7)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I lose sight of you, till you come round again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "(A7",
+              "lyrics": "I'"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "m watch"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ing"
+            },
+            {
+              "chord": "A7sus4)",
+              "lyrics": "the wind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTERLUDE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7#5",
+              "lyrics": "Hey-ey,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9/E",
+              "lyrics": "he-E-ey x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em F#m7#5 G Cadd9 Am7 Cadd9 F#m7#5 Em..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hey-ey, he-e-ey, anyway the winds blow in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS/OUTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em F#m7#5 G Cadd9 G Cadd9*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want you go to be gone, you are any way the wind blows"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Any way"
+            },
+            {
+              "chord": "F#m7#5",
+              "lyrics": "the wind blows in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "D"
+            },
+            {
+              "chord": "F#m7#5",
+              "lyrics": "on't wanna come dow"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n too"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "low,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "any way the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wind blows"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9* F#m7#5 Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Any way the wind blows in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m7#5",
+              "lyrics": "n't wanna come d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "own, do you k"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "now the"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "way, to"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "be in one place b"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ut stay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G F#m7#5 Em7 F#m7#5 G Cadd9*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Any way the winds blow in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 F#m7#5 G Cadd9* Em7 F#m7#5 G Cadd9*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Any way the winds blow in."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D11/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "========================================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Comment, rate, appreciate!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

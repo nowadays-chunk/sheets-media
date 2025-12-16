@@ -1,0 +1,74 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/s/seanhayes-tabs-44001/alabamachicken-tabs-513332.html",
+  "title": "Alabama Chicken",
+  "artist": "Sean Hayes",
+  "key": null,
+  "scrapedAt": "2025-12-16T11:13:59.267Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 2nd fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Possum trot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "copper ring round"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "and the dog needs something to eat"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Old Ned Berry in a Cadillac hear"
+            },
+            {
+              "chord": "G",
+              "lyrics": "se"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "down a Birmingham street"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Basically just repeats from there."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

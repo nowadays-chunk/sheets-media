@@ -1,0 +1,754 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/steely-dan/282552.html",
+  "title": "Almost Gothic",
+  "artist": "Steely Dan",
+  "key": null,
+  "scrapedAt": "2025-12-16T11:53:25.193Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Amaj7 C#m7 | |Amaj7 C#m7 | |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Amaj7 B7 |Amaj7 C#m7 |Gbsus2/Bb Bsus2 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb13add9",
+              "lyrics": "I'm working on"
+            },
+            {
+              "chord": "Db13add9",
+              "lyrics": "gospel time these"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "ummer"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "the s"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ummer"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "this could"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "cool part of the"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "summer)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dbmaj7",
+              "lyrics": "The sloe-eyed creature in the"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "reckless room"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "so severe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7/Eb",
+              "lyrics": "wise child walks right"
+            },
+            {
+              "chord": "G7sus4/D",
+              "lyrics": "out of here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "I'm so excited I can"
+            },
+            {
+              "chord": "Cmaj7-5",
+              "lyrics": "barely"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "cope"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "sizzling like an"
+            },
+            {
+              "chord": "Amaj7-5",
+              "lyrics": "isotope"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "fire so"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "cut me some"
+            },
+            {
+              "chord": "Emaj7",
+              "lyrics": "slack"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm7",
+              "lyrics": "First she's way"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "gone"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "then she comes"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "back"
+            },
+            {
+              "chord": "D6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "She's all"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "business then"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "she's ready to"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "play"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "She's almost"
+            },
+            {
+              "chord": "Absus4/Eb",
+              "lyrics": "gothic in a"
+            },
+            {
+              "chord": "Absus2/C",
+              "lyrics": "natural way"
+            },
+            {
+              "chord": "Dbsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Amaj7 Emaj7 |Amaj7-5 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb13add9",
+              "lyrics": "This house of"
+            },
+            {
+              "chord": "Db13add9",
+              "lyrics": "desire is built fours"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "quare"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "city -"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "the"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "cleanest ki"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "tten in the"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "city)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dbmaj7",
+              "lyrics": "When she speaks it's like the"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "slickest song I"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "ever heard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7/Eb",
+              "lyrics": "hanging on her e"
+            },
+            {
+              "chord": "G7sus4/D",
+              "lyrics": "very word"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "As if I'm not already"
+            },
+            {
+              "chord": "Cmaj7-5",
+              "lyrics": "blazed en"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "ough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "hits me with the"
+            },
+            {
+              "chord": "Amaj7-5",
+              "lyrics": "cryptic stuff"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Emaj7",
+              "lyrics": "style - to j"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "erk me a"
+            },
+            {
+              "chord": "Emaj7",
+              "lyrics": "round"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm7",
+              "lyrics": "First she's all"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "feel"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "then she cools"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "down"
+            },
+            {
+              "chord": "D6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "She's pure"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "science with a"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "splash of black"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "cat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "She's almost"
+            },
+            {
+              "chord": "Ab7sus4/Eb",
+              "lyrics": "gothic and I"
+            },
+            {
+              "chord": "Absus2/C",
+              "lyrics": "like it like"
+            },
+            {
+              "chord": "Dbsus2",
+              "lyrics": "that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am9 D9 Fmaj7-5/A D9 |Am9 D9 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In this dark place so thrilling and new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Fmaj7-5/A D9 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "kind of"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "like the"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "opposite"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "of an"
+            },
+            {
+              "chord": "Amaj7/B",
+              "lyrics": "aerial view"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj9",
+              "lyrics": "less I'm totally"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bbmaj7-5 Amadd9 |E9 |D6/9 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hear her rap and brother it's strong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Abm7sus4 Db/Eb |Abm7sus4 Db/Eb |Abm7sus4 Db/Eb |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Gm7sus4 C/D |Gm7sus4 C/D |Gm7sus4 C/D |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dbmaj7",
+              "lyrics": "I'm pretty sure that what she's"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "telling me is"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "mostly lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7/Eb",
+              "lyrics": "I just stand there"
+            },
+            {
+              "chord": "G7sus4/D",
+              "lyrics": "hypnotized"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "I'll just have to make it"
+            },
+            {
+              "chord": "Dbmaj7",
+              "lyrics": "work somehow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj9/6",
+              "lyrics": "in the amen"
+            },
+            {
+              "chord": "Bbmaj7-5",
+              "lyrics": "corner now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "love - I"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "spell L -U-"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "V"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "First she's all"
+            },
+            {
+              "chord": "Abmaj7",
+              "lyrics": "buzz"
+            },
+            {
+              "chord": "Ebmaj9/6",
+              "lyrics": "then she's noise-"
+            },
+            {
+              "chord": "Abmaj7",
+              "lyrics": "free"
+            },
+            {
+              "chord": "Ebmaj9/6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abmaj7",
+              "lyrics": "She's bubbling"
+            },
+            {
+              "chord": "Ebmaj9/6",
+              "lyrics": "over then there's"
+            },
+            {
+              "chord": "Abmaj7",
+              "lyrics": "nothing to"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "She's almost"
+            },
+            {
+              "chord": "A7sus4/E",
+              "lyrics": "gothic in a n"
+            },
+            {
+              "chord": "Asus2/C#",
+              "lyrics": "atural w"
+            },
+            {
+              "chord": "Dadd9",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Bbmaj7 Fmaj7 |Bbmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's old"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abmaj7",
+              "lyrics": "school"
+            },
+            {
+              "chord": "Ebmaj9/6",
+              "lyrics": "then she's like"
+            },
+            {
+              "chord": "Abmaj7",
+              "lyrics": "young"
+            },
+            {
+              "chord": "Ebmaj9/6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abmaj7",
+              "lyrics": "Little"
+            },
+            {
+              "chord": "Ebmaj9/6",
+              "lyrics": "Eva meets the"
+            },
+            {
+              "chord": "Abmaj7",
+              "lyrics": "Bleecker Street"
+            },
+            {
+              "chord": "Ebmaj9/6",
+              "lyrics": "brat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "She's almost"
+            },
+            {
+              "chord": "A7sus4/E",
+              "lyrics": "gothic but it's"
+            },
+            {
+              "chord": "Asus2/C#",
+              "lyrics": "better than"
+            },
+            {
+              "chord": "Dadd9",
+              "lyrics": "that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Bbmaj7 Fmaj7 |Bbmaj7 Bb6 |E13add9 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|D13add9 |Dmaj7 Gm7addC??."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcription and chart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Peter Kruger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "casparus50@yahoo.ca"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

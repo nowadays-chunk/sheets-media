@@ -1,0 +1,934 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/stevie-wonder/138515.html",
+  "title": "A Place In The Sun",
+  "artist": "Stevie Wonder",
+  "key": null,
+  "scrapedAt": "2025-12-16T10:30:14.635Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#...A PLACE IN THE SUN... by Stevie Wonder"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "------------------------................."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#*from 'Down To Earth' (1966)*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#*CAPO 1st FRET*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#(Original Key: Ebm)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#Dm7  G7, C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "long lonely"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "stream;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "runnin' to-"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "wards a"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "dream."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "Movin' on,"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "on."
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F6",
+              "lyrics": "Like"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "a"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "branch on a"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "tree;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "reachin'"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "to be"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "free."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "Movin' on"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C   F, C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Movin' on."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "place in the"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "sun,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "hope for"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ev'ry-"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "one,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "my"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "poor restless"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "heart's,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "run."
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "place in the"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "sun,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "fore my"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "life is"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "done;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Got to"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "find me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "place in the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sun."
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "old dusty"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "road;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "we-ary"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "from the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "load."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "Movin' on,"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "on."
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "tired troubled"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "earth,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "rollin'"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "since my"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "birth."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "Movin' on"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C   F, C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Movin' on."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "place in the"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "sun,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "hope for"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ev'ry-"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "one,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "my"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "poor restless"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "heart's,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "run."
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "place in the"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "sun,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "fore my"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "life is"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "done;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Got to"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "find me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G7           C    F, C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A place in the sun."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "place in the"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "sun,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "hope for"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ev'ry-"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "one,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "my"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "poor restless"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "heart's,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "run."
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "place in the"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "sun,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "fore my"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "life is"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "done;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Got to"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "find me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G7           C    F, C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A place in the sun."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat to Fade)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORD DIAGRAMS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "---------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0211"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "323000"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32010"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x20010"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02013"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "x33210"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "020100"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02210"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32000"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Joel from cLuMsY, Bristol, England, 2004"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(clumsyband@hotmail.com)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

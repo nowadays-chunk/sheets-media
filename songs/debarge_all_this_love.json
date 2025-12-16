@@ -1,0 +1,886 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/debarge/351745.html",
+  "title": "All This Love",
+  "artist": "DeBarge",
+  "key": null,
+  "scrapedAt": "2025-12-16T11:45:49.797Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "ch",
+              "lyrics": "F7/C"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": "F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "I had"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "some prob"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "lems"
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "ch",
+              "lyrics": "F7/C"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": "F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And no one could seem to solve them"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "you"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "found the"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "answer"
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "told me to"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "take"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "a chance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "And learn the wa"
+            },
+            {
+              "chord": "Abmin",
+              "lyrics": "y"
+            },
+            {
+              "chord": "Db9",
+              "lyrics": "of"
+            },
+            {
+              "chord": "Gbmaj7",
+              "lyrics": "love, my baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "all"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "that it"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "had to offer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "time you will see"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "that love"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "won't let"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "you do-own."
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "said"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "that you"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "loved me"
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "ch",
+              "lyrics": "F7/C"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": "F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Said hurt only came to pass me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "sounded"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "so con"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "vincing"
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "ch",
+              "lyrics": "F7/C"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": ""
+            },
+            {
+              "chord": "ch",
+              "lyrics": "Bbm/C#"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That I gave it half a chance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "And learn the wa"
+            },
+            {
+              "chord": "Abmin",
+              "lyrics": "y"
+            },
+            {
+              "chord": "Db9",
+              "lyrics": "of l"
+            },
+            {
+              "chord": "Gbmaj7",
+              "lyrics": "ove, my baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "re is so much love in"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "side me"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "all"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "that I h"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "ave I give"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "my al"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "l to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(all, all my loving)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And all th"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "is"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "love is wait"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ing for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abmin",
+              "lyrics": "g)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And all, a"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "ll my lo"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "ve is waiting"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Oooh!)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "I had"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "some prob"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "lems"
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "ch",
+              "lyrics": "F7/C"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": "F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And no one could seem to solve them"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "you-you-you found"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "the answer"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "gave you h"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "alf a"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "chance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "ch",
+              "lyrics": "Abmin"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": "Db9 Gbmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And learned the way of love, my baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "all"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "that it"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "has to offer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "all that I h"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "ave I give"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "my all"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "to you"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And all th"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "is"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "love is wait"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ing for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "ch",
+              "lyrics": "Abmin"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(my baby, my sugar)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And all, a"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "ll my lo"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "ve is waiting"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "All"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "this"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "love is w"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "aiting for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And all th"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "is"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "love is wait"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ing fo"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "r you (my baby)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And baby a"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "ll, baby"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "all this lov"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "e is waiting for you (m"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "y sugar, my baby)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And all th"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "is"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "love is wait"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ing for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Oh, I love how you make me feel this way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "My love is getting stronger every day"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "(my b"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "aby)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And after all I went and put myself through"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "I found that all I really needed was you"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "(my"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "darlin')"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "ch",
+              "lyrics": "Bbmin"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": "Eb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the sun has its place up in the sky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "I love you so de"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "ar--ly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And all the same, there's no need to"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "wonder why"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "I need you, please hear"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Say you really love me, baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Say you really love me, darlin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "For I really love you baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "You know I really love you darlin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Say you really love me, baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Say you really love me, darlin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "Cause I really love you baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "ch",
+              "lyrics": "Abmin"
+            },
+            {
+              "chord": "/ch",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sure enough love you darlin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Sa"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "y, s"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ay"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "you love me......"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

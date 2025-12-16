@@ -1,0 +1,654 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/a/alvvays-tabs-54663/adultdiversion-tabs-812816.html",
+  "title": "Adult Diversion",
+  "artist": "Alvvays",
+  "key": null,
+  "scrapedAt": "2025-12-16T10:57:18.446Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "How do"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "I get close to yo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "u?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Even if you don't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "notice as"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "I admire you on"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "subway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "When it's"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "dark outside your ho"
+            },
+            {
+              "chord": "D",
+              "lyrics": "use"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "won't let anybody"
+            },
+            {
+              "chord": "A",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "keep a padlock"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "on the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "door, well"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "One more cocktail"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "your trail"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "If I should"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Act as though it never"
+            },
+            {
+              "chord": "A",
+              "lyrics": "happened"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I will re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "treat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "sit inside so very"
+            },
+            {
+              "chord": "A",
+              "lyrics": "quietly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INSTRUMENTAL:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A | D | D | A | x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "How do"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "I grow old with you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Even if you don't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "notice as"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "I pass by you on"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sidewalk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "When it's"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "dark outside your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "house"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "won't let anybody"
+            },
+            {
+              "chord": "A",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "keeping a dead girl"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "closet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "One more cocktail"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Is it a good"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Or is it highly inappropriate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "If I should"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Act as though it never"
+            },
+            {
+              "chord": "A",
+              "lyrics": "happened"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I will re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "treat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "then go back to uni"
+            },
+            {
+              "chord": "A",
+              "lyrics": "versity"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "If I should"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Act as though it never"
+            },
+            {
+              "chord": "A",
+              "lyrics": "happened"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I will re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "treat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "sit inside so very"
+            },
+            {
+              "chord": "A",
+              "lyrics": "quietly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|D/A | Bm |A/C#| Bm |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No chords during guitar interlude"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "won't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "waste"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "won't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "waste"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "won't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "waste"
+            },
+            {
+              "chord": "E",
+              "lyrics": "a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "If I should"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "happened"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I will re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "treat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "quietly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "If I should"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Act as though it never"
+            },
+            {
+              "chord": "A",
+              "lyrics": "happened"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I will re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "treat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "then go back to uni"
+            },
+            {
+              "chord": "A",
+              "lyrics": "versity"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A | D | D | A | x4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/h/hanson/57106.html",
+  "title": "A Song to Sing",
+  "artist": "Hanson",
+  "key": null,
+  "scrapedAt": "2025-12-16T10:35:41.476Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: standard--real chords from song, like the piano."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: B F# Ab C#m B F#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Good-bye"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "four leaf"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "clovers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Hello, g"
+            },
+            {
+              "chord": "B",
+              "lyrics": "one awr"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "y"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Don't cry"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "the fight ain't"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "over"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Unless you l"
+            },
+            {
+              "chord": "B",
+              "lyrics": "et it pass you by"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "I'm looking for a s"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ong to sin"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "g"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "riend to bo"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "rrow"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "radio"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "heart to fol"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "low"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "onging for your loving"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "earing down to n"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "othing"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "ooking for a reason"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "ou'd be thinking o"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "f me"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Ab",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E F# B F#, Ab, E, F#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'd be thinking of me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "All that I have"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "found in re"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ason"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Is reason just to n"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ot belie"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "When all that y"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ou are left is"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "treason"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "It's treason jus"
+            },
+            {
+              "chord": "B",
+              "lyrics": "t to let it be"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "lue yonder dreams and s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "econd hand shoes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "o far gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "ve to lose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "t's too late to g"
+            },
+            {
+              "chord": "B",
+              "lyrics": "o home all a"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "lone"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "ou're the tar in that old"
+            },
+            {
+              "chord": "B",
+              "lyrics": "cigar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "orn out cable on a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "cable car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And you're too ti"
+            },
+            {
+              "chord": "B",
+              "lyrics": "red to admit you've got to"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "choose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "repeat Chorus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

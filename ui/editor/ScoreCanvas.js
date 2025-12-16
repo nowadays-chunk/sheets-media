@@ -5,7 +5,7 @@ import { useScore } from "@/core/editor/ScoreContext";
 export default function ScoreCanvas() {
   const notationRef = useRef(null);
   const tabRef = useRef(null);
-  const { score } = useScore();
+  const { score, selection } = useScore();
 
   const [activeTab, setActiveTab] = useState("notation");
 
@@ -17,7 +17,8 @@ export default function ScoreCanvas() {
     const renderer = new CombinedRenderer({
       notationContainer: notationRef.current,
       tabContainer: tabRef.current,
-      score
+      score,
+      selection
     });
 
     renderer.render();

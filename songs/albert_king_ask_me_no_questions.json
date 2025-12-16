@@ -1,0 +1,114 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/a/albert_king/ask_me_no_questions_btab.html",
+  "title": "Ask Me No Questions",
+  "artist": "Albert King",
+  "key": null,
+  "scrapedAt": "2025-12-16T14:52:32.866Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ASK ME NO QUESTIONS (Bassline)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As recorded by Albert King / Stevie Ray Vaughan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(From the 1983 Album IN SESSION)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Music by B.B. King"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed by Bruce Tyroler"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "4/4",
+              "lyrics": "Gtr I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E E E E E Q E E E E E E Q E E E E E E Q E E E E E E Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "E E E E E E E E"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "Q E E E Q E"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "Q E E E Q E"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "E E E E E E E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "E E E E E Q. E E E E E Q."
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "E E E E E Q. E E E E E Q."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "E E E E E Q. E E E E E Q."
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "E E E E E E E E Q. E E E E E"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/k/keane/171366.html",
+  "title": "Allemande",
+  "artist": "Keane",
+  "key": null,
+  "scrapedAt": "2025-12-16T11:50:25.251Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: D / Am / B E Asus2 /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse: D / Am / B E Asus2 A x2 (Allemande...)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Prechorus: Cmaj7 / E Esus4 x2 (All along...)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus2 Am Cmaj7 B Bbmaj7 Am G / / / (Sorry...)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus: Am Bm G D/F# x3 E / (And ain't that...)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "D / Am"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "/"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "B E As"
+            },
+            {
+              "chord": "B",
+              "lyrics": "us"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "2 A"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Prechorus: as above prechorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus: as above chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus: as above chorus - but no vocals!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Thanks"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

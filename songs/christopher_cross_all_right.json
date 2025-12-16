@@ -1,0 +1,1282 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/christopher-cross/300561.html",
+  "title": "All Right",
+  "artist": "Christopher Cross",
+  "key": null,
+  "scrapedAt": "2025-12-16T11:38:08.133Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Another Page"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed by: Steven P."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m x46654"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "A"
+            },
+            {
+              "chord": "244222",
+              "lyrics": "x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B x24442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A/C# x42222"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Bsus"
+            },
+            {
+              "chord": "466444",
+              "lyrics": "x24452"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bsus2 x24422"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus2 x02200"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "know what's on your"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "it gets"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "tough some -"
+            },
+            {
+              "chord": "B",
+              "lyrics": "times"
+            },
+            {
+              "chord": "Bsus",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "But you can give it"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "one more try"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And find a reason why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "You should"
+            },
+            {
+              "chord": "A",
+              "lyrics": "pick it up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Ooh,"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "try it a -"
+            },
+            {
+              "chord": "B",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "'Cause it's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just work"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out this"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "work out"
+            },
+            {
+              "chord": "B",
+              "lyrics": "fine this"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just work"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "'Cause it's not too late for"
+            },
+            {
+              "chord": "B",
+              "lyrics": "that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "I've been"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "hurt before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "I really shouldn't"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "give any -"
+            },
+            {
+              "chord": "B",
+              "lyrics": "more"
+            },
+            {
+              "chord": "Bsus",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "But this time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "time things seem just a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "little different"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "when I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "look in your eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "know I can"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "see that it's"
+            },
+            {
+              "chord": "B",
+              "lyrics": "true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "And"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hear"
+            },
+            {
+              "chord": "B",
+              "lyrics": "you say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "It's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just work"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out this"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "work out"
+            },
+            {
+              "chord": "B",
+              "lyrics": "fine this"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just work"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "'Cause it's not too"
+            },
+            {
+              "chord": "B",
+              "lyrics": "late for"
+            },
+            {
+              "chord": "E",
+              "lyrics": "that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Too late for love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Just when you feel helpless"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Nothing left to say"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Love will find us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The past behind us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Then we're on our way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "gain I see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "People so unsure like me"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "We all know"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "it gets"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "hard some -"
+            },
+            {
+              "chord": "B",
+              "lyrics": "times"
+            },
+            {
+              "chord": "Bsus",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You can give it"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "one more try"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Find another reason why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "You should"
+            },
+            {
+              "chord": "A",
+              "lyrics": "pick it up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Ooh,"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "why you should"
+            },
+            {
+              "chord": "A",
+              "lyrics": "kick it up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Ooh,"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "try it a -"
+            },
+            {
+              "chord": "B",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "'Cause it's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just work"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out this"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "work out"
+            },
+            {
+              "chord": "B",
+              "lyrics": "fine this"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just work"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out this time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "It's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "work out f"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ine this"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just work"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out this"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just work"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out this"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's all right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I think we're gonna make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I think it might"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just work"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out this"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To fade"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is my interpretation of the song and is what I hear. Some of the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chord changes in this one are fairly fast. Just before the chorus,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "there's an F#, G#, A and B progression, which might be best played as"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "single notes. If you choose to play it this way, use second, fourth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and fifth frets of the sixth string (low E). Play the B on the fifth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "string, second fret. Playing chords in this part may be a little"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "difficult, unless you've been playing awhile. These are not shown,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but you will be able to hear them. As always, please feel free to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "experiment with your own voicings. I'm rating this one as"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intermediate, due to the speed at which it must be played."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

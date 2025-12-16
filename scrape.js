@@ -26,6 +26,19 @@ const clean = (s) =>
     .trim() ?? "";
 
 // =====================
+// Filename sanitizer
+// =====================
+function safeFilename(title, artist) {
+  return `${title}_${artist}`
+    .normalize("NFD")                 // remove accents
+    .replace(/[\u0300-\u036f]/g, "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "_")      // keep only a-z 0-9 _
+    .replace(/_+/g, "_")              // collapse multiple _
+    .replace(/^_|_$/g, "");           // trim _
+}
+
+// =====================
 // Fetch HTML
 // =====================
 async function fetchHTML(url) {
@@ -97,7 +110,9 @@ async function scrapeTab(tabUrl) {
     return null;
   }
 
-  const tab = store?.store?.page?.data?.tab_view?.wiki_tab?.content ?? "";
+  const tab =
+    store?.store?.page?.data?.tab_view?.wiki_tab?.content ?? "";
+
   const rawLines = tab.split(/\r?\n/).map(clean);
 
   // Merge paired chord/lyric lines
@@ -142,7 +157,9 @@ async function scrapeTab(tabUrl) {
       continue;
     }
 
-    current.lines.push({ chunks: [{ chord: null, lyrics: clean(line) }] });
+    current.lines.push({
+      chunks: [{ chord: null, lyrics: clean(line) }],
+    });
   }
 
   return {
@@ -167,14 +184,18 @@ let index = 0;
 
 for (const song of songs) {
   index++;
-  const { id, tab_url } = song;
+
+  const { id, tab_url, song_name, artist_name } = song;
 
   if (!tab_url) {
     console.log(`⏭️  Skipping (no tab_url) id=${id}`);
     continue;
   }
 
-  const outPath = path.join(OUTPUT_DIR, `${id}.json`);
+  const filename =
+    safeFilename(song_name ?? "", artist_name ?? "") || `song_${id}`;
+
+  const outPath = path.join(OUTPUT_DIR, `${filename}.json`);
 
   if (fs.existsSync(outPath)) {
     console.log(`✔️ Already exists: ${outPath}`);
