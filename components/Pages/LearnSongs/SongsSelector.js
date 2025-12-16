@@ -22,11 +22,33 @@ import songsSecond from "@/output_songs/second-songs.json";
    HELPERS
 ============================================================ */
 
-const slugify = (song, artist) =>
-  `${song}_${artist}`
-    .toLowerCase()
-    .replace(/[^a-z0-9 ]+/g, "")
-    .replace(/\s+/g, "_");
+function slugify(artist, song) {
+  const normalize = (s) =>
+    s
+      .toString()
+      .normalize("NFKD")
+      .toLowerCase()
+      .trim()
+
+      // 1️⃣ Convert ALL word separators to underscore FIRST
+      .replace(/[\s\-–—/]+/g, "_")
+
+      // 2️⃣ Remove everything that is NOT a word char or underscore
+      .replace(/[^a-z0-9_]/g, "")
+
+      // 3️⃣ Collapse multiple underscores
+      .replace(/_+/g, "_")
+
+      // 4️⃣ Trim underscores
+      .replace(/^_+|_+$/g, "");
+
+  const artistSlug = normalize(artist);
+  const songSlug   = normalize(song);
+
+  // 5️⃣ Enforce exactly ONE underscore between artist and song
+  return `${artistSlug}_${songSlug}`;
+}
+
 
 /* ============================================================
    STYLES
