@@ -1,0 +1,406 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/emily.htm",
+  "title": "Emily",
+  "artist": "Andy Williams",
+  "key": null,
+  "scrapedAt": "2025-12-17T06:57:12.249Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "DM7",
+              "lyrics": "Emily,"
+            },
+            {
+              "chord": "G6/9",
+              "lyrics": "Emily,"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "Emily"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Has"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "the"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "murmuring s"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ound"
+            },
+            {
+              "chord": "D7/9",
+              "lyrics": "of M"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "All"
+            },
+            {
+              "chord": "B",
+              "lyrics": "silver bells,"
+            },
+            {
+              "chord": "G#7",
+              "lyrics": "coral shells,"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "carousels"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "laughter"
+            },
+            {
+              "chord": "Bm7/E",
+              "lyrics": "of c"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "hild -"
+            },
+            {
+              "chord": "E7/6",
+              "lyrics": "ren at"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "play"
+            },
+            {
+              "chord": "A7+5",
+              "lyrics": "--"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "they"
+            },
+            {
+              "chord": "A7+5",
+              "lyrics": "say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\""
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "Emily,"
+            },
+            {
+              "chord": "G6/9",
+              "lyrics": "Emily,"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "Emily\""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "we f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ade"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "mar -"
+            },
+            {
+              "chord": "D7/9",
+              "lyrics": "vel -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ous v"
+            },
+            {
+              "chord": "G",
+              "lyrics": "iew"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gdim",
+              "lyrics": "Two"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "lov -"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "ers"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "a -"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "lone"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "and"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "out of sight"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cdim",
+              "lyrics": "See -"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "images"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": "in"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "the"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "firelight"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "As my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eyes"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "vis - ual -"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ize"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a f"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "amily"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cdim",
+              "lyrics": "They"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "see d"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "reamily,"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "Emily"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Instrumental Interlude: First 2 lines of second verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "As my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eyes"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "vis - ual -"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ize"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a f"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "amily"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cdim",
+              "lyrics": "They"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "see E"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "mily,"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "Emily,"
+            },
+            {
+              "chord": "A7+5",
+              "lyrics": "t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "oo."
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7+5",
+              "lyrics": ""
+            },
+            {
+              "chord": "D6",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

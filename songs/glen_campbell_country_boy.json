@@ -1,0 +1,414 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/glen-campbell/319018.html",
+  "title": "Country Boy",
+  "artist": "Glen Campbell",
+  "key": null,
+  "scrapedAt": "2025-12-16T22:13:40.344Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/F# - 2X0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Livin' in the city"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ain't"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "never been my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "idea of gettin' it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "job demands that you"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "make new plans"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fore your big chance is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gone"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You get a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "house in the hills"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're payin'"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "everyone's bills"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And they"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tell you that you're gonna go"
+            },
+            {
+              "chord": "G",
+              "lyrics": "far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "back of my mind,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hear it"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "time after time,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Is"
+            },
+            {
+              "chord": "C",
+              "lyrics": "that who you really are?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Coun"
+            },
+            {
+              "chord": "D",
+              "lyrics": "try"
+            },
+            {
+              "chord": "G",
+              "lyrics": "boy, you got your"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "feet in L.A."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But your"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "mind's on Tennes"
+            },
+            {
+              "chord": "C",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lookin'"
+            },
+            {
+              "chord": "D",
+              "lyrics": "back, I can rem"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ember the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sang my songs for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Coun"
+            },
+            {
+              "chord": "D",
+              "lyrics": "try"
+            },
+            {
+              "chord": "G",
+              "lyrics": "boy, you got your"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "feet in L.A."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Take a"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "look at everything you o"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "G",
+              "lyrics": "now and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "then, my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "heart keeps"
+            },
+            {
+              "chord": "D",
+              "lyrics": "goin'"
+            },
+            {
+              "chord": "C",
+              "lyrics": "home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Talkin' on the telephone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Settin' up another day of people to meet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You've gotta do what's right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You've gotta spend the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stayin' in touch with the street"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you're surrounded by friends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They say the fun never ends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I guess I'll never figure it out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause in the back of my mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hear it time after time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Is this what it's all about?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus and fade"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

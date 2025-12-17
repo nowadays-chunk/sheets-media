@@ -1,0 +1,602 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/sondre-lerche/319866.html",
+  "title": "Counter Spark",
+  "artist": "Sondre Lerche",
+  "key": null,
+  "scrapedAt": "2025-12-16T22:12:30.767Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "by Sondre Lerche"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Charles Podkanski"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email/msn: charles@podkanski.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You could be sad but never torn"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You saw the light when it was on"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "You never turned or looked"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "away"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Your eyes were focused, mine were"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "grey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Your sentences were concentrated"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You made your points so understated"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Where I would mumble, you would"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "say"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Your eyes were focused, mine were"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "grey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "I made up c"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "onver"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sations"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "with my sym"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "bolic"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "language"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Saying"
+            },
+            {
+              "chord": "C",
+              "lyrics": "everybody"
+            },
+            {
+              "chord": "C7M",
+              "lyrics": "wants to be like"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "I'd rather"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fall in love with"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You got the picture from the start"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You saw right through me in the dark"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "You saw that I couldn't be"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "have"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "with eyes so focused, yet so"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "frail"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "I chose"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "you from a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "million"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "You were the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "choice of"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "billions"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "wishing they would"
+            },
+            {
+              "chord": "C7M",
+              "lyrics": "try to be like"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "I'd rather"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fall in love with"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C Am D7 Dm7 C(x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ba-ba-ba baa-ba..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You questioned men and called them whores"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "But you would never burn your bras"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "You held your head up in the"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "rain"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Your eyes were focused, mine were"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "grey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You had relationships that worked"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "and yet experience with jerks"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "So well adjusted, but with"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "charm"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Your eyes were focused and yet"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "calm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "I'm fairly"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "real"
+            },
+            {
+              "chord": "G",
+              "lyrics": "istic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "But my thought are"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "out of"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lip-sync"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "when I say that"
+            },
+            {
+              "chord": "C7M",
+              "lyrics": "I'm not one of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "those"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "who"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "pass you by and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fall in love with"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "who"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "pass you by and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fall in love with"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "who"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "pass you by and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fall in love with"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "pass you by and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fall in love with"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C Am D7 Dm7 C (until fade)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ba-ba-ba baa-ba..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

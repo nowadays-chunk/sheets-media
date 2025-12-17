@@ -1,0 +1,158 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/r/renaud/292913.html",
+  "title": "Chanson pour Pierrot",
+  "artist": "Renaud",
+  "key": null,
+  "scrapedAt": "2025-12-16T20:40:55.051Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "T'es pas n� dans la"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "rue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T'es pas n� dans l' ruiss"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "eau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T'es pas un enfant per"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "du"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pas un enfant d' sala"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ud,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vu qu' t'es n� dans ma t"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "�te"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Et qu' tu vis dans ma p"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "eau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "J'ai construit ta plan"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "�te"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Au fond de mon cerv"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "eau."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pierrot, mon g"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "osse, mon frangin, mon pot"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "eau,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mon copain tu m' tiens c"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "haud... Pier"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "rot."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...et ainsi de suite"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "by Amo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

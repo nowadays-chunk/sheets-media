@@ -1,0 +1,118 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/george-jones/come-home-to-me",
+  "title": "Come Home to Me",
+  "artist": "George Jones",
+  "key": null,
+  "scrapedAt": "2025-12-16T21:42:21.504Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">C F C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lying here thinking and I happen to think"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Blaming myself for the"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "things that I said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Hoping that"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you can"
+            },
+            {
+              "chord": "C",
+              "lyrics": "forget and forgive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My life without you"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ain't no way to live"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Come home to me"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "come home to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "It just won't be right till you"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Come home to me"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "come home to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I can't take one more night all"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

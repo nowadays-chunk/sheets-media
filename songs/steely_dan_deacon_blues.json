@@ -1,0 +1,874 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/s/steelydan-tabs-5585/deaconblues1-tabs-422230.html",
+  "title": "Deacon Blues",
+  "artist": "Steely Dan",
+  "key": null,
+  "scrapedAt": "2025-12-16T23:16:34.073Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "DEACON BLUES - Steely Dan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the album AJA"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G13",
+              "lyrics": "This is the"
+            },
+            {
+              "chord": "F13",
+              "lyrics": "day of the ex"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "panding"
+            },
+            {
+              "chord": "F13",
+              "lyrics": "man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G13",
+              "lyrics": "That shape is my"
+            },
+            {
+              "chord": "F13",
+              "lyrics": "shade there where I"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "used to s"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "tand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "It seems like"
+            },
+            {
+              "chord": "E7-9",
+              "lyrics": "only yester"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "day I gazed through the g"
+            },
+            {
+              "chord": "Bb13",
+              "lyrics": "lass"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ramblers, wild g"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "amblers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That's"
+            },
+            {
+              "chord": "B7#9",
+              "lyrics": "all in the"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "past"
+            },
+            {
+              "chord": "B7#9",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G13",
+              "lyrics": "You call me a"
+            },
+            {
+              "chord": "F13",
+              "lyrics": "fool you say it's a"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "crazy"
+            },
+            {
+              "chord": "F13",
+              "lyrics": "scene"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G13",
+              "lyrics": "This one's for"
+            },
+            {
+              "chord": "F13",
+              "lyrics": "real I already"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "bought the"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "So useless to"
+            },
+            {
+              "chord": "E7-9",
+              "lyrics": "ask me why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Throw a kiss and"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "say goodbye"
+            },
+            {
+              "chord": "F#maj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll make it thi"
+            },
+            {
+              "chord": "Csus2/E",
+              "lyrics": "s time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "I'm ready to"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": "cross that fine line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I'll Learn to work the"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "saxophone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "I play"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "just what I feel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "Drink scotch whiskey"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "all night"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": "long"
+            },
+            {
+              "chord": "Am/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Csus2/E Fmaj7(Viii) Am7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And die behind the wheel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They got a name for the w"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "inners in the world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "I want a"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "name when I lose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "call Alabama the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "crimson"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": "tide"
+            },
+            {
+              "chord": "Am/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Csus2/E Fmaj7(Viii) Am7 Em7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Call me Deacon Blues (Deacon Blues)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2 : (Chords as VERSE 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My back to the wall a victim of laughing chance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is for me the essence of true romance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sharing the things we know and love with those of my kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Libations, sensations which stagger the mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I crawl like a viper through these suburban streets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Make love to these women languid and bittersweet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll rise when the sun goes down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cover every game in town"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A world of my own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll make it my home sweet home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As before except for the last line of chords. Play these instead :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then it goes into ....."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INSTRUMENTAL:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat these two lines once"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then play the INTRO chords to lead into the last verse..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G13",
+              "lyrics": "This is the"
+            },
+            {
+              "chord": "F13",
+              "lyrics": "night of the ex"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "panding"
+            },
+            {
+              "chord": "F13",
+              "lyrics": "man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G13",
+              "lyrics": "I take one last d"
+            },
+            {
+              "chord": "F13",
+              "lyrics": "rag as I appr"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "oach the"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "stand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I cried when I"
+            },
+            {
+              "chord": "E7-9",
+              "lyrics": "wrote this song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Sue me if I"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "play too long"
+            },
+            {
+              "chord": "F#maj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This brother is"
+            },
+            {
+              "chord": "Csus2/E",
+              "lyrics": "free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "I'll be what I"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": "want to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Same as first half of 1st Verse - except play D9-5 instead of D9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Keep repeating this half verse to fade"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chord Shapes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As before, A=10, B=11 to make the shapes simpler to type out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Note that Dmaj7 becomes ABBA !!!)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "8X998X"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "7X778X"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "6X776X"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "5X556X"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "AXBBAX"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "9X99AX"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "x68786"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "07678x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "353453"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "3x345x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "131231"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "1x123x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Take your pick !)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "x0543x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x5455x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "133210"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "07676x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "5x5555"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "6x678x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "020100"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x24242"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x2123x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "3x3333"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "2x332x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x7x788"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "3x321x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x79787"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x57565"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02210"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "3x2210"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "2x2210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "x8a9a8"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x54566"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "242355"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "3x443x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x5x554"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj7(Viii) D7#5#9 F#7#9 Gmaj7 D9-5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Any mistakes with words or chords - please let me know."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't think I missed out any shapes , but I might have let one slip..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,818 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/f/fleetwood_mac/dreams_crd_ver_6.html",
+  "title": "Dreams",
+  "artist": "Fleetwood Mac",
+  "key": null,
+  "scrapedAt": "2025-12-17T01:11:33.065Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: Dreams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: DJ"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "27th Aug 2013"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F = 133211 G9 = 300001 G4 = 320013"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 355433 Fadd9 = xx3213 Gadd9 = xx5435"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj7 = 133210 G7 = 320001 Am = x02210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G6 = 355430 G6(type 2) = 320000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G5 = 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "***********************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||:"
+            },
+            {
+              "chord": "F",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "F",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / / / :||(Twice)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Now here you"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "go again, you say."
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ".. you want your fr"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "eedom,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Well, who am"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "I to keep you down? |"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "/ / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "It's only right-"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "--- that you should"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "play the way you f"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "eel it,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "listen careful -"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "ly to the sound"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "---- of your lon"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "eliness..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like a h"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "eartbeat, drives you"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "mad,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fadd9 G7 G6(type2) G5 G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, t"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "hunder only ha"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "ppens w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hen it's r"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "aining, |"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "P"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "layers only l"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "ove you w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hen they're p"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "laying, |"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Say,"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "women they will c"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "ome, and th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ey will"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "go----! |"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When the rain wash -"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "es you cl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ean, you'll"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "know,"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou'll"
+            },
+            {
+              "chord": "(Fmaj7)",
+              "lyrics": "know!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "/ / / / | /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "|"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "/ / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/f/fleetwood_mac/dreams_crd_ver_6.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "/"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ |"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "/"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / / |"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "/"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Now here I"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "go again, I see"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "... the crystal v"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "isions,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "I keep my v"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "isions to my -"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "self,"
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "It's only"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "me who wants to"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "wrap around your dr"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "eams, and..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "..."
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Have you any d"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "reams you'd like to"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "sell? Dreams of lon"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "eliness..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like a h"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "eartbeat, drives you"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "mad,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "hunder only ha"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "ppens w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hen it's r"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "aining, |"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "P"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "layers only l"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "ove you w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hen they're p"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "laying, |"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "omen they will c"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "ome, and t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hey will"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "go----! |"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When the rain wash -"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "es you cl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ean, you'll"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "know----! |"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, t"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "hunder only ha"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "ppens w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hen it's r"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "aining, |"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "P"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "layers only l"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "ove you w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hen they're p"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "laying, |"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Say,"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "women they will c"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "ome, and t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hey will"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "go----! |"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When the rain wash -"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "es you cl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ean, you'll"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "know----,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": "You'll"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "know,"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou will"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "know----!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

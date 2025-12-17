@@ -1,0 +1,518 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/r/rosi-golan/201273.html",
+  "title": "Been a Long Day",
+  "artist": "Rosi Golan",
+  "key": null,
+  "scrapedAt": "2025-12-16T15:37:04.326Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BEEN A LONG DAY ? Rosi Golan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Kengus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E = 022100 C#m7 = x46600 A = x02220 F#m11 = 244200"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E6sus4 = 042200 Bsus4 = x24400 C#m = x46650 Aadd2 = 577600"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 = x79900 Asus2 = x02200 F# = 244322 F#11 = 244300"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Badd4/D# = x69900 Badd4/E = 079800 E7omit3 = x70900 Badd4 = 799800"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "Badd4/D#",
+              "lyrics": "been a long day"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ","
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "and"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "all I've got to say is"
+            },
+            {
+              "chord": "E",
+              "lyrics": "make it st"
+            },
+            {
+              "chord": "Badd4/E",
+              "lyrics": "rong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "Badd4/D#",
+              "lyrics": "been a long day"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ","
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "and"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "all I've got to say is"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I've been wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So ta"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ke a leave of absence, te"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ll me you'll be gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "don't want to see your f"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ace"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 E7omit3 C#m7 Bsus4 Asus2 F#m11 E E6sus4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's been a long day, and I just wanna hide away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "It'"
+            },
+            {
+              "chord": "Badd4/D#",
+              "lyrics": "s been a long wee"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "k,"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "and a"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "ll the lines come down"
+            },
+            {
+              "chord": "E",
+              "lyrics": "heavy on"
+            },
+            {
+              "chord": "Badd4/E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "Badd4/D#",
+              "lyrics": "been a long wee"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "k,"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "I'm f"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "inally feeling like it's o"
+            },
+            {
+              "chord": "E",
+              "lyrics": "k to break"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Into"
+            },
+            {
+              "chord": "A",
+              "lyrics": "a thousand pieces, n"
+            },
+            {
+              "chord": "E",
+              "lyrics": "o-one can replace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ly I can find my w"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ay"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 E7omit3 C#m7 Bsus4 F#m11 E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's been a long day, and I just wanna hide away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTERLUDE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Oohh-"
+            },
+            {
+              "chord": "Aadd2",
+              "lyrics": "ohh,"
+            },
+            {
+              "chord": "F#11",
+              "lyrics": "oohh"
+            },
+            {
+              "chord": "Aadd2",
+              "lyrics": "-ohh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Oohh"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "-ohh-ohhh-ohh, o"
+            },
+            {
+              "chord": "Aadd2",
+              "lyrics": "hhh-ohhh-ohh, o"
+            },
+            {
+              "chord": "Badd4",
+              "lyrics": "hhh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "Badd4/D#",
+              "lyrics": "been a long yea"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "r,"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "and e"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "veryone around me has"
+            },
+            {
+              "chord": "E",
+              "lyrics": "disappear"
+            },
+            {
+              "chord": "Badd4/E",
+              "lyrics": "ed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "Badd4/D#",
+              "lyrics": "been a long yea"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "r,"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "and"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "all this mess around me is"
+            },
+            {
+              "chord": "E",
+              "lyrics": "finally clear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So can"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I have a moment? Ju"
+            },
+            {
+              "chord": "E",
+              "lyrics": "st to say hello"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ca"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n you let your anger"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "go?"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 E7omit3 C#m7 Bsus4 F#m11 E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, it's been a long year, and I'm finally ready to be here."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "========================================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Comment, rate, appreciate!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

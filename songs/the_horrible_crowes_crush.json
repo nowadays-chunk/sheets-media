@@ -1,0 +1,766 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/the-horrible-crowes/294218.html",
+  "title": "Crush",
+  "artist": "The Horrible Crowes",
+  "key": null,
+  "scrapedAt": "2025-12-16T22:35:57.284Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Crush - The Horrible Crowes - Elsie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Full Step Down (DGCFAD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Jack Cookson (Torn Asunder)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A very basic way to play crush, based on what I saw Brian play at the Revival Tour in Bristol!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The original song features a pretty innovative bass line which sometimes doesn't totally"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "follow the root notes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "of the chords, but don't let that throw you off."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is basically what Brian Fallon plays, though I've added some tiny bits for people"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "learning this to play solo."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Relative to standard tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mute/Don't play the strings marked with an 'x'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E (022100)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bsus2 (x24400)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m (x46650)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus2 (x02200)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: C#m x4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pour yourself a dr"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ink"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll sing you a s"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "ong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't worry about the m"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "oney, honey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I got"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "a tab"
+            },
+            {
+              "chord": "E",
+              "lyrics": "a mile l"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "ong"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bathe me up in li"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ght"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Call me when you d"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "rown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can wait al"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "l night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've spent my"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "whole life"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A little l"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "ess up in my my"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "downs"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I know a secret everybody tell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who goes to heaven, who goes to hell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I know one thing sure is true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I never kept a secret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I got a"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "crush on you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E, Bsus2, C#m, Asus2 x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're everybody's d"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Out on the schoolboy y"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "ard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They tumble like an"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "injury"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just about you a"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "ll night lo"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ng"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "All night l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And there was a f"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In your breast and in my"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "brain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your fingers on my fi"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ngertips"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "M"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "aking lines in the windowpane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I know a secret everybody tell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who goes to heaven, who goes to hell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I know one thing sure is true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I never kept a secret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I got a c"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "rush on you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge/Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "If you should go there"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "before I do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "God's gonna trouble th"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "e water"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Tell all my friends that"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "I'm coming too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "God's gonna trouble the"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "water"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Sometimes I'm up, lord, and s"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "ometimes I'm down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "God's gonna trouble the"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "water"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Sometimes I'm almost le"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "vel with the ground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "God's gonna trouble the"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "water"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "If you should go there"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "before I do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "God's gonna trouble th"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "e water"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Tell all my friends that"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "I'm coming too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "God's gonna trouble the"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "water"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Sometimes I'm up, lord, and"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "sometimes I'm down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "God's gonna trouble the"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "water"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Sometimes I'm almost le"
+            },
+            {
+              "chord": "Bsus2",
+              "lyrics": "vel with the ground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "God's gonna trouble the"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "water"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I got a crush on"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

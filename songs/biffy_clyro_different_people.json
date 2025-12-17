@@ -1,0 +1,994 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/b/biffy_clyro/different_people_tab_ver_2.html",
+  "title": "Different People",
+  "artist": "Biffy Clyro",
+  "key": null,
+  "scrapedAt": "2025-12-17T00:01:22.646Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BIFFY CLYRO - DIFFERENT PEOPLE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed by Rob2.0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D Standard Tuning (DGCFAD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro (after synth pads):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "W +W"
+            },
+            {
+              "chord": "Aadd11",
+              "lyrics": "W +W"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "W +W"
+            },
+            {
+              "chord": "Aadd11",
+              "lyrics": "H.. E +E Q Q Q E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "W +W"
+            },
+            {
+              "chord": "Aadd11",
+              "lyrics": "H.. E +E Q Q E E E"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "W +W"
+            },
+            {
+              "chord": "Aadd11",
+              "lyrics": "W +W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "H +E E E"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "E +H +E E E E"
+            },
+            {
+              "chord": "Aadd11",
+              "lyrics": "H +E E E"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "E +Q. Q E E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "H+E E E E +E E E E +E E E E"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "(etc.)"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": "H +E E E"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": "E +E E E"
+            },
+            {
+              "chord": "A/F#",
+              "lyrics": "Q E E"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Strumming rhythm shown at top of tab)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "H E E E E +H E E E E +H E E E"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "E +E E E"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "Q E E"
+            },
+            {
+              "chord": "Aadd11",
+              "lyrics": "E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+"
+            },
+            {
+              "chord": "Aadd11",
+              "lyrics": "H E E E E +H E E E E +H E E E E +W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NOTE: From here until the next chord section, time signature alternates between 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bar of 7/8 and 1 bar of 4/4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S S S S S S S E."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "+H.. +H.. S S"
+            },
+            {
+              "chord": "A",
+              "lyrics": "H.. +H.. S S"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "H.. +H.. S S"
+            },
+            {
+              "chord": "A",
+              "lyrics": "H.. +H.. S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "S S S S S S S"
+            },
+            {
+              "chord": "G",
+              "lyrics": "S S S S S S S"
+            },
+            {
+              "chord": "A",
+              "lyrics": "S S S S S S S"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "S S S S S S S"
+            },
+            {
+              "chord": "G",
+              "lyrics": "S S S S S S S"
+            },
+            {
+              "chord": "A",
+              "lyrics": "S S S S S S S"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Straight 4/4 time)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Unless otherwise notated, strum each chord as sixteenths"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": "Q +S S S"
+            },
+            {
+              "chord": "/E",
+              "lyrics": "E S S"
+            },
+            {
+              "chord": "/F#",
+              "lyrics": "E S S"
+            },
+            {
+              "chord": "G",
+              "lyrics": "S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+S E E E E"
+            },
+            {
+              "chord": "A",
+              "lyrics": "S +S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Alternating 7/8 and 4/4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-9-|---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F|-9-|---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C|-9-|---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-7-|---|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "S S S S S S S"
+            },
+            {
+              "chord": "G",
+              "lyrics": "S S S S S S S"
+            },
+            {
+              "chord": "A",
+              "lyrics": "S S S S S S S"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Straight 4/4 time)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Unless otherwise notated, strum each chord as sixteenths"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": "Q +S S S"
+            },
+            {
+              "chord": "/E",
+              "lyrics": "E S S"
+            },
+            {
+              "chord": "/F#",
+              "lyrics": "E S S"
+            },
+            {
+              "chord": "G",
+              "lyrics": "S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+S E E E E"
+            },
+            {
+              "chord": "A",
+              "lyrics": "S +S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": "Q +S S S"
+            },
+            {
+              "chord": "/E",
+              "lyrics": "E S S"
+            },
+            {
+              "chord": "/F#",
+              "lyrics": "E S S"
+            },
+            {
+              "chord": "G",
+              "lyrics": "S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+S E E E E"
+            },
+            {
+              "chord": "A",
+              "lyrics": "S +S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "|-3-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W +H +E S S S Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Legend:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H = hammer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "p = pulloff"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ or \\ = slide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(n) = note is held"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||o and o|| indicate the start and end of a repeated section."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(n) indicates a note to be played on the SECOND REPEAT ONLY."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W = Whole note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H = Half note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Q = Quarter note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E = Eighth note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S = Sixteenth note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+ denotes a tie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "LYRICS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Baby when you hold me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can feel so wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're trying to console me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your chance has long gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So baby won't you take my hand?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So we can do what the others can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We are alive tonight, we are alive tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am going home forever and ever more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No I was never born and there's no such thing as home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We used to stand so strong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That's why the others have gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Different person, different argument"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In my shadow, no more compliments"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "One more person breaking the rules again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm still waiting for someone else to join in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stand where the others stand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We ride tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Land where the others land"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We ride tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am going home forever and ever more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No I was never born and there's no such thing as home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We used to stand so strong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That's why the others have gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Scintillating and inspirational conversation"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Death to everyone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Little purpose, little consequence"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Too combative, too cool to realise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Different person, different argument"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In my shadow, no more compliments"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "One more person breaking the rules again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm still waiting for someone else to join in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stand where the others stand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We ride tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am going home forever and ever more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No I was never born and there's no such thing as home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We used to stand so strong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That's why the others have gone"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

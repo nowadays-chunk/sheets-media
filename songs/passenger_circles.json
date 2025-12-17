@@ -1,0 +1,654 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/p/passenger/circles_crd.html",
+  "title": "Circles",
+  "artist": "Passenger",
+  "key": null,
+  "scrapedAt": "2025-12-16T21:08:46.405Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CIRCLES - Passenger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: SergioRoche"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning:Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo on 9 (or 7 depending on version)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He hardly picks the 1st string (only with the D chord)."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He does some hammer-ons/pull-offs on the 2nd string when playing the G chord in the intro."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'll have to listen to the song to get your picking. Enjoy!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "it's been y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "since we"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "carved our n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ames"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "on a"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "clocktower d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "before"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "everything ch"
+            },
+            {
+              "chord": "D",
+              "lyrics": "anged"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we were"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "big eyed b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "salt on our sk"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and we'd"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "throw our k"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ites to the w"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and they'd fly"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "on and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "and"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "on and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "and"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em G C C/B Am7..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "on and on and on and on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "... G Am7 G Am7 G Em D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "it's been y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "since we"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "whispered s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oft"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "torch light"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "big light"
+            },
+            {
+              "chord": "D",
+              "lyrics": "off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we were"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "tired b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "soap on our s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "kin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and we'd"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "fall asl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eep to the w"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and we'd dream"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "on and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "and"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "on and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "and"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "on and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "and"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "cos we're c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ircles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we're c"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ircles you"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we go r"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ound round the s"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "un"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "out l"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "ike the s"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i'll c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ircle round y"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you will c"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ircle round m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "and in y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "when the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "torch light t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hins"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "clock tower's g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "big light d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ims"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we'll no"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "longer be b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we'll have"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "lines on our s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "kin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and they'll"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "throw our d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ust to the wind"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

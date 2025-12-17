@@ -1,0 +1,802 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/a/arcade-fire/275281.html",
+  "title": "City With No Children",
+  "artist": "Arcade Fire",
+  "key": "F#",
+  "scrapedAt": "2025-12-16T21:12:20.934Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The Suburbs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Submitted by: paramore_fans@yahoo.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key: F#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "B -"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "244322",
+              "lyrics": "x24442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C# - x46664"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ebm - x68876"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Bbm"
+            },
+            {
+              "chord": "-",
+              "lyrics": "-"
+            },
+            {
+              "chord": "466444",
+              "lyrics": "x13321"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "summer that I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "broke my"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "arm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "waited"
+            },
+            {
+              "chord": "B",
+              "lyrics": "for your"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "letter"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "have no feeling"
+            },
+            {
+              "chord": "B",
+              "lyrics": "for you"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "that I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "know you"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "better"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "wish that I could have"
+            },
+            {
+              "chord": "B",
+              "lyrics": "loved you"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "then"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Be"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "fore our"
+            },
+            {
+              "chord": "B",
+              "lyrics": "age was"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "through"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "before a world war"
+            },
+            {
+              "chord": "B",
+              "lyrics": "does with"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "ever"
+            },
+            {
+              "chord": "B",
+              "lyrics": "it will"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "do"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Dreamed I drove home to"
+            },
+            {
+              "chord": "B",
+              "lyrics": "Houston"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On a"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "highway that"
+            },
+            {
+              "chord": "B",
+              "lyrics": "was under"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "ground"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "was no light that"
+            },
+            {
+              "chord": "B",
+              "lyrics": "we could"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As we"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "listened"
+            },
+            {
+              "chord": "B",
+              "lyrics": "to the"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "of the"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "engine failing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "feel like I've been"
+            },
+            {
+              "chord": "B",
+              "lyrics": "living"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "city with no"
+            },
+            {
+              "chord": "B",
+              "lyrics": "children in"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "garden left for"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ruin"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "millio"
+            },
+            {
+              "chord": "B",
+              "lyrics": "naire in"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "side of a"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "private prison"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "never trust a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "millionaire"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Quoting the"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "sermon on the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "mount"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "used to think I was"
+            },
+            {
+              "chord": "B",
+              "lyrics": "not like"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "them"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I'm be"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "ginning to"
+            },
+            {
+              "chord": "B",
+              "lyrics": "have my"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "doubts my"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "doubts about it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 5:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "When you're hiding"
+            },
+            {
+              "chord": "B",
+              "lyrics": "underground"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "rain can't"
+            },
+            {
+              "chord": "B",
+              "lyrics": "get you"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "wet"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "do you think your"
+            },
+            {
+              "chord": "B",
+              "lyrics": "righteous"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Could pay the"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "interest"
+            },
+            {
+              "chord": "B",
+              "lyrics": "on your"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "debt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I have my d"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "oubts about it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Chorus 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Interlude once)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "feel like I've been"
+            },
+            {
+              "chord": "B",
+              "lyrics": "living"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "city with no"
+            },
+            {
+              "chord": "B",
+              "lyrics": "children in"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "garden left for"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ruin"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "by and"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "as"
+            },
+            {
+              "chord": "B",
+              "lyrics": "I hide in"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "side of my"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "private prison"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

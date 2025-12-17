@@ -1,0 +1,58 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/low/breaker",
+  "title": "Breaker",
+  "artist": "Low",
+  "key": null,
+  "scrapedAt": "2025-12-16T18:25:22.878Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">Dm C G G (X 4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Our bodies br"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eak"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And the blood just spills and spills"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "But here we s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "it debating m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ath"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

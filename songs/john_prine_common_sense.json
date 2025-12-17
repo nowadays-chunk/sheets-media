@@ -1,0 +1,566 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/j/john_prine/common_sense_crd.html",
+  "title": "Common Sense",
+  "artist": "John Prine",
+  "key": null,
+  "scrapedAt": "2025-12-16T21:54:06.198Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Common Sense - John Prine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Dave S."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: Dlgibson@netscape.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: John Prine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Great Days: The John Prine Anthology"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Year: 1993"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You can't live together"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can't live"
+            },
+            {
+              "chord": "C",
+              "lyrics": "alone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Considering the weather"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh my, how you've"
+            },
+            {
+              "chord": "G",
+              "lyrics": "grown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "From the men in the factories"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To the wild kanga"
+            },
+            {
+              "chord": "C",
+              "lyrics": "roo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like those"
+            },
+            {
+              "chord": "D",
+              "lyrics": "birds of a feather"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They're gathering together"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And feeling exactly like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They got"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mesmerized by lullabies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And limbo danced in"
+            },
+            {
+              "chord": "C",
+              "lyrics": "pairs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please lock that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It don't make much sense"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That common sense"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't make no sense no"
+            },
+            {
+              "chord": "G",
+              "lyrics": "more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/j/john_prine/common_sense_crd.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Just between"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pulling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ought to be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "shovin,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Like a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nun with her"
+            },
+            {
+              "chord": "D",
+              "lyrics": "head in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oven"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Please don't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tell me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That this"
+            },
+            {
+              "chord": "D",
+              "lyrics": "really wasn't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "One of these days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "One of these"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nights"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You'll take off your hat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And they'll read you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rights"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You'll wanna get high"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every time you feel"
+            },
+            {
+              "chord": "C",
+              "lyrics": "low"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hey, Queen Isabella"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stay away from that fella"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He'll just get you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Into trouble, you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "But they came here by boat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And they came here by"
+            },
+            {
+              "chord": "C",
+              "lyrics": "plane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "They blistered their hands"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And they burned out their"
+            },
+            {
+              "chord": "G",
+              "lyrics": "brain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All dreaming a dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That'll never come"
+            },
+            {
+              "chord": "C",
+              "lyrics": "true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hey, don't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "give me no trouble"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or I'll call up my double"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We'll play piggy-in-the-middle"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Chorus)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

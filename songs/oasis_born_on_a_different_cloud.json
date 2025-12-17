@@ -1,0 +1,554 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/o/oasis/208620.html",
+  "title": "Born on a Different Cloud",
+  "artist": "Oasis",
+  "key": null,
+  "scrapedAt": "2025-12-16T17:50:31.102Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Born On A Different Cloud - OASIS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm XX0231"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm V XX0765"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus2 X02200"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus2 VI X07600"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E7 020100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E7 V 076700"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am X02210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus4 X02230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G6 320030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G4/6 320010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj7 X33210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F6/maj7 X03230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            },
+            {
+              "chord": "Dm V",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus2 VI",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "born on a different cloud"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "from the"
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": "ones that have burst round town,"
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "it's no suprise to me,"
+            },
+            {
+              "chord": "F6/maj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "that you're"
+            },
+            {
+              "chord": "G4",
+              "lyrics": "classless, clever, and free"
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "loaded just like a gun"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you're the"
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": "hero that's still unsung"
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "living on borrowed time"
+            },
+            {
+              "chord": "F6/maj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you're my"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "son and you're gonna shine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "talking to myself again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "this time i think i'm"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "getting through"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it's"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "funny how you think"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "it's funny how, it's funny"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "how when you do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "born on a different cloud"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "from the"
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": "ones that have burst round town"
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "it's no suprise to me"
+            },
+            {
+              "chord": "F6/maj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "that you're"
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": "classless, clever, and free"
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "lonely soul, busy working"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "overtime"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "nothing ever gets done, especially when your"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hands are tied"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "lonely soul, breaking up your"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "mothers pride"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "nothing ever gets done,"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "not until your war's won"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "we're born on a different cloud"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "your"
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": "born on a different cloud"
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "we're born on a different cloud"
+            },
+            {
+              "chord": "F6/maj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we're"
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": "born on a different cloud"
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            },
+            {
+              "chord": "G4/6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeat to fade)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Riff (outro):"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

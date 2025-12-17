@@ -1,0 +1,630 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/jeff-lynne/297638.html",
+  "title": "Blown Away",
+  "artist": "Jeff Lynne",
+  "key": null,
+  "scrapedAt": "2025-12-16T17:18:40.552Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Blown Away\" (Capo: 2nd. fret)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____Intro: G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____Verse: 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "So let it ra"
+            },
+            {
+              "chord": "Em6/B",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "or let the su"
+            },
+            {
+              "chord": "D7/F#",
+              "lyrics": "n___shine"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "down on m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I feel no pa"
+            },
+            {
+              "chord": "C#m7-5/B",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "now that your he"
+            },
+            {
+              "chord": "D7/F#",
+              "lyrics": "re it's"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "all__the sa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You"
+            },
+            {
+              "chord": "D/E",
+              "lyrics": "are___"
+            },
+            {
+              "chord": "D7/F#",
+              "lyrics": "the___o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ne"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I should have kn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "own"
+            },
+            {
+              "chord": "D/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "blown aw"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay_"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "___"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "like a bo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "at out on the o"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "__cea"
+            },
+            {
+              "chord": "Ebdim7",
+              "lyrics": "n"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cm/F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____Verse: 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Time rages o"
+            },
+            {
+              "chord": "Em6/B",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "and all that I k"
+            },
+            {
+              "chord": "D7/F#",
+              "lyrics": "new___is"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "washed a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "because of y"
+            },
+            {
+              "chord": "C#m7-5/B",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "nothing will e"
+            },
+            {
+              "chord": "D7/F#",
+              "lyrics": "__ver be"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "__the sa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You"
+            },
+            {
+              "chord": "D/E",
+              "lyrics": "are___"
+            },
+            {
+              "chord": "D7/F#",
+              "lyrics": "the___o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ne"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I should have kn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "own"
+            },
+            {
+              "chord": "D/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "blown aw"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay_"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "___"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "like a bo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "at out on the o"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "__cea"
+            },
+            {
+              "chord": "Ebdim7",
+              "lyrics": "n"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cm/F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "blown aw"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "like a st"
+            },
+            {
+              "chord": "C",
+              "lyrics": "orm in the ni"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "ght, I'm"
+            },
+            {
+              "chord": "Ebdim7",
+              "lyrics": "blown aw"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ay"
+            },
+            {
+              "chord": "Cm/F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____Guitar solo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You"
+            },
+            {
+              "chord": "D/E",
+              "lyrics": "are___"
+            },
+            {
+              "chord": "D7/F#",
+              "lyrics": "the___o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ne"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I should have kn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "own"
+            },
+            {
+              "chord": "D/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "blown aw"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay_"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "___"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "like a bo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "at out on the o"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "__cea"
+            },
+            {
+              "chord": "Ebdim7",
+              "lyrics": "n"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cm/F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "blown aw"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "like a st"
+            },
+            {
+              "chord": "C",
+              "lyrics": "orm in the ni"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "ght, I'm"
+            },
+            {
+              "chord": "Ebdim7",
+              "lyrics": "blown aw"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ay"
+            },
+            {
+              "chord": "Cm/F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____Coda:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Blown a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Ebdim7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cm/F",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*Oooh________________________________________* (Repeat *-* twice more & fade)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

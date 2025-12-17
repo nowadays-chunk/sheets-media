@@ -1,0 +1,622 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/w/wolfgang-ambros/49263.html",
+  "title": "Die Blume aus dem Gemeindebau",
+  "artist": "Wolfgang Ambros",
+  "key": null,
+  "scrapedAt": "2025-12-16T23:57:35.562Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Du bist die"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Blume aus"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "dem Ge"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "meinde"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "bau,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ich weiss ganz gen"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "au,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "du"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bist die richt'ge"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "Frau f�r mich, du"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Blume aus d"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "em Gemeindeb"
+            },
+            {
+              "chord": "G",
+              "lyrics": "au."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ohne"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dich waer'"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "dieser B"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "au so g"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "rau, und wer dich s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ieht, sagt n"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ur"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "\"Schau, schau,"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "da geht die sch"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oenste F"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "rau von Stadl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "au.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So wie du g"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ehst, so wie du di bew"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "egst, du w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "asst gar net, wie sehr du mich err"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "egst,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and're h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ab'n bei m"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ir ka Ch"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ance,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C7",
+              "lyrics": "auch wenn sie i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mmer sog'n \"K"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ummen's Kabelfe"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "rnseh'n, Herr Franz!\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I mecht von"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "dir nur a"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "moi a L"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aecheln kr"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "iagn, du sch"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oenste Frau von der V"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ierer-St"
+            },
+            {
+              "chord": "G",
+              "lyrics": "iag'n."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Du bist die"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Blume aus"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "dem Ge"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "meinde"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "bau, deine A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ugen so b"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "lau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "wie e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in Stadlauer Z"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "iegelteich, du B"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lume aus d"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "em Gemeindeb"
+            },
+            {
+              "chord": "G",
+              "lyrics": "au."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Und wann wer k"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ummat und s"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ogat \"Na, wie w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "aer's, gnae' Fr"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "au?\", dann kunnt 's leicht s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ein,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "dass"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "i eam"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nieder"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "hau', weu du"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bist mei V"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "enus aus Stadla"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Solo)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wann i di s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ich, dann spuet's Gran"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "ada bei mir, i"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "kann nur sog'n, dass i f�r"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "nix garantier',"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Meine Fr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eind' sog'n olle \""
+            },
+            {
+              "chord": "B7",
+              "lyrics": "Wossn, l"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ossn,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C7",
+              "lyrics": "i man, du f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "uehrst di ganz schee d"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "eppert auf w"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "eg'n den Hos'n!\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Bitte, bitte, l"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "oss mi n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "et so k"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "nian, i mecht doch n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "et mei guten R"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "uf verl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ier'n."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Du bist die B"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lume aus d"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "em Gem"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eindeb"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "au, merkst du n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "et, wie ich sch"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "au,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "wenn d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u an mir vor"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "ueberschwebst, du B"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lume aus d"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "em Gemeindeb"
+            },
+            {
+              "chord": "G",
+              "lyrics": "au."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Merkst du"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "net, wier"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "i mi bei dir"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eineh"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "au, weu du b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ist f�r m"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ich"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "die"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Ueberf"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "rau, komm, lass dich p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fluecken, du R"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ose aus Stad"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lau!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C7",
+              "lyrics": "Komm, lass dich p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fluecken, du R"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ose aus Stadl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "au!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C7",
+              "lyrics": "Komm, lass dich p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fluecken, du R"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ose aus Stadl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "au!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

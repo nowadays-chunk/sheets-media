@@ -1,0 +1,350 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/byrds/2761.html",
+  "title": "Eight Miles High",
+  "artist": "The Byrds",
+  "key": null,
+  "scrapedAt": "2025-12-17T06:43:44.554Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "eight mile high"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Electric 12 str"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "0"
+            },
+            {
+              "chord": "F#m11/G",
+              "lyrics": "0"
+            },
+            {
+              "chord": "G/E",
+              "lyrics": "0"
+            },
+            {
+              "chord": "D",
+              "lyrics": "2"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "0"
+            },
+            {
+              "chord": "C",
+              "lyrics": "0"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "0"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "0 0 0 3 3 1 3 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "0 2 4 2 2 0 0 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2 4 5 0 0 2 2 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "2",
+              "lyrics": "0"
+            },
+            {
+              "chord": "4",
+              "lyrics": "0"
+            },
+            {
+              "chord": "5",
+              "lyrics": "0"
+            },
+            {
+              "chord": "#",
+              "lyrics": "#"
+            },
+            {
+              "chord": "#",
+              "lyrics": "#"
+            },
+            {
+              "chord": "3",
+              "lyrics": "#"
+            },
+            {
+              "chord": "3",
+              "lyrics": "#"
+            },
+            {
+              "chord": "3",
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(12 string)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verses"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "eight"
+            },
+            {
+              "chord": "F#m11/G",
+              "lyrics": "miles"
+            },
+            {
+              "chord": "G/E",
+              "lyrics": "high and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "when"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tou"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "ch down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "you'll find that its"
+            },
+            {
+              "chord": "D",
+              "lyrics": "stra"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "nger than k"
+            },
+            {
+              "chord": "C",
+              "lyrics": "no"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "wn"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "signs"
+            },
+            {
+              "chord": "F#m11/G",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "G/E",
+              "lyrics": "street that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "say"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "where youre"
+            },
+            {
+              "chord": "C",
+              "lyrics": "go"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "ing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "are somewhere just"
+            },
+            {
+              "chord": "D",
+              "lyrics": "be"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ing their"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ow"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "n"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "nowhere is there warmth to be found"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "among those afraid of losing their ground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "rain gray town known for its sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in places small faces unbound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "round the squares huddled in storms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "some laughing some just shapeless forms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sidewalk scenes and black limousines"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "some living some standing alone"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

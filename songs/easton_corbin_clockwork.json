@@ -1,0 +1,758 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/easton-corbin/385253.html",
+  "title": "Clockwork",
+  "artist": "Easton Corbin",
+  "key": null,
+  "scrapedAt": "2025-12-16T21:17:50.332Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: F#m - A - E - D x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Might as well have"
+            },
+            {
+              "chord": "A",
+              "lyrics": "my alarm"
+            },
+            {
+              "chord": "E",
+              "lyrics": "set on my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "phone girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "It's like you got a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "camera, don't know"
+            },
+            {
+              "chord": "E",
+              "lyrics": "how you know, I'm home alone girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Come around"
+            },
+            {
+              "chord": "A",
+              "lyrics": "10:47"
+            },
+            {
+              "chord": "E",
+              "lyrics": "every Friday"
+            },
+            {
+              "chord": "D",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Might as well"
+            },
+            {
+              "chord": "A",
+              "lyrics": "leave the light on, cause you're"
+            },
+            {
+              "chord": "E",
+              "lyrics": "always right on time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You call"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", I say hel"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "lo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "E",
+              "lyrics": "knock, I'm lettin' you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you've missed my l"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ips, we k"
+            },
+            {
+              "chord": "E",
+              "lyrics": "iss"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here we go ag"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your dress,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "my shirt, we"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love, I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "live and never lea"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I crash,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I burn, You"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "leave, I hu"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like clockw"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ork"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "It's like I'm walk"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in' down the street and f"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all in that same"
+            },
+            {
+              "chord": "D",
+              "lyrics": "trap, girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I see a freight t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rain comin' and I just s"
+            },
+            {
+              "chord": "E",
+              "lyrics": "tand there on the tracks, girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Somebody'd be"
+            },
+            {
+              "chord": "A",
+              "lyrics": "gettin' rich if"
+            },
+            {
+              "chord": "E",
+              "lyrics": "they were placin'"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "On me think"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in' no, no, no, a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lways sayin' yes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You call"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", I say hel"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "lo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "E",
+              "lyrics": "knock, I'm lettin' you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you've missed my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "lips, we"
+            },
+            {
+              "chord": "E",
+              "lyrics": "kiss"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here we go ag"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your dress,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "my shirt, we"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love, I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "live and never lea"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I crash,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I burn, You"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "leave, I hu"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like clockw"
+            },
+            {
+              "chord": "D",
+              "lyrics": "or"
+            },
+            {
+              "chord": "-",
+              "lyrics": "k"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's too"
+            },
+            {
+              "chord": "D",
+              "lyrics": "easy"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", you know my s"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "treet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And you know"
+            },
+            {
+              "chord": "E",
+              "lyrics": "where I leave my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "key"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Baby you know"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me, I can count on"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "you, to count on"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's like a m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ovie I've seen a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "thousand times"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m E C#m - D - E(Dshape 4th fret) - D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hate the end but I still hit rewind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You call"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", I say hel"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "lo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "E",
+              "lyrics": "knock, I'm lettin' you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you've missed my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "lips, we"
+            },
+            {
+              "chord": "E",
+              "lyrics": "kiss"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here we go ag"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your dress,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "my shirt, we"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love, I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "live and never lea"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I crash,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I burn, You"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "leave, I hu"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like clockwork Like clockwork"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like clockwor"
+            },
+            {
+              "chord": "D",
+              "lyrics": "k"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "END"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

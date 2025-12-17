@@ -1,0 +1,902 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/evan-taubenfeld/231926.html",
+  "title": "Cheater of the Year",
+  "artist": "Evan Taubenfeld",
+  "key": null,
+  "scrapedAt": "2025-12-16T20:45:55.413Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can play either the bass notes or the full chords in the verses."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bass notes:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm X24432"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A X02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D XX0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Em"
+            },
+            {
+              "chord": "244322",
+              "lyrics": "022000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Intro",
+              "lyrics": "(BASS notes)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Verse 1",
+              "lyrics": "(BASS notes)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "You told your friends, who told my friends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That you got"
+            },
+            {
+              "chord": "D",
+              "lyrics": "drunk and spent the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With some guy, you didn't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "know at"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Now you're so resistant"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your story's inconsi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ste"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You swear you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "only kissed him"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I know it's a l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Pre-cborus",
+              "lyrics": "(Chords)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "try to be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "G-rated"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "D",
+              "lyrics": "that's not how it played in my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "head"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you frown like you've been cryin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I know that you're lyin' a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cborus",
+              "lyrics": "(CHORDS)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And this is the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "part, when you disap"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "chich� break up"
+            },
+            {
+              "chord": "A",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah we"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "?re D-O-N-E,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tell me how it feels to be the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Cheater of the y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And this is the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "part, when you shed"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a tear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Let me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "make it very c"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "lear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That we?re"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "O-V-E-R,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I know who you really"
+            },
+            {
+              "chord": "D",
+              "lyrics": "are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(BASS notes) F# E D C# B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You?re the cheater of the year"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Verse 2",
+              "lyrics": "(BASS notes)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "I hope that you?re happy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You've ruined"
+            },
+            {
+              "chord": "D",
+              "lyrics": "everything we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "had I want my Spinfire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "T-shirt"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "You know what my stand is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don?t do second cha"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nce"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And all those"
+            },
+            {
+              "chord": "F",
+              "lyrics": "high school da"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nces"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I could have gone"
+            },
+            {
+              "chord": "A",
+              "lyrics": "stag"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Pre-cborus 2",
+              "lyrics": "(CHORDS)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "trying to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "explain it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ain't gonna play that"
+            },
+            {
+              "chord": "A",
+              "lyrics": "again,"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "no"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cborus",
+              "lyrics": "(CHORDS)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And this is the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "part, when you disap"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "chich� break up"
+            },
+            {
+              "chord": "A",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah we?"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "re D-O-N-E, t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ell me how it feels to be the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Cheater of the y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And this is the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "part, when you shed"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a tear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Let me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "make it very c"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "lear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That we?re"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "O-V-E-R,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I know who you really"
+            },
+            {
+              "chord": "D",
+              "lyrics": "are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(BASS notes) F# E D C# B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You?re the cheater of the year"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bridge",
+              "lyrics": "(BASS notes)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Cheater"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "of the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "year"
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ood to know, that"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you're"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "alone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Cheater"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "of the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "year"
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ood to know, that y"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "ou'll be sorry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cborus",
+              "lyrics": "(CHORDS)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And this is the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "part, when you disap"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "chich� break up"
+            },
+            {
+              "chord": "A",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah we?"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "re D-O-N-E, t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ell me how it feels to be the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Cheater of the y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And this is the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "part, when you shed"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a tear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Let me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "make it very c"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "lear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That we?re"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "O-V-E-R,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I know who you really"
+            },
+            {
+              "chord": "D",
+              "lyrics": "are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(BASS notes) F# E D C# B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You?re the cheater of the year"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

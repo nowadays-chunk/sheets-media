@@ -1,0 +1,1958 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/a/accept/110533.html",
+  "title": "Dogs on Leads",
+  "artist": "Accept",
+  "key": null,
+  "scrapedAt": "2025-12-17T00:27:02.988Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As recorded by Accept"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(From the 1985 Album METAL HEART)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed by Asmogriff (ComfortablyDumb)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Words and Music by P. Baltes, U. Dirkschneider, J. Fischer, W. Hoffmann, S. Kaufmann and Deaffy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Arranged by Accept"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gtr I (E A D G B E) - 'Steel'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gtr II (E A D G B E) - 'Dist 1'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gtr III (E A D G B E) - 'Dist 2'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Q=127"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "4/4",
+              "lyrics": "Gtr I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wx4 H Q. E +W +W 3x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro-Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1.,2.,3. 4."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "Gtr II"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H Q. E +W +W 4x +H.. E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+H.. S S H.. S S H.. S S H Q"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#5",
+              "lyrics": "Q. E +Q. S S Q. E +Q. E E E E E E E Q E Q E E Q E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gtr II"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Gtr I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| W W H Q. E +W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| +W H Q. E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| +W +W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| H Q. E +W +W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "$"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+H.."
+            },
+            {
+              "chord": "B5",
+              "lyrics": "S S Q. E +Q. S S Q. E +H Q. E E E E"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#5",
+              "lyrics": "Q. E +Q. S S Q. E +H Q E E Q Q E E E E Q"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5",
+              "lyrics": "PM-"
+            },
+            {
+              "chord": "F#m/B5C#A5",
+              "lyrics": "|"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H Q. E +Q E E E E Q H Q. E +H E Q."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To Coda"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5",
+              "lyrics": "PM-|"
+            },
+            {
+              "chord": "B5C#A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H Q. E +Q E E E E Q H Q. E +H Q Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": "Gtr III"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~~~~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E H.. +Q. E +H +H +E E Q E H.."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Gtr II Gtr I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| >"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| W +W H Q. E +W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#5",
+              "lyrics": ">"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~~~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+H H Q +Q +Q. +S S W +W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| +W H Q. E +W +W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Gtr I"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H Q. E +W +W H Q. E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gtr I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+W +W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Gtr II"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| W H E E E a E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D.S. al Coda"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "H"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "Q."
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "E +W +W"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| +E +S S S E. +Q Q W H.. E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "&"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": "Gtr I"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "I"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H Q. E +H E Q. H Q E E +W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Gtr II"
+            },
+            {
+              "chord": "G5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+W W W W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Gtr III"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| W W W +W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "Gtr III"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "G5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W W W W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "W"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "W"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "W +W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Gtr II"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| q q q q q q q q q q q q q q q q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "W"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "W"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "W"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "W"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| <"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| q q q q q q q q q q Q Q Q E E H"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Guitar Solo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": "~~~~~~~~"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Q +E E +Q E E E Q. E E E E T T T T T T T T"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| PM|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Q. Q. Q +Q E E E E Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": "~~~~~~~~"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S S S S S S S S S E +Q Q E +E +Q +E Q."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Q. Q. Q +H E Q."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Q. S S S S S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Q. Q. Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S S S S S S S S S S S S S +E +Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| PM----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| +Q E E E E Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E Q +E +S +S +S +S S S +S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Q. Q. Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+S S S +S S S +S S S S S S S S S S E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| +H E Q."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S S S S S S S S S S S S T T T T T +T T T E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Q. Q. Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E S S Q a"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "S S"
+            },
+            {
+              "chord": "C#5",
+              "lyrics": "S S"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "+E +S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| PM|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| +Q E E E E Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S S S S S S S S S S S S T T S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Q. Q. Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\\2_____________\\3 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E +H E.. +T"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| +H E Q."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Out-Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#5",
+              "lyrics": "~~~~~"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W E Q +S S E Q."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| PM|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| H Q. E +Q E E E E Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": "~~~~~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W E a E E E E Q."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| H Q. E +H E Q."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W S S S S S S S S S E S S S S S S S S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| PM----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| H Q. E +Q E E E E Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": "~~~~~ ~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S S S S H E S.. +X Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| H Q. E +H E Q."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": "TP TP"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "TP TP"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H Q Q +Q Q S S S S S S E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| PM|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| H Q. E +Q E E E E Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": "|--3--|"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+E +S S S S S S S S T T S S T T S S T T"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| H Q. E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S S T T S S T T S S S T T S S Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| +H E Q."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": "+E +E +S +S +S S"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "S S S S S +S"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "S S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| H Q. E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S S S S S S S S S S S S S S S S S S S S S Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| +Q E E E E E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Q E E +E"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "E Q"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| H E E E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Duration Legend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+ - note tied to previous; . - note dotted; .. - note double dotted"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Uncapitalized letters represent notes that are staccato (1/2 duration)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Irregular groupings are notated above the duration line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Duration letters will always appear directly above the note/fret number it represents the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "duration for. Duration letters with no fret number below them represent rests. Multi-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bar rests are notated in the form Wxn, where n is the number of bars to rest for. Low"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "melody durations appear below the staff"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tablature Legend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "h - hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "p - pull-off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "b - bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "pb - pre-bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "r - bend release (if no number after the r, then release immediately)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/\\ - slide into or out of (from/to \"nowhere\")"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "s - legato slide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S - shift slide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "- natural harmonic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "n",
+              "lyrics": "- artificial harmonic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "n(n) - tapped harmonic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~ - vibrato"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tr - trill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T - tap"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "TP - trem. picking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PM - palm muting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\\n/ - tremolo bar dip; n = amount to dip"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\\n - tremolo bar down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "n/ - tremolo bar up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/n\\ - tremolo bar inverted dip"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "= - hold bend; also acts as connecting device for hammers/pulls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "- volume swell (louder/softer)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x - on rhythm slash represents muted slash"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "o - on rhythm slash represents single note slash"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Misc Legend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| - bar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|| - double bar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||o - repeat start"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "o|| - repeat end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*| - double bar (ending)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ": - bar (freetime)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "$ - Segno"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "& - Coda"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tempo markers - = BPM(8/16=s8/s16), where s8 = swing 8ths, s16 = swing 16ths"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

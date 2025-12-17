@@ -1,0 +1,534 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/elliott-smith/104229.html",
+  "title": "Can't Make a Sound",
+  "artist": "Elliott Smith",
+  "key": null,
+  "scrapedAt": "2025-12-16T19:54:50.580Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Title: \"Can't Make A Sound\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "By: Elliott Smith"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Figure 8"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Steve Riccio"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e-mail: bigrick228@yahoo.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*Standard Tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*Chords Used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C X32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cdim9 XX2023"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G X3X013"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D XX0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em 022000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A X02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7/G X02013"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7 X02010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A7 X02020"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "B7"
+            },
+            {
+              "chord": "224442",
+              "lyrics": "021202"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "I have become a sile"
+            },
+            {
+              "chord": "Cdim9",
+              "lyrics": "nt movie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "hero killed the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "clown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can't make a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can't make a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can't make a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "Nobody knows what he's"
+            },
+            {
+              "chord": "Cdim9",
+              "lyrics": "doing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7/G",
+              "lyrics": "still hanging a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "round"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can't make a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can't make a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can't make a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can't make a"
+            },
+            {
+              "chord": "Cdim9",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "slow"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "motion"
+            },
+            {
+              "chord": "C",
+              "lyrics": "moves me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "monologue means"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "nothing to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Break) C/G Cdim9 Am7 D Am7 B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "bored in a role, but he"
+            },
+            {
+              "chord": "Cdim9",
+              "lyrics": "can't stop"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "standi"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ng up to sit back"
+            },
+            {
+              "chord": "D",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "lose the one thing"
+            },
+            {
+              "chord": "B",
+              "lyrics": "found"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "spinning the world like a"
+            },
+            {
+              "chord": "Cdim9",
+              "lyrics": "toy top"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tll there's a"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ghost in every t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can't make a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can't make a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can't make a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can't make a"
+            },
+            {
+              "chord": "Cdim9",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "eyes"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "locked and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shining"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "can't you tell me"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "what's happening?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Break) C G A E Am7/G B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Why should you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "want any"
+            },
+            {
+              "chord": "A",
+              "lyrics": "other,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "when you're a"
+            },
+            {
+              "chord": "Am7G",
+              "lyrics": "world within a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "world?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/jimmy-buffett/52142.html",
+  "title": "Coast of Carolina",
+  "artist": "Jimmy Buffett",
+  "key": null,
+  "scrapedAt": "2025-12-16T21:25:19.270Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "WORDS AND MUSIC BY MAC MCANALLY/PERFORMED BY JIMMY BUFFETT"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "TABBED BY JIM LIBERATORE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 2nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D C9 G D C9 G D C9 G D (HOLD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em9",
+              "lyrics": "Little roadside restaurant we artfully comp"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "lain"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em9",
+              "lyrics": "Groovy tells the waitress that his chicken died i"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "n vain"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em9",
+              "lyrics": "Most every day goes by according to design"
+            },
+            {
+              "chord": "C9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em9",
+              "lyrics": "I live this dream and still i"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "t seems I have you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on my mind"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus:)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the bo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ttom of my hea"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Off the co"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ast of Caroli"
+            },
+            {
+              "chord": "D",
+              "lyrics": "na"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "After on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e or two false sta"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I be"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "lieve we found our str"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the wa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lls that won't come do"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We can de"
+            },
+            {
+              "chord": "A",
+              "lyrics": "corate or climb"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or find some"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way to get aroun"
+            },
+            {
+              "chord": "D",
+              "lyrics": "d"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I'm s"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "till on your side"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the bott"
+            },
+            {
+              "chord": "G",
+              "lyrics": "om of my hea"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rt."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D C9 G D C9 G D C9 G D (HOLD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em9",
+              "lyrics": "I can't see the future but I know it's comi"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "ng fast"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em9",
+              "lyrics": "It's not that hard to wind up knee-deep in"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "the past"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em9",
+              "lyrics": "There come alot of Mondays since that phone booth that"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "first night"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em9",
+              "lyrics": "Tears and miles and years and"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "smiles I wanna get"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it right"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the bott"
+            },
+            {
+              "chord": "G",
+              "lyrics": "om of my heart"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Off the coast"
+            },
+            {
+              "chord": "A",
+              "lyrics": "of Carolina"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "After one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "or two false starts"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I be"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "lieve we found our stride"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the walls"
+            },
+            {
+              "chord": "G",
+              "lyrics": "that won't come down"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We can decora"
+            },
+            {
+              "chord": "A",
+              "lyrics": "te or climb"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or find some way to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "get around"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I'm s"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "till on your side"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the bottom of m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "y heart."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Music Bridge)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em9",
+              "lyrics": "These days I get up about the time I used t"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "o go to bed"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em9",
+              "lyrics": "Living large was once the deal now I watch the st"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "ars instead"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em9",
+              "lyrics": "They're timeless and predictable unlike most things that"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "I do"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Em9",
+              "lyrics": "tell the wind and my old frie"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "nd I'm headed home"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to you."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the bott"
+            },
+            {
+              "chord": "G",
+              "lyrics": "om of my heart"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Off the coast"
+            },
+            {
+              "chord": "A",
+              "lyrics": "of Carolina"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "After one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "or two false starts"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I be"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "lieve we found our stride"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the walls"
+            },
+            {
+              "chord": "G",
+              "lyrics": "that won't come down"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We can decora"
+            },
+            {
+              "chord": "A",
+              "lyrics": "te or climb"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or find some way to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "get around"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I'm s"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "till on your side"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the bottom of m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "y heart."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D C9 G D C9 G D C9 G D (HOLD)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

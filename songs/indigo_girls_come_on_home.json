@@ -1,0 +1,686 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.xguitar.com/guitar-tabs/indigo_girls/all_that_we_let_in/come_on_home.txt",
+  "title": "Come on Home",
+  "artist": "Indigo Girls",
+  "key": null,
+  "scrapedAt": "2025-12-16T21:44:16.243Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "COME ON HOME .:: Emily Saliers ::."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Okay, this is how amy plays this song. I'm still working on Emily's part, but"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i've almost got it down, so i'll tab that one as soon as i finish it. amy plays"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "this song with no capo, in standard tuning, although some of the chords are a little"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "complicated. i know that emily plays it on the 7th fret in drop d, but...here's amy's part.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "no capo, standard tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS USED:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A: x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A/G#: 4x2200"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D: x00232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm: x00231"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E: 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m: 244222"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m/A: 044222"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/C#: x40230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm: x24432"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm/A: x04432"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#sus9:x4342x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Dark clouds are comin' like an"
+            },
+            {
+              "chord": "D",
+              "lyrics": "army"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Soon the sky will open up and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "disarm me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "You will go just like you've"
+            },
+            {
+              "chord": "F#m/A",
+              "lyrics": "gone before"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "One sad soldier o"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "ff to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "war,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "enemies that"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "only"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you can see."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Dishes stacked, the table clear"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "It's always like the scene of the last supper"
+            },
+            {
+              "chord": "E",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "You speak so cryptically"
+            },
+            {
+              "chord": "F#m/A",
+              "lyrics": "that's not"
+            },
+            {
+              "chord": "D",
+              "lyrics": "news to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The flood is here"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "it will c"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "arry you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And I'v"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "e got"
+            },
+            {
+              "chord": "E",
+              "lyrics": "work to do."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Come on home, the team you're"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hitched to has a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "mind of its"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it's just the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "forces of your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "past you've fought before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Come back"
+            },
+            {
+              "chord": "A/G#",
+              "lyrics": "here and shut the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm stacking"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sandbags against the"
+            },
+            {
+              "chord": "C#sus9",
+              "lyrics": "river of your"
+            },
+            {
+              "chord": "d",
+              "lyrics": "troubles."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "FILL:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE: (same)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There is fire there is lust"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Some will trade it all for someone they could trust"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's a bag of silver for a box of nails"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's so simple the betrayal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Though it's known to change the world and what's to come."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:(same)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just come on home, the team you're hitched to has a mind of its own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it's just the forces of your past you've fought before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't you recognize them anymore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm stacking sandbags against the river of your troubles."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "MIDDLE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "giv"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "en and the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "expected"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I count my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "blessings while"
+            },
+            {
+              "chord": "C#sus9",
+              "lyrics": "I eye what I've"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "neglected"
+            },
+            {
+              "chord": "F#m/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is this for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "better is this"
+            },
+            {
+              "chord": "C#sus9",
+              "lyrics": "for worse"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're all jammed"
+            },
+            {
+              "chord": "D",
+              "lyrics": "up and the"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "dam's about to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "burst."
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE: (same)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hear the owl in the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I realize that some things never are made right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "By some will we string together here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Days to months and months to years"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What if everything we have adds up to nothing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:(same)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come on home, the team you're hitched to has a mind of its own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it's just the forces of your past you've fought before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come back here and shut the door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm stacking sandbags against the river of your troubles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Castmenotaway@hotmail.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

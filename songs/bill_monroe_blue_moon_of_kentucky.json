@@ -1,0 +1,162 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.russell-lawson.com/music/chordpro/BillMonroe_BlueMoonOfKentucky.cpm",
+  "title": "Blue Moon of Kentucky",
+  "artist": "Bill Monroe",
+  "key": null,
+  "scrapedAt": "2025-12-16T17:26:11.793Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Blue moon of Kentucky keep on a-"
+            },
+            {
+              "chord": "F",
+              "lyrics": "shinin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Shine"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on the one that's gone and left me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "blue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Blue moon of Kentucky keep on a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "-shinin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Shine"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on the one that's"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "gone and left me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "blue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It was"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "on one moonlit night, s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tars shinin' bright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F7",
+              "lyrics": "Whispered on high,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love said"
+            },
+            {
+              "chord": "G",
+              "lyrics": "goodbye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I said blue moon of Kentucky keep on a-shinin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Shine on the one that's gone and left me blue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Key change 1/2 step up and repeat)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Blue"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "moon of Kentucky keep on"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "a-shinin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Shine"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "on the one that's gone and left me"
+            },
+            {
+              "chord": "G#7",
+              "lyrics": "blue"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

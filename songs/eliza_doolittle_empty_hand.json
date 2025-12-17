@@ -1,0 +1,494 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/eliza-doolittle/261976.html",
+  "title": "Empty Hand",
+  "artist": "Eliza Doolittle",
+  "key": null,
+  "scrapedAt": "2025-12-17T07:00:14.610Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's probably not 100% accurate, but hopefully it'll get you pointed in the right direction."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C: x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/B: x22010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am: x02210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F: 133211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I don't have the reflection,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Of anybody checking their face,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the shade of my glass"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "es,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "One way ticket on the fast train,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm"
+            },
+            {
+              "chord": "F",
+              "lyrics": "solo all the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I could maybe read a novel,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To push away the trouble,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That sits in the pit of my tum"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "my,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I know that it will find me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "finish the last"
+            },
+            {
+              "chord": "G",
+              "lyrics": "page."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "An empty hand I wave good"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bye,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I feel a tickle in my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eye."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No I'll"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never, sever any"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tie,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tired of the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "journey,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No hand held in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mine,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No I'll"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never, sever any"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tie,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tired of the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "journey,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No hand held in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mine."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well I always feel it more,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On a day when there's a storm,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or a raincloud, so dangerous and lone"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "ly,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No one ever told me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "darkness is my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "foe."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I'm looking out the window,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And losing both my dimples,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They enter the ends of my smi"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "le,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause I am a thousand miles,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "place I need to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "An empty hand I wave good"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bye,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I feel a tickle in my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eye."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No I'll"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never, sever any"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tie,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tired of the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "journey,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No hand held in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mine,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No I'll"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never, sever any"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tie,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tired of the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "journey,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No hand held in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mine."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

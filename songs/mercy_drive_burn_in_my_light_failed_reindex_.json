@@ -1,0 +1,74 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/mercy-drive/303073.html",
+  "title": "Burn In My Light (failed - reindex)",
+  "artist": "Mercy Drive",
+  "key": null,
+  "scrapedAt": "2025-12-16T19:09:47.997Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Hey! Nothing you can s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ay. Nothing that will ch"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ange what you've done to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now it's time so s"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hine. I'm gonna t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ake what's mine while you b"
+            },
+            {
+              "chord": "C",
+              "lyrics": "urn i"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nsi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "de my"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "li"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ght."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

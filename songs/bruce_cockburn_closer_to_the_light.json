@@ -1,0 +1,918 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.christianguitar.org/csong819/Bruce-Cockburn-Closer-To-The-Light",
+  "title": "Closer to the Light",
+  "artist": "Bruce Cockburn",
+  "key": null,
+  "scrapedAt": "2025-12-16T21:21:37.236Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer To The Light - Bruce Cockburn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~~~~~~~~~~~~~~~~~~~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed by Jared White (whitej@lincoln.ac.nz) 1995"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning, Capo 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Slow: 4/4, MM=72"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Notes: This songs has deceptively simple chords, but, as with"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "many Cockburn tunes, it's not as easy as it first seems!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Alternating bass, travis-style fingerpicking."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bracketed notes are optional."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Full lyrics are at the end."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Feedback appreciated. Enjoy!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key: 0** in measure 6 = 0h1p0 (trill)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3'** in measure 7 = 3(bend)p1p0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "n = downstroke (strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "v = upstroke (strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "> = accent (downstrum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "} = arpeggiate chord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "5"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G Am n v"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "7 , . , . , . , . , . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "9"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "go Swimming deeper into mystery Here I re-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "11"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-main Only seeing where you used to be Stared at the cei-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "13"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-ling 'Til my ears filled up with tears Never got to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G Am cresc."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "15, . , . , . , . , . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "know you And suddenly you're out of here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "% n v v n v"
+            },
+            {
+              "chord": "Csus4",
+              "lyrics": "n v"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n v"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "n v n v n v n v n v n v"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "17, . , . , . , . , . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gone from mystery into mystery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "n v n v n v n v n v n v"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n v > v n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "19, . , . , . , . , . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gone from daylight into night Another step"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "21"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "F",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "deeper into darkness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "23"
+            },
+            {
+              "chord": "Csus4/G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "C",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Clo - -ser to the light. (Another step)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "________ _ _ _"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "F",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "_ _ _ ________"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "27"
+            },
+            {
+              "chord": "Csus4/G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "C",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2: Walked out-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "________ _ _ _"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2,3."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "45"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "F",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "deeper into darkness +"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "47"
+            },
+            {
+              "chord": "Csus4/G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "C",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Clo - -ser to the light."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Middle 8:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "49"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "51"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "53"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "55"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", . , . , . , ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ds% al coda+"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+Coda"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Csus4/G ritardando...... C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "67, . , . , . , . , . , . , . , ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Clo - -ser to the light."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer To The Light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~~~~~~~~~~~~~~~~~~~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There you go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Swimming deeper into mystery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here I remain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Only seeing where you used to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stared at the ceiling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Til my ears filled up with tears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Never got to know you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And suddenly you're out of here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gone from mystery into mystery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gone from daylight into light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Another step deeper"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Into darkness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer to the light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Walked outside"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Summer moon was nearly down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mist on the fields"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Holy stillness all around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Death's no stranger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No stranger than the life I've seen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Still I cried"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Still I begged to get you back again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gone from mystery into mystery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gone from daylight into light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Another step deeper"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Into darkness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer to the light"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,598 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/l/linkin-park/247672.html",
+  "title": "Burning in the Skies",
+  "artist": "Linkin Park",
+  "key": null,
+  "scrapedAt": "2025-12-16T19:13:47.933Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: Burning in the Skies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: A Thousand Suns"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Am C G D x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I use the dead would to make the fire"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The blood of innocence burning in the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "skies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I filled my cup with the rising of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And poured it out in an ocean of de"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bris"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm swimming in the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "smoke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Of bridges I have"
+            },
+            {
+              "chord": "G",
+              "lyrics": "burned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "E",
+              "lyrics": "don't apolo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "gize"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm losing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "what I don't de"
+            },
+            {
+              "chord": "G",
+              "lyrics": "serve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "What I don't de"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "serve"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "We held my breath as clouds began to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "form"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "But you were lost in the beating of the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "storm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "But in the end we were meant to be a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "part"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "In separate chambers of the human"
+            },
+            {
+              "chord": "D",
+              "lyrics": "heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "No,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm swimming in the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "smoke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Of bridges I have"
+            },
+            {
+              "chord": "G",
+              "lyrics": "burned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "E",
+              "lyrics": "don't apolo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "gize"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm losing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "what I don't de"
+            },
+            {
+              "chord": "G",
+              "lyrics": "serve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "E",
+              "lyrics": "in the blackened"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "bones"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Of bridges I have"
+            },
+            {
+              "chord": "G",
+              "lyrics": "burned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "E",
+              "lyrics": "don't apolo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "gize"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm losing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "what I don't de"
+            },
+            {
+              "chord": "G",
+              "lyrics": "serve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "What I don't de"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "serve"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo: Am C G D x3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm swimming in the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "smoke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Of bridges I have"
+            },
+            {
+              "chord": "G",
+              "lyrics": "burned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "E",
+              "lyrics": "don't apolo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "gize"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm losing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "what I don't de"
+            },
+            {
+              "chord": "G",
+              "lyrics": "serve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "E",
+              "lyrics": "blame is mine a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For bridges I have"
+            },
+            {
+              "chord": "G",
+              "lyrics": "burned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "E",
+              "lyrics": "don't apolo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "gize"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm losing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "what I don't de"
+            },
+            {
+              "chord": "G",
+              "lyrics": "serve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "What I don't de"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "serve"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "What I don't de"
+            },
+            {
+              "chord": "F",
+              "lyrics": "serve,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "woah,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "woah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "What I don't de"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "serve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And here's the dead wood to make the fire"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The blood of innocence burning in the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "skies"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

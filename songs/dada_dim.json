@@ -1,0 +1,674 @@
+{
+  "url": "https://www.chordie.com/chord.pere/tabfu.thudspace.net/d/dada/dim.tab",
+  "title": "Dim",
+  "artist": "dada",
+  "key": null,
+  "scrapedAt": "2025-12-17T00:03:39.400Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: from sunny.stx.com (sunny.stx.com"
+            },
+            {
+              "chord": "198.116.22.30",
+              "lyrics": ") by post-office.nevada.edu (8.6.4/8.6.4) with SMTP id MAA13955 for ; Mon, 14 Feb 1994 12:50:25 -0800"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: from odouls.stx.com by sunny.stx.com (4.1/1.35)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "id AA01961; Mon, 14 Feb 94 15:55:17 EST"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: by odouls.stx.com (5.0/SMI-SVR4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "id AA05254; Mon, 14 Feb 94 15:48:13 EST"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: ryan@odouls.stx.com (Pat Ryan)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Message-Id:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: TAB: Dada, \"Dim\" (fwd)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To: jamesb@nevada.edu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: Mon, 14 Feb 1994 15:48:12 -0500 (EST)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Reply-To: ryan@odouls.stx.com (patrick m. ryan)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Organization: Hughes STX Corporation, EOSDIS IMS V0 Development Team"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "X-Mailer: ELM"
+            },
+            {
+              "chord": "version 2.4 PL23",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mime-Version: 1.0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Content-Type: text/plain; charset=US-ASCII"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Content-Transfer-Encoding: 7bit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Content-Length: 3852"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pat Ryan said:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">From news.gsfc.nasa.gov!news.gsfc.nasa.gov!odouls!ryan Mon Feb 14 09:58:16 1994"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Path: news.gsfc.nasa.gov!news.gsfc.nasa.gov!odouls!ryan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: ryan@odouls.stx.com (Pat Ryan)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Newsgroups: rec.music.makers.guitar.tablature,alt.guitar.tab"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: TAB: Dada, \"Dim\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: 14 Feb 1994 14:01:19 GMT"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Organization: Hughes STX Corporation, EOSDIS IMS V0 Development Team"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lines: 116"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Message-ID:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Reply-To: ryan@odouls.stx.com (patrick m. ryan)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NNTP-Posting-Host: odouls.stx.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mime-Version: 1.0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Content-Type: text/plain; charset=US-ASCII"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Content-Transfer-Encoding: 7bit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "X-Newsreader: TIN"
+            },
+            {
+              "chord": "version 1.2 PL2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Xref: news.gsfc.nasa.gov rec.music.makers.guitar.tablature:12392 alt.guitar.tab:15050"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here is a mostly complete transcription of Dada's tune, \"Dim\"."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dada, \"Dim\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "from the album, _Puzzle_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "transcription by ryan@odouls.stx.com (patrick m. ryan)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "comments, corrections, cash donations welcome"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[intro riff played once with just guitar then"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "twice along with drums & bass]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~~~~~~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[verse riff played 2x with no vocals"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "then verse riff played over each line (4x)]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you've got pictures of your face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Could you leave it on your way out the door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't care if it's color or black or white"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I just need something to remember you by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": "B"
+            },
+            {
+              "chord": "C",
+              "lyrics": "efore my life,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "before my life went dim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": "B"
+            },
+            {
+              "chord": "C",
+              "lyrics": "efore my life,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "before my life went dim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "No one"
+            },
+            {
+              "chord": "D",
+              "lyrics": "told me the tr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ouble I was in"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Before m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y life went di"
+            },
+            {
+              "chord": "C",
+              "lyrics": "m"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I painted half my face green"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I painted half my face blue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In hopes of showing you both sides of me both sides of me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I guess it came down to don't you love don't you love me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Before my life went dim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Before my life went dim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No one told me the trouble I was in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Before my life went dim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "[guitar solo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "part 1]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can't this car go any faster"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can't this car go any faster"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can't this car go any faster"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I can still see where I am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Before my life went dim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Before my life went dim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You should have told me The trouble I was in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Before my life went dim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "--",
+              "lyrics": "\"Now about those pictures...\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"I can explain! I was young! I needed the money!..\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "patrick m. ryan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "nasa / goddard space flight center / hughes stx / eosdis ims v.0 team"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "patrick.m.ryan@gsfc.nasa.gov / pryan@ccmail.stx.com / ryan@odouls.stx.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

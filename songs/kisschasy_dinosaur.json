@@ -1,0 +1,526 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/k/kisschasy/228060.html",
+  "title": "Dinosaur",
+  "artist": "Kisschasy",
+  "key": null,
+  "scrapedAt": "2025-12-17T00:05:27.310Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Jimmi McInnes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: Imutopia@hotmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Note:Ive seen a few tabs for this on here but this is the actually the way it is played."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 2nd fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All chords references are made from the capo. i.e. 5th fret from capo, 7th fret from capo etc."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro Riff (and is played throughout the song on 'A')"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Riff 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "instead of a chord change to a 'D' it uses the riff as a walk back to 'A'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A (riff)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm trying to beat my misery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A (riff 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't wanna go across the sea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A (riff)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And if I could take you everywhere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "there'd be no cause for my despair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "know we won't t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ouch for m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "onths"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And your"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "smell will ev"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ade mee"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eeee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But our"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love could surv"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ive a w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Without the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "slightest"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A (riff)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know you suffer for my art"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A (riff 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Always pulling us apart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A (riff)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're forever in my brain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Even when I cause you pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "know I can't"
+            },
+            {
+              "chord": "F",
+              "lyrics": "taste your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "skin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With an"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ocean bet"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ween us"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But our"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "love is a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dino -"
+            },
+            {
+              "chord": "C",
+              "lyrics": "saur"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hear it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "roar"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude (Same as Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "know we won't t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ouch for m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "onths"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "r smell will ev"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ade"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But our"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love could sur"
+            },
+            {
+              "chord": "D",
+              "lyrics": "vive a w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Without the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "slightest"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "know I can't ta"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ste your s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "kin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With an"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ocean betwee"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n us"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But our"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love is a din"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o -sa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ur"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hear it"
+            },
+            {
+              "chord": "E",
+              "lyrics": "roar"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hear it"
+            },
+            {
+              "chord": "E",
+              "lyrics": "roar"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

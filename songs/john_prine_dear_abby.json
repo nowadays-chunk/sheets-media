@@ -1,0 +1,806 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/j/johnprine-tabs-31755/dearabby-tabs-889630.html",
+  "title": "Dear Abby",
+  "artist": "John Prine",
+  "key": null,
+  "scrapedAt": "2025-12-16T23:21:53.351Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo on 4th fret (Key of B)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Strumming pattern:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* * * * * * * *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The *'s represent thumb strokes that make up the bass line."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This pattern is kept throughout the song."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dear"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Abby, Dear Abby, my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "feet are too"
+            },
+            {
+              "chord": "G",
+              "lyrics": "long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hair's falling out and my"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "rights are all"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "G",
+              "lyrics": "friends they all tell me that I've"
+            },
+            {
+              "chord": "C",
+              "lyrics": "no friends at"
+            },
+            {
+              "chord": "G",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Won't you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "write me a letter, won't you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "give me a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "call?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Siiii"
+            },
+            {
+              "chord": "D",
+              "lyrics": "igned"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Bewildered"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wildered, Bewildered, you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "have no com"
+            },
+            {
+              "chord": "G",
+              "lyrics": "plaint"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "are what you are and you"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ain't what you"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ain't"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "G",
+              "lyrics": "listen up buster and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "listen up"
+            },
+            {
+              "chord": "G",
+              "lyrics": "good"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stop"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wishin' for bad luck and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "knockin' on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wood"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dear"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Abby, Dear Abby, my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fountain pen"
+            },
+            {
+              "chord": "G",
+              "lyrics": "leaks"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wife hollers at me and my"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "kids are all"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "freaks"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every"
+            },
+            {
+              "chord": "G",
+              "lyrics": "side I get up on is the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wrong side of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "weren't so expensive I'd"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wish I were"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Siiii"
+            },
+            {
+              "chord": "D",
+              "lyrics": "igned"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Unhappy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Un"
+            },
+            {
+              "chord": "G",
+              "lyrics": "happy, Unhappy, you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "have no com"
+            },
+            {
+              "chord": "G",
+              "lyrics": "plaint"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "are what you are and you"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ain't what you"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ain't"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "G",
+              "lyrics": "listen up buster and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "listen up"
+            },
+            {
+              "chord": "G",
+              "lyrics": "good"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stop"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wishin' for bad luck and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "knockin' on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wood"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse 3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dear"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Abby, Dear Abby, you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "won't believe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stomach makes noises when"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ever I"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "kiss"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "G",
+              "lyrics": "girlfriend tells me it's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all in my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "head"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stomach tells me to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "write you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "instead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Siiii"
+            },
+            {
+              "chord": "D",
+              "lyrics": "igned"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Noisemaker"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Noise"
+            },
+            {
+              "chord": "G",
+              "lyrics": "maker, Noisemaker, you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "have no com"
+            },
+            {
+              "chord": "G",
+              "lyrics": "plaint"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "are what you are and you"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ain't what you"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ain't"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "G",
+              "lyrics": "listen up buster and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "listen up"
+            },
+            {
+              "chord": "G",
+              "lyrics": "good"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stop"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wishin' for bad luck and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "knockin' on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wood"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse 4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dear"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Abby, Dear Abby, well"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I never"
+            },
+            {
+              "chord": "G",
+              "lyrics": "thought"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me and my girlfriend would"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ever get"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "caught"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We were"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sittin' in the back seat just"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shootin' the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "breeze"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With her"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hair up in curlers and her"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pants to her"
+            },
+            {
+              "chord": "G",
+              "lyrics": "knees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Siiii"
+            },
+            {
+              "chord": "D",
+              "lyrics": "igned"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Just Married"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Married, Just Married, you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "have no"
+            },
+            {
+              "chord": "G",
+              "lyrics": "complaint"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "are what you are and you"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ain't what you"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ain't"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "G",
+              "lyrics": "listen up buster and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "listen up"
+            },
+            {
+              "chord": "G",
+              "lyrics": "good"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stop"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wishin' for bad luck and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "knockin' on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wood"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Siiii"
+            },
+            {
+              "chord": "D",
+              "lyrics": "igned"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Dear Abbby"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

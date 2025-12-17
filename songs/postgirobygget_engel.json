@@ -1,0 +1,738 @@
+{
+  "url": "https://www.chordie.com/chord.pere/tabfu.thudspace.net/p/postgirobygget/engel.crd",
+  "title": "Engel",
+  "artist": "Postgirobygget",
+  "key": null,
+  "scrapedAt": "2025-12-17T07:09:10.296Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: Sat, 10 Jan 1998 12:15:18 +0100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: Ragnhild Olin Amdam"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: CRD: engel by postgirobygget"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "engel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tekst: B�rre Gjelsten og Arne Hurlen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Musikk: Arne Hurlen og Ulf Risnes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Jeg g�r p� skole og gj�r d"
+            },
+            {
+              "chord": "F",
+              "lyrics": "et"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "br"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jeg spiller fotball i fritida"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jeg er jentenes innerste dr�"
+            },
+            {
+              "chord": "F",
+              "lyrics": "�m"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "og alle m�drenes dr�mme"
+            },
+            {
+              "chord": "F",
+              "lyrics": "s�"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "��n"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mine venner sier jeg er streit"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "men det er noe som de ikke veit om"
+            },
+            {
+              "chord": "D",
+              "lyrics": "meg"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jeg er en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "engel ifra"
+            },
+            {
+              "chord": "C",
+              "lyrics": "helvete"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "vinger ingen"
+            },
+            {
+              "chord": "G",
+              "lyrics": "glorie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "j�vel sata"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n egotripp"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "f�lelser e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r dritt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "engel ifra"
+            },
+            {
+              "chord": "C",
+              "lyrics": "helvete"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "jeg har ingen glorie"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "og jeg"
+            },
+            {
+              "chord": "G",
+              "lyrics": "elsker det"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jeg e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lsker det"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Blant kjente g�r jeg helst i motekl"
+            },
+            {
+              "chord": "F",
+              "lyrics": "�"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "�r"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i det private er det sort og l�"
+            },
+            {
+              "chord": "F",
+              "lyrics": "�r"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jeg er medlem av en menighet"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "men tilber satan som en sann profet"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jeg er ikke den som alle tror"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "men en engel som bedriver hor det er"
+            },
+            {
+              "chord": "D",
+              "lyrics": "meg"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jeg er en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "engel ifra"
+            },
+            {
+              "chord": "C",
+              "lyrics": "helvete"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "vinger ingen"
+            },
+            {
+              "chord": "G",
+              "lyrics": "glorie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "j�vel sata"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n egotripp"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "f�lelser e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r dritt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "engel ifra"
+            },
+            {
+              "chord": "C",
+              "lyrics": "helvete"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "jeg har ingen glorie"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "og jeg"
+            },
+            {
+              "chord": "G",
+              "lyrics": "elsker det"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jeg e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lsker det"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(oppgitt i toner, ikke akkorder)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Mine venner sier jeg er streit"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "men det er noe som de ikke veit om"
+            },
+            {
+              "chord": "D",
+              "lyrics": "meg"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jeg er en en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gel ifra he"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lvete"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "vinger ingen"
+            },
+            {
+              "chord": "G",
+              "lyrics": "glorie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "j�vel sata"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n egotripp"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "f�lelser e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r dritt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "engel ifra"
+            },
+            {
+              "chord": "C",
+              "lyrics": "helvete"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "jeg har ingen glorie"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "og jeg"
+            },
+            {
+              "chord": "G",
+              "lyrics": "elsker det"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jeg e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lsker det"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jeg e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lsker det"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G F Am(x8)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jeg elsker det"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Akkorder er satt og innskrevet av Ragnhild O. Amdam"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e-mail: ragamdam@online.no"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "homepage: http://home.sol.no/~ramdam/"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PGB-page: http://home.sol.no/~ramdam/pgb/pgbindex.htm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

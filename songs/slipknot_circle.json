@@ -1,0 +1,602 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/slipknot/317358.html",
+  "title": "Circle",
+  "artist": "Slipknot",
+  "key": null,
+  "scrapedAt": "2025-12-16T21:08:05.862Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Start on - E5(A/5th String)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G5 - (E/6th String)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A5 - (E/6th String)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B5 - (E/6th String)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C5 - (E/6th String)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D5 - (E/6th String)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F# - (E/6th String)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em - (< E minor chord on the 2nd fret)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D - ( Reg. Chord)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A - (Reg. Chord)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C - (Reg. Chord)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C5 -(A/5th String)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 - D5 C5 B5 A5 G5 E5 (2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "Give me the dust of my father"
+            },
+            {
+              "chord": "G5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": ""
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "Stand on the face of the ancient"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "s"
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "G5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 G5 A5 F# Em(< E minor chord on the 2nd fret)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bare the secret flesh of time itself"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Follow me (Follow me)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "I'v"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "e c"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ome"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "so far, I'm behind again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Follow me (Follow me)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "I w"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "ish"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "so"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hard I'm there again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Fol"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "low"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "me"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "(Follow me)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Follow me (Follow me)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All that I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wanted are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "things I had be"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "fore."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All that I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "needed I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never needed"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "more."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All of my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "questions are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "answers to my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sins."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All of my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "endings are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "waiting to be"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gin."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(One finger on string strum one time before going into 2nd verse)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "I know the way but I falter"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "Can't be afraid of my pa"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "tie"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "nce"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "There's a sacred place R"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "aze"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "l k"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "eep"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "s safe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Follow me (Follow me)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "I'v"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "e s"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "een"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "so much I'm blind again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Fol"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "low"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "me"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "(Follow me)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I feel so bad I'm alive again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Fol"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "low"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "me"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "(Follow me)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All that I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wanted are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "things I had be"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "fore."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All that I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "needed I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never needed"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "more."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All of my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "questions are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "answers to my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sins."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All of my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "endings are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "waiting to be"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gin."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 - C5(A/5 string) G5 (4x)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

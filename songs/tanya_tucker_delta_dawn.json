@@ -1,0 +1,458 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.allcountrytabs.com/tabs/tucker-tanya/delta-dawn-1168.html",
+  "title": "Delta Dawn",
+  "artist": "Tanya Tucker",
+  "key": null,
+  "scrapedAt": "2025-12-16T23:35:32.999Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: CRD: \"Delta Dawn\" (Tanya Tucker)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: 22 Mar 1994 18:38:55 GMT"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Organization: University of California, Santa Cruz"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lines: 53"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Message-ID:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NNTP-Posting-Host: ucscb.ucsc.edu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "X-Newsreader: NN version 6.5.0 #3 (NOV)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yet another posting by request..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "DELTA DAWN (Alex Harvey & Larry Collins)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(I got this from some sheet music I had lying around; it's probably"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "transcribed from the Helen Reddy version. I haven't heard either hers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "or Tanya Tucker's in years. I think, at least in Tucker's version, it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "modulates up a whole step for the end of the song. I'm not sure what"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "key it really should be in; I put it in G because it's easy. (The music"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I had was in F, but F sucks.) I'm also not sure of the placement of"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verses, choruses, etc.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Each chord is half a measure, except two chords joined by a hyphen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(e.g. \"G - D\" are a half-measure _total_.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Delta"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Dawn, what's that"
+            },
+            {
+              "chord": "C",
+              "lyrics": "flower you have o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Could it b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e a faded r"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ose from days gone"
+            },
+            {
+              "chord": "D",
+              "lyrics": "by"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "did I hear you s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay he was a-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "meeting you here tod"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To"
+            },
+            {
+              "chord": "G",
+              "lyrics": "take you to his"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mans"
+            },
+            {
+              "chord": "-",
+              "lyrics": "ion"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sky"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "forty-one and her"
+            },
+            {
+              "chord": "F",
+              "lyrics": "daddy still calls her \"b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aby\""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All the folks around"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Brownsville say she's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "crazy"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause she"
+            },
+            {
+              "chord": "C",
+              "lyrics": "walks a"
+            },
+            {
+              "chord": "-",
+              "lyrics": "round"
+            },
+            {
+              "chord": "E/B",
+              "lyrics": "town with a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "suitc"
+            },
+            {
+              "chord": "-",
+              "lyrics": "ase"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "in her"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hand"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Looking for a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mysterious dark-haired"
+            },
+            {
+              "chord": "G",
+              "lyrics": "man"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In her younger days they called her Delta Dawn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Prettiest woman you ever laid eyes on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then a man of low degree stood by her side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And promised her he'd take her for his bride"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Delta Dawn, what's that flower you have on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Could it be a faded rose from days gone by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And did I hear you say he was a-meeting you here today"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To take you to his mansion in the sky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "etc..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Adam Schneider indigo@ucscb.ucsc.edu U.C. Santa Cruz"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mail me if you want guitar chords for Mary-Chapin Carpenter,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Indigo Girls, Suzanne Vega, Lucinda Williams, etc."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

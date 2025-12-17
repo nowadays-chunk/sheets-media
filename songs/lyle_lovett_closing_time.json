@@ -1,0 +1,602 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.tabcountry.com/song2298/-Closing-Time",
+  "title": "Closing Time",
+  "artist": "Lyle Lovett",
+  "key": null,
+  "scrapedAt": "2025-12-16T21:22:20.444Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Closing Time\" written and performed by Lyle Lovett"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Brought to you by Nathan Board (nathan_board@orcom.com)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the CD \"Lyle Lovett.\" 1986"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As usual, corrections and advice is most welcome."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Once again, consider this a close approximation."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-Nate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used: A:002220 E:022100 F#m:244222 D:000232 B:XX4442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SONG"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The night she is a true com-panion"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They shuffle in they hear the sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But by night's end its night's a-bandon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You look acroos the floor Ain't anyone a- round"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closing Time un- plug them people"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and send them home it's closing time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lyrics:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "The night she"
+            },
+            {
+              "chord": "E",
+              "lyrics": "is a true com"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "panion"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "They shuffle"
+            },
+            {
+              "chord": "B",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "They hear the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "But by night's"
+            },
+            {
+              "chord": "E",
+              "lyrics": "end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's night's a"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "bandon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You look across the f"
+            },
+            {
+              "chord": "B",
+              "lyrics": "loor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Ain't anyone a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "round"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Closing"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Unp"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lug them"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "people"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And send them"
+            },
+            {
+              "chord": "E",
+              "lyrics": "home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's closing t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ime"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Now Kenny he's been"
+            },
+            {
+              "chord": "E",
+              "lyrics": "mixing sound all e"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "vening"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Sometimes I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "think that boy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "He ain't got no"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And Kathy's lau"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ghing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Kathy's always laughing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Well keep on l"
+            },
+            {
+              "chord": "B",
+              "lyrics": "aughing Kathy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Just make it out of"
+            },
+            {
+              "chord": "E",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Closing t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ime"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Unpl"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ug them pe"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ople"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And send them h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ome"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's closing t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ime"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "So stack those c"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hairs upon those t"
+            },
+            {
+              "chord": "Fm#",
+              "lyrics": "ables"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And stack those e"
+            },
+            {
+              "chord": "B",
+              "lyrics": "mpties up"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on that"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And count your mo"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ney"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "And count my money"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And hear those"
+            },
+            {
+              "chord": "B",
+              "lyrics": "bottles ringing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You know where you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Closing t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ime"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Unp"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lug them p"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "eople"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And send them"
+            },
+            {
+              "chord": "E",
+              "lyrics": "home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's closing t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ime"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The night's all that's"
+            },
+            {
+              "chord": "E",
+              "lyrics": "left behind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You take"
+            },
+            {
+              "chord": "E",
+              "lyrics": "your part and"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "I'll take mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And go on"
+            },
+            {
+              "chord": "E",
+              "lyrics": "home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's closing"
+            },
+            {
+              "chord": "A",
+              "lyrics": "time"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

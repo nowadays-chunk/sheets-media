@@ -1,0 +1,662 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/bee-gees/275573.html",
+  "title": "Children of the World",
+  "artist": "Bee Gees",
+  "key": null,
+  "scrapedAt": "2025-12-16T20:54:35.759Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Children of the World - Bee Gees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: maguri"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bee Gees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Children of the World (1976)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Barry, Robin and Maurice Gibb)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From \"Children of the World\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A great song, but difficult to hear, especially the verses. This is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "what I came up with. Comments and corrections are highly welcome."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e-B-G-D-A-E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G6/A 0-3-4-5-0-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gmaj7/A 2-3-4-5-0-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cdim x-4-2-4-3-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/A 3-3-4-5-0-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ab/Bb x-4-5-6-x-6"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ebmaj7 3-3-3-1-x-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 3rd fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ah, ah ah ah, we are children of the world - watching every day go by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Changes my life, changes your life - keeps us all anticipating"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ah, ah ah ah, we are searchers of the truth, every man's a boy deep down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "no cbord",
+              "lyrics": "Dmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gotta say it how you mean it - there ain't no easy way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bird in the"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "wind, like a"
+            },
+            {
+              "chord": "G6/A",
+              "lyrics": "tree in the"
+            },
+            {
+              "chord": "Gmaj7/A",
+              "lyrics": "storm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "breath of a"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "child from the"
+            },
+            {
+              "chord": "G6/A",
+              "lyrics": "moment he's born"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "very last"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "day when the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "curtains are"
+            },
+            {
+              "chord": "G6/A",
+              "lyrics": "drawn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Ah, ah ah"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ah, we are"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "children of the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "world -"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "asking every"
+            },
+            {
+              "chord": "A",
+              "lyrics": "question"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "arrival to"
+            },
+            {
+              "chord": "G6/A",
+              "lyrics": "survival - just to make it worth the waiting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Ah, ah ah"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ah, we are"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "faces in the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "night -"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "watching every"
+            },
+            {
+              "chord": "A",
+              "lyrics": "day go"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Changes"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "my life, changes"
+            },
+            {
+              "chord": "G6/A",
+              "lyrics": "your life - there ain't no ea"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "sy way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "back of your"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "mind there is"
+            },
+            {
+              "chord": "G6/A",
+              "lyrics": "always a"
+            },
+            {
+              "chord": "Gmaj7/A",
+              "lyrics": "mark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wandering"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "solo a"
+            },
+            {
+              "chord": "G6/A",
+              "lyrics": "lone in the dark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can"
+            },
+            {
+              "chord": "A",
+              "lyrics": "keep it fo"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "rever or"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tear it a"
+            },
+            {
+              "chord": "G6/A",
+              "lyrics": "part"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SOLO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Dm | % | % | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Em | % | Fm | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Cdim Bm | Bm | % |"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(break)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Ah, ah ah"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ah, we are"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "children of the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "world -"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "watching every"
+            },
+            {
+              "chord": "A",
+              "lyrics": "day go"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Changing"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "my life, changing"
+            },
+            {
+              "chord": "G6/A",
+              "lyrics": "your life - keeps us all anticipating"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ah, ah ah ah, we are children of the world - watching every day go by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like a"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "bird in the"
+            },
+            {
+              "chord": "Bb6",
+              "lyrics": "wind, like a"
+            },
+            {
+              "chord": "Ab/Bb",
+              "lyrics": "tree in the storm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like the"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "breath of a"
+            },
+            {
+              "chord": "Bb6",
+              "lyrics": "child from the"
+            },
+            {
+              "chord": "Ab/Bb",
+              "lyrics": "moment he's born"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To the"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "very last"
+            },
+            {
+              "chord": "Bb6",
+              "lyrics": "day when the"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "curtains are"
+            },
+            {
+              "chord": "Ab/Bb",
+              "lyrics": "drawn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Ah, ah ah"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ah, we are"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "children of the"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "world -"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "watching every"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "day go"
+            },
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Changes"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "my life, changes"
+            },
+            {
+              "chord": "Ab/Bb",
+              "lyrics": "your life - keeps us all anticipating"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ah, ah ah ah, we are children of the world - watching every day go by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Changes my life, changes your life - keeps us all anticipating"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

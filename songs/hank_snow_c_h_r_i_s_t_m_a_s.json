@@ -1,0 +1,94 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/hank-snow/christmas",
+  "title": "C-H-R-I-S-T-M-A-S",
+  "artist": "Hank Snow",
+  "key": null,
+  "scrapedAt": "2025-12-16T19:27:52.549Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">G D7 G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And here's why there's a Christmas Day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I was but a youngster"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Christmas meant one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "thing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "I'd be getting lots of toys that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "learned a whole lot different when"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mother set me down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "taught me to spell Christmas thi"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

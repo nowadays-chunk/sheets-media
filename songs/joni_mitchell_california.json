@@ -1,0 +1,1378 @@
+{
+  "url": "https://www.chordie.com/chord.pere/chordiearchive.chordie.com/chord.pere/www.guitaretab.com/m/mitchell-joni/12643.html",
+  "title": "California",
+  "artist": "Joni Mitchell",
+  "key": null,
+  "scrapedAt": "2025-12-16T19:35:50.060Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the album 'Blue'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Howard Wright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "spxhaw@uk.ac.cf.thor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The original has a dulcimer part playing the intro, and playing chords in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the main part of the song. I've tabbed the dulcimer intro bit for guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "using an alternative tuning. For the main part of the song, the acoustic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(using normal tuning) dominates; I've written out chord shapes ( and a bit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "of tab) for this, as well as shapes for the 'dulcimer' part."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The original acoustic part adds a few noodles on top of the basic chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(mostly sus4 and sus2 type of things). I've tried to include a few of these,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I havn't tried to TAB note for note what is played."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The acoustic part is played with a capo at the 3rd fret, so when I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "write D I mean play a D shape above the 3rd fret. (The actual"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chord would be F)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OK ?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To play the dulcimer part, tune to : F Bb D A C F (no capo used)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Low E up to F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A up to Bb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D - same"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G up to A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B up to C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E up to F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "h - hammer on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "p - pull off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ - slide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Sitting in a park in Paris France"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Reading the news and it"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "sure looks"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "bad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "They won't give peace a chance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/A",
+              "lyrics": "That was j"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ust a dream some of us h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Still a lot of la"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nds to see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "wouldn't want to st"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ay here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "It's too old and"
+            },
+            {
+              "chord": "Em/A",
+              "lyrics": "cold and s"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ettled in its ways here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "Ah but Calif"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ornia"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cali"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fornia"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "I'm comin"
+            },
+            {
+              "chord": "B7/F#",
+              "lyrics": "g home"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm gonna see the folks I dig"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "I'll even kiss a sunset"
+            },
+            {
+              "chord": "A",
+              "lyrics": "pig"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C"
+            },
+            {
+              "chord": "A",
+              "lyrics": "alifornia I'm c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "oming home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "met a redneck on a Grecian isle"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We did the goat dance very"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "well"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "He gave me back my smile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/A",
+              "lyrics": "But he kept m"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "y camera to sell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Oh the rogue, the red red rogue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "He cooked good omelettes and stews"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "might have stayed on with him there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But my"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "heart cried out for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "Cal"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ifornia"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "California"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "I'm comi"
+            },
+            {
+              "chord": "B7/F#",
+              "lyrics": "ng home"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "make me feel good rock and roll band"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2/F#",
+              "lyrics": "I'm your biggest fan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "California I'm coming home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "MIDDLE 8:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Oh it gets so"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lonely"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "When you're walking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And the streets are full of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "strangers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "All the news of"
+            },
+            {
+              "chord": "E",
+              "lyrics": "home"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "you re"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ad just give you th"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "e blues"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Just give you the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "blues"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(For the standard tuning acoustic, use the G,E7 and A shapes which are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "higher up the neck - I've marked them below with a '*' )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D G*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I bought me a ticket I caught a plane to Spain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E7*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Went to a party down a red dirt road"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There were lots of pretty people there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A* G* D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Reading Rolling Stone reading Vogue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D G*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They said how long can you hang around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G* E7*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I said a week maybe two"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just until my skin turns brown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And then I'm going home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "To Cal"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ifornia"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cal"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ifornia"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm coming"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "home"
+            },
+            {
+              "chord": "B7/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "will you take me as I am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "Strung out on another man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "California I'm coming h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ome"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Oh it gets so"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lonely"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "When you're walking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And the streets are full of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "strangers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All the news of"
+            },
+            {
+              "chord": "E",
+              "lyrics": "home you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "read"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "More about the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "war and the bloody"
+            },
+            {
+              "chord": "A",
+              "lyrics": "changes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "E",
+              "lyrics": "will you take me as I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will you take me as I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will you"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", will you take me as I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Mmm",
+              "lyrics": ""
+            },
+            {
+              "chord": "mmm",
+              "lyrics": ""
+            },
+            {
+              "chord": "mmm",
+              "lyrics": ""
+            },
+            {
+              "chord": "mmm",
+              "lyrics": ""
+            },
+            {
+              "chord": "mmm",
+              "lyrics": ""
+            },
+            {
+              "chord": "mmm",
+              "lyrics": ""
+            },
+            {
+              "chord": "mmm",
+              "lyrics": "Take me as I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "am ......"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chord Shapes :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning (acoustic guitar part)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "REMEMBER - these are capoed at the 3rd fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0232"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "3x0003"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "020100"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02020"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "3x0013"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx5433"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D G E7 A7 Gsus4 G*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "x21202"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02220"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "2x023x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02230"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02200"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "2x0230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32010"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02030"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x0543x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x0200x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "2x120x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx2434"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C A7sus4 G/A Em/A B7/F# E7*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx7655"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Alternative tuning (Dulcimer part)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just to keep things simple I'll keep the same chord names as for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the standard tuning guitar part. In actual fact, the dulcimer chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "are all in F, but since the acoustic guitar is played in D with"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a capo on the 3rd fret, it's also effectively playing in F, although"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "all the chord names are written in D. So to make it easy (I hope!)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll write all the chords as though it were in D."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you can't understand what the fuck I'm on about, mail me and I'll try"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to explain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I havn't tabbed all the chords, but these are the basic ones."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(I'll write 'b' for the Bb string to save space)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "FbDACF",
+              "lyrics": "023000"
+            },
+            {
+              "chord": "FbDACF",
+              "lyrics": "xx3354"
+            },
+            {
+              "chord": "FbDACF",
+              "lyrics": "x03120"
+            },
+            {
+              "chord": "FbDACF",
+              "lyrics": "x03555"
+            },
+            {
+              "chord": "FbDACF",
+              "lyrics": "243222"
+            },
+            {
+              "chord": "FbDACF",
+              "lyrics": "x22102"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "FbDACF",
+              "lyrics": "xx0321"
+            },
+            {
+              "chord": "FbDACF",
+              "lyrics": "x03130"
+            },
+            {
+              "chord": "FbDACF",
+              "lyrics": "4x3000"
+            },
+            {
+              "chord": "FbDACF",
+              "lyrics": "x2x120"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

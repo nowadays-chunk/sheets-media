@@ -195,8 +195,6 @@ for (const song of songs) {
   const filename =
     safeFilename(song_name ?? "", artist_name ?? "") || `song_${id}`;
 
-  const outPath = path.join(OUTPUT_DIR, `${filename}.json`);
-
   if (fs.existsSync(outPath)) {
     console.log(`✔️ Already exists: ${outPath}`);
     continue;

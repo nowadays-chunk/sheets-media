@@ -1,0 +1,274 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.xguitar.com/guitar-tabs/36_crazy_fists/a_snow_capped_romance/cure_eclipse.txt",
+  "title": "Cure Eclipse",
+  "artist": "36 Crazyfists",
+  "key": null,
+  "scrapedAt": "2025-12-16T22:44:02.863Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning- C G C F A D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "G 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C 1 0 1 0 1 0 1 1 0 0 0 0 0 0 0 0 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ". . . . . ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro Part 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "F 8 7 7 10"
+            },
+            {
+              "chord": "F",
+              "lyrics": "C"
+            },
+            {
+              "chord": "5",
+              "lyrics": "x"
+            },
+            {
+              "chord": "7",
+              "lyrics": "x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 6p5 5h8"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C 0 h 1 h 3 p 0 0 6 5 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "C 7 x4"
+            },
+            {
+              "chord": "F",
+              "lyrics": "C 7 8 7 x 4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "C 0"
+            },
+            {
+              "chord": "5",
+              "lyrics": ""
+            },
+            {
+              "chord": "5",
+              "lyrics": "0"
+            },
+            {
+              "chord": "G",
+              "lyrics": "C 0"
+            },
+            {
+              "chord": "5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fill in verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "C 8 7 8 7 5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "C 0"
+            },
+            {
+              "chord": "5",
+              "lyrics": ""
+            },
+            {
+              "chord": "7",
+              "lyrics": ""
+            },
+            {
+              "chord": "5",
+              "lyrics": ""
+            },
+            {
+              "chord": "7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "F 8 8 8 8 8 8 8 8 101010104 4 <---- theres a second guitar part over it but i dont no wut it is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C 6 6 6 6 6 6 6 6 8 8 8 8 2 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 6 6 6 6 6 6 6 6 8 8 8 8 2 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C 6 6 6 6 6 6 6 6 8 8 8 8 2 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "G 1 0 0 1 0 0 1 0 0 5 6 5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C 1 0 0 1 0 0 1 0 0 5 6 5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bridge part 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "C 1 0 0 12 12 12 1 0 0"
+            },
+            {
+              "chord": "5",
+              "lyrics": "5"
+            },
+            {
+              "chord": "6",
+              "lyrics": "6"
+            },
+            {
+              "chord": "5",
+              "lyrics": "5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

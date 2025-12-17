@@ -1,0 +1,630 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/electric-light-orchestra/353645.html",
+  "title": "Bluebird",
+  "artist": "Electric Light Orchestra",
+  "key": null,
+  "scrapedAt": "2025-12-16T17:29:56.823Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bluebird ? Electric Light Orchestra"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: maguri"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Village People"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Electric Light Orchestra (1983)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Jeff Lynne)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: \"Secret Messages\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "LINK"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS and SPECIAL VOICINGS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/F# 2-x-0-2-3(2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fdim 1-x-0-1-0-1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/E 0-3-2-0-1-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ebmaj7 x-x-1-3-3-3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bbmaj7 x-1-3-2-3-1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/A x-0-0-2-3-2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D7b9 x-5-4-5-4-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D5+ x-x-0-3-3-2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| G | % | C | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| G | % | C | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G",
+              "lyrics": "streets, the signs are pointing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all one way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you don't realize just"
+            },
+            {
+              "chord": "C",
+              "lyrics": "what they say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You may"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fight, you may"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "run, you may"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "know what you've"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "It makes me"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "feel so sad (makes me feel so"
+            },
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "sad)"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "To think what I"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "might've had (what I might have"
+            },
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "had)"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb Dm(Bbmaj7?) Bb7 C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I watch the stars, I watch the sun, now I watch for anyone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it's only"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "make belie"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "work . . . you work, you work so"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hard and then"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Some"
+            },
+            {
+              "chord": "G",
+              "lyrics": "one, someone will come a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "round again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You may"
+            },
+            {
+              "chord": "G",
+              "lyrics": "think it's for"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "real, but you"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "know how you"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "feel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "The places"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "that I go (places that I"
+            },
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "go)"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "Don?t feel good"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "anymore (feel good any"
+            },
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "more)"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb Dm(Bbmaj7?) Bb7 C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I see it all rainbows in fall I see her face upon my wall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it's only"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "make believe"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "(LINK"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ": see"
+            },
+            {
+              "chord": "D7b9",
+              "lyrics": "above)"
+            },
+            {
+              "chord": "D5+",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fly a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way, bluebird fly a"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "way for me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "place somewhere far a"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "cross the sea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fly a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way, far a"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "way, don't look"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "back, go to"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "The waves that"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "crash upon the"
+            },
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "sand"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "Another"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "place, a far off"
+            },
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "land"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb Dm(Bbmaj7?) Bb7 C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And every day, I have to stay, but you are free, you could fly away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it's only"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "make believe"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "(LINK"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ": see"
+            },
+            {
+              "chord": "D7b9",
+              "lyrics": "above)"
+            },
+            {
+              "chord": "D5+",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| G | % | C | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Work, work ? work work)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| G | % | C | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bluebird fly away from me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeat and fade ? vocals ad lib)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

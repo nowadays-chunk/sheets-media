@@ -1,0 +1,942 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/g/goo_goo_dolls/become_crd_ver_3.html",
+  "title": "Become",
+  "artist": "Goo Goo Dolls",
+  "key": null,
+  "scrapedAt": "2025-12-16T15:34:37.569Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "TITLE: Become"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ALBUM: Let Love In (2006)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Khoa (yokan@sbcglobal.net)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INFORMATION"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Beautiful song. Some simple power chords with synthesizers and guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "riffs that I couldn't pick up. Knock yourself out try and figure them"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if you're feeling adventurous."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you want to play acoustic version, the chord progression is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C -> G -> Am -> F in Eb tuning."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "DISTORTION TUNING: Standard or drop D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CLEAN/ACOUSTIC Gt.: Eb (every string down 1 half step)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "EFFECTS: Light distortion, with medium sustain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is what I have on my Metal Zone:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Level: 9 o'clock"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Low: Max"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "High: 10"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mid freq: Max"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Middle: 12"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dist: 11"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BEGIN: Synthesizers (play chords B->F#->G#->E)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and riffs for 4 measures"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "so much more about you that you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "never let them see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You turn a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But not to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I know how they tried to take you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Held you up and meant to break you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But you can't"
+            },
+            {
+              "chord": "F",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "For so long I tried to reach you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know I'm almost there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm close"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "enough for you to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Clean/Acoustic guitar can keep playing this progression."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Basically: B5 = C, F#5 = G, G#5 = Am, E5 = F."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is where distorted power chords come in."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B5 -> A#5 -> G#5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "You've been hiding in the"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "shadows"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Have you forgo"
+            },
+            {
+              "chord": "G#5",
+              "lyrics": "tten how we used to"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Let me remind you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "light doesn't blind you at"
+            },
+            {
+              "chord": "G#5",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It just helps you"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Yeah you have be"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "come"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah you have be"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "come beauti"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "ful"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "And I can't be the stranger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That's been"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "sleeping in your bed just"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Turn a"
+            },
+            {
+              "chord": "G#5",
+              "lyrics": "round and come to"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "I feel all the pain inside"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And ever"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "ything you been denied you"
+            },
+            {
+              "chord": "G#5",
+              "lyrics": "feel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's all you"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "feel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B5 -> A#5 -> G#5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "You've been hiding in the"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "shadows"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Have you forgo"
+            },
+            {
+              "chord": "G#5",
+              "lyrics": "tten how we used to"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Let me remind you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "light doesn't blind you at"
+            },
+            {
+              "chord": "G#5",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It just helps you"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Yeah you have be"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "come"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah you have be"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "come beauti"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "ful"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Yeah you have be"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "come"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah you have be"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "come beauti"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "ful"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Brush back your hair and look around you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#5",
+              "lyrics": "Feeling like the truth has found you"
+            },
+            {
+              "chord": "G#5",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're here with"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Let love become the mir"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "ror"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With no"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "fear where you're"
+            },
+            {
+              "chord": "E#",
+              "lyrics": "from"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "You have"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "become"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah you have"
+            },
+            {
+              "chord": "G#5",
+              "lyrics": "become"
+            },
+            {
+              "chord": "F#5",
+              "lyrics": "beauti"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "ful"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "MISCELLANEOUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Most of the percussion is played in this pattern:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x x x x x x x x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x = 8th note cymbal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "s = snare"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "b = bass drum"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can accompany with an acoustic guitar and a clean guitar."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Clean gt. plays chords down, down, down, down strumming pattern (8th notes)."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The real song uses a clean guitar. I think it sounds better with acoustic."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORD DIAGRAMS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As always, power chords are easier in drop D tuning."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CONTACT"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Questions? Comments? Hate mails? \"You suck\"?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "AIM: supeRAVErageguy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E-MAIL: yokan@sbcglobal.net"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

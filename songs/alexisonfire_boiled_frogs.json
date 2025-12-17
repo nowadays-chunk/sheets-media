@@ -1,0 +1,610 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/a/alexisonfire-tabs-161/boiledfrogs-tabs-916803.html",
+  "title": "Boiled Frogs",
+  "artist": "Alexisonfire",
+  "key": null,
+  "scrapedAt": "2025-12-16T17:39:20.838Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "A man sits at his desk, one year from retirement,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And he's up for review, not quite sure what to do."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Each passing year, the workload grows."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I'm always wishing,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I'm always"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wishing too"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "late"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "For things to go my way,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "it always"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ends up the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "same"
+            },
+            {
+              "chord": "E",
+              "lyrics": "("
+            },
+            {
+              "chord": "A",
+              "lyrics": "Count your blessings)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I must be missing,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I must be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "missing the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "point"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Your signal fades away"
+            },
+            {
+              "chord": "D",
+              "lyrics": "and all I'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "left with is"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "noise"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "("
+            },
+            {
+              "chord": "A",
+              "lyrics": "Count your blessings on one hand)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "So wait up, I'm not sleeping alone again"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tonight."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's so much to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dream about, there must be more to my"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "Poor l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "it"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tle t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "in"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "man,"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "stil"
+            },
+            {
+              "chord": "E",
+              "lyrics": "l"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "swingi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ng"
+            },
+            {
+              "chord": "D",
+              "lyrics": "his"
+            },
+            {
+              "chord": "E",
+              "lyrics": "a"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "xe, even though his joints are clogged with rust."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "My youth is slipping,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "my youth is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "slipping"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "away"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Safe in monotony, (so"
+            },
+            {
+              "chord": "D",
+              "lyrics": "safe),"
+            },
+            {
+              "chord": "G",
+              "lyrics": "day after"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "day"
+            },
+            {
+              "chord": "E",
+              "lyrics": "("
+            },
+            {
+              "chord": "A",
+              "lyrics": "Count your blessings)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "My youth is slipping,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "my youth is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "slipping"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "away"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Cold wind blows off the lake, and I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "know for sure"
+            },
+            {
+              "chord": "G",
+              "lyrics": "that it's too"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "late"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "("
+            },
+            {
+              "chord": "A",
+              "lyrics": "Count your blessings on one hand)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "So wait up, I'm not sleeping alone again"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tonight."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's so much to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dream about, there must be more to my"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Can't help but feel betrayed,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "punch the clock every single day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's no"
+            },
+            {
+              "chord": "G",
+              "lyrics": "loyalty and no re"
+            },
+            {
+              "chord": "E",
+              "lyrics": "mo"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rse."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Youth sold for a pension cheque,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "and it makes him f**king sick"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "heating up, he can't say"
+            },
+            {
+              "chord": "E",
+              "lyrics": "no"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "("
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "Whoa-Whoa-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh)"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "("
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "Whoa-Whoa-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh)"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "So wait up, I'm not sleeping alone again"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tonight."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's so much to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dream about, there must be more to my"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(So wait up)"
+            },
+            {
+              "chord": "G",
+              "lyrics": "So wait up, I'm not sleeping alone again"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tonight."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Between the light and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "shallow waves is where I'm going to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "die"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Wait"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up for"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Wait"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up for"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Wait"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up for"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "me"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

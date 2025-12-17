@@ -1,0 +1,798 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/three-days-grace/207970.html",
+  "title": "Break",
+  "artist": "Three Days Grace",
+  "key": "F",
+  "scrapedAt": "2025-12-16T18:18:01.945Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Note: I did not write this tab. The original can be found here:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://www.guitaretab.com/t/three-days-grace/198418.html"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3 Days Grace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Break"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Life Starts Now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2009"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Submitted by: paramore_fans@yahoo.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key: F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Drop D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used: Drop D only"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm - 000xxx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F - 333xxx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gm - 555xxx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb - 888xxx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A - 777xxx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used: for Standard EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm - xx0231"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "C -"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "355333",
+              "lyrics": "x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb - x13331"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A - x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Tonight my head is spinning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I need"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "some"
+            },
+            {
+              "chord": "A",
+              "lyrics": "thing"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "pick"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I've tried but nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "is working I won't stop"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "won't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "say"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "I've"
+            },
+            {
+              "chord": "F",
+              "lyrics": "had"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "e--"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Refrain 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Tonight I start the fire"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Tonight I break away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Break!"
+            },
+            {
+              "chord": "F",
+              "lyrics": "A"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "way from"
+            },
+            {
+              "chord": "C",
+              "lyrics": "every"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "bo-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "dy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Break!"
+            },
+            {
+              "chord": "F",
+              "lyrics": "A"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "way from"
+            },
+            {
+              "chord": "C",
+              "lyrics": "every"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "thing"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "you can't s"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tand the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "way this place"
+            },
+            {
+              "chord": "A",
+              "lyrics": "is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Take your"
+            },
+            {
+              "chord": "F",
+              "lyrics": "self to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "higher pla"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "ces"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm--",
+              "lyrics": "Oh oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "At night I feel like a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "vampire It's not right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "can't"
+            },
+            {
+              "chord": "F",
+              "lyrics": "give"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I'll try to get myself"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "higher Let's go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "We're"
+            },
+            {
+              "chord": "A",
+              "lyrics": "gon"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "na"
+            },
+            {
+              "chord": "F",
+              "lyrics": "light"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Refrain 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Tonight We start the fire"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Tonight We break away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Guitar Solo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "you can't stand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The way this place is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Take, yourself to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "higher places"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oh"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Higher"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "pla"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ces"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oh"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Higher"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "pla"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ces"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oh"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Higher"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "pla"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ces"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Take your"
+            },
+            {
+              "chord": "F",
+              "lyrics": "self to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C Bb A Dm(hold)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "higher places"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

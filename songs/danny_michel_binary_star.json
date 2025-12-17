@@ -1,0 +1,454 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/d/danny_michel/binary_star_crd.html",
+  "title": "Binary Star",
+  "artist": "Danny Michel",
+  "key": null,
+  "scrapedAt": "2025-12-16T16:30:59.543Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can't figure out how to fix the formatting, so please note:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Each chord is played on the last word of each line (approximately), except for the E7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and Am7 chords."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Play those chords just before the first word of the line."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "notes for opening melody:: GGAGB BBBB GAGBBG# CCCBBAAAA CCCBAF#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords for opening melody: G-E-Am-D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/d/danny_michel/binary_star_crd.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "My binary star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "together we move"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "companions for life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "the ballet, the groove."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "My binary star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You're brighter than me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Nothing c"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ompares"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "You're al"
+            },
+            {
+              "chord": "D",
+              "lyrics": "l I see."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "My binary star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'm counting on you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Wherever"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you spin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I shadow"
+            },
+            {
+              "chord": "D",
+              "lyrics": "your moves"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "My binary star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Tell me what's wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "You stand"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "in the dark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "And stare"
+            },
+            {
+              "chord": "D",
+              "lyrics": "at the sun."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G (notes for background vocal melody: GF#DB)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My binary star (binary star)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "We gotta be strong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "You spin"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "out of control"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "And you d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rag me along."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "My binary star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I thought you were mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "But gravi"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ty calls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "And you l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eave me behind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "An"
+            },
+            {
+              "chord": "-",
+              "lyrics": "d"
+            },
+            {
+              "chord": "CD",
+              "lyrics": "now your shadow eclipse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "It rubs me out in the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "You've made me a fool"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You drift out of my life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You're the primary star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Go on, be free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "I'm secon"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "dary"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "It's all"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I'll ever be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "My binary star (binary star)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Things can't be the same"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "You've dr"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ifted too far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "There's n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o one to blame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C-D",
+              "lyrics": "My binary star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "My binary star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C-D-G",
+              "lyrics": "My binary sta-ar."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

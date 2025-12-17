@@ -1,0 +1,606 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.allcountrytabs.com/tabs/rain-carolina/dealin-10042.html",
+  "title": "Dealin'",
+  "artist": "Carolina Rain",
+  "key": null,
+  "scrapedAt": "2025-12-16T23:21:47.717Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Em C (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "It's been two weeks since I've seen"
+            },
+            {
+              "chord": "C",
+              "lyrics": "my kids"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "'Cause my ex-wife won't take my c"
+            },
+            {
+              "chord": "C",
+              "lyrics": "alls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "They changed my shift at work"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "getting cold and my shoulder hurts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ere I am, copin' with it a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ll"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Dealin' with the traffic, reelin' from the fumes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dealin with the everywhere I look bad news"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And wo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "nderin' how on earth I should be f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eelin'"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm de"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alin' with my taxes and my 401k"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dealin' with losin' more ground every day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And r"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eachin' for a dream I still b"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "elieve in"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I keep on d"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ealin'"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "My best friend Joe just lost his m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ama"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And someone stole my sister's c"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh but, th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ey'll get by as long as there's"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A th"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "read of hope and a chain of prayer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I k"
+            },
+            {
+              "chord": "C",
+              "lyrics": "now it's not been easy but so f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ar"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They're dealin' with the doctors, reelin' from the pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dealin' with the clouds and cursin' at the rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And won"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "derin' how on earth they should be f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eelin"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Dealin' with the cost just to get from A to B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dealin' with the crazies and the crime in the streets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And re"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "achin' for a dream they still b"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "elieve in"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So they keep on d"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ealin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Break: Em C (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "This Ol' world keeps turnin' around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The s"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "un comes up and the sun goes down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ure helps knowin' that you're not al"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause ev"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eryone is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Dealin' witht the traffic, reelin' from the fumes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dealin with the everywhere we look bad news"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And wo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "nderin' how on earth we should be"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "feelin'"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah, I'm still de"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alin' with the creditors that I can't pay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Livin' on a vision of a brighter day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And r"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eachin' for a dream I still b"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "elieve in"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I keep on d"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ealin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oooooo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oh, well I'm gonna keep on de"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "alin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oooooo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oh, yeah, yeah"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, I'm gonna keep on de"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "alin"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah, I'm de"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alin', I'm just de"
+            },
+            {
+              "chord": "D",
+              "lyrics": "alin', o"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "oooooo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "oh"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm just d"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ealin'"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm gonna keep on d"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ealin'"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And we're all d"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ealin with the traffic, reelin from the fumes"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/w/weepingwillows-tabs-46602/brokenpromiseland1-tabs-823351.html",
+  "title": "Broken Promise Land",
+  "artist": "Weeping Willows",
+  "key": null,
+  "scrapedAt": "2025-12-16T18:49:09.029Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "**Intro**"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Cm9(maj7)|G|Eb/G|Dbmaj9|Cmaj7|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "You sit and wait for my"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "precious heart to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "break..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "**verse1**"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You promised me"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Why did you t"
+            },
+            {
+              "chord": "Cm/Eb",
+              "lyrics": "ear us apart"
+            },
+            {
+              "chord": "G",
+              "lyrics": "?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "At the end of the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "rainbow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I found my"
+            },
+            {
+              "chord": "Cm/Eb",
+              "lyrics": "broken"
+            },
+            {
+              "chord": "G",
+              "lyrics": "heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I was a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dreamer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And you were my"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Why did you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "leave?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "**refr.**"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Welcome home to my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Broken Promise Land"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sun don't shine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "cold wind"
+            },
+            {
+              "chord": "D",
+              "lyrics": "whines"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Welcome home to my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Never Ending Land"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where the s"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "kies are grey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "There's no star to lead my"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You said you'd n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ever"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "walk"
+            },
+            {
+              "chord": "G",
+              "lyrics": "away.."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "**verse 2:**"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You promised me"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But I didn't"
+            },
+            {
+              "chord": "Cm/Eb",
+              "lyrics": "realize"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You never meant to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "keep me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "All you promis"
+            },
+            {
+              "chord": "Cm/Eb",
+              "lyrics": "es were li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "es"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I was a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dreamer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And you were my"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Why did you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "leave?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "***"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "refr."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "***"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "**interlude:**"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You made me"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You made me want to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "die"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Why, baby"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "why?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Why did you l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ie?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Instr"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|G|G|Em9|Em9|Bm|Bm|Am|D|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|G|G|Em9|Em9|Bm|Bm|D|D|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "refr."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Welcome home to my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Broken Promise Land"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sun don't shine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "cold wind"
+            },
+            {
+              "chord": "D",
+              "lyrics": "whines"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Welcome home to my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Never Ending Land"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where the s"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "kies are grey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "There's no star to lead my"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You said you'd"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "walk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "away....."
+            },
+            {
+              "chord": "Em9",
+              "lyrics": "........"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "......"
+            },
+            {
+              "chord": "G",
+              "lyrics": ".:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS E,A,D,G,B,e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cm9(maj7) x,6,5,4,3,(3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 3,5,5,4,3,3 alt 3,2,0,0,0,3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eb/G 3,6,5,3,4,3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dbmaj9 (4),4,3,5,4,x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj7 x,3,5,4,5,3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am 5,7,7,5,5,5 alt. x,0,2,2,1,0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm x,2,4,4,3,2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D x,x,0,2,3,2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C x,3,2,0,1,0 alt x,3,5,5,5,3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cm/Eb x,6,5,5,4,x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cm x,3,5,5,4,3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em9 0,2,4,0,0,0"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/tragically-hip/64178.html",
+  "title": "Escape Is at Hand for the Travellin' Man",
+  "artist": "The Tragically Hip",
+  "key": null,
+  "scrapedAt": "2025-12-17T07:17:47.863Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SONG: Escape Is At Hand For The Travellin' Man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BAND: The Tragically Hip"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ALBUM: Phantom Power (1998)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "TABBED BY: Ross Guertin (ross_guertin@yahoo.ca)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "TUNING: EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "It was our third time in New York"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It was your fourth time in New York"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We were fifth and sixth on the bill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We talked a little about our bands"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Talked a little of our future plans"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's not like we were best friends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Why? What'd you do?)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "The number"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "scheme comes back to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "In times be"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "yond our heartbeat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "We hung around til the final band"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Called Escape Is At Hand For The Travellin' Man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You yelled in my ear, 'This music speaks to me.'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They launched into Lonely From Rock and Roll"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Followed by They Checked Out An Hour Ago"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closing with All Desires Turn Concrete"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Those melo"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "dies come back to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "At times be"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "yond our heartbeat"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I guess I'm"
+            },
+            {
+              "chord": "E",
+              "lyrics": "too slow, yes I'm"
+            },
+            {
+              "chord": "B",
+              "lyrics": "too,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yes I'm"
+            },
+            {
+              "chord": "E",
+              "lyrics": "too slow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But you said"
+            },
+            {
+              "chord": "A",
+              "lyrics": "anytime of the"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "day was"
+            },
+            {
+              "chord": "B",
+              "lyrics": "fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You said"
+            },
+            {
+              "chord": "A",
+              "lyrics": "anytime of the"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "night was"
+            },
+            {
+              "chord": "B",
+              "lyrics": "also"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I walked through your revolving door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Got no answer on the seventh floor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The elevator gave a low moan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The pigeons sagged the wire with their weight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "While listening to the singing chambermaid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She sang They Checked Out An Hour Ago"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(And I chuckled...)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Those melo"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "dies come back to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "In times be"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "yond our heartbeat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Our heartbeat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Long conversations or idle chit-chat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Maybe dive in or maybe hang back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Idle conversation or idle chitchat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Maybe dive in or maybe hang back"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

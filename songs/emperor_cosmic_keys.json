@@ -1,0 +1,622 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/e/emperor/cosmic_keys_tab.html",
+  "title": "Cosmic Keys",
+  "artist": "Emperor",
+  "key": null,
+  "scrapedAt": "2025-12-16T22:09:12.897Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: Mon, 29 Jun 1998 19:26:15 -0400 (EDT)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: nate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: e/emperor/cosmic_keys.tab"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "================================================================================"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Title : Cosmic Keys to My Creations & Times"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist : Emperor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album : In The Nightside Eclipse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed by : n8 scabies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is track 4 from the complete \"In The Nightside Eclipse\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tablature available at: http://destroy.net/tabs/emperor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "================================================================================"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Legend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "h = hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "p = pull-off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "b = bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "r = bend release"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ = slide up/down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "= natural harmonic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(5) = artifical harmonic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~ = vibrato"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tr = trill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "g1 = guitar #1 Ishan(?), notes on top of staff"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(5) = notes played only by g2 Samoth(?)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "g2 = guitar #2 Samoth(?), notes on bottom of staff"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "trem. = tremelo picking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "r# = riff #"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "b# = break #"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "r1,"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "g1"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", tre"
+            },
+            {
+              "chord": "A",
+              "lyrics": "m."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "b",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "b",
+              "lyrics": ""
+            },
+            {
+              "chord": "b",
+              "lyrics": ""
+            },
+            {
+              "chord": "A#",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": "r1,"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "g2"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", tre"
+            },
+            {
+              "chord": "A",
+              "lyrics": "m."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "b",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "r2,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "g1"
+            },
+            {
+              "chord": "C#",
+              "lyrics": ", t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rem"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "."
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#",
+              "lyrics": "en"
+            },
+            {
+              "chord": "F",
+              "lyrics": "d#1 en"
+            },
+            {
+              "chord": "b",
+              "lyrics": "d#2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "g2 follows g1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "r3,"
+            },
+            {
+              "chord": "b",
+              "lyrics": "g1"
+            },
+            {
+              "chord": "C",
+              "lyrics": ", t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rem"
+            },
+            {
+              "chord": "D",
+              "lyrics": ".,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "power chords."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "g2 follows g1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "b",
+              "lyrics": "r4,"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "g1"
+            },
+            {
+              "chord": "C#",
+              "lyrics": ", t"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "rem"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#",
+              "lyrics": "r4b, g1,"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "trem."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "g2 follows g1 g2 follows g1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "b",
+              "lyrics": "r5,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "g1"
+            },
+            {
+              "chord": "D",
+              "lyrics": ", t"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "rem.,"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "en"
+            },
+            {
+              "chord": "D",
+              "lyrics": "d#1"
+            },
+            {
+              "chord": "G",
+              "lyrics": "end#2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "**first time only w/ g2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "b",
+              "lyrics": "b1, g1"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", slow"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s down"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "g2 only main power chords."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "r6a, g1, acce"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ntuate higher notes on beats"
+            },
+            {
+              "chord": "F",
+              "lyrics": "4-9"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r6b, g1,"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "po"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "wer chords."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "g2 plays straight power chords g2 follows g1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "r6c, g1, accent"
+            },
+            {
+              "chord": "F",
+              "lyrics": "higher notes on beats 4-9"
+            },
+            {
+              "chord": "E",
+              "lyrics": "endin"
+            },
+            {
+              "chord": "F",
+              "lyrics": "g, g1"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", acc"
+            },
+            {
+              "chord": "F",
+              "lyrics": "entuate higher notes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "g2, straight power chords g2 straight power chords."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "song: r1 (g1 only), r1 5X, r2 4X (alternate endings 1&2) first 2 g1 only,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "r3 2X, r2 4X (alternate endings), r3 2X, (r4 3X, r4b) 4X, r5 alternate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "endings 8X, r2 alternate endings 4X, r3 2X, r2 alternate endings 4X,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B5 slide up, r5 alternate endings 8X, b1, (r6a 3X, r6b, r6c 3X, r6b) 2X,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ending."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

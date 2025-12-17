@@ -1,0 +1,890 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/m/mat_kearney/closer_to_love_crd_ver_2.html",
+  "title": "Closer to Love",
+  "artist": "Mat Kearney",
+  "key": null,
+  "scrapedAt": "2025-12-16T21:21:25.665Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer To Love - Mat Kearney"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Eric Lancy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: eric3312@gmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Note: This is the way Mat plays it live, but is likely"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the same way he plays it in the studio."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords Used in this Song:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C (x32010) |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C/B (x20010) |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Am (x02210) |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| G5 (3x0033) |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Fmaj7/C (x33210) |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| GMaj6 (x55430) |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Dm7 (xx0211) |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "She got the call today"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "One out of the gray"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And when the smoke cleared"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "It took her breath away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "She said she didn't believe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "It could happen to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I guess we're all one"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "phone call"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "from our"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "knees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G6",
+              "lyrics": "We're gonna get there soon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "If every building falls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "And all the stars fade"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "We'll still be singing this song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "one they can't take a"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna get there"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "soon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's gonna be there"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cryin' in her room"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Prayin' Lord come t"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "hrough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G6",
+              "lyrics": "We're gonna get there soon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh it's your light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh it's your way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "Pull me out of the dark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "Just to show me the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "Cryin out now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "From so far away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "You pull me closer to l"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "ooooooooo"
+            },
+            {
+              "chord": "-",
+              "lyrics": "oo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ooo"
+            },
+            {
+              "chord": "-",
+              "lyrics": "ov"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "e"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer to"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "looooooo"
+            },
+            {
+              "chord": "-",
+              "lyrics": "oo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oo"
+            },
+            {
+              "chord": "-",
+              "lyrics": "oo"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "ooove"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Meet me once again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "Down off Lake Michigan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Where we could feel the storm"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "blowin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Down with the wind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And don't apologize"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "For all the tears you've cried"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "You've been way too s"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "trong now for all your life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "I'm gonna get there soon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G6",
+              "lyrics": "You're gonna be there too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/m/mat_kearney/closer_to_love_crd_ver_2.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Cryin' in your ro"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "om"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Prayin' Lord come t"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "hrough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G6",
+              "lyrics": "We're gonna get there soon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Oh it's your light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh it's your way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pull me out of the dark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just to show me the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cryin out now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From so far away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You pull me closer to love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer to love\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "you are"
+            },
+            {
+              "chord": "-",
+              "lyrics": "al"
+            },
+            {
+              "chord": "C",
+              "lyrics": "l that I've waited"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "All of m"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "y life"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "(We're gonna get there)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "are all"
+            },
+            {
+              "chord": "-",
+              "lyrics": "t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hat I've waite"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "All of my life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You pull me closer to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love hu huuh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer to"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "love hu huuuh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "closer to"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "looooooooo"
+            },
+            {
+              "chord": "-",
+              "lyrics": "oooo"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "oove"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You pull me closer to"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "love"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer to"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "love oh"
+            },
+            {
+              "chord": "C",
+              "lyrics": "no"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer to"
+            },
+            {
+              "chord": "Fmaj7/C",
+              "lyrics": "love"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer to"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "love"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Pull me closer to love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Strumming Pattern for the Bridge/Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "d = down strum"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "u = up strum"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,602 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/bob-dylan/382697.html",
+  "title": "Buckets of Rain",
+  "artist": "Bob Dylan",
+  "key": null,
+  "scrapedAt": "2025-12-16T18:58:20.548Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Buckets of Rain - Bob Dylan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: maguri"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bob Dylan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Buckets of Rain (1975)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Dylan)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From \"Blood on the Tracks\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A version with the plain chords."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E | % | % | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A | % | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| B A | G#m F#m | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Buckets of rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Buckets of tears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Got all them buckets comin' out of my ears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Buckets of moonbeams in my"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "You got all the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "love,"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "honey baby"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "I can"
+            },
+            {
+              "chord": "E",
+              "lyrics": "stand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E | % | % | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A | % | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| B A | G#m F#m | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I been meek"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hard like an oak"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "E",
+              "lyrics": "seen pretty people disappear like smoke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Friends will arrive, friends will disap"
+            },
+            {
+              "chord": "E",
+              "lyrics": "pear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "B",
+              "lyrics": "you want"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me,"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "honey baby"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "I'll be"
+            },
+            {
+              "chord": "E",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E | % | % | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A | % | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| B A | G#m F#m | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "like your smile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fingertips"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "like the way that you move your lips"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "like the cool way you look at"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Everything a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bout you is"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "bringing me"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "mise"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E | % | % | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A | % | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| B A | G#m F#m | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Little red wagon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Little red bike"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ain't no monkey but I know what I like"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "like the way you love me strong and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "slow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "B",
+              "lyrics": "takin' you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "with me,"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "honey baby"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "when I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E | % | % | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A | % | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| B A | G#m F#m | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Life is sad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Life is a bust"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "All ya can do is do what you must"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "A",
+              "lyrics": "do what you must do and ya do it"
+            },
+            {
+              "chord": "E",
+              "lyrics": "well"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "B",
+              "lyrics": "do it for"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you,"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "honey baby,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "can't you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "tell?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E | % | % | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A | % | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| B A | G#m F#m | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E | % | % | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A | % | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| B A | G#m F#m | E"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

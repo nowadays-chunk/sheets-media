@@ -1,0 +1,790 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/s/sonu_nigam/ek_baar_tujhko_dekha_tab.html",
+  "title": "Ek Baar Tujhko Dekha",
+  "artist": "Sonu Nigam",
+  "key": null,
+  "scrapedAt": "2025-12-17T06:46:12.100Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sonu nigam � ek baar tujhko dekha"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the album deewana"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "By Sanjeev George and Thomas George"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Contact us at sanjeevgeorge123@yahoo.co.in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tera"
+            },
+            {
+              "chord": "G",
+              "lyrics": "khayal mere dil"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "se ja nahi sakta"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tamam"
+            },
+            {
+              "chord": "D",
+              "lyrics": "umar mein tujhko"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Bhula nahi sakta, bhula nahi sakta"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "R"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u ru ru, tu r"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "u ru ru ru ru ru ru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tu ru ru r"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "u ru ru ru ru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Ek baar tujhko"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "dekha"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Phir d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ekhun yeh dil"
+            },
+            {
+              "chord": "D",
+              "lyrics": "kahe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mm ek baar tujhko"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "dekha"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Phir"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dekhun yeh dil k"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ahe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ab"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mein jaha bhi"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "jaun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ter"
+            },
+            {
+              "chord": "C",
+              "lyrics": "i justaju"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rahe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dee"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wana kiya hain te"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ri yaadon ne"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#",
+              "lyrics": "Tu aake zara dekh le,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aaja"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Deew"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ana (deewana)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kiya hain teri yaadon ne"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "(yaadon ne)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#",
+              "lyrics": "Tu aake zara dekh le (dekh le)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ra"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tasavur meri deewangi tu hi to hain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ka"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sh tujhe khabar hoti"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Y"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eh zindagi tujh bin har lamha"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mujh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e"
+            },
+            {
+              "chord": "sus",
+              "lyrics": "tadpaati hain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mei"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "kya karu ?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Zind"
+            },
+            {
+              "chord": "D",
+              "lyrics": "agi se bhaag kar"
+            },
+            {
+              "chord": "G",
+              "lyrics": "kaha jau ?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tera pata bhi to nahi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stanza1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asha"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on ka banke da"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rpan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tun"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e badla mer"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a jeevan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "An"
+            },
+            {
+              "chord": "G",
+              "lyrics": "jaane mein"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "jod di maine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/s/sonu_nigam/ek_baar_tujhko_dekha_tab.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ujhse apne dil ki d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hadkan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Aai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hain yaad"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "phir tu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Phir hosh kho g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aya"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ph"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ir dil machal"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "machal ke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bet"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aab ho"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gaya"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus (same chords)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hooo deewana kiya hain teri yaadon ne"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tu aake zara dekh le, aaja"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Deewana (deewana)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kiya hain teri yaadon ne (yaadon ne)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tu aake zara dekh le (dekh le)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then G Em D Am C D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then G D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stanza 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ab tak maine khwaab jo dekhe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Un khwaabon ki chaahat hai tu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lagta hain kyo aisa mujhko"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dil ki pehli hasrat hai tu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeh meri bekaraari yeh meri bekhudi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hans hans ke roj mujhse karti hain dillagi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus twice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hooo deewana kiya hain teri yaadon ne"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tu aake zara dekh le, aaja"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hoo deewana (deewana)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kiya hai teri yaadon ne (yaadon ne)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tu aake zara dekh le (dekh le)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse repeat (same chords)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ek baar tujhko dekha"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Phir dekhun yeh dil kahe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ab mein jaha bhi jaun teri justaju rahe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus for last time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Deewana (deewana)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kiya hain teri yaadon ne (yaadon ne)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tu aake zara dekh le (dekh le)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Aaja (aaja ae ae ae ae ae)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Deewana (deewana)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kiya hain teri yaadon ne (yaadon ne)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tu aake zara dekh le (dekh le)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/g/gretchenpeters-tabs-48210/bordertown1-tabs-859955.html",
+  "title": "Border Town",
+  "artist": "Gretchen Peters",
+  "key": null,
+  "scrapedAt": "2025-12-16T17:47:07.787Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO: 2nd Fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO: Cmaj7 C Am7 Am Cmaj7 C Am Cmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Carme"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lita was a street angel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "she kept her halo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hid"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Never"
+            },
+            {
+              "chord": "C",
+              "lyrics": "learned to read or write so well"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She was"
+            },
+            {
+              "chord": "G",
+              "lyrics": "just a farmer's kid"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She took com"
+            },
+            {
+              "chord": "C",
+              "lyrics": "munion at the age of twelve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "She wore a cross of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wood"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She heard the clanging of the mission bell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And she"
+            },
+            {
+              "chord": "G",
+              "lyrics": "vowed that she'd be good"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "world"
+            },
+            {
+              "chord": "C",
+              "lyrics": "goes '"
+            },
+            {
+              "chord": "C6",
+              "lyrics": "round"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hard enough to stand your ground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's always"
+            },
+            {
+              "chord": "F",
+              "lyrics": "someone trying to keep you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "border town"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mama"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cita said, you can't go down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stay a"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "way from the white man's"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "world"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She drew the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "line at the edge of town"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For her"
+            },
+            {
+              "chord": "G",
+              "lyrics": "little dark-haired girl"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But Carme"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lita she had other plans"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And her"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "life had just be"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "gun"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She ran away with a black-eyed man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "left her with a black-eyed son"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "world"
+            },
+            {
+              "chord": "C",
+              "lyrics": "goes '"
+            },
+            {
+              "chord": "C6",
+              "lyrics": "round"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hard enough to stand your ground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's always"
+            },
+            {
+              "chord": "F",
+              "lyrics": "someone trying to keep you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "border town"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INSTRUMENTAL: Cmaj7 C Am7 Am Cmaj7 C Cmaj7 C Am7 Am Cmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Carme"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lita, now she's settling down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "not so free and"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wild"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She rides a bus all the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "way across town"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love somebody else's child"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Shows up each morning"
+            },
+            {
+              "chord": "C",
+              "lyrics": "right on time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And at"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "six o'clock she's"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "gone"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She keeps her distance and she toes the line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause she"
+            },
+            {
+              "chord": "G",
+              "lyrics": "knows where it's been drawn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "world"
+            },
+            {
+              "chord": "C",
+              "lyrics": "goes '"
+            },
+            {
+              "chord": "C6",
+              "lyrics": "round"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hard enough to stand your ground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's always"
+            },
+            {
+              "chord": "F",
+              "lyrics": "someone trying to keep you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "border town"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "("
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "in a border t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "own)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "border town"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO: Cmaj7 C Am7 Am Cmaj7 C Am7 Am"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
