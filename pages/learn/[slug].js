@@ -5,16 +5,7 @@
 import React, { useState } from "react";
 import { Box, Button, Typography } from "@mui/material";
 import SongFullscreenPlayer from "@/components/Pages/LearnSongs/SongFullscreenPlayer";
-import { styled } from "@mui/system";
 
-const Chord = styled("span")({
-  fontWeight: 800,
-  border: "1px solid #ccc",
-  borderRadius: 10,
-  padding: "6px 12px",
-  marginRight: 10,
-  background: "#fafafa",
-});
 /* ============================================================
    PAGE
 ============================================================ */
@@ -41,7 +32,20 @@ export default function LearnSong({ song }) {
         <Box key={i} mb={1}>
           {line.chunks.map((c, k) => (
             <span key={k} style={{ marginRight: 10 }}>
-              <Chord>{c.chord}</Chord> {c.lyrics}
+              <span
+                style={{
+                  fontWeight: 800,
+                  border: "1px solid #ccc",
+                  borderRadius: 10,
+                  padding: "6px 12px",
+                  marginRight: 10,
+                  background: "#fafafa",
+                  display: "inline-block",
+                }}
+              >
+                {c.chord}
+              </span>
+              {c.lyrics}
             </span>
           ))}
         </Box>
