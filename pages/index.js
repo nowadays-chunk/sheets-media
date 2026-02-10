@@ -1,70 +1,430 @@
+
 import React from 'react';
-import MusicApp from '../components/Containers/MusicApp';
-import Meta from '../components/Partials/Head';
-import ArticleCard from '../components/Listing/ArticleCard';
-import { ScoreProvider } from "@/core/editor/ScoreContext";
+import Head from 'next/head';
+import Link from 'next/link';
+import Image from 'next/image';
+import {
+    AppBar,
+    Toolbar,
+    Typography,
+    Button,
+    Container,
+    Grid,
+    Card,
+    CardContent,
+    CardActions,
+    Box,
+    useTheme,
+    ThemeProvider,
+    CssBaseline,
+    Divider,
+    Stack,
+    Avatar,
+    Paper,
+    Chip
+} from '@mui/material';
+import PlayCircleOutlineIcon from '@mui/icons-material/PlayCircleOutline';
+import LibraryMusicIcon from '@mui/icons-material/LibraryMusic';
+import SchoolIcon from '@mui/icons-material/School';
+import ShowChartIcon from '@mui/icons-material/ShowChart';
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
+import EmojiEventsIcon from '@mui/icons-material/EmojiEvents';
+import StarIcon from '@mui/icons-material/Star';
+import MovieIcon from '@mui/icons-material/Movie';
+import globalTheme from '../ui/theme'; // Use the newly created theme
 
-const firstPage = `# Presentation
+// --- Reusable Components ---
 
-Welcome to the **Comprehensive Reference Book for Guitar Music Sheets: Chords, Arpeggios, Modes, and Scales in All Keys and Shapes**. This book is designed to be an exhaustive resource for guitarists of all levels, offering a structured and systematic approach to mastering the intricacies of guitar music theory and technique.
+const FeatureCard = ({ title, description, icon, link, buttonText, color }) => (
+    <Grid item xs={12} sm={6} md={3}>
+        <Card sx={{
+            height: '100%',
+            display: 'flex',
+            flexDirection: 'column',
+            borderTop: `4px solid ${color}`,
+            bgcolor: '#fff',
+            transition: 'transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out',
+            '&:hover': {
+                transform: 'translateY(-5px)',
+                boxShadow: '0 12px 24px rgba(0,0,0,0.06)',
+                borderColor: color
+            }
+        }}>
+            <CardContent sx={{ flexGrow: 1, textAlign: 'center' }}>
+                <Box sx={{ color: color, mb: 2 }}>
+                    {icon}
+                </Box>
+                <Typography gutterBottom variant="h5" component="h3" fontWeight="bold">
+                    {title}
+                </Typography>
+                <Typography variant="body2" color="text.secondary">
+                    {description}
+                </Typography>
+            </CardContent>
+            <CardActions sx={{ justifyContent: 'center', pb: 3 }}>
+                <Link href={link} passHref legacyBehavior>
+                    <Button variant="outlined" sx={{ color: color, borderColor: color, '&:hover': { borderColor: color, bgcolor: `${color}10` } }}>
+                        {buttonText}
+                    </Button>
+                </Link>
+            </CardActions>
+        </Card>
+    </Grid>
+);
 
-## Purpose of This Book
+const SectionHeader = ({ title, subtitle }) => (
+    <Box sx={{ mb: 6, textAlign: 'center' }}>
+        <Typography variant="h2" component="h2" sx={{ mb: 2, fontWeight: 800 }}>
+            {title}
+        </Typography>
+        {subtitle && (
+            <Typography variant="h6" color="text.secondary" sx={{ maxWidth: '700px', mx: 'auto', fontWeight: 300 }}>
+                {subtitle}
+            </Typography>
+        )}
+        <Box sx={{ width: '60px', height: '4px', bgcolor: 'primary.main', mx: 'auto', mt: 3, borderRadius: 2 }} />
+    </Box>
+);
 
-The primary purpose of this book is to provide guitarists with a complete and organized collection of music sheets that encompass:
+const ProductCard = ({ title, price, image, type }) => (
+    <Grid item xs={12} sm={6} md={4} lg={3}>
+        <Card sx={{ height: '100%', display: 'flex', flexDirection: 'column', position: 'relative' }}>
+            <Box sx={{ position: 'absolute', top: 12, right: 12, zIndex: 1 }}>
+                <Chip label={type} size="small" color={type === 'Physical' ? 'secondary' : 'primary'} />
+            </Box>
+            <Box sx={{ height: 200, bgcolor: '#f5f5f5', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                {/* Placeholder for Product Image */}
+                <ShoppingCartIcon sx={{ fontSize: 60, color: 'text.secondary', opacity: 0.2 }} />
+            </Box>
+            <CardContent sx={{ flexGrow: 1 }}>
+                <Typography variant="h6" component="h3" gutterBottom fontWeight="bold">
+                    {title}
+                </Typography>
+                <Typography variant="h5" color="primary.main" fontWeight="bold">
+                    ${price}
+                </Typography>
+            </CardContent>
+            <CardActions sx={{ p: 2, pt: 0 }}>
+                <Button fullWidth variant="contained" color="secondary" startIcon={<ShoppingCartIcon />}>
+                    Add to Cart
+                </Button>
+            </CardActions>
+        </Card>
+    </Grid>
+);
 
-- **Chords**: Major, minor, augmented, diminished, suspended, and extended chords in all keys.
-- **Arpeggios**: Essential arpeggio patterns for each chord type, facilitating melodic and harmonic playing.
-- **Modes**: The seven modes derived from the major scale, along with modes derived from other scales such as harmonic minor and melodic minor.
-- **Scales**: Major, minor (natural, harmonic, and melodic), pentatonic, blues, and exotic scales in all keys and positions.
+const TestimonialCard = ({ name, role, text, rating }) => (
+    <Grid item xs={12} md={4}>
+        <Paper elevation={0} sx={{ p: 4, height: '100%', border: '1px solid #eee', borderRadius: 4, bgcolor: '#fafafa' }}>
+            <Box sx={{ display: 'flex', mb: 2 }}>
+                {[...Array(5)].map((_, i) => (
+                    <StarIcon key={i} sx={{ color: i < rating ? '#ffb300' : '#e0e0e0', fontSize: 20 }} />
+                ))}
+            </Box>
+            <Typography variant="body1" paragraph sx={{ fontStyle: 'italic', mb: 3 }}>
+                "{text}"
+            </Typography>
+            <Box sx={{ display: 'flex', alignItems: 'center', gap: 2 }}>
+                <Avatar char={name[0]} sx={{ bgcolor: 'secondary.main' }}>{name[0]}</Avatar>
+                <Box>
+                    <Typography variant="subtitle2" fontWeight="bold">
+                        {name}
+                    </Typography>
+                    <Typography variant="caption" color="text.secondary">
+                        {role}
+                    </Typography>
+                </Box>
+            </Box>
+        </Paper>
+    </Grid>
+);
 
-Whether you are a beginner seeking to build a solid foundation or an advanced player aiming to refine your skills and expand your repertoire, this book serves as an invaluable tool to enhance your musical journey.
+// --- Main Page Component ---
 
-## How to Use This Book
+const ProjectFunctionalities = () => {
+    return (
+        <ThemeProvider theme={globalTheme}>
+            <CssBaseline />
+            <Head>
+                <title>Master The Guitar | Chords, Scales, Store & Community</title>
+                <meta name="description" content="The ultimate guitar platform. Master chords and scales, buy exclusive merchandise, and join our competitions." />
+                <link rel="icon" href="/favicon.ico" />
+            </Head>
 
-### Organization
+            {/* Navigation Bar */}
+            <AppBar position="sticky" color="default" sx={{ bgcolor: 'white', borderBottom: '1px solid #f0f0f0' }} elevation={0}>
+                <Container maxWidth="xl">
+                    <Toolbar disableGutters>
+                        <LibraryMusicIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1, color: 'primary.main' }} />
+                        <Typography
+                            variant="h6"
+                            noWrap
+                            component="a"
+                            href="/"
+                            sx={{
+                                mr: 2,
+                                display: { xs: 'none', md: 'flex' },
+                                fontFamily: 'monospace',
+                                fontWeight: 800,
+                                letterSpacing: '.05rem',
+                                color: 'text.primary',
+                                textDecoration: 'none',
+                            }}
+                        >
+                            GUITAR SHEETS
+                        </Typography>
 
-The book is structured into four main sections:
+                        <Box sx={{ flexGrow: 1, display: 'flex', justifyContent: 'flex-end', gap: 1 }}>
+                            <Link href="/play" passHref legacyBehavior><Button color="inherit">Play</Button></Link>
+                            <Link href="/compose" passHref legacyBehavior><Button color="inherit">Compose</Button></Link>
+                            <Link href="/learn" passHref legacyBehavior><Button color="inherit">Learn</Button></Link>
+                            <Link href="#store" passHref legacyBehavior><Button color="inherit" sx={{ color: 'secondary.main' }}>Store</Button></Link>
+                            <Link href="#competitions" passHref legacyBehavior><Button variant="outlined" color="primary">Join Competition</Button></Link>
+                        </Box>
+                    </Toolbar>
+                </Container>
+            </AppBar>
 
-1. **Chords**: Detailed charts for all chord types across all keys, with multiple voicings and positions.
-2. **Arpeggios**: Comprehensive arpeggio patterns corresponding to each chord, enabling fluid transitions and improvisation.
-3. **Modes**: In-depth coverage of modes, including fingerings, applications, and contextual usage.
-4. **Scales**: Extensive scale diagrams for a variety of scales, with emphasis on finger positioning and tonal characteristics.
+            {/* Hero Section */}
+            <Box sx={{
+                bgcolor: 'white',
+                pt: 15,
+                pb: 15,
+                position: 'relative',
+                overflow: 'hidden',
+                textAlign: 'center'
+            }}>
+                {/* Abstract Background Shapes - Subtle & Clean */}
+                <Box sx={{
+                    position: 'absolute',
+                    top: -150,
+                    right: -150,
+                    width: 600,
+                    height: 600,
+                    borderRadius: '50%',
+                    bgcolor: 'rgba(33, 150, 243, 0.03)', // Very subtle blue
+                    zIndex: 0,
+                }} />
+                <Box sx={{
+                    position: 'absolute',
+                    bottom: -100,
+                    left: -100,
+                    width: 500,
+                    height: 500,
+                    borderRadius: '50%',
+                    bgcolor: 'rgba(244, 67, 54, 0.03)', // Very subtle red
+                    zIndex: 0,
+                }} />
 
-Each section is meticulously organized to allow for easy reference and progressive learning.`;
+                <Container maxWidth="md" sx={{ position: 'relative', zIndex: 1 }}>
+                    <Typography variant="h1" component="h1" gutterBottom sx={{ fontSize: { xs: '2.5rem', md: '4.5rem' }, mb: 3 }}>
+                        Master Every <Box component="span" sx={{ color: 'primary.main' }}>Fret</Box>
+                    </Typography>
+                    <Typography variant="h5" color="text.secondary" paragraph sx={{ mb: 5, maxWidth: '700px', mx: 'auto', lineHeight: 1.6 }}>
+                        The definitive platform for modern guitarists. Visualize theory, compose masterpieces, and verify your skills with our advanced tools.
+                    </Typography>
+                    <Stack direction={{ xs: 'column', sm: 'row' }} spacing={2} justifyContent="center">
+                        <Link href="/play" passHref legacyBehavior>
+                            <Button variant="contained" size="large" color="primary" startIcon={<PlayCircleOutlineIcon />} sx={{ px: 4, py: 1.5, fontSize: '1.1rem' }}>
+                                Launch Player
+                            </Button>
+                        </Link>
+                        <Link href="/compose" passHref legacyBehavior>
+                            <Button variant="outlined" size="large" color="secondary" startIcon={<LibraryMusicIcon />} sx={{ px: 4, py: 1.5, fontSize: '1.1rem' }}>
+                                Compose Music
+                            </Button>
+                        </Link>
+                    </Stack>
+                </Container>
+            </Box>
 
-const CoverOne = () => {
-  return (
-    <div>
-      <ArticleCard article={{
-          content: firstPage
-      }}></ArticleCard>
-    </div>
-  );
+            {/* Core Features */}
+            <Box sx={{ bgcolor: '#fafafa', py: 10 }}>
+                <Container maxWidth="xl">
+                    <SectionHeader title="Your Creative Toolkit" subtitle="Everything needed to transform ideas into music." />
+                    <Grid container spacing={3}>
+                        <FeatureCard
+                            title="Interactive Player"
+                            description="Visualize scales and chords on the fretboard in real-time. Choose your key, mode, and get instant feedback."
+                            icon={<PlayCircleOutlineIcon sx={{ fontSize: 48 }} />}
+                            link="/play"
+                            buttonText="Launch Player"
+                            color="#2196f3"
+                        />
+                        <FeatureCard
+                            title="Compose & Share"
+                            description="Create your own progressions and songs using our powerful composition tools. Share your creations with the world."
+                            icon={<LibraryMusicIcon sx={{ fontSize: 48 }} />}
+                            link="/compose"
+                            buttonText="Start Composing"
+                            color="#f44336"
+                        />
+                        <FeatureCard
+                            title="Theory Reference"
+                            description="Deep dive into music theory. Understand the 'why' behind the notes with comprehensive articles."
+                            icon={<SchoolIcon sx={{ fontSize: 48 }} />}
+                            link="/learn"
+                            buttonText="Start Learning"
+                            color="#000000"
+                        />
+                        <FeatureCard
+                            title="Progress Stats"
+                            description="Track your practice sessions and see your improvement over time with detailed statistics."
+                            icon={<ShowChartIcon sx={{ fontSize: 48 }} />}
+                            link="/stats"
+                            buttonText="View Stats"
+                            color="#424242"
+                        />
+                    </Grid>
+                </Container>
+            </Box>
+
+            {/* Store Section */}
+            <Box id="store" sx={{ bgcolor: 'white', py: 12 }}>
+                <Container maxWidth="xl">
+                    <SectionHeader title="Master The Guitar Store" subtitle="Exclusive merchandise, premium PDFs, custom picks, and sheet music." />
+
+                    <Grid container spacing={4}>
+                        <ProductCard title="#1 Guitar Mastery PDF" price="19.99" type="Digital" />
+                        <ProductCard title="Official 'Master' T-Shirt" price="24.99" type="Physical" />
+                        <ProductCard title="Custom Picks Pack (x12)" price="9.99" type="Physical" />
+                        <ProductCard title="Theory Poster Set" price="29.99" type="Physical" />
+                        <ProductCard title="Premium Mug" price="14.99" type="Physical" />
+                        <ProductCard title="Complete Tabs Collection" price="39.99" type="Digital" />
+                        <ProductCard title="Advanced Partitions" price="12.99" type="Digital" />
+                        <ProductCard title="Lifetime Access Pass" price="99.99" type="Digital" />
+                    </Grid>
+                    <Box sx={{ textAlign: 'center', mt: 6 }}>
+                        <Button variant="outlined" size="large" endIcon={<ShoppingCartIcon />}>View All Products</Button>
+                    </Box>
+                </Container>
+            </Box>
+
+            {/* Testimonials Section */}
+            <Box sx={{ bgcolor: '#fafafa', py: 12 }}>
+                <Container maxWidth="lg">
+                    <SectionHeader title="Community Stories" subtitle="Join thousands of guitarists who have elevated their playing." />
+                    <Grid container spacing={4}>
+                        <TestimonialCard
+                            name="Alex Chen"
+                            role="Session Guitarist"
+                            rating={5}
+                            text="The visualization tools completely changed how I understand modes. I can finally improvise with confidence across the entire neck."
+                        />
+                        <TestimonialCard
+                            name="Sarah Johnson"
+                            role="Music Teacher"
+                            rating={5}
+                            text="I use this platform with all my students. It simplifies complex theory into visual concepts that just click. Highly recommended."
+                        />
+                        <TestimonialCard
+                            name="Marcus Davis"
+                            role="Bedroom Producer"
+                            rating={4}
+                            text="Great for composing! Being able to quickly see compatible chords and scales speeds up my workflow immensely."
+                        />
+                    </Grid>
+                </Container>
+            </Box>
+
+            {/* Competitions Section */}
+            <Box id="competitions" sx={{ bgcolor: '#111', color: 'white', py: 12, position: 'relative' }}>
+                <Box sx={{ position: 'absolute', top: 0, left: 0, width: '100%', height: '100%', opacity: 0.1, backgroundImage: 'linear-gradient(45deg, #2196f3 0%, #f44336 100%)' }} />
+                <Container maxWidth="lg" sx={{ position: 'relative', zIndex: 1 }}>
+                    <Box sx={{ textAlign: 'center', mb: 8 }}>
+                        <EmojiEventsIcon sx={{ fontSize: 80, color: '#ffb300', mb: 2 }} />
+                        <Typography variant="h2" component="h2" gutterBottom sx={{ color: 'white', fontWeight: 800 }}>
+                            Global Guitar Challenges
+                        </Typography>
+                        <Typography variant="h6" sx={{ color: 'rgba(255,255,255,0.7)', maxWidth: '800px', mx: 'auto', fontWeight: 300 }}>
+                            Showcase your talent. Win featured spots, gear, and recognition. Submit your videos, stories, and original compositions.
+                        </Typography>
+                    </Box>
+
+                    <Grid container spacing={4}>
+                        <Grid item xs={12} md={4}>
+                            <Card sx={{ bgcolor: 'rgba(255,255,255,0.05)', borderRadius: 4, height: '100%', border: '1px solid rgba(255,255,255,0.1)' }}>
+                                <CardContent sx={{ textAlign: 'center', py: 5 }}>
+                                    <MovieIcon sx={{ fontSize: 50, color: '#2196f3', mb: 2 }} />
+                                    <Typography variant="h5" sx={{ color: 'white', mb: 2, fontWeight: 'bold' }}>Video Contest</Typography>
+                                    <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.6)', mb: 3 }}>
+                                        Submit your best solo or cover. Monthly winners get featured on our homepage.
+                                    </Typography>
+                                    <Button variant="contained" color="primary">Enter Now</Button>
+                                </CardContent>
+                            </Card>
+                        </Grid>
+                        <Grid item xs={12} md={4}>
+                            <Card sx={{ bgcolor: 'rgba(255,255,255,0.05)', borderRadius: 4, height: '100%', border: '1px solid rgba(255,255,255,0.1)' }}>
+                                <CardContent sx={{ textAlign: 'center', py: 5 }}>
+                                    <LibraryMusicIcon sx={{ fontSize: 50, color: '#f44336', mb: 2 }} />
+                                    <Typography variant="h5" sx={{ color: 'white', mb: 2, fontWeight: 'bold' }}>Best Composition</Typography>
+                                    <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.6)', mb: 3 }}>
+                                        Original pieces judged by industry pros. Win studio gear and software licenses.
+                                    </Typography>
+                                    <Button variant="contained" color="secondary">Submit Track</Button>
+                                </CardContent>
+                            </Card>
+                        </Grid>
+                        <Grid item xs={12} md={4}>
+                            <Card sx={{ bgcolor: 'rgba(255,255,255,0.05)', borderRadius: 4, height: '100%', border: '1px solid rgba(255,255,255,0.1)' }}>
+                                <CardContent sx={{ textAlign: 'center', py: 5 }}>
+                                    <SchoolIcon sx={{ fontSize: 50, color: '#4caf50', mb: 2 }} />
+                                    <Typography variant="h5" sx={{ color: 'white', mb: 2, fontWeight: 'bold' }}>Teaching Story</Typography>
+                                    <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.6)', mb: 3 }}>
+                                        Share your journey of learning or teaching. Inspire others with your documentary or blog.
+                                    </Typography>
+                                    <Button variant="text" sx={{ color: 'white' }}>Share Story &rarr;</Button>
+                                </CardContent>
+                            </Card>
+                        </Grid>
+                    </Grid>
+                </Container>
+            </Box>
+
+            {/* Footer */}
+            <Box component="footer" sx={{ bgcolor: 'white', py: 8, borderTop: '1px solid #eee' }}>
+                <Container maxWidth="lg">
+                    <Grid container spacing={4} justifyContent="space-between">
+                        <Grid item xs={12} sm={4}>
+                            <Typography variant="h6" color="text.primary" gutterBottom fontWeight="bold">
+                                GUITAR SHEETS
+                            </Typography>
+                            <Typography variant="body2" color="text.secondary" sx={{ maxWidth: '300px' }}>
+                                Join our mission to democratize music theory and empower guitarists worldwide through technology and community.
+                            </Typography>
+                        </Grid>
+                        <Grid item xs={6} sm={2}>
+                            <Typography variant="subtitle2" gutterBottom fontWeight="bold">Product</Typography>
+                            <Box component="ul" sx={{ listStyle: 'none', p: 0, m: 0 }}>
+                                <Box component="li" sx={{ mb: 1 }}><Link href="/play" passHref legacyBehavior><Typography component="a" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Player</Typography></Link></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Link href="/compose" passHref legacyBehavior><Typography component="a" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Composer</Typography></Link></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Link href="#store" passHref legacyBehavior><Typography component="a" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Store</Typography></Link></Box>
+                            </Box>
+                        </Grid>
+                        <Grid item xs={6} sm={2}>
+                            <Typography variant="subtitle2" gutterBottom fontWeight="bold">Community</Typography>
+                            <Box component="ul" sx={{ listStyle: 'none', p: 0, m: 0 }}>
+                                <Box component="li" sx={{ mb: 1 }}><Link href="#competitions" passHref legacyBehavior><Typography component="a" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Competitions</Typography></Link></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Link href="/blog" passHref legacyBehavior><Typography component="a" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Stories</Typography></Link></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Link href="/forum" passHref legacyBehavior><Typography component="a" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Forum</Typography></Link></Box>
+                            </Box>
+                        </Grid>
+                        <Grid item xs={12} sm={4} sx={{ textAlign: { sm: 'right' } }}>
+                            <Stack direction="row" spacing={1} justifyContent={{ xs: 'flex-start', sm: 'flex-end' }}>
+                                <Link href="/privacy" passHref legacyBehavior><Button color="inherit" size="small">Privacy</Button></Link>
+                                <Link href="/terms" passHref legacyBehavior><Button color="inherit" size="small">Terms</Button></Link>
+                                <Link href="/contact" passHref legacyBehavior><Button color="inherit" size="small">Contact</Button></Link>
+                            </Stack>
+                            <Typography variant="caption" display="block" color="text.secondary" sx={{ mt: 2 }}>
+                                © {new Date().getFullYear()} Guitar Sheets Media.
+                            </Typography>
+                        </Grid>
+                    </Grid>
+                </Container>
+            </Box>
+        </ThemeProvider>
+    );
 };
 
-const PlayAndVisualize = (props) => {
-  return (
-    <div style={{marginTop: '100px'}}>
-        <Meta 
-          title="Play And Visualize"
-          description="Play And Visualize Chords, Scales And Arppegios In A Complete Reference Of Guitar Music Sheets."></Meta>
-        <ScoreProvider>
-        <MusicApp 
-            board="home"
-            showAddMoreFretboardsButton={true}
-            showFretboardControls={true} 
-            showCircleOfFifths={false} 
-            showFretboard={true} 
-            showChordComposer={false} 
-            showProgressor={false} 
-            showSongsSelector={false} 
-            showStats={true} 
-            leftDrawerOpen={props.leftDrawerOpen}
-            leftDrawerWidth={props.leftDrawerWidth}
-            />
-        </ ScoreProvider >
-      </div>
-  );
-};
-
-export default PlayAndVisualize;
+export default ProjectFunctionalities;

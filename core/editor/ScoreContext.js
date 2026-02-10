@@ -56,6 +56,13 @@ export function ScoreProvider({ children }) {
     return () => window.removeEventListener("click", init);
   }, []);
 
+  // Cursor Navigation
+  useEffect(() => {
+    const onMove = (e) => setCursorBeat(c => Math.max(0, c + (e.detail || 0)));
+    window.addEventListener("editor:move-cursor", onMove);
+    return () => window.removeEventListener("editor:move-cursor", onMove);
+  }, []);
+
   // Safe score update with undo snapshot
   const updateScore = (mutator) => {
     if (!score) return;
@@ -82,7 +89,8 @@ export function ScoreProvider({ children }) {
       p.octave
     );
 
-    const duration = new Duration("q", 1); // ALWAYS 1 beat quarter
+    // Use the active duration from input manager
+    const duration = input.current.activeDuration || new Duration("q", 1);
 
     const note = new Note(pitch, duration);
 
@@ -100,10 +108,52 @@ export function ScoreProvider({ children }) {
     setCursorBeat(c => c + 1);
   };
 
+  const undoAction = () => {
+    if (!score) return;
+    const current = score.serialize();
+    const prev = undo.current.undo(current);
+    if (prev) setScore(Score.deserialize(prev));
+  };
+
+  const redoAction = () => {
+    if (!score) return;
+    const current = score.serialize();
+    const next = undo.current.redo(current);
+    if (next) setScore(Score.deserialize(next));
+  };
+
+  const insertNoteFromStringFret = (string, fret) => {
+    if (!score) return;
+
+    // Import tuning helper
+    const { getPitchFromStringFret, getMidiFromStringFret } = require('@/core/music/utils/TuningHelper');
+    const guitar = require('@/config/guitar').default;
+
+    // Calculate pitch from string/fret using tuning
+    const pitch = getPitchFromStringFret(string, fret, guitar.tuning, input.current.activeAccidental);
+    const midi = getMidiFromStringFret(string, fret, guitar.tuning);
+
+    // Use active duration from input manager
+    const duration = input.current.activeDuration || new Duration("q", 1);
+
+    const note = new Note(pitch, duration);
+    note.midi = midi;
+    note.velocity = 0.9;
+    note.string = string;
+    note.fret = fret;
+
+    updateScore(draft => {
+      draft.addNote(cursorBeat, note);
+    });
+
+    setCursorBeat(c => c + 1);
+  };
+
   return (
     <ScoreContext.Provider
       value={{
         score,
+        setScore,
         updateScore,
         cursorBeat,
         setCursorBeat,
@@ -112,6 +162,23 @@ export function ScoreProvider({ children }) {
         input: input.current,
         playback: playback.current,
         addNoteFromFretboard,
+        insertNoteFromStringFret,
+        undoAction,
+        redoAction,
+        deleteNote: (note) => {
+          updateScore(draft => {
+            draft.measures.forEach(m => {
+              m.voices.forEach(v => {
+                const idx = v.elements.findIndex(e => (e.note && e.note.id === note.id));
+                if (idx !== -1) {
+                  v.elements.splice(idx, 1);
+                }
+                // If using a map/beat based system, we might need a different removal strategy
+                // But typically VexFlow voices are lists of notes.
+              });
+            });
+          });
+        }
       }}
     >
       {children}

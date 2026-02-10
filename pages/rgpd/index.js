@@ -1,10 +1,10 @@
 import React from 'react';
 import ArticleCard from '../../components/Listing/ArticleCard';
 
-const firstPage = `# Privacy Policy (RGPD) for Strum.fun
+const firstPage = `# Privacy Policy (RGPD) for Sheets.media
 
 ## Introduction
-Welcome to Strum.fun (the "Site"). This Privacy Policy outlines how we handle your personal information in compliance with the General Data Protection Regulation (GDPR). We are committed to protecting your privacy and ensuring that your personal data is handled in a safe and responsible manner.
+Welcome to Sheets.media (the "Site"). This Privacy Policy outlines how we handle your personal information in compliance with the General Data Protection Regulation (GDPR). We are committed to protecting your privacy and ensuring that your personal data is handled in a safe and responsible manner.
 
 ## Data We Collect
 We do not collect any personal data through cookies or other tracking technologies. Our Site does not use cookies, nor does it require user authentication. The only data we collect are the information you voluntarily provide to us.
@@ -49,7 +49,7 @@ const CoverOne = () => {
   return (
     <div>
       <ArticleCard article={{
-          content: firstPage
+        content: firstPage
       }}></ArticleCard>
     </div>
   );

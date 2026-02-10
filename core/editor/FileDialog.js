@@ -1,6 +1,7 @@
 // core/editor/FileDialog.js
 import MusicXMLExport from "@/core/music/export/MusicXMLExport";
 import MusicXMLImport from "@/core/music/import/MusicXMLImport";
+import MidiImport from "@/core/music/import/MidiImport";
 import MidiExport from "@/core/music/export/MidiExport";
 
 export default class FileDialog {
@@ -21,6 +22,15 @@ export default class FileDialog {
       callback(score);
     };
     reader.readAsText(file);
+  }
+
+  static loadMIDI(file, callback) {
+    const reader = new FileReader();
+    reader.onload = () => {
+      const score = MidiImport.parse(reader.result);
+      callback(score);
+    };
+    reader.readAsArrayBuffer(file); // Important: MIDI is binary
   }
 
   static _download(data, filename, mime) {

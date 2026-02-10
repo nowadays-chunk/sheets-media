@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import CombinedRenderer from "@/core/music/render/CombinedRenderer";
+import CursorOverlay from "./CursorOverlay";
 import { useScore } from "@/core/editor/ScoreContext";
 
 export default function ScoreCanvas() {
@@ -85,37 +86,44 @@ export default function ScoreCanvas() {
       {/* SPACING */}
       <div style={{ height: 40 }}></div>
 
-      {/* SCORE SVG */}
-      <div
-        ref={notationRef}
-        className="notation"
-        style={{
-          width: "100%",
-          minHeight: 300,
-          visibility: activeTab === "notation" ? "visible" : "hidden",
-          position: activeTab === "notation" ? "relative" : "absolute",
-          top: 0,
-          left: 0,
-          opacity: activeTab === "notation" ? 1 : 0,
-          pointerEvents: activeTab === "notation" ? "auto" : "none",
-        }}
-      ></div>
+      {/* SCORE AREA */}
+      <div style={{ position: "relative", minHeight: 300 }}>
+        <CursorOverlay activeTab={activeTab} />
 
-      {/* TAB SVG */}
-      <div
-        ref={tabRef}
-        className="tablature"
-        style={{
-          width: "100%",
-          minHeight: 200,
-          visibility: activeTab === "tab" ? "visible" : "hidden",
-          position: activeTab === "tab" ? "relative" : "absolute",
-          top: 0,
-          left: 0,
-          opacity: activeTab === "tab" ? 1 : 0,
-          pointerEvents: activeTab === "tab" ? "auto" : "none",
-        }}
-      ></div>
+        {/* SCORE SVG */}
+        <div
+          ref={notationRef}
+          className="notation"
+          style={{
+            width: "100%",
+            minHeight: 300,
+            visibility: activeTab === "notation" ? "visible" : "hidden",
+            position: activeTab === "notation" ? "relative" : "absolute",
+            top: 0,
+            left: 0,
+            opacity: activeTab === "notation" ? 1 : 0,
+            pointerEvents: activeTab === "notation" ? "auto" : "none",
+            transition: "opacity 0.2s",
+          }}
+        ></div>
+
+        {/* TAB SVG */}
+        <div
+          ref={tabRef}
+          className="tablature"
+          style={{
+            width: "100%",
+            minHeight: 200,
+            visibility: activeTab === "tab" ? "visible" : "hidden",
+            position: activeTab === "tab" ? "relative" : "absolute",
+            top: 0,
+            left: 0,
+            opacity: activeTab === "tab" ? 1 : 0,
+            pointerEvents: activeTab === "tab" ? "auto" : "none",
+            transition: "opacity 0.2s",
+          }}
+        ></div>
+      </div>
     </div>
   );
 }

@@ -16,6 +16,8 @@ import Divider from '@mui/material/Divider';
 import Box from '@mui/material/Box';
 import { styled, useTheme } from '@mui/material/styles';
 import Link from 'next/link';
+import { useRouter } from 'next/router';
+import globalTheme from '../ui/theme';
 import { createTheme, ThemeProvider } from '@mui/material';
 import ChevronLeftIcon from '@mui/icons-material/ChevronLeft';
 import ChevronRightIcon from '@mui/icons-material/ChevronRight';
@@ -128,40 +130,52 @@ const ToolbarContent = styled('div')({
    MAIN COMPONENT
 ----------------------------------------------------------- */
 function App({ Component, pageProps }) {
-  const theme = useTheme();
+  const router = useRouter();
   const [drawerOpen, setDrawerOpen] = useState(false);
+  const isHomepage = router.pathname === '/';
 
   const handleDrawerToggle = () => setDrawerOpen(!drawerOpen);
   const handleDrawerClose = () => setDrawerOpen(false);
+
+  // If homepage, render without the app shell
+  if (isHomepage) {
+    return (
+      <Provider store={store}>
+        <ThemeProvider theme={globalTheme}>
+          <Component {...pageProps} />
+        </ThemeProvider>
+      </Provider>
+    );
+  }
 
   const drawer = (
     <DrawerContent>
       <DrawerHeader>
         <IconButton onClick={handleDrawerClose}>
-          {theme.direction === 'ltr' ? <ChevronLeftIcon /> : <ChevronRightIcon />}
+          {globalTheme.direction === 'ltr' ? <ChevronLeftIcon /> : <ChevronRightIcon />}
         </IconButton>
       </DrawerHeader>
 
       <Divider />
 
       <List>
-        <Link href="/" passHref>
-          <ListItem onClick={handleDrawerToggle}><ListItemText><Typography>Play and Visualize</Typography></ListItemText></ListItem>
+        <Link href="/play" passHref legacyBehavior>
+          <ListItem onClick={handleDrawerToggle} button><ListItemText primary="Play and Visualize" /></ListItem>
         </Link>
-        <Link href="/news" passHref>
-          <ListItem onClick={handleDrawerToggle}><ListItemText><Typography>Musicians News</Typography></ListItemText></ListItem>
+        <Link href="/news" passHref legacyBehavior>
+          <ListItem onClick={handleDrawerToggle} button><ListItemText primary="Musicians News" /></ListItem>
         </Link>
-        <Link href="/learn" passHref>
-          <ListItem onClick={handleDrawerToggle}><ListItemText><Typography>Learn Songs</Typography></ListItemText></ListItem>
+        <Link href="/learn" passHref legacyBehavior>
+          <ListItem onClick={handleDrawerToggle} button><ListItemText primary="Learn Songs" /></ListItem>
         </Link>
-        <Link href="/circle" passHref>
-          <ListItem onClick={handleDrawerToggle}><ListItemText><Typography>The Circle Of Fifths</Typography></ListItemText></ListItem>
+        <Link href="/circle" passHref legacyBehavior>
+          <ListItem onClick={handleDrawerToggle} button><ListItemText primary="The Circle Of Fifths" /></ListItem>
         </Link>
-        <Link href="/compose" passHref>
-          <ListItem onClick={handleDrawerToggle}><ListItemText><Typography>Compose Music</Typography></ListItemText></ListItem>
+        <Link href="/compose" passHref legacyBehavior>
+          <ListItem onClick={handleDrawerToggle} button><ListItemText primary="Compose Music" /></ListItem>
         </Link>
-        <Link href="/references" passHref>
-          <ListItem onClick={handleDrawerToggle}><ListItemText><Typography>References</Typography></ListItemText></ListItem>
+        <Link href="/references" passHref legacyBehavior>
+          <ListItem onClick={handleDrawerToggle} button><ListItemText primary="References" /></ListItem>
         </Link>
       </List>
 
@@ -173,22 +187,22 @@ function App({ Component, pageProps }) {
     <>
       <style jsx global>{`
         html, body {
-          overflow-x: hidden !important;   /* ← HARD LOCK */
+          overflow-x: hidden !important;
           max-width: 100% !important;
+          background-color: #ffffff;
+          color: #000000;
         }
         html {
           font-family: ${inter.style.fontFamily};
           font-weight: 300;
         }
       `}</style>
-
       <Provider store={store}>
-        <ThemeProvider theme={theme}>
-          
-          {/* FIX 2: Replace 100vw with 100% */}
-          <Box sx={{ display: 'flex', width: '100%', overflowX: 'hidden' }}>
-            
-            <AppBarStyled position="fixed" open={drawerOpen}>
+        <ThemeProvider theme={globalTheme}>
+
+          <Box sx={{ display: 'flex', width: '100%', overflowX: 'hidden', bgcolor: 'white', color: 'black' }}>
+
+            <AppBarStyled position="fixed" open={drawerOpen} elevation={0} sx={{ borderBottom: '1px solid #eee' }}>
               <ToolbarContent>
                 <IconButton
                   color="inherit"
@@ -204,16 +218,17 @@ function App({ Component, pageProps }) {
                   <MenuIcon />
                 </IconButton>
 
-                <Button startIcon={<FavoriteIcon />}>
-                  <Typography variant="h6" noWrap>Strum.fun</Typography>
-                </Button>
+                <Link href="/" passHref legacyBehavior>
+                  <Button startIcon={<FavoriteIcon color="secondary" />} color="inherit">
+                    <Typography variant="h6" noWrap fontWeight="bold" sx={{ color: 'black' }}>GUITAR SHEETS</Typography>
+                  </Button>
+                </Link>
 
                 <NavLinks sx={{ "@media (max-width:1200px)": { display: "none" } }}>
-                  <StyledLink href="/"><Button color="inherit">Play and Visualize</Button></StyledLink>
-                  <StyledLink href="/news"><Button color="inherit">Musicians News</Button></StyledLink>
-                  <StyledLink href="/learn"><Button color="inherit">Learn Songs</Button></StyledLink>
-                  <StyledLink href="/circle"><Button color="inherit">The Circle Of Fifths</Button></StyledLink>
-                  <StyledLink href="/compose"><Button color="inherit">Compose Music</Button></StyledLink>
+                  <StyledLink href="/play"><Button color="primary">Play</Button></StyledLink>
+                  <StyledLink href="/compose"><Button color="primary">Compose</Button></StyledLink>
+                  <StyledLink href="/learn"><Button color="inherit">Learn</Button></StyledLink>
+                  <StyledLink href="/news"><Button color="inherit">News</Button></StyledLink>
                   <StyledLink href="/references"><Button color="inherit">References</Button></StyledLink>
                 </NavLinks>
               </ToolbarContent>
@@ -248,7 +263,6 @@ function App({ Component, pageProps }) {
                 <Component {...pageProps} leftDrawerOpen={drawerOpen} leftDrawerWidth={drawerWidth} />
               </Container>
             </Main>
-
           </Box>
         </ThemeProvider>
       </Provider>

@@ -1,24 +1,67 @@
 // ui/editor/PalettePanel.jsx
 import React from "react";
-import { Box, Typography, Button, Menu, MenuItem } from "@mui/material";
+import { Box, Typography, Button, Menu, MenuItem, Divider } from "@mui/material";
 import { useScore } from "@/core/editor/ScoreContext";
 
 import Clef from "@/core/music/score/Clef";
 import TimeSignature from "@/core/music/score/TimeSignature";
 import KeySignature from "@/core/music/score/KeySignature";
+import Note from "@/core/music/score/Note";
+import Pitch from "@/core/music/score/Pitch";
+import Duration from "@/core/music/score/Duration";
 
 export default function PalettePanel() {
-  const { score, updateScore, selection } = useScore();
+  const { score, updateScore, selection, input, cursorBeat, setCursorBeat } = useScore();
 
   const [anchorClef, setAnchorClef] = React.useState(null);
   const [anchorTime, setAnchorTime] = React.useState(null);
   const [anchorKey, setAnchorKey] = React.useState(null);
   const [anchorArtic, setAnchorArtic] = React.useState(null);
 
+  const [activeDuration, setActiveDuration] = React.useState("q");
+
   const selected = selection.selected;
 
   // -------------------------
-  // APPLY CLEF
+  // NOTE INPUT
+  // -------------------------
+  const handleSetDuration = (d) => {
+    setActiveDuration(d);
+    if (input) input.setDuration(d);
+  };
+
+  const addNote = (step) => {
+    if (!score) return;
+
+    // Default: Octave 4, Natural
+    const pitch = new Pitch(step, 0, 4);
+    const duration = new Duration(activeDuration);
+
+    const note = new Note(pitch, duration);
+
+    updateScore(draft => {
+      draft.addNote(cursorBeat, note);
+    });
+
+    setCursorBeat(c => c + duration.total);
+  };
+
+  const addRest = () => {
+    if (!score) return;
+    const duration = new Duration(activeDuration);
+    // Pitch doesn't matter for rest but we need a valid note struct
+    const note = new Note(new Pitch("B", 0, 4), duration);
+    note.isRest = true;
+
+    updateScore(draft => {
+      draft.addNote(cursorBeat, note);
+    });
+
+    setCursorBeat(c => c + duration.total);
+  };
+
+  // -------------------------
+  // PALETTE ACTIONS
   // -------------------------
   const applyClef = (clefName) => {
     updateScore(s => {
@@ -27,9 +70,6 @@ export default function PalettePanel() {
     setAnchorClef(null);
   };
 
-  // -------------------------
-  // APPLY TIME SIGNATURE
-  // -------------------------
   const applyTime = (num, den) => {
     updateScore(s => {
       s.timeSignature = new TimeSignature(num, den);
@@ -37,9 +77,6 @@ export default function PalettePanel() {
     setAnchorTime(null);
   };
 
-  // -------------------------
-  // APPLY KEY SIGNATURE
-  // -------------------------
   const applyKey = (key) => {
     updateScore(s => {
       s.keySignature = new KeySignature(key);
@@ -47,9 +84,6 @@ export default function PalettePanel() {
     setAnchorKey(null);
   };
 
-  // -------------------------
-  // APPLY ARTICULATION to selected note
-  // -------------------------
   const applyArticulation = (type) => {
     if (!selected || !selected.pitch) {
       setAnchorArtic(null);
@@ -57,8 +91,33 @@ export default function PalettePanel() {
     }
 
     updateScore(s => {
-      selected.articulations = selected.articulations || [];
-      selected.articulations.push(type);
+      // Find selected note in draft (simplified finding logic or relying on ref if acceptable for properties)
+      // Since articulations are properties, we might need ID lookup if we want to be strict.
+      // But for now, let's assume direct mutation of the clicked note (which is attached to DOM) 
+      // might not propagate to state if we don't find it in the clone.
+      // 
+      // Reuse the finding logic?
+      // For now, let's just implement it safely.
+      // 
+      // Actually, `selected` IS the note object from the CURRENT render.
+      // If we clone, we get NEW objects. A simple mutation on `selected` won't work on `draft`.
+      // We must find it.
+
+      let found = null;
+      outer: for (const m of s.measures) {
+        for (const v of m.voices) {
+          const el = v.elements.find(e => e.note.id === selected.id);
+          if (el) {
+            found = el.note;
+            break outer;
+          }
+        }
+      }
+
+      if (found) {
+        found.articulations = found.articulations || [];
+        found.articulations.push(type);
+      }
     });
 
     setAnchorArtic(null);
@@ -67,17 +126,64 @@ export default function PalettePanel() {
   return (
     <Box
       sx={{
-        width: 200,
+        width: 220,
         borderRight: "1px solid #ddd",
         p: 2,
         background: "#fafafa",
+        overflowY: "auto",
+        height: "100%"
       }}
     >
+      {/* INPUT SECTION */}
+      <Typography variant="h6" sx={{ mb: 1 }}>Input</Typography>
+
+      <Typography variant="caption" display="block" sx={{ mb: 0.5 }}>Duration</Typography>
+      <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 0.5, mb: 2 }}>
+        {[{ l: 'W', v: 'w' }, { l: 'H', v: 'h' }, { l: 'Q', v: 'q' }, { l: '8', v: '8' }, { l: '16', v: '16' }].map(item => (
+          <Button
+            key={item.v}
+            variant={activeDuration === item.v ? "contained" : "outlined"}
+            size="small"
+            onClick={() => handleSetDuration(item.v)}
+            sx={{ minWidth: 32, p: 0.5, fontSize: "0.75rem" }}
+          >
+            {item.l}
+          </Button>
+        ))}
+      </Box>
+
+      <Typography variant="caption" display="block" sx={{ mb: 0.5 }}>Insert</Typography>
+      <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 0.5, mb: 1 }}>
+        {['C', 'D', 'E', 'F', 'G', 'A', 'B'].map(step => (
+          <Button
+            key={step}
+            variant="outlined"
+            size="small"
+            onClick={() => addNote(step)}
+            sx={{ minWidth: 28, p: 0.5 }}
+          >
+            {step}
+          </Button>
+        ))}
+      </Box>
+      <Button
+        fullWidth
+        variant="outlined"
+        size="small"
+        color="warning"
+        onClick={addRest}
+        sx={{ mb: 2 }}
+      >
+        Rest
+      </Button>
+
+      <Divider sx={{ mb: 2 }} />
+
       <Typography variant="h6" sx={{ mb: 2 }}>
         Palette
       </Typography>
 
-      {/* CLEF BUTTON */}
+      {/* CLEF */}
       <Button
         fullWidth
         variant="outlined"
@@ -97,7 +203,7 @@ export default function PalettePanel() {
         <MenuItem onClick={() => applyClef("tenor")}>Tenor</MenuItem>
       </Menu>
 
-      {/* TIME SIGNATURE */}
+      {/* TIME */}
       <Button
         fullWidth
         variant="outlined"
@@ -118,7 +224,7 @@ export default function PalettePanel() {
         <MenuItem onClick={() => applyTime(2, 4)}>2/4</MenuItem>
       </Menu>
 
-      {/* KEY SIGNATURE */}
+      {/* KEY */}
       <Button
         fullWidth
         variant="outlined"
@@ -133,17 +239,14 @@ export default function PalettePanel() {
         open={Boolean(anchorKey)}
         onClose={() => setAnchorKey(null)}
       >
-        {/* Sharps */}
-        <MenuItem onClick={() => applyKey("C")}>C major / A minor</MenuItem>
-        <MenuItem onClick={() => applyKey("G")}>G major / E minor</MenuItem>
-        <MenuItem onClick={() => applyKey("D")}>D major / B minor</MenuItem>
-        <MenuItem onClick={() => applyKey("A")}>A major / F#m</MenuItem>
-        <MenuItem onClick={() => applyKey("E")}>E major / C#m</MenuItem>
-
-        {/* Flats */}
-        <MenuItem onClick={() => applyKey("F")}>F major / Dm</MenuItem>
-        <MenuItem onClick={() => applyKey("Bb")}>Bb major / Gm</MenuItem>
-        <MenuItem onClick={() => applyKey("Eb")}>Eb major / Cm</MenuItem>
+        <MenuItem onClick={() => applyKey("C")}>C / Am</MenuItem>
+        <MenuItem onClick={() => applyKey("G")}>G / Em</MenuItem>
+        <MenuItem onClick={() => applyKey("D")}>D / Bm</MenuItem>
+        <MenuItem onClick={() => applyKey("A")}>A / F#m</MenuItem>
+        <MenuItem onClick={() => applyKey("E")}>E / C#m</MenuItem>
+        <MenuItem onClick={() => applyKey("F")}>F / Dm</MenuItem>
+        <MenuItem onClick={() => applyKey("Bb")}>Bb / Gm</MenuItem>
+        <MenuItem onClick={() => applyKey("Eb")}>Eb / Cm</MenuItem>
       </Menu>
 
       {/* ARTICULATIONS */}

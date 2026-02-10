@@ -19,6 +19,8 @@ export default class PlaybackEngine {
     this.isPlaying = false;
     this.playheadBeat = 0;
     this.loop = null;
+    this.onBeat = null;
+    this.rafId = null;
   }
 
   /** Initialize audio engine only when running in browser */
@@ -61,6 +63,7 @@ export default class PlaybackEngine {
     this.scheduler.scheduleSequence(
       events,
       (beat) => {
+        // Scheduler callback (sparse) - kept for logic triggers if needed
         this.playheadBeat = beat;
         if (this.loop && beat >= this.loop.end) {
           this.scheduler.seek(this.loop.start * this.secondsPerBeat);
@@ -73,13 +76,38 @@ export default class PlaybackEngine {
         });
       }
     );
+
+    this._startCursorLoop();
   }
 
   stop() {
     if (!this.ctx) return;
 
+    this._stopCursorLoop();
     this.scheduler?.clear();
     this.isPlaying = false;
     this.playheadBeat = 0;
+    if (this.onBeat) this.onBeat(0);
+  }
+
+  _startCursorLoop() {
+    const loop = () => {
+      if (!this.isPlaying || !this.ctx || !this.scheduler) return;
+
+      // Calculate exact beat
+      // access scheduler start time
+      const elapsed = this.ctx.currentTime - this.scheduler.startTime;
+      const beat = elapsed / this.secondsPerBeat;
+
+      if (this.onBeat) this.onBeat(beat);
+
+      this.rafId = requestAnimationFrame(loop);
+    };
+    this._stopCursorLoop();
+    this.rafId = requestAnimationFrame(loop);
+  }
+
+  _stopCursorLoop() {
+    if (this.rafId) cancelAnimationFrame(this.rafId);
   }
 }

@@ -31,7 +31,32 @@ export default function FileMenu() {
         >
           Export MIDI
         </MenuItem>
+
+        <MenuItem
+          onClick={() => {
+            document.getElementById("midi-upload").click();
+            setAnchor(null);
+          }}
+        >
+          Import MIDI
+        </MenuItem>
       </Menu>
+
+      <input
+        type="file"
+        id="midi-upload"
+        accept=".mid,.midi"
+        style={{ display: "none" }}
+        onChange={(e) => {
+          const file = e.target.files[0];
+          if (file) {
+            FileDialog.loadMIDI(file, (newScore) => {
+              setScore(newScore);
+            });
+          }
+          e.target.value = ""; // reset
+        }}
+      />
     </>
   );
 }

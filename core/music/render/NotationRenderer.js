@@ -57,24 +57,42 @@ export default class NotationRenderer {
       measure.voices.forEach(voice => {
         if (!voice.elements.length) return;
 
+        // GROUP NOTES BY BEAT (CHORDS)
+        const beatGroups = new Map();
+        voice.elements.forEach(entry => {
+          const beat = entry.beat; // Assuming entry is { beat, note }
+          if (!beatGroups.has(beat)) beatGroups.set(beat, []);
+          beatGroups.get(beat).push(entry.note);
+        });
+
+        // Sort by beat position
+        const sortedBeats = Array.from(beatGroups.keys()).sort((a, b) => a - b);
+
         const notes = [];
 
-        voice.elements.forEach(entry => {
-          const n = entry.note ?? entry;
-          if (!n) return;
+        sortedBeats.forEach(beat => {
+          const group = beatGroups.get(beat);
+          if (!group || group.length === 0) return;
+
+          // Use properties of the first note for the chord (duration, type)
+          // For a robust implementation, verify all notes match duration.
+          const mainNote = group[0];
+          const dur = mainNote.duration?.symbol || "q";
 
           let vfNote;
-          const dur = n.duration?.symbol || "q";
 
-          if (n.isRest) {
+          if (mainNote.isRest) {
             vfNote = new VF.StaveNote({ keys: ["b/4"], duration: dur + "r" });
           } else {
-            const key = `${n.pitch.step.toLowerCase()}${
-              n.pitch.alter === 1 ? "#" : n.pitch.alter === -1 ? "b" : ""
-            }/${n.pitch.octave}`;
+            const keys = group.map(n => {
+              return `${n.pitch.step.toLowerCase()}${n.pitch.alter === 1 ? "#" : n.pitch.alter === -1 ? "b" : n.pitch.alter === 2 ? "##" : n.pitch.alter === -2 ? "bb" : ""
+                }/${n.pitch.octave}`;
+            });
 
-            vfNote = new VF.StaveNote({ keys: [key], duration: dur });
-            attachInteraction(vfNote, n, this.selection);
+            vfNote = new VF.StaveNote({ keys: keys, duration: dur });
+
+            // Attach interaction to the first note (temporary limitation)
+            attachInteraction(vfNote, mainNote, this.selection);
           }
 
           notes.push(vfNote);
