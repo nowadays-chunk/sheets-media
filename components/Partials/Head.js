@@ -17,13 +17,17 @@ export default function Meta({ title, description }) {
                 content={description}
             />
             <script async src="https://www.googletagmanager.com/gtag/js?id=G-L813ECJ9RR"></script>
-            <script>
-                window.dataLayer = window.dataLayer || [];
-                function gtag(){dataLayer.push(arguments);}
-                gtag('js', new Date());
+            <script
+                dangerouslySetInnerHTML={{
+                    __html: `
+                        window.dataLayer = window.dataLayer || [];
+                        function gtag(){dataLayer.push(arguments);}
+                        gtag('js', new Date());
 
-                gtag('config', 'G-L813ECJ9RR');
-            </script>
+                        gtag('config', 'G-L813ECJ9RR');
+                    `,
+                }}
+            />
         </Head>
     );
 }
