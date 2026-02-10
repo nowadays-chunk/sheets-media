@@ -88,16 +88,42 @@ const SectionHeader = ({ title, subtitle }) => (
 
 const ProductCard = ({ title, price, image, type }) => (
     <Grid item xs={12} sm={6} md={4} lg={3}>
-        <Card sx={{ height: '100%', display: 'flex', flexDirection: 'column', position: 'relative' }}>
+        <Card sx={{
+            height: '100%',
+            display: 'flex',
+            flexDirection: 'column',
+            position: 'relative',
+            transition: 'transform 0.2s',
+            '&:hover': { transform: 'translateY(-4px)', boxShadow: 6 }
+        }}>
             <Box sx={{ position: 'absolute', top: 12, right: 12, zIndex: 1 }}>
                 <Chip label={type} size="small" color={type === 'Physical' ? 'secondary' : 'primary'} />
             </Box>
-            <Box sx={{ height: 200, bgcolor: '#f5f5f5', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
-                {/* Placeholder for Product Image */}
-                <ShoppingCartIcon sx={{ fontSize: 60, color: 'text.secondary', opacity: 0.2 }} />
+            <Box sx={{
+                height: 200,
+                background: type === 'Physical' ? 'linear-gradient(135deg, #e0e0e0 0%, #f5f5f5 100%)' : 'linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%)',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                position: 'relative',
+                overflow: 'hidden'
+            }}>
+                <Box sx={{
+                    position: 'absolute',
+                    top: -20,
+                    right: -20,
+                    width: 100,
+                    height: 100,
+                    borderRadius: '50%',
+                    background: 'rgba(255,255,255,0.2)'
+                }} />
+                {type === 'Physical' ?
+                    <ShoppingCartIcon sx={{ fontSize: 60, color: 'text.secondary', opacity: 0.3 }} /> :
+                    <LibraryMusicIcon sx={{ fontSize: 60, color: 'primary.main', opacity: 0.3 }} />
+                }
             </Box>
             <CardContent sx={{ flexGrow: 1 }}>
-                <Typography variant="h6" component="h3" gutterBottom fontWeight="bold">
+                <Typography variant="h6" component="h3" gutterBottom fontWeight="bold" sx={{ fontSize: '1rem' }}>
                     {title}
                 </Typography>
                 <Typography variant="h5" color="primary.main" fontWeight="bold">

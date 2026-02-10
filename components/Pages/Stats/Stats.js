@@ -390,14 +390,16 @@ const buildChordFlow = (boards) => {
 const BarGraph = ({ data, title }) => (
   <StatCard>
     <Typography variant="h6" sx={{ mb: 2 }}>{title}</Typography>
-    <BarChart width={500} height={250} data={data}>
-      <CartesianGrid strokeDasharray="3 3" />
-      <XAxis dataKey="name" />
-      <YAxis />
-      <Tooltip />
-      <Legend />
-      <Bar dataKey="value" fill="#1976d2" />
-    </BarChart>
+    <ResponsiveContainer width="100%" height={300}>
+      <BarChart data={data}>
+        <CartesianGrid strokeDasharray="3 3" />
+        <XAxis dataKey="name" />
+        <YAxis />
+        <Tooltip />
+        <Legend />
+        <Bar dataKey="value" fill="#1976d2" />
+      </BarChart>
+    </ResponsiveContainer>
   </StatCard>
 );
 
@@ -407,15 +409,17 @@ const BarGraph = ({ data, title }) => (
 const PieGraph = ({ data, title }) => (
   <StatCard>
     <Typography variant="h6" sx={{ mb: 2 }}>{title}</Typography>
-    <PieChart width={400} height={300}>
-      <Pie dataKey="value" data={data} cx="50%" cy="50%" outerRadius={120} label>
-        {data.map((entry, index) => (
-          <Cell key={index} fill={COLORS[index % COLORS.length]} />
-        ))}
-      </Pie>
-      <Tooltip />
-      <Legend />
-    </PieChart>
+    <ResponsiveContainer width="100%" height={300}>
+      <PieChart>
+        <Pie dataKey="value" data={data} cx="50%" cy="50%" outerRadius={80} label>
+          {data.map((entry, index) => (
+            <Cell key={index} fill={COLORS[index % COLORS.length]} />
+          ))}
+        </Pie>
+        <Tooltip />
+        <Legend />
+      </PieChart>
+    </ResponsiveContainer>
   </StatCard>
 );
 
@@ -425,14 +429,16 @@ const PieGraph = ({ data, title }) => (
 const LineGraph = ({ data, title }) => (
   <StatCard>
     <Typography variant="h6" sx={{ mb: 2 }}>{title}</Typography>
-    <LineChart width={500} height={250} data={data}>
-      <CartesianGrid strokeDasharray="3 3" />
-      <XAxis dataKey="name" />
-      <YAxis />
-      <Tooltip />
-      <Legend />
-      <Line type="monotone" dataKey="value" stroke="#1976d2" />
-    </LineChart>
+    <ResponsiveContainer width="100%" height={300}>
+      <LineChart data={data}>
+        <CartesianGrid strokeDasharray="3 3" />
+        <XAxis dataKey="name" />
+        <YAxis />
+        <Tooltip />
+        <Legend />
+        <Line type="monotone" dataKey="value" stroke="#1976d2" />
+      </LineChart>
+    </ResponsiveContainer>
   </StatCard>
 );
 
@@ -442,19 +448,21 @@ const LineGraph = ({ data, title }) => (
 const AreaGraph = ({ data, title }) => (
   <StatCard>
     <Typography variant="h6" sx={{ mb: 2 }}>{title}</Typography>
-    <AreaChart width={500} height={250} data={data}>
-      <defs>
-        <linearGradient id="colorUv" x1="0" y1="0" x2="0" y2="1">
-          <stop offset="5%" stopColor="#1976d2" stopOpacity={0.8} />
-          <stop offset="95%" stopColor="#1976d2" stopOpacity={0} />
-        </linearGradient>
-      </defs>
-      <XAxis dataKey="name" />
-      <YAxis />
-      <CartesianGrid strokeDasharray="3 3" />
-      <Tooltip />
-      <Area type="monotone" dataKey="value" stroke="#1976d2" fill="url(#colorUv)" />
-    </AreaChart>
+    <ResponsiveContainer width="100%" height={300}>
+      <AreaChart data={data}>
+        <defs>
+          <linearGradient id="colorUv" x1="0" y1="0" x2="0" y2="1">
+            <stop offset="5%" stopColor="#1976d2" stopOpacity={0.8} />
+            <stop offset="95%" stopColor="#1976d2" stopOpacity={0} />
+          </linearGradient>
+        </defs>
+        <XAxis dataKey="name" />
+        <YAxis />
+        <CartesianGrid strokeDasharray="3 3" />
+        <Tooltip />
+        <Area type="monotone" dataKey="value" stroke="#1976d2" fill="url(#colorUv)" />
+      </AreaChart>
+    </ResponsiveContainer>
   </StatCard>
 );
 
@@ -464,14 +472,16 @@ const AreaGraph = ({ data, title }) => (
 const ScatterGraph = ({ data, title }) => (
   <StatCard>
     <Typography variant="h6" sx={{ mb: 2 }}>{title}</Typography>
-    <ScatterChart width={500} height={250}>
-      <CartesianGrid />
-      <XAxis dataKey="x" name="Fret" />
-      <YAxis dataKey="y" name="String" />
-      <ZAxis dataKey="z" range={[10, 50]} />
-      <Tooltip />
-      <Scatter data={data} fill="#1976d2" />
-    </ScatterChart>
+    <ResponsiveContainer width="100%" height={300}>
+      <ScatterChart>
+        <CartesianGrid />
+        <XAxis dataKey="x" name="Fret" />
+        <YAxis dataKey="y" name="String" />
+        <ZAxis dataKey="z" range={[10, 50]} />
+        <Tooltip />
+        <Scatter data={data} fill="#1976d2" />
+      </ScatterChart>
+    </ResponsiveContainer>
   </StatCard>
 );
 
@@ -481,15 +491,15 @@ const ScatterGraph = ({ data, title }) => (
 const TreemapGraph = ({ data, title }) => (
   <StatCard>
     <Typography variant="h6" sx={{ mb: 2 }}>{title}</Typography>
-    <Treemap
-      width={500}
-      height={250}
-      data={data}
-      dataKey="size"
-      ratio={4 / 3}
-      stroke="#fff"
-      fill="#1976d2"
-    />
+    <ResponsiveContainer width="100%" height={300}>
+      <Treemap
+        data={data}
+        dataKey="size"
+        ratio={4 / 3}
+        stroke="#fff"
+        fill="#1976d2"
+      />
+    </ResponsiveContainer>
   </StatCard>
 );
 
@@ -499,13 +509,15 @@ const TreemapGraph = ({ data, title }) => (
 const RadarGraph = ({ data, title }) => (
   <StatCard>
     <Typography variant="h6" sx={{ mb: 2 }}>{title}</Typography>
-    <RadarChart cx={250} cy={150} outerRadius={120} width={500} height={300} data={data}>
-      <PolarGrid />
-      <PolarAngleAxis dataKey="subject" />
-      <PolarRadiusAxis angle={30} domain={[0, 100]} />
-      <Radar name="Usage" dataKey="value" stroke="#1976d2" fill="#1976d2" fillOpacity={0.6} />
-      <Legend />
-    </RadarChart>
+    <ResponsiveContainer width="100%" height={300}>
+      <RadarChart cx="50%" cy="50%" outerRadius="80%" data={data}>
+        <PolarGrid />
+        <PolarAngleAxis dataKey="subject" />
+        <PolarRadiusAxis angle={30} domain={[0, 100]} />
+        <Radar name="Usage" dataKey="value" stroke="#1976d2" fill="#1976d2" fillOpacity={0.6} />
+        <Legend />
+      </RadarChart>
+    </ResponsiveContainer>
   </StatCard>
 );
 
@@ -515,19 +527,19 @@ const RadarGraph = ({ data, title }) => (
 const RadialBarGraph = ({ data, title }) => (
   <StatCard>
     <Typography variant="h6" sx={{ mb: 2 }}>{title}</Typography>
-    <RadialBarChart
-      width={400}
-      height={300}
-      innerRadius="10%"
-      outerRadius="80%"
-      data={data}
-      startAngle={180}
-      endAngle={0}
-    >
-      <RadialBar minAngle={15} background clockWise dataKey="value" />
-      <Legend iconSize={10} layout="vertical" verticalAlign="middle" />
-      <Tooltip />
-    </RadialBarChart>
+    <ResponsiveContainer width="100%" height={300}>
+      <RadialBarChart
+        innerRadius="10%"
+        outerRadius="80%"
+        data={data}
+        startAngle={180}
+        endAngle={0}
+      >
+        <RadialBar minAngle={15} background clockWise dataKey="value" />
+        <Legend iconSize={10} layout="vertical" verticalAlign="middle" />
+        <Tooltip />
+      </RadialBarChart>
+    </ResponsiveContainer>
   </StatCard>
 );
 
@@ -537,12 +549,14 @@ const RadialBarGraph = ({ data, title }) => (
 const FunnelGraph = ({ data, title }) => (
   <StatCard>
     <Typography variant="h6" sx={{ mb: 2 }}>{title}</Typography>
-    <FunnelChart width={400} height={300}>
-      <Funnel dataKey="value" data={data}>
-        <LabelList position="right" fill="#000" stroke="none" dataKey="name" />
-      </Funnel>
-      <Tooltip />
-    </FunnelChart>
+    <ResponsiveContainer width="100%" height={300}>
+      <FunnelChart>
+        <Funnel dataKey="value" data={data}>
+          <LabelList position="right" fill="#000" stroke="none" dataKey="name" />
+        </Funnel>
+        <Tooltip />
+      </FunnelChart>
+    </ResponsiveContainer>
   </StatCard>
 );
 
@@ -552,13 +566,15 @@ const FunnelGraph = ({ data, title }) => (
 const RangeGraph = ({ data, title }) => (
   <StatCard>
     <Typography variant="h6" sx={{ mb: 2 }}>{title}</Typography>
-    <ComposedChart width={500} height={250} data={data}>
-      <XAxis dataKey="name" />
-      <YAxis />
-      <Tooltip />
-      <Bar dataKey="value" fill="#1976d2" />
-      <Line type="monotone" dataKey="value" stroke="#d32f2f" />
-    </ComposedChart>
+    <ResponsiveContainer width="100%" height={300}>
+      <ComposedChart data={data}>
+        <XAxis dataKey="name" />
+        <YAxis />
+        <Tooltip />
+        <Bar dataKey="value" fill="#1976d2" />
+        <Line type="monotone" dataKey="value" stroke="#d32f2f" />
+      </ComposedChart>
+    </ResponsiveContainer>
   </StatCard>
 );
 
@@ -568,13 +584,15 @@ const RangeGraph = ({ data, title }) => (
 const HistogramGraph = ({ data, title }) => (
   <StatCard>
     <Typography variant="h6" sx={{ mb: 2 }}>{title}</Typography>
-    <BarChart width={500} height={250} data={data}>
-      <CartesianGrid strokeDasharray="3 3" />
-      <XAxis dataKey="name" />
-      <YAxis />
-      <Bar dataKey="value" fill="#1976d2" />
-      <Tooltip />
-    </BarChart>
+    <ResponsiveContainer width="100%" height={300}>
+      <BarChart data={data}>
+        <CartesianGrid strokeDasharray="3 3" />
+        <XAxis dataKey="name" />
+        <YAxis />
+        <Bar dataKey="value" fill="#1976d2" />
+        <Tooltip />
+      </BarChart>
+    </ResponsiveContainer>
   </StatCard>
 );
 
@@ -584,12 +602,14 @@ const HistogramGraph = ({ data, title }) => (
 const FlowGraph = ({ data, title }) => (
   <StatCard>
     <Typography variant="h6" sx={{ mb: 2 }}>{title}</Typography>
-    <BarChart width={500} height={250} data={data}>
-      <XAxis dataKey="name" hide />
-      <YAxis />
-      <Tooltip />
-      <Bar dataKey="value" fill="#1976d2" />
-    </BarChart>
+    <ResponsiveContainer width="100%" height={300}>
+      <BarChart data={data}>
+        <XAxis dataKey="name" hide />
+        <YAxis />
+        <Tooltip />
+        <Bar dataKey="value" fill="#1976d2" />
+      </BarChart>
+    </ResponsiveContainer>
   </StatCard>
 );
 

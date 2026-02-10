@@ -16,7 +16,14 @@ export default function Meta({ title, description }) {
                 name="description"
                 content={description}
             />
-            <meta name="google-site-verification" content="GQGKnHaUEkE-5vnOkOETGkV7Rv6kT04U0genM-BeHqQ" />
+            <script async src="https://www.googletagmanager.com/gtag/js?id=G-L813ECJ9RR"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+
+                gtag('config', 'G-L813ECJ9RR');
+            </script>
         </Head>
     );
 }
