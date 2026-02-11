@@ -221,4 +221,13 @@ const CategoryNavbar = ({ products, onCategoryClick, onTypeClick, selectedCatego
                             size="small"
                             onDelete={() => onCategoryClick(category)}
                             color="primary"
-                            variant="o
+                            variant="outlined"
+                        />
+                    ))}
+                </Box>
+            )}
+        </Box>
+    );
+};
+
+export default CategoryNavbar;

@@ -33,8 +33,14 @@ export default function TransportBar() {
         alignItems: "center",
         gap: 2,
         padding: 1,
+        borderTop: "1px solid #ddd",
         borderBottom: "1px solid #ddd",
         background: "#fafafa",
+        position: 'fixed',
+        top: 155, // 65 (MainAppBar) + 40 (MenuBar) + 50 (Toolbar)
+        left: 0,
+        right: 0,
+        zIndex: 1100,
       }}
     >
       <IconButton onClick={() => playback.playScore(score)}>

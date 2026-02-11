@@ -20,7 +20,7 @@ function buildPathsByKey() {
             result[key].push({
                 label: `Chord: ${guitar.arppegios[ch].name} in ${key}`,
                 section: "Chords",
-                href: `/spreading/chords/${key.replace('#','sharp')}/${ch.replace('#','sharp')}`
+                href: `/spreading/chords/${key.replace('#', 'sharp')}/${ch.replace('#', 'sharp')}`
             });
         });
 
@@ -33,14 +33,14 @@ function buildPathsByKey() {
                     result[key].push({
                         label: `Scale: ${sc.name} in ${key} (Mode: ${m.name})`,
                         section: "Scales",
-                        href: `/spreading/scales/${key.replace('#','sharp')}/${scale}/modal/${m.name.toLowerCase().replace(/ /g,'-').replace('#','sharp')}`
+                        href: `/spreading/scales/${key.replace('#', 'sharp')}/${scale}/modal/${m.name.toLowerCase().replace(/ /g, '-').replace('#', 'sharp')}`
                     });
                 });
             } else {
                 result[key].push({
                     label: `Scale: ${sc.name} in ${key} (Single)`,
                     section: "Scales",
-                    href: `/spreading/scales/${key.replace('#','sharp')}/${scale}/single`
+                    href: `/spreading/scales/${key.replace('#', 'sharp')}/${scale}/single`
                 });
             }
         });
@@ -54,14 +54,14 @@ function buildPathsByKey() {
                     result[key].push({
                         label: `Scale Spread: ${sc.name} in ${key}`,
                         section: "Scales",
-                        href: `/spreading/scales/${key.replace('#','sharp')}/${scale}/modal/${m.name.toLowerCase().replace(/ /g,'-').replace('#','sharp')}`
+                        href: `/spreading/scales/${key.replace('#', 'sharp')}/${scale}/modal/${m.name.toLowerCase().replace(/ /g, '-').replace('#', 'sharp')}`
                     });
                 });
             } else {
                 result[key].push({
                     label: `Scale Spread: ${sc.name} in ${key}`,
                     section: "Scales",
-                    href: `/spreading/scales/${key.replace('#','sharp')}/${scale}/single`
+                    href: `/spreading/scales/${key.replace('#', 'sharp')}/${scale}/single`
                 });
             }
         });
@@ -71,7 +71,7 @@ function buildPathsByKey() {
             result[key].push({
                 label: `Arpeggio Spread: ${guitar.arppegios[arp].name} in ${key}`,
                 section: "Arpeggios",
-                href: `/spreading/arppegios/${key.replace('#','sharp')}/${arp.replace('#','sharp')}`
+                href: `/spreading/arppegios/${key.replace('#', 'sharp')}/${arp.replace('#', 'sharp')}`
             });
         });
     });
@@ -137,15 +137,15 @@ async function screenshotForKey(key, items) {
     const pageHeight = 842;
 
     for (let i = 0; i < items.length; i++) {
-        const url = `https://music-sheets-working.vercel.app${items[i].href}`;
+        const url = `https://www.sheets.media${items[i].href}`;
         console.log(`📸 [${key}] Capturing: ${url}`);
 
         await page.goto(url, {
             waitUntil: "domcontentloaded",
-            timeout: 60000
+            timeout: 120000
         });
 
-        await page.waitForSelector("canvas, svg", { timeout: 60000 });
+        await page.waitForSelector("canvas, svg", { timeout: 120000 });
         await new Promise(res => setTimeout(res, 1500));
 
         // Full page screenshot
@@ -155,9 +155,9 @@ async function screenshotForKey(key, items) {
         // Crop 200px left/right and 80px top
         const cropped = await sharp(buffer)
             .extract({
-                left: 200,
+                left: 100,
                 top: 80,
-                width: meta.width - 400,
+                width: meta.width - 200,
                 height: meta.height - 80
             })
             .png()
@@ -179,7 +179,7 @@ async function screenshotForKey(key, items) {
         const h = imgH * scale;
 
         const x = (pageWidth - w);
-        const y = (pageHeight - h);
+        const y = (pageHeight - h) / 1.75;
 
         const pdfPage = pdf.addPage([pageWidth, pageHeight]);
         pdfPage.drawImage(img, { x, y, width: w, height: h });

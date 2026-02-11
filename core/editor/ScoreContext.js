@@ -26,7 +26,7 @@ export function ScoreProvider({ children }) {
   const selection = useRef(new SelectionManager());
   const input = useRef(new NoteInputManager());
 
-  const playback = useRef(null);
+  const [playback, setPlayback] = useState(null);
 
   // Initialize score
   useEffect(() => {
@@ -47,14 +47,20 @@ export function ScoreProvider({ children }) {
   // Init audio
   useEffect(() => {
     const init = () => {
-      if (!playback.current) {
-        playback.current = new PlaybackEngine();
+      if (!playback) {
+        setPlayback(new PlaybackEngine());
       }
     };
 
     window.addEventListener("click", init, { once: true });
-    return () => window.removeEventListener("click", init);
-  }, []);
+    // Also init on keydown for accessibility/power users who might not click
+    window.addEventListener("keydown", init, { once: true });
+
+    return () => {
+      window.removeEventListener("click", init);
+      window.removeEventListener("keydown", init);
+    };
+  }, [playback]);
 
   // Cursor Navigation
   useEffect(() => {
@@ -160,7 +166,7 @@ export function ScoreProvider({ children }) {
         undo: undo.current,
         selection: selection.current,
         input: input.current,
-        playback: playback.current,
+        playback,
         addNoteFromFretboard,
         insertNoteFromStringFret,
         undoAction,

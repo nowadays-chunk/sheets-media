@@ -279,7 +279,6 @@ const FretboardDisplay = ({
         onFocus={() => handleFretboardSelect(fretboardIndex)}
         onClick={() => handleFretboardSelect(fretboardIndex)}
         style={{
-          border: selectedFretboard.id === fretboard.id ? '2px solid #8884d8' : '2px solid transparent',
           borderRadius: '8px',
           padding: '0 10px 5px 10px',
           transition: 'border 0.2s ease',

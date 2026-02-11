@@ -11,10 +11,10 @@ export default function Layout() {
       style={{
         display: "flex",
         position: 'fixed',
-        top: 155, // 65px (MainAppBar) + 40px (MenuBar) + 50px (Toolbar)
+        top: 211, // 65 + 40 + 50 + 56 (TransportBar)
         left: 0,
         width: "100%",
-        height: "calc(100vh - 155px)", // Subtract top offset
+        height: "calc(100vh - 211px)", // Subtract top offset
         overflow: "hidden",
         zIndex: 1, // Below toolbars but above page content
       }}
