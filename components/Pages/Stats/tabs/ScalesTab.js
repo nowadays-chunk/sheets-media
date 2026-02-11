@@ -47,7 +47,7 @@ export default function ScalesTab({ boards, precomputedStats, saveStats, isHomep
     const _scaleRadarStrings = useMemo(() => buildRadarStringUsage(boards), [boards]);
     const _scaleModes = useMemo(() => buildModeUsage(boards), [boards]);
 
-    const scaleStats = precomputedStats || {
+    const scaleStats = useMemo(() => precomputedStats || {
         noteUsage: _scaleNoteUsage,
         intervalUsage: _scaleIntervalUsage,
         neckZones: _scaleNeckZones,
@@ -61,7 +61,7 @@ export default function ScalesTab({ boards, precomputedStats, saveStats, isHomep
         flow: _scaleFlow,
         radarStrings: _scaleRadarStrings,
         modes: _scaleModes
-    };
+    }, [precomputedStats, _scaleNoteUsage, _scaleIntervalUsage, _scaleNeckZones, _scaleFretHeatmap, _scaleFretHistogram, _scaleFretRanges, _scaleTreemap, _scaleScatter, _scaleKeys, _scaleShapes, _scaleFlow, _scaleRadarStrings, _scaleModes]);
 
     useEffect(() => {
         if (!isHomepage && !precomputedStats && boards.length > 0) {

@@ -74,10 +74,10 @@ const Controls = styled(Box)({
 const SongFullscreenPlayer = ({ lines, open, onClose }) => {
   const [index, setIndex] = useState(0);
 
-  const next = () =>
-    setIndex((i) => (i + 1 < lines.length ? i + 1 : i));
-  const prev = () =>
-    setIndex((i) => (i - 1 >= 0 ? i - 1 : i));
+  const next = useCallback(() =>
+    setIndex((i) => (i + 1 < lines.length ? i + 1 : i)), [lines.length]);
+  const prev = useCallback(() =>
+    setIndex((i) => (i - 1 >= 0 ? i - 1 : i)), []);
 
   /* Keyboard */
   useEffect(() => {
@@ -91,7 +91,7 @@ const SongFullscreenPlayer = ({ lines, open, onClose }) => {
 
     window.addEventListener("keydown", handler);
     return () => window.removeEventListener("keydown", handler);
-  }, [open]);
+  }, [open, onClose, next, prev]);
 
   if (!open || !lines[index]) return null;
 

@@ -252,36 +252,36 @@ export default function MusicianNewsMasonry({ leftDrawerOpen, leftDrawerWidth })
   };
 
   // FETCH RSS PAGES
-  const fetchPageData = async () => {
-    if (!hasMore) return;
-
-    setLoading(true);
-
-    const batch = RSS_FEEDS.slice((page - 1) * 5, page * 5);
-    if (batch.length === 0) {
-      setHasMore(false);
-      return;
-    }
-
-    let results = [];
-    let perFeedTop10 = [];
-
-    for (const feed of batch) {
-      const items = await fetchRSS(feed);
-      results.push(...items);
-      perFeedTop10.push(...items.slice(0, 10));
-    }
-
-    setLatest10PerFeed((prev) => [...prev, ...perFeedTop10]);
-
-    const merged = [...articles, ...results].sort((a, b) => b.date - a.date);
-    setArticles(merged);
-    setLoading(false);
-  };
-
   useEffect(() => {
-    fetchPageData();
-  }, [page]);
+    const fetchData = async () => {
+      if (!hasMore) return;
+
+      setLoading(true);
+
+      const batch = RSS_FEEDS.slice((page - 1) * 5, page * 5);
+      if (batch.length === 0) {
+        setHasMore(false);
+        setLoading(false); // Ensure loading is false if no more
+        return;
+      }
+
+      let results = [];
+      let perFeedTop10 = [];
+
+      for (const feed of batch) {
+        const items = await fetchRSS(feed);
+        results.push(...items);
+        perFeedTop10.push(...items.slice(0, 10));
+      }
+
+      setLatest10PerFeed((prev) => [...prev, ...perFeedTop10]);
+
+      setArticles((prev) => [...prev, ...results].sort((a, b) => b.date - a.date));
+      setLoading(false);
+    };
+
+    fetchData();
+  }, [page, hasMore]);
 
   // INFINITE SCROLL OBSERVER
   const lastRef = useCallback(

@@ -48,7 +48,7 @@ export default function ChordsTab({ boards, precomputedStats, saveStats, isHomep
     const _chordModes = useMemo(() => buildModeUsage(boards), [boards]);
 
     // Use precomputed stats if available, otherwise use computed stats
-    const chordStats = precomputedStats || {
+    const chordStats = useMemo(() => precomputedStats || {
         noteUsage: _chordNoteUsage,
         intervalUsage: _chordIntervalUsage,
         neckZones: _chordNeckZones,
@@ -62,7 +62,7 @@ export default function ChordsTab({ boards, precomputedStats, saveStats, isHomep
         flow: _chordFlow,
         radarStrings: _chordRadarStrings,
         modes: _chordModes
-    };
+    }, [precomputedStats, _chordNoteUsage, _chordIntervalUsage, _chordNeckZones, _chordFretHeatmap, _chordFretHistogram, _chordFretRanges, _chordTreemap, _chordScatter, _chordKeys, _chordShapes, _chordFlow, _chordRadarStrings, _chordModes]);
 
     useEffect(() => {
         if (!isHomepage && !precomputedStats && boards.length > 0) {
