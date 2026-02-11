@@ -32,13 +32,13 @@ export async function getStaticProps({ params }) {
 
 const TournamentPage = ({ tournament }) => {
     return (
-        <>
+        <div style={{ marginTop: '100px' }}>
             <Meta
                 title={`${tournament.name} - Guitar Sheets Competition`}
                 description={tournament.description}
             />
             <TournamentDetails tournament={tournament} />
-        </>
+        </div>
     );
 };
 

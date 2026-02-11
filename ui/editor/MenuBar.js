@@ -11,11 +11,16 @@ export default function MenuBar() {
   return (
     <Box
       sx={{
+        position: 'fixed',
+        top: 65,
+        left: 0,
+        right: 0,
         display: "flex",
         gap: 2,
         padding: 1,
         borderBottom: "1px solid #ddd",
         background: "#eee",
+        zIndex: 1100,
       }}
     >
       <FileMenu />

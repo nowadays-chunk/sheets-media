@@ -119,7 +119,7 @@ function App({ Component, pageProps }) {
         <ListItem component={Link} href="/stats" onClick={handleDrawerToggle} button><ListItemText primary="Stats" /></ListItem>
         <ListItem component={Link} href="/tables" onClick={handleDrawerToggle} button><ListItemText primary="Tables" /></ListItem>
         <ListItem component={Link} href="/references" onClick={handleDrawerToggle} button><ListItemText primary="References" /></ListItem>
-        <ListItem component={Link} href="/#store" onClick={handleDrawerToggle} button><ListItemText primary="Store" sx={{ color: 'red' }} /></ListItem>
+        <ListItem component={Link} href="/store" onClick={handleDrawerToggle} button><ListItemText primary="Store" sx={{ color: 'red' }} /></ListItem>
       </List>
 
       <Divider />

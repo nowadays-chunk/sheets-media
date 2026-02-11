@@ -4,6 +4,7 @@
         "title": "#1 Guitar Mastery PDF",
         "price": 19.99,
         "type": "Digital",
+        "category": "Learning Materials",
         "image": "/assets/products/guitar-mastery-pdf.png",
         "description": " The ultimate guide to mastering the guitar. Covers everything from basic chords to advanced theory."
     },
@@ -12,6 +13,7 @@
         "title": "Official 'Master' T-Shirt",
         "price": 24.99,
         "type": "Physical",
+        "category": "Merchandise",
         "image": "/assets/products/master-tshirt.png",
         "description": "Show your passion for guitar with this premium quality cotton t-shirt."
     },
@@ -20,6 +22,7 @@
         "title": "Custom Picks Pack (x12)",
         "price": 9.99,
         "type": "Physical",
+        "category": "Accessories",
         "image": "/assets/products/custom-picks.png",
         "description": "A pack of 12 custom-designed guitar picks. Durable and stylish."
     },
@@ -28,6 +31,7 @@
         "title": "Theory Poster Set",
         "price": 29.99,
         "type": "Physical",
+        "category": "Merchandise",
         "image": "/assets/products/theory-poster.png",
         "description": "Visualise music theory on your wall. A set of high-quality posters covering scales, chords, and modes."
     },
@@ -36,6 +40,7 @@
         "title": "Premium Mug",
         "price": 14.99,
         "type": "Physical",
+        "category": "Merchandise",
         "image": "/assets/products/premium-mug.png",
         "description": "Start your practice session with a coffee in this premium ceramic mug."
     },
@@ -44,6 +49,7 @@
         "title": "Complete Tabs Collection",
         "price": 39.99,
         "type": "Digital",
+        "category": "Sheet Music",
         "image": "/assets/products/tabs-collection.png",
         "description": "Access our entire collection of high-quality guitar tabs."
     },
@@ -52,6 +58,7 @@
         "title": "Advanced Partitions",
         "price": 12.99,
         "type": "Digital",
+        "category": "Sheet Music",
         "image": "/assets/products/advanced-partitions.png",
         "description": "Challenge yourself with these advanced classical and jazz guitar partitions."
     },
@@ -60,7 +67,188 @@
         "title": "Lifetime Access Pass",
         "price": 99.99,
         "type": "Digital",
+        "category": "Learning Materials",
         "image": "/assets/products/lifetime-access.png",
         "description": "Get lifetime access to all current and future courses, tools, and content."
+    },
+    {
+        "id": "beginner-course",
+        "title": "Beginner's Guitar Course",
+        "price": 29.99,
+        "type": "Digital",
+        "category": "Learning Materials",
+        "image": "/assets/products/beginner-course.png",
+        "description": "A comprehensive 12-week course designed for absolute beginners. Start your guitar journey today!"
+    },
+    {
+        "id": "capo-professional",
+        "title": "Professional Capo",
+        "price": 18.99,
+        "type": "Physical",
+        "category": "Accessories",
+        "image": "/assets/products/capo-professional.png",
+        "description": "Precision-engineered capo for perfect intonation across all frets. Suitable for acoustic and electric guitars."
+    },
+    {
+        "id": "string-set-premium",
+        "title": "Premium String Set",
+        "price": 13.99,
+        "type": "Physical",
+        "category": "Accessories",
+        "image": "/assets/products/string-set-premium.png",
+        "description": "Phosphor bronze strings with extended lifespan and brilliant tone. Pack of 3 sets."
+    },
+    {
+        "id": "blues-tabs",
+        "title": "Blues Guitar Tabs",
+        "price": 15.99,
+        "type": "Digital",
+        "category": "Sheet Music",
+        "image": "/assets/products/blues-tabs.png",
+        "description": "50+ authentic blues guitar tabs from classic artists. Perfect for intermediate players."
+    },
+    {
+        "id": "rock-classics",
+        "title": "Rock Classics Sheet Music",
+        "price": 24.99,
+        "type": "Digital",
+        "category": "Sheet Music",
+        "image": "/assets/products/rock-classics.png",
+        "description": "Complete sheet music for 100 iconic rock songs. Includes tabs and standard notation."
+    },
+    {
+        "id": "hoodie-black",
+        "title": "Guitar Sheets Hoodie",
+        "price": 39.99,
+        "type": "Physical",
+        "category": "Merchandise",
+        "image": "/assets/products/hoodie-black.png",
+        "description": "Comfortable black hoodie with embroidered logo. Premium cotton blend for all-day wear."
+    },
+    {
+        "id": "tuner-clip",
+        "title": "Clip-On Tuner",
+        "price": 12.99,
+        "type": "Physical",
+        "category": "Accessories",
+        "image": "/assets/products/tuner-clip.png",
+        "description": "Chromatic clip-on tuner with bright LCD display. Works in noisy environments."
+    },
+    {
+        "id": "fingerstyle-course",
+        "title": "Fingerstyle Mastery Course",
+        "price": 44.99,
+        "type": "Digital",
+        "category": "Learning Materials",
+        "image": "/assets/products/fingerstyle-course.png",
+        "description": "Learn fingerstyle techniques from beginner to advanced. 20 video lessons with tabs."
+    },
+    {
+        "id": "jazz-chords-book",
+        "title": "Jazz Chord Encyclopedia",
+        "price": 18.99,
+        "type": "Digital",
+        "category": "Sheet Music",
+        "image": "/assets/products/jazz-chords-book.png",
+        "description": "Over 500 jazz chord voicings with diagrams and progressions. Essential for jazz guitarists."
+    },
+    {
+        "id": "strap-leather",
+        "title": "Leather Guitar Strap",
+        "price": 34.99,
+        "type": "Physical",
+        "category": "Accessories",
+        "image": "/assets/products/strap-leather.png",
+        "description": "Handcrafted genuine leather strap. Adjustable length with padded shoulder support."
+    },
+    {
+        "id": "sticker-pack",
+        "title": "Guitar Sticker Pack",
+        "price": 7.99,
+        "type": "Physical",
+        "category": "Merchandise",
+        "image": "/assets/products/sticker-pack.png",
+        "description": "20 waterproof vinyl stickers featuring music-themed designs. Perfect for laptops and cases."
+    },
+    {
+        "id": "metronome-digital",
+        "title": "Digital Metronome",
+        "price": 16.99,
+        "type": "Physical",
+        "category": "Accessories",
+        "image": "/assets/products/metronome-digital.png",
+        "description": "Compact digital metronome with visual and audio cues. Tempo range 30-250 BPM."
+    },
+    {
+        "id": "flamenco-techniques",
+        "title": "Flamenco Guitar Techniques",
+        "price": 34.99,
+        "type": "Digital",
+        "category": "Learning Materials",
+        "image": "/assets/products/flamenco-techniques.png",
+        "description": "Master authentic flamenco techniques with step-by-step video tutorials and sheet music."
+    },
+    {
+        "id": "classical-anthology",
+        "title": "Classical Guitar Anthology",
+        "price": 28.99,
+        "type": "Digital",
+        "category": "Sheet Music",
+        "image": "/assets/products/classical-anthology.png",
+        "description": "Premium collection of 75 classical pieces from Bach to Villa-Lobos. PDF with audio samples."
+    },
+    {
+        "id": "cap-embroidered",
+        "title": "Embroidered Guitar Cap",
+        "price": 19.99,
+        "type": "Physical",
+        "category": "Merchandise",
+        "image": "/assets/products/cap-embroidered.png",
+        "description": "Adjustable baseball cap with 3D embroidered guitar design. Available in black and navy."
+    },
+    {
+        "id": "slide-glass",
+        "title": "Glass Slide",
+        "price": 11.99,
+        "type": "Physical",
+        "category": "Accessories",
+        "image": "/assets/products/slide-glass.png",
+        "description": "Professional glass slide for authentic blues tone. Medium weight, fits ring and pinky fingers."
+    },
+    {
+        "id": "theory-masterclass",
+        "title": "Music Theory Masterclass",
+        "price": 54.99,
+        "type": "Digital",
+        "category": "Learning Materials",
+        "image": "/assets/products/theory-masterclass.png",
+        "description": "Complete music theory course from basics to advanced. 30 lessons with quizzes and exercises."
+    },
+    {
+        "id": "metal-tabs",
+        "title": "Metal Guitar Tab Book",
+        "price": 21.99,
+        "type": "Digital",
+        "category": "Sheet Music",
+        "image": "/assets/products/metal-tabs.png",
+        "description": "Heavy metal and thrash guitar tabs from the 80s and 90s. Over 60 songs with solo transcriptions."
+    },
+    {
+        "id": "tote-bag",
+        "title": "Canvas Tote Bag",
+        "price": 16.99,
+        "type": "Physical",
+        "category": "Merchandise",
+        "image": "/assets/products/tote-bag.png",
+        "description": "Eco-friendly canvas tote bag with vintage guitar print. Perfect for carrying sheet music and gear."
+    },
+    {
+        "id": "picks-variety",
+        "title": "Pick Variety Pack (x36)",
+        "price": 19.99,
+        "type": "Physical",
+        "category": "Accessories",
+        "image": "/assets/products/picks-variety.png",
+        "description": "36 picks in various thicknesses and materials. Find your perfect pick!"
     }
 ]

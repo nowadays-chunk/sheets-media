@@ -10,10 +10,13 @@ export default function Layout() {
     <div
       style={{
         display: "flex",
+        position: 'fixed',
+        top: 155, // 65px (MainAppBar) + 40px (MenuBar) + 50px (Toolbar)
+        left: 0,
         width: "100%",
-        height: "auto",
-        minHeight: "100vh",
-        overflow: "visible",
+        height: "calc(100vh - 155px)", // Subtract top offset
+        overflow: "hidden",
+        zIndex: 1, // Below toolbars but above page content
       }}
     >
       <PalettePanel />
@@ -23,20 +26,30 @@ export default function Layout() {
           flex: 1,
           display: "flex",
           flexDirection: "column",
-          height: "calc(100vh - 65px)",
-          overflow: "hidden", // Prevent global scroll
+          height: "100%",
+          overflow: "hidden",
+          minWidth: 0, // Allow flex shrinking
         }}
       >
         {/* FRETBOARD & CONTROLS */}
-        <MusicApp
-          board="compose"
-          showFretboardControls={false}
-          showCircleOfFifths={false}
-          showFretboard={true}
-          showChordComposer={false}
-          showProgressor={false}
-          showSongsSelector={false}
-        />
+        <div
+          style={{
+            flexShrink: 0,
+            height: "auto",
+            maxHeight: "40%",
+            overflow: "hidden",
+          }}
+        >
+          <MusicApp
+            board="compose"
+            showFretboardControls={false}
+            showCircleOfFifths={false}
+            showFretboard={true}
+            showChordComposer={false}
+            showProgressor={false}
+            showSongsSelector={false}
+          />
+        </div>
 
         {/* SCORE + TAB TOGGLE + SVG */}
         <ScoreCanvas />

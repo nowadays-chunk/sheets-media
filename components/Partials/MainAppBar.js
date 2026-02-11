@@ -59,7 +59,7 @@ const MainAppBar = ({ open, handleDrawerToggle, isHomepage = false }) => {
             <Button component={Link} href="/stats" color="inherit">Stats</Button>
             <Button component={Link} href="/tables" color="inherit">Tables</Button>
             <Button component={Link} href="/references" color="inherit">References</Button>
-            <Button component={Link} href="/#store" sx={{ color: 'red', fontWeight: 'bold' }}>Store</Button>
+            <Button component={Link} href="/store" sx={{ color: 'red', fontWeight: 'bold' }}>Store</Button>
 
             <IconButton color="inherit" sx={{ mr: 1 }} onClick={() => dispatch(toggleCart())}>
                 <Badge badgeContent={cartCount} color="error">

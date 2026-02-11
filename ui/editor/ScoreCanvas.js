@@ -93,16 +93,17 @@ export default function ScoreCanvas() {
           overflowX: "auto",
           overflowY: "hidden",
           display: "flex",
-          alignItems: "center",
+          alignItems: "flex-start",
           justifyContent: "flex-start",
           position: "relative",
-          width: "100%"
+          width: "100%",
+          minHeight: 0,
         }}
       >
         <CursorOverlay activeTab={activeTab} />
 
         {/* CONTAINER FOR CONTENT TO ENSURE IT CAN GROW HORIZONTALLY */}
-        <div style={{ display: "flex", alignItems: "center", minHeight: "100%" }}>
+        <div style={{ display: "flex", minHeight: "100%" }}>
           {/* SCORE SVG */}
           <div
             ref={notationRef}

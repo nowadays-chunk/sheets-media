@@ -34,14 +34,14 @@ const OptionButton = styled(Button, { shouldForwardProp: (prop) => prop !== 'sel
   ({ theme, selected }) => ({
     borderRadius: "12px",
     textTransform: "none",
-    fontWeight: selected ? 600 : 400,
+    fontWeight: selected ? 600 : 500,
     boxShadow: selected ? '0 2px 8px rgba(25, 118, 210, 0.25)' : 'none',
-    border: selected ? `1px solid ${theme.palette.primary.main}` : `1px solid ${theme.palette.divider}`,
+    border: `1px solid ${selected ? theme.palette.primary.main : theme.palette.divider}`,
     backgroundColor: selected ? theme.palette.primary.main : 'transparent',
     color: selected ? theme.palette.common.white : theme.palette.text.primary,
     '&:hover': {
       backgroundColor: selected ? theme.palette.primary.dark : theme.palette.action.hover,
-      border: selected ? `1px solid ${theme.palette.primary.dark}` : `1px solid ${theme.palette.action.hover}`,
+      border: `1px solid ${selected ? theme.palette.primary.dark : theme.palette.grey[400]}`,
     },
     width: '100%',
     justifyContent: 'flex-start',

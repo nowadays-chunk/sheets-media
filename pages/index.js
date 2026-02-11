@@ -317,7 +317,7 @@ const ProjectFunctionalities = () => {
                         ))}
                     </Grid>
                     <Box sx={{ textAlign: 'center', mt: 6 }}>
-                        <Button variant="outlined" size="large" endIcon={<ShoppingCartIcon />}>View All Products</Button>
+                        <Button component={Link} href="/store" variant="outlined" size="large" endIcon={<ShoppingCartIcon />}>View All Products</Button>
                     </Box>
                 </Container>
             </Box>
@@ -421,7 +421,7 @@ const ProjectFunctionalities = () => {
                             <Box component="ul" sx={{ listStyle: 'none', p: 0, m: 0 }}>
                                 <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/play" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Player</Typography></Box>
                                 <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/compose" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Composer</Typography></Box>
-                                <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="#store" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Store</Typography></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/store" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Store</Typography></Box>
                             </Box>
                         </Grid>
                         <Grid item xs={6} sm={2}>

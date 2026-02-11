@@ -133,11 +133,17 @@ export default function Toolbar() {
   return (
     <Box
       sx={{
+        position: 'fixed',
+        top: 105, // 65px (MainAppBar) + 40px (MenuBar)
+        left: 0,
+        right: 0,
         display: "flex",
         gap: 1,
         padding: 1,
         borderBottom: "1px solid #ddd",
         background: "#fafafa",
+        zIndex: 1100,
+        overflowX: 'auto',
       }}
     >
       <Tooltip title="Select tool">
