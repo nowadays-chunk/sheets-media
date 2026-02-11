@@ -29,6 +29,7 @@ import { styled } from "@mui/material/styles";
 const SIDEBAR_WIDTH = 350;
 const SIDEBAR_CLOSED = 40;
 const HEADER_HEIGHT = 65;
+const HEADER_HEIGHT_MOBILE = 57;
 
 // ============================================================================
 // RSS FEEDS
@@ -49,18 +50,25 @@ const RSS_FEEDS = [
 // ============================================================================
 // RESPONSIVE CONTAINER
 // ============================================================================
-const ResponsiveContainer = styled("div")({
+// ============================================================================
+// RESPONSIVE CONTAINER
+// ============================================================================
+const ResponsiveContainer = styled("div")(({ theme }) => ({
   width: "100%",
-  maxWidth: "100vw",
+  maxWidth: "100%", // Changed from 100vw to avoid overflow
   overflowX: "hidden",
-  padding: "0 80px",
   margin: "0 auto",
   boxSizing: "border-box",
+  padding: "20px 80px", // Desktop default
 
-  "@media (max-width:1200px)": {
-    padding: "0 20px",
+  [theme.breakpoints.down("lg")]: {
+    padding: "80px 40px", // Tablet / Small Laptop
   },
-});
+
+  [theme.breakpoints.down("sm")]: {
+    padding: "80px 10px", // Mobile
+  },
+}));
 
 // ============================================================================
 // MASONRY
@@ -73,8 +81,8 @@ const MasonryWrapper = styled("div")(({ theme }) => ({
   overflowX: "hidden",
   boxSizing: "border-box",
 
-  [theme.breakpoints.up("md")]: { columnCount: 2 },
-  [theme.breakpoints.up("lg")]: { columnCount: 3 },
+  [theme.breakpoints.up("sm")]: { columnCount: 2 }, // Tablet: 2 columns
+  [theme.breakpoints.up("lg")]: { columnCount: 3 }, // Desktop: 3 columns
 }));
 
 const MasonryItem = styled("div")({
@@ -144,14 +152,17 @@ const SidebarScroll = styled("div")({
 // ============================================================================
 const MobileDrawer = styled("div")(({ open }) => ({
   position: "fixed",
-  top: HEADER_HEIGHT,
+  top: HEADER_HEIGHT_MOBILE,
   left: 0,
   right: 0,
 
   width: "100%",
   maxWidth: "100%",
   background: "#f5f5f5",
-  borderBottom: "1px solid #ddd",
+  borderTop: "1px solid #ddd",
+  borderTop: "1px solid #5a5656ff",
+  borderBottom: "1px solid #5a5656ff",
+
   transition: "max-height 0.35s ease",
 
   maxHeight: open ? "80vh" : 40,

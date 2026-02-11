@@ -37,7 +37,7 @@ import Meta from "../Partials/Head";
 const SIDEBAR_CLOSED = 40;
 const SIDEBAR_OPEN = 600;
 const HEADER_HEIGHT = 65;
-const HEADER_HEIGHT_MOBILE = 58;
+const HEADER_HEIGHT_MOBILE = 57;
 
 // ============================================================================
 // STYLED COMPONENTS
