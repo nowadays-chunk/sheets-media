@@ -1,0 +1,94 @@
+[
+    {
+        "id": "spring-2026",
+        "name": "Spring Guitar Championship 2026",
+        "startDate": "2026-04-01",
+        "endDate": "2026-04-30",
+        "status": "upcoming",
+        "description": "Join our prestigious spring competition featuring solo performances and original compositions. Show the world your musical talent!",
+        "prizePool": "$5,000",
+        "registrationDeadline": "2026-03-25",
+        "rules": [
+            "Performances must be 3-5 minutes long",
+            "Any guitar style is welcome (classical, acoustic, electric)",
+            "Original compositions get bonus points",
+            "Submit high-quality video recording"
+        ],
+        "categories": [
+            "Solo Performance",
+            "Original Composition",
+            "Cover Performance"
+        ]
+    },
+    {
+        "id": "summer-2026",
+        "name": "Summer Acoustic Festival 2026",
+        "startDate": "2026-07-15",
+        "endDate": "2026-08-15",
+        "status": "upcoming",
+        "description": "Celebrate the summer with acoustic guitar performances. Perfect for folk, fingerstyle, and classical guitarists.",
+        "prizePool": "$3,500",
+        "registrationDeadline": "2026-07-01",
+        "rules": [
+            "Acoustic guitars only",
+            "Performance duration: 4-6 minutes",
+            "Covers and originals both accepted",
+            "Live or studio recording accepted"
+        ],
+        "categories": [
+            "Fingerstyle",
+            "Classical",
+            "Folk"
+        ]
+    },
+    {
+        "id": "winter-2025",
+        "name": "Winter Guitar Championship 2025",
+        "startDate": "2025-12-01",
+        "endDate": "2025-12-31",
+        "status": "completed",
+        "description": "Our annual winter championship brought together the best guitarists from around the world.",
+        "prizePool": "$4,500",
+        "registrationDeadline": "2025-11-20",
+        "rules": [
+            "Performances must be 3-5 minutes long",
+            "Any style welcome",
+            "Professional quality recording required"
+        ],
+        "categories": [
+            "Solo Performance",
+            "Original Composition",
+            "Cover Performance"
+        ],
+        "winners": [
+            "sarah-chen",
+            "marcus-rodriguez",
+            "elena-petrova"
+        ]
+    },
+    {
+        "id": "fall-2025",
+        "name": "Fall Electric Guitar Showdown 2025",
+        "startDate": "2025-09-01",
+        "endDate": "2025-10-15",
+        "status": "completed",
+        "description": "Electric guitar competitors battled it out with stunning solos and innovative techniques.",
+        "prizePool": "$4,000",
+        "registrationDeadline": "2025-08-25",
+        "rules": [
+            "Electric guitars only",
+            "Technical skill heavily weighted",
+            "Innovation and creativity valued"
+        ],
+        "categories": [
+            "Shred",
+            "Jazz Fusion",
+            "Rock"
+        ],
+        "winners": [
+            "david-nakamura",
+            "lisa-anderson",
+            "carlos-santos"
+        ]
+    }
+]

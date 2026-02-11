@@ -1,42 +1,110 @@
 import React from 'react';
 import Meta from '../../components/Partials/Head';
-import { Container, Typography, Box, Button } from '@mui/material';
+import { Container, Typography, Box, Button, Divider } from '@mui/material';
 import Link from 'next/link';
+import TournamentSchedule from '../../components/Pages/TournamentSchedule';
+import WinnersRanking from '../../components/Pages/WinnersRanking';
+import ArtworkGallery from '../../components/Pages/ArtworkGallery';
+import tournamentsData from '../../data/tournaments.json';
+import winnersData from '../../data/winners.json';
 
-const CompetitionPage = () => {
+export async function getStaticProps() {
+    return {
+        props: {
+            tournaments: tournamentsData,
+            winners: winnersData,
+        },
+    };
+}
+
+const CompetitionPage = ({ tournaments, winners }) => {
     return (
         <>
             <Meta
                 title="Join Competition - Guitar Sheets"
-                description="Join our guitar competition and show off your skills!"
+                description="Join our guitar competition and show off your skills! Compete with guitarists worldwide, win amazing prizes, and showcase your talent."
             />
-            <Container maxWidth="md" sx={{ mt: 8, mb: 8, textAlign: 'center' }}>
-                <Typography variant="h2" component="h1" gutterBottom sx={{ fontWeight: 'bold' }}>
-                    Join the Competition
-                </Typography>
-                <Typography variant="h5" component="h2" gutterBottom color="text.secondary">
-                    Showcase your skills and win amazing prizes!
-                </Typography>
-                <Box sx={{ mt: 4, display: 'flex', gap: 3, justifyContent: 'center', flexWrap: 'wrap' }}>
-                    <Link href="/competition/video-contest" passHref legacyBehavior>
-                        <Button variant="contained" color="secondary" size="large" sx={{ py: 2, px: 4 }}>
-                            Video Contest
-                        </Button>
-                    </Link>
-                    <Link href="/competition/submit-track" passHref legacyBehavior>
-                        <Button variant="contained" color="primary" size="large" sx={{ py: 2, px: 4 }}>
-                            Submit a Track
-                        </Button>
-                    </Link>
-                </Box>
-                <Box sx={{ mt: 6 }}>
-                    <Link href="/" passHref legacyBehavior>
-                        <Button variant="outlined" color="primary">
-                            Back to Home
-                        </Button>
-                    </Link>
-                </Box>
-            </Container>
+
+            {/* Hero Section */}
+            <Box
+                sx={{
+                    background: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
+                    color: 'white',
+                    py: 12,
+                    mt: 8,
+                    textAlign: 'center',
+                }}
+            >
+                <Container maxWidth="lg">
+                    <Typography
+                        variant="h2"
+                        component="h1"
+                        gutterBottom
+                        sx={{ fontWeight: 'bold', mb: 3 }}
+                    >
+                        Guitar Competitions
+                    </Typography>
+                    <Typography variant="h5" component="h2" gutterBottom sx={{ mb: 4 }}>
+                        Showcase your skills and win amazing prizes!
+                    </Typography>
+                    <Box sx={{ display: 'flex', gap: 3, justifyContent: 'center', flexWrap: 'wrap' }}>
+                        <Link href="/competition/video-contest" passHref legacyBehavior>
+                            <Button
+                                variant="contained"
+                                color="secondary"
+                                size="large"
+                                sx={{
+                                    py: 2,
+                                    px: 4,
+                                    bgcolor: 'white',
+                                    color: 'primary.main',
+                                    '&:hover': { bgcolor: 'grey.100' },
+                                }}
+                            >
+                                Video Contest
+                            </Button>
+                        </Link>
+                        <Link href="/competition/submit-track" passHref legacyBehavior>
+                            <Button
+                                variant="contained"
+                                size="large"
+                                sx={{
+                                    py: 2,
+                                    px: 4,
+                                    bgcolor: 'rgba(255,255,255,0.2)',
+                                    color: 'white',
+                                    backdropFilter: 'blur(10px)',
+                                    '&:hover': { bgcolor: 'rgba(255,255,255,0.3)' },
+                                }}
+                            >
+                                Submit a Track
+                            </Button>
+                        </Link>
+                    </Box>
+                </Container>
+            </Box>
+
+            {/* Tournament Schedule Section */}
+            <TournamentSchedule tournaments={tournaments} />
+
+            <Divider sx={{ my: 8 }} />
+
+            {/* Winners Ranking Section */}
+            <WinnersRanking winners={winners} />
+
+            <Divider sx={{ my: 8 }} />
+
+            {/* Artwork Gallery Section */}
+            <ArtworkGallery winners={winners} />
+
+            {/* Footer Navigation */}
+            <Box sx={{ textAlign: 'center', py: 8 }}>
+                <Link href="/" passHref legacyBehavior>
+                    <Button variant="outlined" color="primary" size="large">
+                        Back to Home
+                    </Button>
+                </Link>
+            </Box>
         </>
     );
 };

@@ -83,7 +83,7 @@ const CartPage = () => {
     }
 
     return (
-        <Container maxWidth="lg" sx={{ py: 4 }}>
+        <Container maxWidth="lg" sx={{ py: 10 }}>
             <Meta
                 title="Shopping Cart | Guitar Sheets Store"
                 description="Review your cart and checkout guitar sheets and music products. Secure checkout for digital and physical guitar learning materials."

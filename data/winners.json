@@ -1,0 +1,98 @@
+[
+    {
+        "id": "sarah-chen",
+        "name": "Sarah Chen",
+        "rank": 1,
+        "competition": "Winter Guitar Championship 2025",
+        "year": 2025,
+        "prize": "$2,500",
+        "description": "Sarah's breathtaking classical guitar interpretation of contemporary pieces captivated the judges with technical precision and emotional depth.",
+        "artworkUrl": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800&q=80",
+        "artworkTitle": "Harmonic Resonance",
+        "socialMedia": {
+            "instagram": "@sarahchenguitar",
+            "youtube": "@SarahChenMusic"
+        },
+        "bio": "Classical guitarist and composer from San Francisco"
+    },
+    {
+        "id": "marcus-rodriguez",
+        "name": "Marcus Rodriguez",
+        "rank": 2,
+        "competition": "Winter Guitar Championship 2025",
+        "year": 2025,
+        "prize": "$1,500",
+        "description": "Marcus brought innovative flamenco fusion techniques that pushed the boundaries of traditional guitar performance.",
+        "artworkUrl": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=800&q=80",
+        "artworkTitle": "Flamenco Dreams",
+        "socialMedia": {
+            "instagram": "@marcusrodriguezguitar",
+            "youtube": "@MarcusRMusic"
+        },
+        "bio": "Flamenco guitarist and instructor from Barcelona"
+    },
+    {
+        "id": "elena-petrova",
+        "name": "Elena Petrova",
+        "rank": 3,
+        "competition": "Winter Guitar Championship 2025",
+        "year": 2025,
+        "prize": "$1,000",
+        "description": "Elena's original composition showcased masterful fingerstyle technique with hauntingly beautiful melodies.",
+        "artworkUrl": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=800&q=80",
+        "artworkTitle": "Midnight Strings",
+        "socialMedia": {
+            "instagram": "@elenapetrova_guitar",
+            "youtube": "@ElenaPMusic"
+        },
+        "bio": "Fingerstyle guitarist and songwriter from Moscow"
+    },
+    {
+        "id": "david-nakamura",
+        "name": "David Nakamura",
+        "rank": 1,
+        "competition": "Fall Electric Guitar Showdown 2025",
+        "year": 2025,
+        "prize": "$2,000",
+        "description": "David's lightning-fast shred technique combined with melodic sensibility created an unforgettable performance.",
+        "artworkUrl": "https://images.unsplash.com/photo-1525201548942-d8732f6617a0?w=800&q=80",
+        "artworkTitle": "Electric Fury",
+        "socialMedia": {
+            "instagram": "@davidnakamuraguitar",
+            "youtube": "@DavidNRock"
+        },
+        "bio": "Rock guitarist and session musician from Tokyo"
+    },
+    {
+        "id": "lisa-anderson",
+        "name": "Lisa Anderson",
+        "rank": 2,
+        "competition": "Fall Electric Guitar Showdown 2025",
+        "year": 2025,
+        "prize": "$1,200",
+        "description": "Lisa's jazz fusion improvisation demonstrated exceptional musicality and genre-bending creativity.",
+        "artworkUrl": "https://images.unsplash.com/photo-1498038432885-c6f3f1b912ee?w=800&q=80",
+        "artworkTitle": "Jazz Voyage",
+        "socialMedia": {
+            "instagram": "@lisaandersonjazz",
+            "youtube": "@LisaAJazz"
+        },
+        "bio": "Jazz guitarist and educator from New York"
+    },
+    {
+        "id": "carlos-santos",
+        "name": "Carlos Santos",
+        "rank": 3,
+        "competition": "Fall Electric Guitar Showdown 2025",
+        "year": 2025,
+        "prize": "$800",
+        "description": "Carlos delivered a powerful rock performance with innovative effects and dynamic stage presence.",
+        "artworkUrl": "https://images.unsplash.com/photo-1471478331149-c72f17e33c73?w=800&q=80",
+        "artworkTitle": "Rock Revolution",
+        "socialMedia": {
+            "instagram": "@carlossantosrock",
+            "youtube": "@CarlosSRock"
+        },
+        "bio": "Rock guitarist and producer from São Paulo"
+    }
+]
