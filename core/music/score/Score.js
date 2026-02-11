@@ -7,7 +7,7 @@ export default class Score {
   constructor() {
     this.title = "";
     this.composer = "";
-    this.timeSignature = new TimeSignature(4,4);
+    this.timeSignature = new TimeSignature(4, 4);
     this.keySignature = new KeySignature("C");
     this.clef = new Clef("treble");
 
@@ -24,16 +24,38 @@ export default class Score {
   }
 
   addNote(beat, note) {
-    const beatsPerMeasure = this.timeSignature.beats;
-    const measureIndex = Math.floor(beat / beatsPerMeasure);
+    let accumulatedBeats = 0;
+    let measureIndex = 0;
 
-    while (this.measures.length <= measureIndex) {
-      this.addMeasure();
+    // 1. Try to find in existing measures
+    while (measureIndex < this.measures.length) {
+      const m = this.measures[measureIndex];
+      const beatsInMeasure = m.timeSignature.beats;
+
+      if (beat < accumulatedBeats + beatsInMeasure) {
+        // Found the target measure
+        const localBeat = beat - accumulatedBeats;
+        m.voices[0].addNote(localBeat, note);
+        return;
+      }
+
+      accumulatedBeats += beatsInMeasure;
+      measureIndex++;
     }
 
-    const m = this.measures[measureIndex];
-    const localBeat = beat % beatsPerMeasure;
-    m.voices[0].addNote(localBeat, note);
+    // 2. If not found, add new measures until we cover the beat
+    while (true) {
+      const m = this.addMeasure();
+      const beatsInMeasure = m.timeSignature.beats;
+
+      if (beat < accumulatedBeats + beatsInMeasure) {
+        const localBeat = beat - accumulatedBeats;
+        m.voices[0].addNote(localBeat, note);
+        return;
+      }
+
+      accumulatedBeats += beatsInMeasure;
+    }
   }
 
   serialize() {

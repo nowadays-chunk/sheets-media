@@ -27,6 +27,7 @@ import store from '../redux/store';
 import '../styles/styles.css';
 import '../styles/CircleOfFifths.css';
 import './styles.css';
+import MainAppBar from '../components/Partials/MainAppBar';
 
 const inter = Open_Sans({ subsets: ['latin'], weight: ['300', '400', '500', '700'] });
 
@@ -60,32 +61,6 @@ const Main = styled('main', { shouldForwardProp: (prop) => prop !== 'open' })(
   })
 );
 
-const AppBarStyled = styled(AppBar, {
-  shouldForwardProp: (prop) => prop !== 'open',
-})(({ theme, open }) => ({
-  padding: '0 25px',
-  margin: 0,
-  width: '100%',              // ← FIXED (was 100vw)
-
-  transition: theme.transitions.create(['margin', 'width'], {
-    easing: theme.transitions.easing.sharp,
-    duration: theme.transitions.duration.leavingScreen,
-  }),
-
-  '@media print': { display: 'none' },
-
-  ...(open && {
-    width: `calc(100% - ${drawerWidth}px)`,   // ← FIXED (was 100vw)
-    left: `${drawerWidth}px`,
-
-    transition: theme.transitions.create(['margin', 'width'], {
-      easing: theme.transitions.easing.easeOut,
-      duration: theme.transitions.duration.enteringScreen,
-    }),
-  }),
-
-  zIndex: 3000,
-}));
 
 const DrawerHeader = styled('div')(({ theme }) => ({
   display: 'flex',
@@ -102,28 +77,10 @@ const Container = styled('div')({
   overflowX: 'hidden',    // ← SAFETY
 });
 
-const NavLinks = styled('div')({
-  display: 'flex',
-  alignItems: 'center',
-  textDecoration: 'none',
-  gap: '16px',
-});
-
-const StyledLink = styled(Link)({
-  textDecoration: 'none',
-  color: 'inherit',
-});
-
 const DrawerContent = styled('div')({
   width: drawerWidth,
   zIndex: 10000,
   position: 'relative',
-});
-
-const ToolbarContent = styled('div')({
-  display: 'flex',
-  justifyContent: 'space-between',
-  width: '100%',
 });
 
 /* -----------------------------------------------------------
@@ -159,24 +116,15 @@ function App({ Component, pageProps }) {
       <Divider />
 
       <List>
-        <Link href="/play" passHref legacyBehavior>
-          <ListItem onClick={handleDrawerToggle} button><ListItemText primary="Play and Visualize" /></ListItem>
-        </Link>
-        <Link href="/news" passHref legacyBehavior>
-          <ListItem onClick={handleDrawerToggle} button><ListItemText primary="Musicians News" /></ListItem>
-        </Link>
-        <Link href="/learn" passHref legacyBehavior>
-          <ListItem onClick={handleDrawerToggle} button><ListItemText primary="Learn Songs" /></ListItem>
-        </Link>
-        <Link href="/circle" passHref legacyBehavior>
-          <ListItem onClick={handleDrawerToggle} button><ListItemText primary="The Circle Of Fifths" /></ListItem>
-        </Link>
-        <Link href="/compose" passHref legacyBehavior>
-          <ListItem onClick={handleDrawerToggle} button><ListItemText primary="Compose Music" /></ListItem>
-        </Link>
-        <Link href="/references" passHref legacyBehavior>
-          <ListItem onClick={handleDrawerToggle} button><ListItemText primary="References" /></ListItem>
-        </Link>
+        <ListItem component={Link} href="/play" onClick={handleDrawerToggle} button><ListItemText primary="Play and Visualize" /></ListItem>
+        <ListItem component={Link} href="/news" onClick={handleDrawerToggle} button><ListItemText primary="Musicians News" /></ListItem>
+        <ListItem component={Link} href="/learn" onClick={handleDrawerToggle} button><ListItemText primary="Learn Songs" /></ListItem>
+        <ListItem component={Link} href="/circle" onClick={handleDrawerToggle} button><ListItemText primary="The Circle Of Fifths" /></ListItem>
+        <ListItem component={Link} href="/compose" onClick={handleDrawerToggle} button><ListItemText primary="Compose Music" /></ListItem>
+        <ListItem component={Link} href="/competition" onClick={handleDrawerToggle} button><ListItemText primary="Join Competition" /></ListItem>
+        <ListItem component={Link} href="/stats" onClick={handleDrawerToggle} button><ListItemText primary="Stats" /></ListItem>
+        <ListItem component={Link} href="/references" onClick={handleDrawerToggle} button><ListItemText primary="References" /></ListItem>
+        <ListItem component={Link} href="/#store" onClick={handleDrawerToggle} button><ListItemText primary="Store" sx={{ color: 'red' }} /></ListItem>
       </List>
 
       <Divider />
@@ -202,37 +150,11 @@ function App({ Component, pageProps }) {
 
           <Box sx={{ display: 'flex', width: '100%', overflowX: 'hidden', bgcolor: 'white', color: 'black' }}>
 
-            <AppBarStyled position="fixed" open={drawerOpen} elevation={0} sx={{ borderBottom: '1px solid #eee' }}>
-              <ToolbarContent>
-                <IconButton
-                  color="inherit"
-                  aria-label="open drawer"
-                  onClick={handleDrawerToggle}
-                  edge="end"
-                  sx={{
-                    mr: 2,
-                    ...(drawerOpen && { display: 'none' }),
-                    "@media (min-width:1200px)": { display: "none" },
-                  }}
-                >
-                  <MenuIcon />
-                </IconButton>
-
-                <Link href="/" passHref legacyBehavior>
-                  <Button startIcon={<FavoriteIcon color="secondary" />} color="inherit">
-                    <Typography variant="h6" noWrap fontWeight="bold" sx={{ color: 'black' }}>GUITAR SHEETS</Typography>
-                  </Button>
-                </Link>
-
-                <NavLinks sx={{ "@media (max-width:1200px)": { display: "none" } }}>
-                  <StyledLink href="/play"><Button color="primary">Play</Button></StyledLink>
-                  <StyledLink href="/compose"><Button color="primary">Compose</Button></StyledLink>
-                  <StyledLink href="/learn"><Button color="inherit">Learn</Button></StyledLink>
-                  <StyledLink href="/news"><Button color="inherit">News</Button></StyledLink>
-                  <StyledLink href="/references"><Button color="inherit">References</Button></StyledLink>
-                </NavLinks>
-              </ToolbarContent>
-            </AppBarStyled>
+            <MainAppBar
+              open={drawerOpen}
+              handleDrawerToggle={handleDrawerToggle}
+              isHomepage={false}
+            />
 
             <nav style={{ zIndex: 10000 }}>
               <Drawer

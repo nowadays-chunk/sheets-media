@@ -36,7 +36,7 @@ import Meta from "../Partials/Head";
 // ============================================================================
 const SIDEBAR_CLOSED = 40;
 const SIDEBAR_OPEN = 600;
-const HEADER_HEIGHT = 44;
+const HEADER_HEIGHT = 65;
 
 // ============================================================================
 // STYLED COMPONENTS
@@ -343,7 +343,7 @@ const MusicApp = (props) => {
       {/* MAIN CONTENT */}
       <MainContent drawerOpen={drawerOpen}>
         <MainInner sx={{
-          "@media (min-width:1200px)": { padding: board === 'compose' ? '20px' : "0px 180px" }
+          "@media (min-width:1200px)": { padding: board === 'compose' ? '10px' : "0px 180px" }
         }}>
           <Root>
             <Meta />
@@ -362,7 +362,7 @@ const MusicApp = (props) => {
                     }}
                     onElementChange={onElementChange}
                     onNoteClick={(noteObj) => {
-                      if (selectedFretboard.generalSettings.page === "compose"){
+                      if (selectedFretboard.generalSettings.page === "compose") {
                         console.log(noteObj);
                         addNoteFromFretboard(noteObj);
                       }
@@ -389,7 +389,7 @@ const MusicApp = (props) => {
               />
             )}
 
-            {showStats && <Stats boards={boards} />}
+            {showStats && <Stats p={0} boards={boards} />}
           </Root>
         </MainInner>
       </MainContent>

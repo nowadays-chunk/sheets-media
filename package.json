@@ -10,7 +10,8 @@
     "lint": "next lint",
     "deploy": "git push origin HEAD:main --force",
     "postbuild": "next-sitemap",
-    "generate:pdf": "node ./generatePDF.js"
+    "generate:pdf": "node ./generatePDF.js",
+    "prebuild": "node scripts/precompute-stats.mjs"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",

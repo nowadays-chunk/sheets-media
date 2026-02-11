@@ -7,42 +7,43 @@ import { Typography } from '@mui/material';
 import { ScoreProvider } from "@/core/editor/ScoreContext";
 
 const Root = styled('div')({
+  marginTop: 100,
   display: 'flex',
   flexDirection: 'column',
   alignItems: 'center',
 });
 
-const ScaleComponent = ( props ) => {
+const ScaleComponent = (props) => {
   const { boards, title } = props;
 
-    return (
+  return (
     <Root>
       <ScoreProvider>
-      <Meta 
-        title={title} 
-        description="Explore my complete references for musical keys, scales, modes, and arpeggios. Find detailed information and resources for all keys, sharps, scales, modes, and arpeggios to enhance your musical knowledge."></Meta>
-      <Typography variant="h6">
-        {title}
-      </Typography>
+        <Meta
+          title={title}
+          description="Explore my complete references for musical keys, scales, modes, and arpeggios. Find detailed information and resources for all keys, sharps, scales, modes, and arpeggios to enhance your musical knowledge."></Meta>
+        <Typography variant="h6">
+          {title}
+        </Typography>
         {
-            boards.map((el, index) => {
-                return <MusicApp
-                        key={index}
-                        display="arppegio"
-                        board={el.board}
-                        keyIndex={el.keyIndex}
-                        quality={el.quality}
-                        shape={el.shape}
-                        
-                        showStats={false}
-                        showFretboardControls={false}
-                        showCircleOfFifths={false}
-                        showFretboard={true}
-                        showChordComposer={false}
-                        showProgressor={false}
-                        showSongsSelector={false}
-                    />
-            })
+          boards.map((el, index) => {
+            return <MusicApp
+              key={index}
+              display="arppegio"
+              board={el.board}
+              keyIndex={el.keyIndex}
+              quality={el.quality}
+              shape={el.shape}
+
+              showStats={false}
+              showFretboardControls={false}
+              showCircleOfFifths={false}
+              showFretboard={true}
+              showChordComposer={false}
+              showProgressor={false}
+              showSongsSelector={false}
+            />
+          })
         }
       </ScoreProvider>
     </Root>

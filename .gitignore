@@ -8,7 +8,7 @@
 /lib
 # testing
 /coverage
-/songs_all
+/songs_test
 # next.js
 /.next
 /_next

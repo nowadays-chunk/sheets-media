@@ -5,8 +5,8 @@ import AppShell from "@/ui/app/AppShell";
 
 const ComposeAndShare = () => {
   return (
-    <div style={{marginTop: '44px'}}>
-      <Meta 
+    <div style={{ marginTop: '65px' }}>
+      <Meta
         title="Compose And Share Music"
         description="Compose And Play Guitar Songs ON ALL KEYS, CHORDS, SHAPES, SCALES, MODES, ARPPEGIONS DERIVED FROM A COMPLETE MUSICAL LIBRARY."
       ></Meta>

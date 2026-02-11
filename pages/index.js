@@ -31,6 +31,7 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import EmojiEventsIcon from '@mui/icons-material/EmojiEvents';
 import StarIcon from '@mui/icons-material/Star';
 import MovieIcon from '@mui/icons-material/Movie';
+import MainAppBar from '../components/Partials/MainAppBar';
 import globalTheme from '../ui/theme'; // Use the newly created theme
 
 // --- Reusable Components ---
@@ -62,11 +63,9 @@ const FeatureCard = ({ title, description, icon, link, buttonText, color }) => (
                 </Typography>
             </CardContent>
             <CardActions sx={{ justifyContent: 'center', pb: 3 }}>
-                <Link href={link} passHref legacyBehavior>
-                    <Button variant="outlined" sx={{ color: color, borderColor: color, '&:hover': { borderColor: color, bgcolor: `${color}10` } }}>
-                        {buttonText}
-                    </Button>
-                </Link>
+                <Button component={Link} href={link} variant="outlined" sx={{ color: color, borderColor: color, '&:hover': { borderColor: color, bgcolor: `${color}10` } }}>
+                    {buttonText}
+                </Button>
             </CardActions>
         </Card>
     </Grid>
@@ -101,26 +100,41 @@ const ProductCard = ({ title, price, image, type }) => (
             </Box>
             <Box sx={{
                 height: 200,
-                background: type === 'Physical' ? 'linear-gradient(135deg, #e0e0e0 0%, #f5f5f5 100%)' : 'linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%)',
-                display: 'flex',
-                alignItems: 'center',
-                justifyContent: 'center',
                 position: 'relative',
-                overflow: 'hidden'
+                overflow: 'hidden',
+                bgcolor: '#f5f5f5'
             }}>
-                <Box sx={{
-                    position: 'absolute',
-                    top: -20,
-                    right: -20,
-                    width: 100,
-                    height: 100,
-                    borderRadius: '50%',
-                    background: 'rgba(255,255,255,0.2)'
-                }} />
-                {type === 'Physical' ?
-                    <ShoppingCartIcon sx={{ fontSize: 60, color: 'text.secondary', opacity: 0.3 }} /> :
-                    <LibraryMusicIcon sx={{ fontSize: 60, color: 'primary.main', opacity: 0.3 }} />
-                }
+                {image ? (
+                    <Image
+                        src={image}
+                        alt={title}
+                        fill
+                        style={{ objectFit: 'cover' }}
+                    />
+                ) : (
+                    <Box sx={{
+                        height: '100%',
+                        background: type === 'Physical' ? 'linear-gradient(135deg, #e0e0e0 0%, #f5f5f5 100%)' : 'linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%)',
+                        display: 'flex',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        position: 'relative'
+                    }}>
+                        <Box sx={{
+                            position: 'absolute',
+                            top: -20,
+                            right: -20,
+                            width: 100,
+                            height: 100,
+                            borderRadius: '50%',
+                            background: 'rgba(255,255,255,0.2)'
+                        }} />
+                        {type === 'Physical' ?
+                            <ShoppingCartIcon sx={{ fontSize: 60, color: 'text.secondary', opacity: 0.3 }} /> :
+                            <LibraryMusicIcon sx={{ fontSize: 60, color: 'primary.main', opacity: 0.3 }} />
+                        }
+                    </Box>
+                )}
             </Box>
             <CardContent sx={{ flexGrow: 1 }}>
                 <Typography variant="h6" component="h3" gutterBottom fontWeight="bold" sx={{ fontSize: '1rem' }}>
@@ -178,38 +192,7 @@ const ProjectFunctionalities = () => {
             </Head>
 
             {/* Navigation Bar */}
-            <AppBar position="sticky" color="default" sx={{ bgcolor: 'white', borderBottom: '1px solid #f0f0f0' }} elevation={0}>
-                <Container maxWidth="xl">
-                    <Toolbar disableGutters>
-                        <LibraryMusicIcon sx={{ display: { xs: 'none', md: 'flex' }, mr: 1, color: 'primary.main' }} />
-                        <Typography
-                            variant="h6"
-                            noWrap
-                            component="a"
-                            href="/"
-                            sx={{
-                                mr: 2,
-                                display: { xs: 'none', md: 'flex' },
-                                fontFamily: 'monospace',
-                                fontWeight: 800,
-                                letterSpacing: '.05rem',
-                                color: 'text.primary',
-                                textDecoration: 'none',
-                            }}
-                        >
-                            GUITAR SHEETS
-                        </Typography>
-
-                        <Box sx={{ flexGrow: 1, display: 'flex', justifyContent: 'flex-end', gap: 1 }}>
-                            <Link href="/play" passHref legacyBehavior><Button color="inherit">Play</Button></Link>
-                            <Link href="/compose" passHref legacyBehavior><Button color="inherit">Compose</Button></Link>
-                            <Link href="/learn" passHref legacyBehavior><Button color="inherit">Learn</Button></Link>
-                            <Link href="#store" passHref legacyBehavior><Button color="inherit" sx={{ color: 'secondary.main' }}>Store</Button></Link>
-                            <Link href="#competitions" passHref legacyBehavior><Button variant="outlined" color="primary">Join Competition</Button></Link>
-                        </Box>
-                    </Toolbar>
-                </Container>
-            </AppBar>
+            <MainAppBar isHomepage={true} />
 
             {/* Hero Section */}
             <Box sx={{
@@ -250,16 +233,12 @@ const ProjectFunctionalities = () => {
                         The definitive platform for modern guitarists. Visualize theory, compose masterpieces, and verify your skills with our advanced tools.
                     </Typography>
                     <Stack direction={{ xs: 'column', sm: 'row' }} spacing={2} justifyContent="center">
-                        <Link href="/play" passHref legacyBehavior>
-                            <Button variant="contained" size="large" color="primary" startIcon={<PlayCircleOutlineIcon />} sx={{ px: 4, py: 1.5, fontSize: '1.1rem' }}>
-                                Launch Player
-                            </Button>
-                        </Link>
-                        <Link href="/compose" passHref legacyBehavior>
-                            <Button variant="outlined" size="large" color="secondary" startIcon={<LibraryMusicIcon />} sx={{ px: 4, py: 1.5, fontSize: '1.1rem' }}>
-                                Compose Music
-                            </Button>
-                        </Link>
+                        <Button component={Link} href="/play" variant="contained" size="large" color="primary" startIcon={<PlayCircleOutlineIcon />} sx={{ px: 4, py: 1.5, fontSize: '1.1rem' }}>
+                            Launch Player
+                        </Button>
+                        <Button component={Link} href="/compose" variant="outlined" size="large" color="secondary" startIcon={<LibraryMusicIcon />} sx={{ px: 4, py: 1.5, fontSize: '1.1rem' }}>
+                            Compose Music
+                        </Button>
                     </Stack>
                 </Container>
             </Box>
@@ -311,14 +290,14 @@ const ProjectFunctionalities = () => {
                     <SectionHeader title="Master The Guitar Store" subtitle="Exclusive merchandise, premium PDFs, custom picks, and sheet music." />
 
                     <Grid container spacing={4}>
-                        <ProductCard title="#1 Guitar Mastery PDF" price="19.99" type="Digital" />
-                        <ProductCard title="Official 'Master' T-Shirt" price="24.99" type="Physical" />
-                        <ProductCard title="Custom Picks Pack (x12)" price="9.99" type="Physical" />
-                        <ProductCard title="Theory Poster Set" price="29.99" type="Physical" />
-                        <ProductCard title="Premium Mug" price="14.99" type="Physical" />
-                        <ProductCard title="Complete Tabs Collection" price="39.99" type="Digital" />
-                        <ProductCard title="Advanced Partitions" price="12.99" type="Digital" />
-                        <ProductCard title="Lifetime Access Pass" price="99.99" type="Digital" />
+                        <ProductCard title="#1 Guitar Mastery PDF" price="19.99" type="Digital" image="/assets/products/guitar-mastery-pdf.png" />
+                        <ProductCard title="Official 'Master' T-Shirt" price="24.99" type="Physical" image="/assets/products/master-tshirt.png" />
+                        <ProductCard title="Custom Picks Pack (x12)" price="9.99" type="Physical" image="/assets/products/custom-picks.png" />
+                        <ProductCard title="Theory Poster Set" price="29.99" type="Physical" image="/assets/products/theory-poster.png" />
+                        <ProductCard title="Premium Mug" price="14.99" type="Physical" image="/assets/products/premium-mug.png" />
+                        <ProductCard title="Complete Tabs Collection" price="39.99" type="Digital" image="/assets/products/tabs-collection.png" />
+                        <ProductCard title="Advanced Partitions" price="12.99" type="Digital" image="/assets/products/advanced-partitions.png" />
+                        <ProductCard title="Lifetime Access Pass" price="99.99" type="Digital" image="/assets/products/lifetime-access.png" />
                     </Grid>
                     <Box sx={{ textAlign: 'center', mt: 6 }}>
                         <Button variant="outlined" size="large" endIcon={<ShoppingCartIcon />}>View All Products</Button>
@@ -376,7 +355,7 @@ const ProjectFunctionalities = () => {
                                     <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.6)', mb: 3 }}>
                                         Submit your best solo or cover. Monthly winners get featured on our homepage.
                                     </Typography>
-                                    <Button variant="contained" color="primary">Enter Now</Button>
+                                    <Button component={Link} href="/competition/video-contest" variant="contained" color="primary">Enter Now</Button>
                                 </CardContent>
                             </Card>
                         </Grid>
@@ -388,7 +367,7 @@ const ProjectFunctionalities = () => {
                                     <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.6)', mb: 3 }}>
                                         Original pieces judged by industry pros. Win studio gear and software licenses.
                                     </Typography>
-                                    <Button variant="contained" color="secondary">Submit Track</Button>
+                                    <Button component={Link} href="/competition/submit-track" variant="contained" color="secondary">Submit Track</Button>
                                 </CardContent>
                             </Card>
                         </Grid>
@@ -400,7 +379,7 @@ const ProjectFunctionalities = () => {
                                     <Typography variant="body2" sx={{ color: 'rgba(255,255,255,0.6)', mb: 3 }}>
                                         Share your journey of learning or teaching. Inspire others with your documentary or blog.
                                     </Typography>
-                                    <Button variant="text" sx={{ color: 'white' }}>Share Story &rarr;</Button>
+                                    <Button component={Link} href="/competition/share-story" variant="text" sx={{ color: 'white' }}>Share Story &rarr;</Button>
                                 </CardContent>
                             </Card>
                         </Grid>
@@ -423,24 +402,24 @@ const ProjectFunctionalities = () => {
                         <Grid item xs={6} sm={2}>
                             <Typography variant="subtitle2" gutterBottom fontWeight="bold">Product</Typography>
                             <Box component="ul" sx={{ listStyle: 'none', p: 0, m: 0 }}>
-                                <Box component="li" sx={{ mb: 1 }}><Link href="/play" passHref legacyBehavior><Typography component="a" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Player</Typography></Link></Box>
-                                <Box component="li" sx={{ mb: 1 }}><Link href="/compose" passHref legacyBehavior><Typography component="a" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Composer</Typography></Link></Box>
-                                <Box component="li" sx={{ mb: 1 }}><Link href="#store" passHref legacyBehavior><Typography component="a" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Store</Typography></Link></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/play" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Player</Typography></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/compose" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Composer</Typography></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="#store" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Store</Typography></Box>
                             </Box>
                         </Grid>
                         <Grid item xs={6} sm={2}>
                             <Typography variant="subtitle2" gutterBottom fontWeight="bold">Community</Typography>
                             <Box component="ul" sx={{ listStyle: 'none', p: 0, m: 0 }}>
-                                <Box component="li" sx={{ mb: 1 }}><Link href="#competitions" passHref legacyBehavior><Typography component="a" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Competitions</Typography></Link></Box>
-                                <Box component="li" sx={{ mb: 1 }}><Link href="/blog" passHref legacyBehavior><Typography component="a" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Stories</Typography></Link></Box>
-                                <Box component="li" sx={{ mb: 1 }}><Link href="/forum" passHref legacyBehavior><Typography component="a" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Forum</Typography></Link></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="#competitions" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Competitions</Typography></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/blog" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Stories</Typography></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/forum" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Forum</Typography></Box>
                             </Box>
                         </Grid>
                         <Grid item xs={12} sm={4} sx={{ textAlign: { sm: 'right' } }}>
                             <Stack direction="row" spacing={1} justifyContent={{ xs: 'flex-start', sm: 'flex-end' }}>
-                                <Link href="/privacy" passHref legacyBehavior><Button color="inherit" size="small">Privacy</Button></Link>
-                                <Link href="/terms" passHref legacyBehavior><Button color="inherit" size="small">Terms</Button></Link>
-                                <Link href="/contact" passHref legacyBehavior><Button color="inherit" size="small">Contact</Button></Link>
+                                <Button component={Link} href="/privacy" color="inherit" size="small">Privacy</Button>
+                                <Button component={Link} href="/terms" color="inherit" size="small">Terms</Button>
+                                <Button component={Link} href="/contact" color="inherit" size="small">Contact</Button>
                             </Stack>
                             <Typography variant="caption" display="block" color="text.secondary" sx={{ mt: 2 }}>
                                 © {new Date().getFullYear()} Guitar Sheets Media.

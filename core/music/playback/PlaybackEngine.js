@@ -53,6 +53,10 @@ export default class PlaybackEngine {
     this._initIfNeeded();
     if (!this.ctx || !score) return;
 
+    if (this.ctx.state === "suspended") {
+      await this.ctx.resume();
+    }
+
     await this.instrumentManager.load("acoustic_guitar_nylon");
 
     const events = MidiMapper.scoreToEvents(score, this.secondsPerBeat);

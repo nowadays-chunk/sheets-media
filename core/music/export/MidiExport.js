@@ -17,6 +17,7 @@ export default class MidiExport {
     score.measures.forEach((measure) => {
       measure.voices.forEach((voice) => {
         voice.elements.forEach((el) => {
+          if (!el.duration) return;
           const ticks = el.duration.total * 480;
 
           if (el.pitch) {

@@ -1,0 +1,326 @@
+{
+  "choices": [
+    {
+      "name": "chord",
+      "value": 1260
+    },
+    {
+      "name": "arppegio",
+      "value": 1260
+    },
+    {
+      "name": "scale",
+      "value": 1440
+    }
+  ],
+  "keys": [
+    {
+      "name": "C",
+      "value": 330
+    },
+    {
+      "name": "C#",
+      "value": 330
+    },
+    {
+      "name": "D",
+      "value": 330
+    },
+    {
+      "name": "D#",
+      "value": 330
+    },
+    {
+      "name": "E",
+      "value": 330
+    },
+    {
+      "name": "F",
+      "value": 330
+    },
+    {
+      "name": "F#",
+      "value": 330
+    },
+    {
+      "name": "G",
+      "value": 330
+    },
+    {
+      "name": "G#",
+      "value": 330
+    },
+    {
+      "name": "A",
+      "value": 330
+    },
+    {
+      "name": "A#",
+      "value": 330
+    },
+    {
+      "name": "B",
+      "value": 330
+    }
+  ],
+  "shapes": [
+    {
+      "name": "C",
+      "value": 792
+    },
+    {
+      "name": "A",
+      "value": 792
+    },
+    {
+      "name": "G",
+      "value": 792
+    },
+    {
+      "name": "E",
+      "value": 792
+    },
+    {
+      "name": "D",
+      "value": 792
+    }
+  ],
+  "modes": [
+    {
+      "name": "[object Object]",
+      "value": 1260
+    }
+  ],
+  "tunings": [
+    {
+      "name": "4-7-2-9-11-4",
+      "value": 3960
+    }
+  ],
+  "intervals": [
+    {
+      "name": "1",
+      "value": 8808
+    },
+    {
+      "name": "2",
+      "value": 1560
+    },
+    {
+      "name": "3",
+      "value": 1116
+    },
+    {
+      "name": "4",
+      "value": 1548
+    },
+    {
+      "name": "5",
+      "value": 1680
+    },
+    {
+      "name": "6",
+      "value": 900
+    },
+    {
+      "name": "7",
+      "value": 1308
+    },
+    {
+      "name": "9",
+      "value": 48
+    },
+    {
+      "name": "b7",
+      "value": 384
+    },
+    {
+      "name": "b3",
+      "value": 1284
+    },
+    {
+      "name": "#5",
+      "value": 120
+    },
+    {
+      "name": "b5",
+      "value": 240
+    },
+    {
+      "name": "bb7",
+      "value": 36
+    },
+    {
+      "name": "b6",
+      "value": 456
+    }
+  ],
+  "neckZones": [
+    {
+      "name": "open",
+      "value": 1295
+    },
+    {
+      "name": "mid",
+      "value": 6255
+    },
+    {
+      "name": "upper",
+      "value": 8818
+    },
+    {
+      "name": "high",
+      "value": 4464
+    }
+  ],
+  "stringUsage": [
+    {
+      "name": "String 1",
+      "value": 3672
+    },
+    {
+      "name": "String 2",
+      "value": 3828
+    },
+    {
+      "name": "String 3",
+      "value": 3504
+    },
+    {
+      "name": "String 4",
+      "value": 3480
+    },
+    {
+      "name": "String 5",
+      "value": 3312
+    },
+    {
+      "name": "String 6",
+      "value": 3036
+    }
+  ],
+  "shapePositions": [
+    {
+      "name": "C",
+      "value": 6.67
+    },
+    {
+      "name": "A",
+      "value": 8.31
+    },
+    {
+      "name": "G",
+      "value": 10.47
+    },
+    {
+      "name": "E",
+      "value": 12.5
+    },
+    {
+      "name": "D",
+      "value": 14.39
+    }
+  ],
+  "fretUsage": [
+    {
+      "fret": 0,
+      "value": 60
+    },
+    {
+      "fret": 1,
+      "value": 248
+    },
+    {
+      "fret": 2,
+      "value": 374
+    },
+    {
+      "fret": 3,
+      "value": 613
+    },
+    {
+      "fret": 4,
+      "value": 706
+    },
+    {
+      "fret": 5,
+      "value": 864
+    },
+    {
+      "fret": 6,
+      "value": 946
+    },
+    {
+      "fret": 7,
+      "value": 1075
+    },
+    {
+      "fret": 8,
+      "value": 1298
+    },
+    {
+      "fret": 9,
+      "value": 1366
+    },
+    {
+      "fret": 10,
+      "value": 1555
+    },
+    {
+      "fret": 11,
+      "value": 1629
+    },
+    {
+      "fret": 12,
+      "value": 1661
+    },
+    {
+      "fret": 13,
+      "value": 1488
+    },
+    {
+      "fret": 14,
+      "value": 1362
+    },
+    {
+      "fret": 15,
+      "value": 1123
+    },
+    {
+      "fret": 16,
+      "value": 1030
+    },
+    {
+      "fret": 17,
+      "value": 872
+    },
+    {
+      "fret": 18,
+      "value": 790
+    },
+    {
+      "fret": 19,
+      "value": 661
+    },
+    {
+      "fret": 20,
+      "value": 438
+    },
+    {
+      "fret": 21,
+      "value": 370
+    },
+    {
+      "fret": 22,
+      "value": 181
+    },
+    {
+      "fret": 23,
+      "value": 107
+    },
+    {
+      "fret": 24,
+      "value": 15
+    }
+  ]
+}

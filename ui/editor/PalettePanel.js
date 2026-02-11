@@ -1,4 +1,3 @@
-// ui/editor/PalettePanel.jsx
 import React from "react";
 import { Box, Typography, Button, Menu, MenuItem, Divider } from "@mui/material";
 import { useScore } from "@/core/editor/ScoreContext";
@@ -6,59 +5,20 @@ import { useScore } from "@/core/editor/ScoreContext";
 import Clef from "@/core/music/score/Clef";
 import TimeSignature from "@/core/music/score/TimeSignature";
 import KeySignature from "@/core/music/score/KeySignature";
-import Note from "@/core/music/score/Note";
-import Pitch from "@/core/music/score/Pitch";
-import Duration from "@/core/music/score/Duration";
 
 export default function PalettePanel() {
-  const { score, updateScore, selection, input, cursorBeat, setCursorBeat } = useScore();
+  const { score, updateScore, selection, cursorBeat, setCursorBeat } = useScore();
 
   const [anchorClef, setAnchorClef] = React.useState(null);
   const [anchorTime, setAnchorTime] = React.useState(null);
   const [anchorKey, setAnchorKey] = React.useState(null);
   const [anchorArtic, setAnchorArtic] = React.useState(null);
 
-  const [activeDuration, setActiveDuration] = React.useState("q");
-
   const selected = selection.selected;
 
   // -------------------------
-  // NOTE INPUT
+  // PALETTE ACTIONS
   // -------------------------
-  const handleSetDuration = (d) => {
-    setActiveDuration(d);
-    if (input) input.setDuration(d);
-  };
-
-  const addNote = (step) => {
-    if (!score) return;
-
-    // Default: Octave 4, Natural
-    const pitch = new Pitch(step, 0, 4);
-    const duration = new Duration(activeDuration);
-
-    const note = new Note(pitch, duration);
-
-    updateScore(draft => {
-      draft.addNote(cursorBeat, note);
-    });
-
-    setCursorBeat(c => c + duration.total);
-  };
-
-  const addRest = () => {
-    if (!score) return;
-    const duration = new Duration(activeDuration);
-    // Pitch doesn't matter for rest but we need a valid note struct
-    const note = new Note(new Pitch("B", 0, 4), duration);
-    note.isRest = true;
-
-    updateScore(draft => {
-      draft.addNote(cursorBeat, note);
-    });
-
-    setCursorBeat(c => c + duration.total);
-  };
 
   // -------------------------
   // PALETTE ACTIONS
@@ -134,50 +94,8 @@ export default function PalettePanel() {
         height: "100%"
       }}
     >
-      {/* INPUT SECTION */}
-      <Typography variant="h6" sx={{ mb: 1 }}>Input</Typography>
 
-      <Typography variant="caption" display="block" sx={{ mb: 0.5 }}>Duration</Typography>
-      <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 0.5, mb: 2 }}>
-        {[{ l: 'W', v: 'w' }, { l: 'H', v: 'h' }, { l: 'Q', v: 'q' }, { l: '8', v: '8' }, { l: '16', v: '16' }].map(item => (
-          <Button
-            key={item.v}
-            variant={activeDuration === item.v ? "contained" : "outlined"}
-            size="small"
-            onClick={() => handleSetDuration(item.v)}
-            sx={{ minWidth: 32, p: 0.5, fontSize: "0.75rem" }}
-          >
-            {item.l}
-          </Button>
-        ))}
-      </Box>
 
-      <Typography variant="caption" display="block" sx={{ mb: 0.5 }}>Insert</Typography>
-      <Box sx={{ display: 'flex', flexWrap: 'wrap', gap: 0.5, mb: 1 }}>
-        {['C', 'D', 'E', 'F', 'G', 'A', 'B'].map(step => (
-          <Button
-            key={step}
-            variant="outlined"
-            size="small"
-            onClick={() => addNote(step)}
-            sx={{ minWidth: 28, p: 0.5 }}
-          >
-            {step}
-          </Button>
-        ))}
-      </Box>
-      <Button
-        fullWidth
-        variant="outlined"
-        size="small"
-        color="warning"
-        onClick={addRest}
-        sx={{ mb: 2 }}
-      >
-        Rest
-      </Button>
-
-      <Divider sx={{ mb: 2 }} />
 
       <Typography variant="h6" sx={{ mb: 2 }}>
         Palette

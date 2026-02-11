@@ -8,7 +8,8 @@ import {
   CardContent,
   Typography,
   Button,
-  Box
+  Box,
+  Container
 } from '@mui/material';
 
 import { styled } from '@mui/material/styles';
@@ -18,7 +19,7 @@ import guitar from '../../config/guitar.js';
 // CONSTANTS
 // -----------------------------------------
 
-const keysSharps = ["C","C#","D","D#","E","F","F#","G","G#","A","A#","B"];
+const keysSharps = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"];
 const normalizedKeys = keysSharps.map(k => k.replace("#", "sharp"));
 
 const degreesDynamic = Object.keys(guitar.arppegios);
@@ -49,7 +50,7 @@ const normalizeModeName = (str) => {
     .replace(/\s+/g, "-")
     .replace(/_/g, "-")
     .replace(/--+/g, "-")
-    .replace(/#/g, "sharp") 
+    .replace(/#/g, "sharp")
     .trim();
 };
 
@@ -89,7 +90,7 @@ const References = ({ elements = [] }) => {
   const { key, type, subType, quality, shape, mode } = router.query;
 
   // Filters
-  const [searchType, setSearchType] = useState("");      
+  const [searchType, setSearchType] = useState("");
   const [searchKey, setSearchKey] = useState("");
   const [searchScaleType, setSearchScaleType] = useState("");
   const [searchMode, setSearchMode] = useState("");
@@ -122,7 +123,7 @@ const References = ({ elements = [] }) => {
       // TYPE
       if (searchType === "scale" && elementType !== "scales") return false;
       if (searchType === "chord" && elementType !== "chords") return false;
-      if (searchType === "arp"   && elementType !== "arppegios") return false;
+      if (searchType === "arp" && elementType !== "arppegios") return false;
 
       // KEY
       if (searchKey && elementKey !== searchKey) return false;
@@ -178,7 +179,7 @@ const References = ({ elements = [] }) => {
   // ============================================================
 
   return (
-    <div>
+    <Container sx={{ mt: 10 }}>
       <Meta
         title="Musical Guitar Sheets Complete References"
         description="Explore chords, scales, modes and arpeggios for every key."
@@ -320,7 +321,7 @@ const References = ({ elements = [] }) => {
           </ol>
         </CardContent>
       </StyledCard>
-    </div>
+    </Container>
   );
 };
 

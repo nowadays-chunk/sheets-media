@@ -28,7 +28,7 @@ import { styled } from "@mui/material/styles";
 // ============================================================================
 const SIDEBAR_WIDTH = 350;
 const SIDEBAR_CLOSED = 40;
-const HEADER_HEIGHT = 44;
+const HEADER_HEIGHT = 64;
 
 // ============================================================================
 // RSS FEEDS
@@ -218,7 +218,7 @@ async function fetchRSS(url) {
 // ============================================================================
 // MAIN COMPONENT
 // ============================================================================
-export default function MusicianNewsMasonry({leftDrawerOpen, leftDrawerWidth}) {
+export default function MusicianNewsMasonry({ leftDrawerOpen, leftDrawerWidth }) {
   const [articles, setArticles] = useState([]);
   const [latest10PerFeed, setLatest10PerFeed] = useState([]);
   const [search, setSearch] = useState("");
@@ -367,7 +367,7 @@ export default function MusicianNewsMasonry({leftDrawerOpen, leftDrawerWidth}) {
       </Sidebar>
 
       {/* MOBILE SIDEBAR */}
-      <MobileDrawer sx={{ width: leftDrawerOpen ? `calc(100vw - ${leftDrawerWidth}px)`: '100vw', left: leftDrawerOpen ? leftDrawerWidth : 0 }} open={mobileSidebarOpen}>
+      <MobileDrawer sx={{ width: leftDrawerOpen ? `calc(100vw - ${leftDrawerWidth}px)` : '100vw', left: leftDrawerOpen ? leftDrawerWidth : 0 }} open={mobileSidebarOpen}>
         <MobileDrawerHeader>
           <MobileDrawerToggle
             onClick={() => setMobileSidebarOpen((o) => !o)}

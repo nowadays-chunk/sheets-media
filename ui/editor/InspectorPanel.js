@@ -32,43 +32,7 @@ export default function InspectorPanel() {
       <Box sx={{ width: 300, p: 2, borderLeft: "1px solid #ddd", bgcolor: "#fafafa" }}>
         <Typography variant="h6" gutterBottom>Inspector</Typography>
 
-        {/* QUICK INPUT SECTION */}
-        <Box sx={{ mb: 3, p: 2, bgcolor: "#fff", borderRadius: 1, border: "1px solid #ddd" }}>
-          <Typography variant="subtitle2" sx={{ mb: 1 }}>Quick Input</Typography>
-          <Grid container spacing={1}>
-            <Grid item xs={6}>
-              <TextField
-                id="quick-input-string"
-                label="String"
-                type="number"
-                size="small"
-                fullWidth
-                defaultValue={1}
-                inputProps={{ min: 1, max: 6 }}
-              />
-            </Grid>
-            <Grid item xs={6}>
-              <TextField
-                id="quick-input-fret"
-                label="Fret"
-                type="number"
-                size="small"
-                fullWidth
-                defaultValue={0}
-                inputProps={{ min: 0, max: 24 }}
-              />
-            </Grid>
-            <Grid item xs={12}>
-              <Button
-                variant="contained"
-                fullWidth
-                onClick={handleInsertNote}
-              >
-                Insert Note
-              </Button>
-            </Grid>
-          </Grid>
-        </Box>
+
 
         <Typography variant="body2" color="textSecondary">
           Select a note to edit properties.
@@ -284,6 +248,22 @@ export default function InspectorPanel() {
         </Grid>
 
       </Grid>
-    </Box>
+
+      <Divider sx={{ my: 2 }} />
+
+      <Typography variant="caption" sx={{ color: 'text.secondary', fontWeight: 'bold' }}>DEBUG DATA</Typography>
+      <Box sx={{
+        bgcolor: '#333',
+        color: '#0f0',
+        p: 1,
+        borderRadius: 1,
+        fontSize: '0.7rem',
+        fontFamily: 'monospace',
+        overflowX: 'auto',
+        mt: 1
+      }}>
+        <pre>{JSON.stringify(selected, null, 2)}</pre>
+      </Box>
+    </Box >
   );
 }

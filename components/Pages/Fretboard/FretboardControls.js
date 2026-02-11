@@ -1,39 +1,65 @@
 import React from "react";
-import { Button, Box, Typography, Grid } from "@mui/material";
-import { styled } from "@mui/material/styles";
+import { Button, Box, Typography, Grid, Paper, Stack, Divider, IconButton } from "@mui/material";
+import { styled, useTheme } from "@mui/material/styles";
 import PropTypes from "prop-types";
 import CloseIcon from "@mui/icons-material/Close";
+import CleaningServicesIcon from '@mui/icons-material/CleaningServices';
+import SaveIcon from '@mui/icons-material/Save';
+import PlayCircleOutlineIcon from '@mui/icons-material/PlayCircleOutline';
+import LibraryBooksIcon from '@mui/icons-material/LibraryBooks';
 import Link from "next/link";
 import guitar from "../../../config/guitar";
 
 // ---------------------------------------------------------
-// SHARED BUTTON STYLE
+// COMPONENT STYLES
 // ---------------------------------------------------------
-const OptionButton = styled(Button)(({ selected }) => ({
-  borderRadius: "20px",
-  margin: "4px",
-  background: selected ? "#1976d2" : "transparent",
-  color: selected ? "#fff" : "#1976d2",
-  border: "1px solid #1976d2",
-  "&:hover": {
-    background: selected ? "#11529b" : "rgba(25,118,210,0.1)",
-  },
-  textTransform: "none",
+
+const ControlPanel = styled(Box)(({ theme }) => ({
+  padding: theme.spacing(2),
+  height: '100%',
+  display: 'flex',
+  flexDirection: 'column',
+  gap: theme.spacing(2),
 }));
 
-// Step Title
-const StepTitle = ({ children }) => (
-  <Typography variant="h6" sx={{ mt: 2, mb: 1 }}>
-    {children}
-  </Typography>
+const StyledPaper = styled(Paper)(({ theme }) => ({
+  padding: theme.spacing(2),
+  borderRadius: theme.shape.borderRadius * 2,
+  boxShadow: '0 4px 12px rgba(0,0,0,0.05)',
+  border: `1px solid ${theme.palette.divider}`,
+}));
+
+const OptionButton = styled(Button, { shouldForwardProp: (prop) => prop !== 'selected' })(
+  ({ theme, selected }) => ({
+    borderRadius: "12px",
+    textTransform: "none",
+    fontWeight: selected ? 600 : 400,
+    boxShadow: selected ? '0 2px 8px rgba(25, 118, 210, 0.25)' : 'none',
+    border: selected ? `1px solid ${theme.palette.primary.main}` : `1px solid ${theme.palette.divider}`,
+    backgroundColor: selected ? theme.palette.primary.main : 'transparent',
+    color: selected ? theme.palette.common.white : theme.palette.text.primary,
+    '&:hover': {
+      backgroundColor: selected ? theme.palette.primary.dark : theme.palette.action.hover,
+      border: selected ? `1px solid ${theme.palette.primary.dark}` : `1px solid ${theme.palette.action.hover}`,
+    },
+    width: '100%',
+    justifyContent: 'flex-start',
+    padding: '8px 16px',
+    transition: 'all 0.2s ease-in-out',
+  })
 );
 
-// normalize # → sharp
+const SectionTitle = styled(Typography)(({ theme }) => ({
+  fontSize: '0.875rem',
+  fontWeight: 700,
+  textTransform: 'uppercase',
+  letterSpacing: '0.1em',
+  color: theme.palette.text.secondary,
+  marginBottom: theme.spacing(1.5),
+}));
+
 const slugSharp = (s) => (s || "").replace("#", "sharp");
 
-// ---------------------------------------------------------
-// MAIN COMPONENT — BUTTON UI + RESET ICON + SPREADING LINK
-// ---------------------------------------------------------
 const FretboardControls = ({
   choice,
   handleChoiceChange,
@@ -52,13 +78,11 @@ const FretboardControls = ({
   progression,
   createNewBoardDisplay
 }) => {
+  const theme = useTheme();
   const keysSharps = guitar.notes.sharps;
 
   const capitalize = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 
-  // ---------------------------------------------------------
-  // RESET EVERYTHING
-  // ---------------------------------------------------------
   const resetAll = () => {
     onCleanFretboard();
     onElementChange(-1, "key");
@@ -69,46 +93,35 @@ const FretboardControls = ({
     onElementChange("", "shape");
   };
 
-  // ---------------------------------------------------------
-  // BUILD SPREADING URL (NOT references)
-  // ---------------------------------------------------------
   const buildSpreadingPath = () => {
     const keyName = keysSharps[selectedKey];
     if (!keyName) return null;
 
     const keySlug = slugSharp(keyName);
 
-    // CHORD
     if (choice === "chord") {
       if (!selectedChord) return null;
       return `/spreading/chords/${keySlug}/${slugSharp(selectedChord)}`;
     }
 
-    // ARPEGGIO
     if (choice === "arppegio") {
       if (!selectedArppegio) return null;
       return `/spreading/arppegios/${keySlug}/${slugSharp(selectedArppegio)}`;
     }
 
-    // SCALE
     if (choice === "scale") {
       if (!selectedScale) return null;
 
       const scaleObj = guitar.scales[selectedScale];
 
-      // Modal scales
       if (scaleObj?.isModal) {
         if (selectedMode === "" || selectedMode == null) return null;
-
         const modeName = scaleModes[Number(selectedMode)]?.name;
         if (!modeName) return null;
-
         const modeSlug = modeName.toLowerCase().replace(/\s+/g, "-");
-
         return `/spreading/scales/${keySlug}/${selectedScale}/modal/${modeSlug}`;
       }
 
-      // Non-modal scale
       return `/spreading/scales/${keySlug}/${selectedScale}/single`;
     }
 
@@ -118,224 +131,212 @@ const FretboardControls = ({
   const spreadingPath = buildSpreadingPath();
   const canOpenSpreading = !!spreadingPath;
 
-  // ---------------------------------------------------------
-  // RENDER
-  // ---------------------------------------------------------
-
   return (
-    <footer style={{ marginTop: "20px", position: "relative" }}>
-      {/* RESET EVERYTHING ICON */}
-      <Button
-        onClick={resetAll}
-        sx={{
-          position: "absolute",
-          right: 0,
-          top: -10,
-          minWidth: "30px",
-          padding: "4px",
-          borderRadius: "50%",
-          color: "#1976d2",
-        }}
-      >
-        <CloseIcon />
-      </Button>
-
-      {/* STEP 1 — CATEGORY */}
-      <StepTitle>Category</StepTitle>
-
-      <Box>
-        <OptionButton
-          selected={choice === "scale"}
-          onClick={() => handleChoiceChange("scale")}
-        >
-          Scales
-        </OptionButton>
-
-        <OptionButton
-          selected={choice === "chord"}
-          onClick={() => handleChoiceChange("chord")}
-        >
-          Chords
-        </OptionButton>
-
-        <OptionButton
-          selected={choice === "arppegio"}
-          onClick={() => handleChoiceChange("arppegio")}
-        >
-          Arpeggios
-        </OptionButton>
+    <ControlPanel>
+      <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+        <Typography variant="h6" fontWeight="bold">Controls</Typography>
+        <IconButton onClick={resetAll} size="small" color="primary" title="Reset All">
+          <CloseIcon fontSize="small" />
+        </IconButton>
       </Box>
 
-      {/* STEP 2 — KEY */}
+      {/* CATEGORY SELECTION */}
+      <StyledPaper elevation={0}>
+        <SectionTitle>Category</SectionTitle>
+        <Stack direction="row" spacing={1}>
+          {['scale', 'chord', 'arppegio'].map((cat) => (
+            <OptionButton
+              key={cat}
+              selected={choice === cat}
+              onClick={() => handleChoiceChange(cat)}
+              sx={{ justifyContent: 'center' }}
+            >
+              {capitalize(cat === 'arppegio' ? 'Arpeggios' : cat + 's')}
+            </OptionButton>
+          ))}
+        </Stack>
+      </StyledPaper>
+
+      {/* KEY SELECTION */}
       {choice && (
-        <>
-          <StepTitle>Key</StepTitle>
-          <Box>
+        <StyledPaper elevation={0}>
+          <SectionTitle>Key</SectionTitle>
+          <Grid container spacing={1}>
             {keysSharps.map((k, index) => (
-              <OptionButton
-                key={index}
-                selected={selectedKey === index}
-                onClick={() => onElementChange(index, "key")}
-              >
-                {k}
-              </OptionButton>
+              <Grid item xs={3} sm={2} md={3} lg={2} key={index}>
+                <OptionButton
+                  selected={selectedKey === index}
+                  onClick={() => onElementChange(index, "key")}
+                  sx={{ justifyContent: 'center', minWidth: 'auto', px: 1 }}
+                >
+                  {k}
+                </OptionButton>
+              </Grid>
             ))}
-          </Box>
-        </>
+          </Grid>
+        </StyledPaper>
       )}
 
-      {/* STEP 3 — TYPE (scale / chord / arp) */}
-      {choice === "scale" && selectedKey !== "" && (
-        <>
-          <StepTitle>Scale Type</StepTitle>
-          <Box>
-            {Object.keys(guitar.scales).map((scaleName, i) => (
-              <OptionButton
-                key={i}
-                selected={selectedScale === scaleName}
-                onClick={() => onElementChange(scaleName, "scale")}
-              >
-                {capitalize(scaleName)}
-              </OptionButton>
+      {/* TYPE SELECTION */}
+      {(choice && selectedKey !== "" && selectedKey !== -1) && (
+        <StyledPaper elevation={0}>
+          <SectionTitle>{choice === 'arppegio' ? 'Arpeggio' : capitalize(choice)} Type</SectionTitle>
+          <Grid container spacing={1}>
+            {choice === "scale" && Object.keys(guitar.scales).map((scaleName, i) => (
+              <Grid item xs={6} key={i}>
+                <OptionButton
+                  selected={selectedScale === scaleName}
+                  onClick={() => onElementChange(scaleName, "scale")}
+                >
+                  {capitalize(scaleName)}
+                </OptionButton>
+              </Grid>
             ))}
-          </Box>
-        </>
+
+            {choice === "chord" && Object.keys(guitar.arppegios).map((ch, i) => (
+              <Grid item xs={6} key={i}>
+                <OptionButton
+                  selected={selectedChord === ch}
+                  onClick={() => onElementChange(ch, "chord")}
+                >
+                  {ch}
+                </OptionButton>
+              </Grid>
+            ))}
+
+            {choice === "arppegio" && arppegiosNames.map((arp, i) => (
+              <Grid item xs={6} key={i}>
+                <OptionButton
+                  selected={selectedArppegio === arp}
+                  onClick={() => onElementChange(arp, "arppegio")}
+                >
+                  {arp}
+                </OptionButton>
+              </Grid>
+            ))}
+          </Grid>
+        </StyledPaper>
       )}
 
-      {choice === "chord" && selectedKey !== "" && (
-        <>
-          <StepTitle>Chord Type</StepTitle>
-          <Box>
-            {Object.keys(guitar.arppegios).map((ch, i) => (
-              <OptionButton
-                key={i}
-                selected={selectedChord === ch}
-                onClick={() => onElementChange(ch, "chord")}
-              >
-                {ch}
-              </OptionButton>
-            ))}
-          </Box>
-        </>
-      )}
-
-      {choice === "arppegio" && selectedKey !== "" && (
-        <>
-          <StepTitle>Arpeggio Type</StepTitle>
-          <Box>
-            {arppegiosNames.map((arp, i) => (
-              <OptionButton
-                key={i}
-                selected={selectedArppegio === arp}
-                onClick={() => onElementChange(arp, "arppegio")}
-              >
-                {arp}
-              </OptionButton>
-            ))}
-          </Box>
-        </>
-      )}
-
-      {/* STEP 4 — MODES FOR MODAL SCALES */}
+      {/* MODES FOR MODAL SCALES */}
       {choice === "scale" &&
         selectedScale &&
         guitar.scales[selectedScale]?.isModal &&
         scaleModes.length > 0 && (
-          <>
-            <StepTitle>Modes</StepTitle>
-            <Box>
+          <StyledPaper elevation={0}>
+            <SectionTitle>Modes</SectionTitle>
+            <Grid container spacing={1}>
               {scaleModes.map((m, i) => (
-                <OptionButton
-                  key={i}
-                  selected={Number(selectedMode) === i}
-                  onClick={() => onElementChange(i, "mode")}
-                >
-                  {m.name}
-                </OptionButton>
+                <Grid item xs={6} key={i}>
+                  <OptionButton
+                    selected={Number(selectedMode) === i}
+                    onClick={() => onElementChange(i, "mode")}
+                  >
+                    {m.name}
+                  </OptionButton>
+                </Grid>
               ))}
-            </Box>
-          </>
+            </Grid>
+          </StyledPaper>
         )}
 
-      {/* STEP 5 — SHAPE */}
-      <StepTitle>Shape</StepTitle>
-      <Box>
-        {guitar.shapes.names.map((shape, i) => (
-          <OptionButton
-            key={i}
-            selected={selectedShape === shape}
-            onClick={() => onElementChange(shape, "shape")}
-          >
-            {shape}
-          </OptionButton>
-        ))}
-      </Box>
-
-      {/* ACTION BUTTONS */}
-      <Grid container spacing={2} sx={{ mt: 2 }}>
-        {/* CLEAN */}
-        <Grid item xs={6}>
-          <Button
-            fullWidth
-            variant="contained"
-            color="primary"
-            onClick={onCleanFretboard}
-          >
-            Clean
-          </Button>
+      {/* SHAPE SELECTION */}
+      <StyledPaper elevation={0}>
+        <SectionTitle>Shape</SectionTitle>
+        <Grid container spacing={1}>
+          {guitar.shapes.names.map((shape, i) => (
+            <Grid item xs={4} key={i}>
+              <OptionButton
+                selected={selectedShape === shape}
+                onClick={() => onElementChange(shape, "shape")}
+                sx={{ justifyContent: 'center' }}
+              >
+                {shape}
+              </OptionButton>
+            </Grid>
+          ))}
         </Grid>
+      </StyledPaper>
 
-        {/* SAVE */}
-        <Grid item xs={6}>
-          <Button
-            fullWidth
-            variant="contained"
-            color="secondary"
-            onClick={createNewBoardDisplay}
-          >
-            Create Fretboard
-          </Button>
-        </Grid>
+      {/* ACTIONS */}
+      <Box sx={{ mt: 'auto', display: 'flex', flexDirection: 'column', gap: 1 }}>
+        <Divider sx={{ my: 1 }} />
 
-        {/* PLAY */}
-        <Grid item xs={6}>
-          <Button
-            fullWidth
-            variant="contained"
-            color="primary"
-            onClick={playSelectedNotes}
-          >
-            Play Sound
-          </Button>
-        </Grid>
-
-        {/* OPEN SPREADING PAGE */}
-        <Grid item xs={6}>
-          {canOpenSpreading ? (
-            <Link
-              href={spreadingPath}
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ textDecoration: "none" }}
+        <Grid container spacing={1}>
+          <Grid item xs={6}>
+            <Button
+              fullWidth
+              variant="outlined"
+              color="error" // Or primary, depending on theme preference. Error implies 'clear' action
+              startIcon={<CleaningServicesIcon />}
+              onClick={onCleanFretboard}
+              sx={{ borderRadius: 2 }}
             >
-              <Button fullWidth variant="contained" color="success">
-                Read Spreadings
-              </Button>
-            </Link>
-          ) : (
-            <Button fullWidth variant="contained" color="success" disabled>
-              Read Spreadings
+              Clean
             </Button>
-          )}
+          </Grid>
+          <Grid item xs={6}>
+            <Button
+              fullWidth
+              variant="contained"
+              color="secondary"
+              startIcon={<SaveIcon />}
+              onClick={createNewBoardDisplay}
+              sx={{ borderRadius: 2, color: 'white' }}
+            >
+              Save
+            </Button>
+          </Grid>
+          <Grid item xs={12}>
+            <Button
+              fullWidth
+              variant="contained"
+              color="primary"
+              startIcon={<PlayCircleOutlineIcon />}
+              onClick={playSelectedNotes}
+              sx={{ borderRadius: 2 }}
+            >
+              Play Sound
+            </Button>
+          </Grid>
+
+          <Grid item xs={12}>
+            {canOpenSpreading ? (
+              <Link
+                href={spreadingPath}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{ textDecoration: "none", width: '100%' }}
+              >
+                <Button
+                  fullWidth
+                  variant="outlined"
+                  color="success"
+                  startIcon={<LibraryBooksIcon />}
+                  sx={{ borderRadius: 2 }}
+                >
+                  Read Theory
+                </Button>
+              </Link>
+            ) : (
+              <Button
+                fullWidth
+                variant="outlined"
+                color="inherit"
+                disabled
+                startIcon={<LibraryBooksIcon />}
+                sx={{ borderRadius: 2 }}
+              >
+                Read Theory
+              </Button>
+            )}
+          </Grid>
         </Grid>
-      </Grid>
-    </footer>
+      </Box>
+    </ControlPanel>
   );
 };
 
-// ---------------------------------------------------------
-// PROP TYPES
-// ---------------------------------------------------------
 FretboardControls.propTypes = {
   handleChoiceChange: PropTypes.func.isRequired,
   selectedKey: PropTypes.any,

@@ -1,0 +1,306 @@
+{
+  "choices": [
+    {
+      "name": "scale",
+      "value": 1440
+    }
+  ],
+  "keys": [
+    {
+      "name": "C",
+      "value": 120
+    },
+    {
+      "name": "C#",
+      "value": 120
+    },
+    {
+      "name": "D",
+      "value": 120
+    },
+    {
+      "name": "D#",
+      "value": 120
+    },
+    {
+      "name": "E",
+      "value": 120
+    },
+    {
+      "name": "F",
+      "value": 120
+    },
+    {
+      "name": "F#",
+      "value": 120
+    },
+    {
+      "name": "G",
+      "value": 120
+    },
+    {
+      "name": "G#",
+      "value": 120
+    },
+    {
+      "name": "A",
+      "value": 120
+    },
+    {
+      "name": "A#",
+      "value": 120
+    },
+    {
+      "name": "B",
+      "value": 120
+    }
+  ],
+  "shapes": [
+    {
+      "name": "C",
+      "value": 288
+    },
+    {
+      "name": "A",
+      "value": 288
+    },
+    {
+      "name": "G",
+      "value": 288
+    },
+    {
+      "name": "E",
+      "value": 288
+    },
+    {
+      "name": "D",
+      "value": 288
+    }
+  ],
+  "modes": [
+    {
+      "name": "[object Object]",
+      "value": 1260
+    }
+  ],
+  "tunings": [
+    {
+      "name": "4-7-2-9-11-4",
+      "value": 1440
+    }
+  ],
+  "intervals": [
+    {
+      "name": "1",
+      "value": 1668
+    },
+    {
+      "name": "2",
+      "value": 1548
+    },
+    {
+      "name": "3",
+      "value": 552
+    },
+    {
+      "name": "4",
+      "value": 1380
+    },
+    {
+      "name": "5",
+      "value": 1428
+    },
+    {
+      "name": "6",
+      "value": 840
+    },
+    {
+      "name": "7",
+      "value": 1200
+    },
+    {
+      "name": "b6",
+      "value": 456
+    },
+    {
+      "name": "b7",
+      "value": 96
+    },
+    {
+      "name": "b3",
+      "value": 960
+    },
+    {
+      "name": "b5",
+      "value": 84
+    }
+  ],
+  "neckZones": [
+    {
+      "name": "open",
+      "value": 502
+    },
+    {
+      "name": "mid",
+      "value": 3102
+    },
+    {
+      "name": "upper",
+      "value": 4951
+    },
+    {
+      "name": "high",
+      "value": 2665
+    }
+  ],
+  "stringUsage": [
+    {
+      "name": "String 1",
+      "value": 1992
+    },
+    {
+      "name": "String 2",
+      "value": 1908
+    },
+    {
+      "name": "String 3",
+      "value": 1740
+    },
+    {
+      "name": "String 4",
+      "value": 1752
+    },
+    {
+      "name": "String 5",
+      "value": 1836
+    },
+    {
+      "name": "String 6",
+      "value": 1992
+    }
+  ],
+  "shapePositions": [
+    {
+      "name": "C",
+      "value": 6.5
+    },
+    {
+      "name": "A",
+      "value": 8.54
+    },
+    {
+      "name": "G",
+      "value": 11.25
+    },
+    {
+      "name": "E",
+      "value": 13.5
+    },
+    {
+      "name": "D",
+      "value": 15.54
+    }
+  ],
+  "fretUsage": [
+    {
+      "fret": 0,
+      "value": 0
+    },
+    {
+      "fret": 1,
+      "value": 96
+    },
+    {
+      "fret": 2,
+      "value": 140
+    },
+    {
+      "fret": 3,
+      "value": 266
+    },
+    {
+      "fret": 4,
+      "value": 319
+    },
+    {
+      "fret": 5,
+      "value": 408
+    },
+    {
+      "fret": 6,
+      "value": 459
+    },
+    {
+      "fret": 7,
+      "value": 547
+    },
+    {
+      "fret": 8,
+      "value": 666
+    },
+    {
+      "fret": 9,
+      "value": 703
+    },
+    {
+      "fret": 10,
+      "value": 838
+    },
+    {
+      "fret": 11,
+      "value": 880
+    },
+    {
+      "fret": 12,
+      "value": 930
+    },
+    {
+      "fret": 13,
+      "value": 839
+    },
+    {
+      "fret": 14,
+      "value": 795
+    },
+    {
+      "fret": 15,
+      "value": 669
+    },
+    {
+      "fret": 16,
+      "value": 616
+    },
+    {
+      "fret": 17,
+      "value": 527
+    },
+    {
+      "fret": 18,
+      "value": 476
+    },
+    {
+      "fret": 19,
+      "value": 388
+    },
+    {
+      "fret": 20,
+      "value": 269
+    },
+    {
+      "fret": 21,
+      "value": 232
+    },
+    {
+      "fret": 22,
+      "value": 97
+    },
+    {
+      "fret": 23,
+      "value": 55
+    },
+    {
+      "fret": 24,
+      "value": 5
+    }
+  ]
+}

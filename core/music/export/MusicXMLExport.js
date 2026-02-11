@@ -7,9 +7,9 @@ export default class MusicXMLExport {
       measure: {
         "@_number": idx + 1,
         note: m.voices[0].elements.map((el) =>
-          el.pitch
-            ? MusicXMLExport.noteXML(el)
-            : MusicXMLExport.restXML(el)
+          el.note.pitch
+            ? MusicXMLExport.noteXML(el.note)
+            : MusicXMLExport.restXML(el.note)
         ),
       },
     }));
@@ -40,18 +40,18 @@ export default class MusicXMLExport {
         alter: note.pitch.accidental,
         octave: note.pitch.octave,
       },
-      duration: Math.round(note.duration.value * 256),
+      duration: Math.round(note.duration.total * 256),
       voice: 1,
-      type: MusicXMLExport.durationToType(note.duration.value),
+      type: MusicXMLExport.durationToType(note.duration.total),
     };
   }
 
   static restXML(rest) {
     return {
       rest: {},
-      duration: Math.round(rest.duration.value * 256),
+      duration: Math.round(rest.duration.total * 256),
       voice: 1,
-      type: MusicXMLExport.durationToType(rest.duration.value),
+      type: MusicXMLExport.durationToType(rest.duration.total),
     };
   }
 

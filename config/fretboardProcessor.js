@@ -1,5 +1,5 @@
-import guitar from "@/config/guitar";
-import { newLayout } from "@/redux/actions";
+import guitar from "./guitar.js";
+import { newLayout } from "../redux/actions.js";
 
 // ------------------------------
 // GET NOTE FROM FRETBOARD
