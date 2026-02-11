@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Head from 'next/head';
+import Meta from '../components/Partials/Head';
 import { useSelector, useDispatch } from 'react-redux';
 import {
     Container,
@@ -84,9 +84,10 @@ const CartPage = () => {
 
     return (
         <Container maxWidth="lg" sx={{ py: 4 }}>
-            <Head>
-                <title>Shopping Cart - Guitar Sheets</title>
-            </Head>
+            <Meta
+                title="Shopping Cart | Guitar Sheets Store"
+                description="Review your cart and checkout guitar sheets and music products. Secure checkout for digital and physical guitar learning materials."
+            />
             <Typography variant="h4" component="h1" gutterBottom fontWeight="bold">
                 Shopping Cart
             </Typography>

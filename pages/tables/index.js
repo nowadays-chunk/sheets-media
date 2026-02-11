@@ -1,5 +1,5 @@
 import React from 'react';
-import Head from 'next/head';
+import Meta from '../../components/Partials/Head';
 import {
   Container,
   Typography,
@@ -48,9 +48,10 @@ const relativesData = [
 const TablesPage = () => {
   return (
     <Box sx={{ minHeight: '100vh', py: 10, bgcolor: '#f8fafc' }}>
-      <Head>
-        <title>Music Reference Tables | Guitar Sheets</title>
-      </Head>
+      <Meta
+        title="Music Theory Tables | Scales & Chords Reference"
+        description="Complete reference tables for guitar scales, chords, and the circle of fifths. Find yourself in the maze with comprehensive music theory formulas and diatonic chord progressions."
+      />
 
       <Container maxWidth="xl">
         {/* Main Title */}

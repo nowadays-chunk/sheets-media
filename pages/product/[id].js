@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Head from 'next/head';
+import Meta from '../../components/Partials/Head';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
 import { useDispatch } from 'react-redux';
@@ -20,7 +20,7 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import CheckCircleIcon from '@mui/icons-material/CheckCircle';
 import NavigateNextIcon from '@mui/icons-material/NavigateNext';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
-import { addToCart } from '../../redux/actions/cartActions';
+import { addToCart, toggleCart } from '../../redux/actions/cartActions';
 import products from '../../data/products.json'; // Direct import since we use getStaticProps
 
 const ProductPage = ({ product }) => {
@@ -42,15 +42,15 @@ const ProductPage = ({ product }) => {
 
     const handleAddToCart = () => {
         dispatch(addToCart(product));
-        // We will implement Drawer toggle later
+        dispatch(toggleCart());
     };
 
     return (
         <Box sx={{ bgcolor: '#fff', minHeight: '100vh', pb: 10 }}>
-            <Head>
-                <title>{product.title} | Guitar Sheets Store</title>
-                <meta name="description" content={product.description} />
-            </Head>
+            <Meta
+                title={`${product.title} | Guitar Sheets Store`}
+                description={product.description || `Buy ${product.title} - ${product.type} guitar sheet music and learning materials. Instant delivery, high quality format, secure checkout.`}
+            />
 
             <Container maxWidth="lg" sx={{ pt: 4, pb: 8 }}>
                 {/* Breadcrumbs */}

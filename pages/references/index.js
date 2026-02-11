@@ -1,9 +1,10 @@
 import References from '../../components/Listing/References';
 import guitar from '../../config/guitar';
+// Note: References component already includes Meta for SEO
 
 export const getStaticProps = async (context) => {
     const elements = guitar.notes.sharps.flatMap((key) => {
-        
+
         const chords = Object.keys(guitar.arppegios).map((chordKey) => {
             const title = `Chord: ${guitar.arppegios[chordKey].name} in ${key}`;
             return {
@@ -45,9 +46,9 @@ export const getStaticProps = async (context) => {
         });
 
         return [...chords, ...arpeggios, ...scales];
-    
+
     });
-    
+
     return {
         props: {
             elements,

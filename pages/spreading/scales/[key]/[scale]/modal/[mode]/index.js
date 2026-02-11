@@ -30,7 +30,7 @@ export const getStaticProps = async ({ params }) => {
   const decodedMode = mode.replace("sharp", "#");
 
   let modeIndex = -1;
-  
+
   if (scaleObj && scaleObj.isModal) {
     modeIndex = scaleObj.modes.findIndex((m) => m.name.toLowerCase().replace(' ', '-') === decodedMode);
   }
@@ -39,6 +39,7 @@ export const getStaticProps = async ({ params }) => {
 
   // Generate the title based on the params
   const title = `Scale ${scaleObj.name} in ${decodedKey} Mode ${scaleObj.modes[validMode].name}`;
+  const description = `Learn ${scaleObj.name} scale in ${scaleObj.modes[validMode].name} mode in the key of ${decodedKey} on guitar. Master all CAGED positions and patterns for this scale mode across the fretboard.`;
 
   const boards = ['C', 'A', 'G', 'E', 'D'].map((cagedSystemElement) => {
     return {
@@ -53,7 +54,8 @@ export const getStaticProps = async ({ params }) => {
   return {
     props: {
       boards: boards,
-      title
+      title,
+      description
     },
   };
 };

@@ -15,13 +15,13 @@ const Root = styled('div')({
 });
 
 const ChordComponent = (props) => {
-  const { boards, title } = props;
+  const { boards, title, description } = props;
 
   return (
     <Root>
       <Meta
         title={title}
-        description="Explore my complete references for musical keys, scales, modes, and arpeggios. Find detailed information and resources for all keys, sharps, scales, modes, and arpeggios to enhance your musical knowledge."></Meta>
+        description={description || "Learn guitar chord shapes and positions on the fretboard. Master chord voicings using the CAGED system across all five positions."}></Meta>
       <Typography variant="h6">
         {title}
       </Typography>

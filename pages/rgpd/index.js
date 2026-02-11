@@ -1,5 +1,6 @@
 import React from 'react';
 import ArticleCard from '../../components/Listing/ArticleCard';
+import Meta from '../../components/Partials/Head';
 
 const firstPage = `# Privacy Policy (RGPD) for Sheets.media
 
@@ -47,11 +48,17 @@ Thank you for visiting Sheets.media! We value your privacy and are committed to 
 
 const CoverOne = () => {
   return (
-    <div style={{ marginTop: '100px' }}>
-      <ArticleCard article={{
-        content: firstPage
-      }}></ArticleCard>
-    </div>
+    <>
+      <Meta
+        title="Privacy Policy (RGPD) | Guitar Sheets"
+        description="Privacy Policy and GDPR compliance information for Sheets.media. Learn how we protect your personal data and respect your privacy rights."
+      />
+      <div style={{ marginTop: '100px' }}>
+        <ArticleCard article={{
+          content: firstPage
+        }}></ArticleCard>
+      </div>
+    </>
   );
 };
 

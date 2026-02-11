@@ -1,6 +1,7 @@
 
 import React from 'react';
-import Head from 'next/head';
+import { useDispatch } from 'react-redux';
+import Meta from '../components/Partials/Head';
 import Link from 'next/link';
 import Image from 'next/image';
 import {
@@ -34,6 +35,8 @@ import MovieIcon from '@mui/icons-material/Movie';
 import MainAppBar from '../components/Partials/MainAppBar';
 import globalTheme from '../ui/theme'; // Use the newly created theme
 import products from '../data/products.json';
+import { addToCart } from '../redux/actions/cartActions';
+import { toggleCart } from '../redux/actions/cartActions';
 
 // --- Reusable Components ---
 
@@ -87,9 +90,12 @@ const SectionHeader = ({ title, subtitle }) => (
 );
 
 const ProductCard = ({ id, title, price, image, type }) => {
-    // We shouldn't nest <a> inside <Link> if we use MUI Card as the clickable element or Button.
-    // However, the "Add to Cart" button should probably just add to cart, 
-    // and clicking the image or title should go to the product page.
+    const dispatch = useDispatch();
+
+    const handleAddToCart = () => {
+        dispatch(addToCart({ id, title, price, image, type }));
+        dispatch(toggleCart());
+    };
 
     return (
         <Grid item xs={12} sm={6} md={4} lg={3}>
@@ -154,7 +160,7 @@ const ProductCard = ({ id, title, price, image, type }) => {
                     </CardContent>
                 </Link>
                 <CardActions sx={{ p: 2, pt: 0 }}>
-                    <Button fullWidth variant="contained" color="secondary" startIcon={<ShoppingCartIcon />}>
+                    <Button fullWidth variant="contained" color="secondary" startIcon={<ShoppingCartIcon />} onClick={handleAddToCart}>
                         Add to Cart
                     </Button>
                 </CardActions>
@@ -195,11 +201,10 @@ const ProjectFunctionalities = () => {
     return (
         <ThemeProvider theme={globalTheme}>
             <CssBaseline />
-            <Head>
-                <title>Master The Guitar | Chords, Scales, Store & Community</title>
-                <meta name="description" content="The ultimate guitar platform. Master chords and scales, buy exclusive merchandise, and join our competitions." />
-                <link rel="icon" href="/favicon.ico" />
-            </Head>
+            <Meta
+                title="Guitar Sheets & Music Store | Learn, Play & Compose"
+                description="The ultimate guitar platform. Master chords and scales with interactive tools, buy exclusive merchandise and sheet music, compose your own music, and join our global community competitions."
+            />
 
             {/* Navigation Bar */}
             <MainAppBar isHomepage={true} />

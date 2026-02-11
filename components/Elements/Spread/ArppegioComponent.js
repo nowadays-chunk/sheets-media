@@ -14,14 +14,14 @@ const Root = styled('div')({
 });
 
 const ScaleComponent = (props) => {
-  const { boards, title } = props;
+  const { boards, title, description } = props;
 
   return (
     <Root>
       <ScoreProvider>
         <Meta
           title={title}
-          description="Explore my complete references for musical keys, scales, modes, and arpeggios. Find detailed information and resources for all keys, sharps, scales, modes, and arpeggios to enhance your musical knowledge."></Meta>
+          description={description || "Explore arpeggio patterns on guitar fretboard. Learn chord arpeggios across all positions using the CAGED system for better improvisation and soloing."}></Meta>
         <Typography variant="h6">
           {title}
         </Typography>

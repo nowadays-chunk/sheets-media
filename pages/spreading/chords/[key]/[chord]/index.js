@@ -1,5 +1,5 @@
 // pages/references/[key]/arppegios/[arppegio]/[quality]/[shape]/index.js
-import ChordComponent from  '../../../../../components/Elements/Spread/ChordComponent';
+import ChordComponent from '../../../../../components/Elements/Spread/ChordComponent';
 import guitar from '../../../../../config/guitar';
 
 export const getStaticPaths = async () => {
@@ -21,14 +21,15 @@ export const getStaticPaths = async () => {
 };
 
 export const getStaticProps = async ({ params }) => {
-    const { key, chord} = params;
+    const { key, chord } = params;
     const decodedKey = key.replace('sharp', '#');
     const decodedChord = chord.replace('sharp', '#');
 
     const keyIndex = guitar.notes.sharps.indexOf(decodedKey);
     // Generate the title based on the params
     const title = `Chord: ${guitar.arppegios[decodedChord].name} in ${decodedKey}`;
-    
+    const description = `Learn ${guitar.arppegios[decodedChord].name} chord in the key of ${decodedKey} on guitar. Explore all CAGED positions and chord voicings across the fretboard.`;
+
     const boards = ['C', 'A', 'G', 'E', 'D'].map((cagedSystemElement) => {
         return {
             keyIndex,
@@ -41,7 +42,8 @@ export const getStaticProps = async ({ params }) => {
     return {
         props: {
             boards,
-            title
+            title,
+            description
         }
     };
 };

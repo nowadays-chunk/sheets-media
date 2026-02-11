@@ -2,47 +2,49 @@ import ScaleComponent from '../../../../../../components/Elements/Spread/ScaleCo
 import guitar from '../../../../../../config/guitar';
 
 export const getStaticPaths = async () => {
-    const { notes, scales, shapes } = guitar;
-    const paths = [];
+  const { notes, scales, shapes } = guitar;
+  const paths = [];
 
-    notes.sharps.forEach((key) => {
-        Object.keys(scales).forEach((scaleKey) => {
-            const scale = scales[scaleKey];
-            if (!scale.isModal) {
-                shapes.names.forEach((shape) => {
-                    paths.push({ params: { key: key.replace("#", "sharp"), scale: scaleKey } });
-                });
-            }
+  notes.sharps.forEach((key) => {
+    Object.keys(scales).forEach((scaleKey) => {
+      const scale = scales[scaleKey];
+      if (!scale.isModal) {
+        shapes.names.forEach((shape) => {
+          paths.push({ params: { key: key.replace("#", "sharp"), scale: scaleKey } });
         });
+      }
     });
+  });
 
-    return { paths, fallback: false };
+  return { paths, fallback: false };
 };
 
 export const getStaticProps = async ({ params }) => {
-    const { key, scale } = params;
-    const decodedKey = key.replace("sharp", "#");
+  const { key, scale } = params;
+  const decodedKey = key.replace("sharp", "#");
 
-    const keyIndex = guitar.notes.sharps.indexOf(decodedKey);
-    const scaleObj = guitar.scales[scale];
+  const keyIndex = guitar.notes.sharps.indexOf(decodedKey);
+  const scaleObj = guitar.scales[scale];
 
-    // Generate the title based on the params
-    const title = `Scale ${scaleObj.name} in ${decodedKey} Single`;
+  // Generate the title based on the params
+  const title = `Scale ${scaleObj.name} in ${decodedKey} Single`;
+  const description = `Learn ${scaleObj.name} scale in the key of ${decodedKey} on guitar. Master all CAGED positions and patterns for this scale across the fretboard.`;
 
-    const boards = ['C', 'A', 'G', 'E', 'D'].map((cagedSystemElement) => {
-      return {
-        keyIndex,
-        scale: scale,
-        modeIndex: -1,
-        shape: cagedSystemElement,
-        board: 'references2' + '-' + cagedSystemElement,
-      }
-    })
+  const boards = ['C', 'A', 'G', 'E', 'D'].map((cagedSystemElement) => {
+    return {
+      keyIndex,
+      scale: scale,
+      modeIndex: -1,
+      shape: cagedSystemElement,
+      board: 'references2' + '-' + cagedSystemElement,
+    }
+  })
 
   return {
     props: {
       boards: boards,
-      title
+      title,
+      description
     },
   };
 };

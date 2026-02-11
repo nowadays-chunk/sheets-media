@@ -1,5 +1,6 @@
 // pages/stats.jsx
 import Stats from "@/components/Pages/Stats/Stats";
+// Note: Stats component may already include Meta for SEO
 
 /* ------------------------------------------------------------
    GET STATIC PROPS — READ PRECOMPUTED STATS

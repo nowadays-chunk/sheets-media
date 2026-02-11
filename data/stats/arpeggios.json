@@ -18857,51 +18857,51 @@
   "flow": [
     {
       "name": "C→G",
-      "value": 29
-    },
-    {
-      "name": "G→D",
-      "value": 28
-    },
-    {
-      "name": "D→A",
-      "value": 21
-    },
-    {
-      "name": "A→E",
       "value": 13
     },
     {
-      "name": "E→B",
-      "value": 25
+      "name": "G→D",
+      "value": 29
     },
     {
-      "name": "B→F#",
-      "value": 26
-    },
-    {
-      "name": "F#→C#",
-      "value": 27
-    },
-    {
-      "name": "C#→G#",
+      "name": "D→A",
       "value": 18
     },
     {
-      "name": "G#→D#",
+      "name": "A→E",
       "value": 27
     },
     {
-      "name": "D#→A#",
+      "name": "E→B",
+      "value": 14
+    },
+    {
+      "name": "B→F#",
       "value": 25
+    },
+    {
+      "name": "F#→C#",
+      "value": 11
+    },
+    {
+      "name": "C#→G#",
+      "value": 26
+    },
+    {
+      "name": "G#→D#",
+      "value": 11
+    },
+    {
+      "name": "D#→A#",
+      "value": 13
     },
     {
       "name": "A#→F",
-      "value": 25
+      "value": 18
     },
     {
       "name": "F→C",
-      "value": 11
+      "value": 13
     }
   ]
 }

@@ -1,4 +1,4 @@
-import ArpeggioComponent from  '../../../../../components/Elements/Spread/ArppegioComponent';
+import ArpeggioComponent from '../../../../../components/Elements/Spread/ArppegioComponent';
 import guitar from '../../../../../config/guitar';
 
 export const getStaticPaths = async () => {
@@ -29,6 +29,7 @@ export const getStaticProps = async ({ params }) => {
 
     // Generate the title based on the params
     const title = `Arpeggio ${guitar.arppegios[decodedArppegio].name} in ${decodedKey}`;
+    const description = `Learn ${guitar.arppegios[decodedArppegio].name} arpeggio in the key of ${decodedKey} on guitar. Master all CAGED positions and patterns for this arpeggio across the fretboard.`;
 
     const boards = ['C', 'A', 'G', 'E', 'D'].map((cagedSystemElement) => {
         return {
@@ -41,8 +42,9 @@ export const getStaticProps = async ({ params }) => {
 
     return {
         props: {
-        boards: boards,
-        title
+            boards: boards,
+            title,
+            description
         },
     };
 };

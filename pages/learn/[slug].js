@@ -5,6 +5,7 @@
 import React, { useState } from "react";
 import { Box, Button, Typography } from "@mui/material";
 import SongFullscreenPlayer from "@/components/Pages/LearnSongs/SongFullscreenPlayer";
+import Meta from "../../components/Partials/Head";
 
 /* ============================================================
    PAGE
@@ -18,45 +19,51 @@ export default function LearnSong({ song }) {
     .filter((l) => l.chunks.some((c) => c.chord));
 
   return (
-    <Box maxWidth={900} mx="auto" p={3}>
-      <Typography variant="h4">{song.title}</Typography>
-      <Typography variant="h6">{song.artist}</Typography>
-
-      <Box my={2}>
-        <Button variant="contained" onClick={() => setFullscreen(true)}>
-          Fullscreen Play
-        </Button>
-      </Box>
-
-      {playableLines.map((line, i) => (
-        <Box key={i} mb={1}>
-          {line.chunks.map((c, k) => (
-            <span key={k} style={{ marginRight: 10 }}>
-              <span
-                style={{
-                  fontWeight: 800,
-                  border: "1px solid #ccc",
-                  borderRadius: 10,
-                  padding: "6px 12px",
-                  marginRight: 10,
-                  background: "#fafafa",
-                  display: "inline-block",
-                }}
-              >
-                {c.chord}
-              </span>
-              {c.lyrics}
-            </span>
-          ))}
-        </Box>
-      ))}
-
-      <SongFullscreenPlayer
-        open={fullscreen}
-        lines={playableLines}
-        onClose={() => setFullscreen(false)}
+    <>
+      <Meta
+        title={`${song.title} by ${song.artist} | Learn Guitar`}
+        description={`Learn to play ${song.title} by ${song.artist} on guitar. Interactive chord charts, lyrics, and fullscreen player for practicing guitar songs.`}
       />
-    </Box>
+      <Box maxWidth={900} mx="auto" p={3}>
+        <Typography variant="h4">{song.title}</Typography>
+        <Typography variant="h6">{song.artist}</Typography>
+
+        <Box my={2}>
+          <Button variant="contained" onClick={() => setFullscreen(true)}>
+            Fullscreen Play
+          </Button>
+        </Box>
+
+        {playableLines.map((line, i) => (
+          <Box key={i} mb={1}>
+            {line.chunks.map((c, k) => (
+              <span key={k} style={{ marginRight: 10 }}>
+                <span
+                  style={{
+                    fontWeight: 800,
+                    border: "1px solid #ccc",
+                    borderRadius: 10,
+                    padding: "6px 12px",
+                    marginRight: 10,
+                    background: "#fafafa",
+                    display: "inline-block",
+                  }}
+                >
+                  {c.chord}
+                </span>
+                {c.lyrics}
+              </span>
+            ))}
+          </Box>
+        ))}
+
+        <SongFullscreenPlayer
+          open={fullscreen}
+          lines={playableLines}
+          onClose={() => setFullscreen(false)}
+        />
+      </Box>
+    </>
   );
 }
 
