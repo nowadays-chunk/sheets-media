@@ -27,7 +27,8 @@ import {
     buildTreemapNotes,
     buildScatterPositions,
     buildRadarStringUsage,
-    buildChordFlow
+    buildChordFlow,
+    combineStats
 } from "../utils";
 
 export default function ArpeggiosTab({ boards, precomputedStats, saveStats, isHomepage }) {
@@ -46,7 +47,7 @@ export default function ArpeggiosTab({ boards, precomputedStats, saveStats, isHo
     const _arpRadarStrings = useMemo(() => buildRadarStringUsage(boards), [boards]);
     const _arpModes = useMemo(() => buildModeUsage(boards), [boards]);
 
-    const arpStats = useMemo(() => precomputedStats || {
+    const arpStats = useMemo(() => combineStats({
         noteUsage: _arpNoteUsage,
         intervalUsage: _arpIntervalUsage,
         neckZones: _arpNeckZones,
@@ -60,7 +61,7 @@ export default function ArpeggiosTab({ boards, precomputedStats, saveStats, isHo
         flow: _arpFlow,
         radarStrings: _arpRadarStrings,
         modes: _arpModes
-    }, [precomputedStats, _arpNoteUsage, _arpIntervalUsage, _arpNeckZones, _arpFretHeatmap, _arpFretHistogram, _arpFretRanges, _arpTreemap, _arpScatter, _arpKeys, _arpShapes, _arpFlow, _arpRadarStrings, _arpModes]);
+    }, precomputedStats), [precomputedStats, _arpNoteUsage, _arpIntervalUsage, _arpNeckZones, _arpFretHeatmap, _arpFretHistogram, _arpFretRanges, _arpTreemap, _arpScatter, _arpKeys, _arpShapes, _arpFlow, _arpRadarStrings, _arpModes]);
 
     useEffect(() => {
         if (!isHomepage && !precomputedStats && boards.length > 0) {

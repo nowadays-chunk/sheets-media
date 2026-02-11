@@ -290,14 +290,14 @@ const ProjectFunctionalities = () => {
                     <SectionHeader title="Master The Guitar Store" subtitle="Exclusive merchandise, premium PDFs, custom picks, and sheet music." />
 
                     <Grid container spacing={4}>
-                        <ProductCard title="#1 Guitar Mastery PDF" price="19.99" type="Digital" image="/assets/products/guitar-mastery-pdf.png" />
-                        <ProductCard title="Official 'Master' T-Shirt" price="24.99" type="Physical" image="/assets/products/master-tshirt.png" />
-                        <ProductCard title="Custom Picks Pack (x12)" price="9.99" type="Physical" image="/assets/products/custom-picks.png" />
-                        <ProductCard title="Theory Poster Set" price="29.99" type="Physical" image="/assets/products/theory-poster.png" />
-                        <ProductCard title="Premium Mug" price="14.99" type="Physical" image="/assets/products/premium-mug.png" />
-                        <ProductCard title="Complete Tabs Collection" price="39.99" type="Digital" image="/assets/products/tabs-collection.png" />
-                        <ProductCard title="Advanced Partitions" price="12.99" type="Digital" image="/assets/products/advanced-partitions.png" />
-                        <ProductCard title="Lifetime Access Pass" price="99.99" type="Digital" image="/assets/products/lifetime-access.png" />
+                        <ProductCard id="pdf-mastery" title="#1 Guitar Mastery PDF" price={19.99} type="Digital" image="/assets/products/guitar-mastery-pdf.png" />
+                        <ProductCard id="tshirt-master" title="Official 'Master' T-Shirt" price={24.99} type="Physical" image="/assets/products/master-tshirt.png" />
+                        <ProductCard id="picks-custom" title="Custom Picks Pack (x12)" price={9.99} type="Physical" image="/assets/products/custom-picks.png" />
+                        <ProductCard id="poster-theory" title="Theory Poster Set" price={29.99} type="Physical" image="/assets/products/theory-poster.png" />
+                        <ProductCard id="mug-premium" title="Premium Mug" price={14.99} type="Physical" image="/assets/products/premium-mug.png" />
+                        <ProductCard id="tabs-collection" title="Complete Tabs Collection" price={39.99} type="Digital" image="/assets/products/tabs-collection.png" />
+                        <ProductCard id="partitions-adv" title="Advanced Partitions" price={12.99} type="Digital" image="/assets/products/advanced-partitions.png" />
+                        <ProductCard id="lifetime-access" title="Lifetime Access Pass" price={99.99} type="Digital" image="/assets/products/lifetime-access.png" />
                     </Grid>
                     <Box sx={{ textAlign: 'center', mt: 6 }}>
                         <Button variant="outlined" size="large" endIcon={<ShoppingCartIcon />}>View All Products</Button>

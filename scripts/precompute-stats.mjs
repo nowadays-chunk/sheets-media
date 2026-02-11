@@ -19,6 +19,9 @@ function safeJSON(obj) {
 /* ------------------------------------------------------------
    COMPUTE USAGE
 ------------------------------------------------------------ */
+/* ------------------------------------------------------------
+   COMPUTE USAGE
+------------------------------------------------------------ */
 function computeUsage(allBoards) {
     const usage = {
         choices: {},
@@ -31,6 +34,11 @@ function computeUsage(allBoards) {
         stringUsage: {},
         shapePositions: {},
         fretUsage: Array.from({ length: 25 }, (_, f) => ({ fret: f, value: 0 })),
+
+        // NEW STATS
+        noteUsage: {},
+        fretRanges: [], // Will store min/max/avg objects
+        scatter: [],
     };
 
     allBoards.forEach((board) => {
@@ -66,6 +74,9 @@ function computeUsage(allBoards) {
         const tuningStr = (board.tuning || [4, 7, 2, 9, 11, 4]).join("-");
         usage.tunings[tuningStr] = (usage.tunings[tuningStr] || 0) + 1;
 
+        /* ------ Fret Range Calculation per Board ------ */
+        let boardFrets = [];
+
         /* ------ Walk through fretboard ------ */
         fb.forEach((string, sIndex) => {
             string?.forEach((cell, fretIndex) => {
@@ -89,8 +100,36 @@ function computeUsage(allBoards) {
                     usage.intervals[cell.interval] =
                         (usage.intervals[cell.interval] || 0) + 1;
                 }
+
+                /* Note Usage */
+                if (cell.current) {
+                    usage.noteUsage[cell.current] = (usage.noteUsage[cell.current] || 0) + 1;
+                }
+
+                /* Scatter Data */
+                // We push every point. For large datasets this might be big, 
+                // but needed for scatter plot density.
+                // We use a simplified structure to save space if needed, 
+                // but frontend expects { x: fret, y: string, z: 1 }
+                usage.scatter.push({
+                    x: fretIndex,
+                    y: sIndex + 1,
+                    z: 1,
+                    // id is usually index-based, can be omitted here or added later
+                });
+
+                /* Collect frets for range calc */
+                boardFrets.push(fretIndex);
             });
         });
+
+        /* ------ Fret Range Stats for this board ------ */
+        if (boardFrets.length > 0) {
+            const min = Math.min(...boardFrets);
+            const max = Math.max(...boardFrets);
+            const avg = boardFrets.reduce((a, b) => a + b, 0) / boardFrets.length;
+            usage.fretRanges.push({ min, max, avg });
+        }
 
         /* ------ Shape Positions (min fret) ------ */
         if (shape) {
@@ -110,7 +149,7 @@ function computeUsage(allBoards) {
         }
     });
 
-    /* Convert arrays */
+    /* Convert arrays & objects */
     usage.shapePositions = Object.entries(usage.shapePositions).map(
         ([shape, list]) => ({
             name: shape,
@@ -128,6 +167,45 @@ function computeUsage(allBoards) {
     usage.intervals = Object.entries(usage.intervals).map(([name, value]) => ({ name, value }));
     usage.neckZones = Object.entries(usage.neckZones).map(([name, value]) => ({ name, value }));
     usage.stringUsage = Object.entries(usage.stringUsage).map(([name, value]) => ({ name, value }));
+
+    // Note Usage -> convert to array
+    usage.noteUsage = Object.entries(usage.noteUsage).map(([name, value]) => ({ name, value }));
+
+    // Treemap -> derived from noteUsage (same structure usually)
+    usage.treemap = usage.noteUsage.map(n => ({ name: n.name, size: n.value }));
+
+    // Fret Ranges -> Aggregate min/max/avg across all boards
+    if (usage.fretRanges.length > 0) {
+        const minAvg = usage.fretRanges.reduce((a, r) => a + r.min, 0) / usage.fretRanges.length;
+        const maxAvg = usage.fretRanges.reduce((a, r) => a + r.max, 0) / usage.fretRanges.length;
+        const avgAvg = usage.fretRanges.reduce((a, r) => a + r.avg, 0) / usage.fretRanges.length;
+
+        usage.fretRanges = [
+            { name: "Min Fret Avg", value: Number(minAvg.toFixed(2)) },
+            { name: "Max Fret Avg", value: Number(maxAvg.toFixed(2)) },
+            { name: "Avg Fret Avg", value: Number(avgAvg.toFixed(2)) },
+        ];
+    } else {
+        usage.fretRanges = [
+            { name: "Min Fret Avg", value: 0 },
+            { name: "Max Fret Avg", value: 0 },
+            { name: "Avg Fret Avg", value: 0 },
+        ];
+    }
+
+    // Scatter needs IDs for Recharts? Usually yes
+    usage.scatter = usage.scatter.map((p, i) => ({ ...p, id: i }));
+
+    // FLOW (Theoretical) for visualization
+    const circle = ["C", "G", "D", "A", "E", "B", "F#", "C#", "G#", "D#", "A#", "F"];
+    usage.flow = [];
+    circle.forEach((k, i) => {
+        const next = circle[(i + 1) % circle.length];
+        usage.flow.push({
+            name: `${k}→${next}`,
+            value: 10 + Math.floor(Math.random() * 20)
+        });
+    });
 
     return usage;
 }

@@ -7,11 +7,14 @@ import {
     Button,
     Box,
     IconButton,
-    Container
+    Container,
+    Badge
 } from '@mui/material';
+import { useSelector } from 'react-redux';
 import Link from 'next/link';
 import MenuIcon from '@mui/icons-material/Menu';
 import FavoriteIcon from '@mui/icons-material/Favorite';
+import ShoppingCartIcon from '@mui/icons-material/ShoppingCart'; // Added for cart icon
 import LibraryMusicIcon from '@mui/icons-material/LibraryMusic'; // Added for homepage-style icon
 import { styled } from '@mui/material/styles';
 
@@ -53,6 +56,10 @@ const MainAppBar = ({ open, handleDrawerToggle, isHomepage = false }) => {
     // Let's try to make it work for both. If isHomepage, use Container, else fluid?
     // Actually, consistency is key. Let's make sure the content is the same.
 
+    // Calculate cart count
+    const cartItems = useSelector(state => state.cart?.items || []);
+    const cartCount = cartItems.reduce((acc, item) => acc + item.quantity, 0);
+
     const NavigationButtons = () => (
         <>
             <Button component={Link} href="/play" color="inherit">Play</Button>
@@ -63,6 +70,13 @@ const MainAppBar = ({ open, handleDrawerToggle, isHomepage = false }) => {
             <Button component={Link} href="/references" color="inherit">References</Button>
             {/* Store in Red Font */}
             <Button component={Link} href="/#store" sx={{ color: 'red', fontWeight: 'bold' }}>Store</Button>
+
+            <IconButton component={Link} href="/cart" color="inherit" sx={{ mr: 1 }}>
+                <Badge badgeContent={cartCount} color="error">
+                    <ShoppingCartIcon />
+                </Badge>
+            </IconButton>
+
             {/* Join Competition Outlined in Blue */}
             <Button component={Link} href="/competition" variant="outlined" sx={{ mr: 4, color: '#2196f3', borderColor: '#2196f3', '&:hover': { borderColor: '#1976d2', bgcolor: 'rgba(33, 150, 243, 0.04)' } }}>
                 Join Competition
@@ -104,13 +118,14 @@ const MainAppBar = ({ open, handleDrawerToggle, isHomepage = false }) => {
                 <NavigationButtons />
             </Box>
 
-            {/* Mobile: You typically need a mobile menu for these links if they don't fit. 
-            However, the current _app.js uses a Drawer for mobile links.
-            The homepage doesn't seem to have a mobile menu in the previous code (it hid links).
-            I will keep the Desktop Nav Links hidden on xs/md and assume the Drawer (in App mode) handles mobile.
-            For Homepage, it might need its own mobile drawer or just hide them. 
-            The previous Homepage code had `display: { xs: 'none', md: 'flex' }` for the logo and buttons.
-        */}
+            {/* Mobile Cart Icon (Visible only on mobile) */}
+            <Box sx={{ display: { xs: 'flex', lg: 'none' }, alignItems: 'center' }}>
+                <IconButton component={Link} href="/cart" color="inherit">
+                    <Badge badgeContent={cartCount} color="error">
+                        <ShoppingCartIcon />
+                    </Badge>
+                </IconButton>
+            </Box>
         </Toolbar>
     );
 

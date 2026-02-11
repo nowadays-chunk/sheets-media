@@ -5,6 +5,7 @@ import PropTypes from "prop-types";
 import CloseIcon from "@mui/icons-material/Close";
 import CleaningServicesIcon from '@mui/icons-material/CleaningServices';
 import SaveIcon from '@mui/icons-material/Save';
+import AddCircleOutlineIcon from '@mui/icons-material/AddCircleOutline';
 import PlayCircleOutlineIcon from '@mui/icons-material/PlayCircleOutline';
 import LibraryBooksIcon from '@mui/icons-material/LibraryBooks';
 import Link from "next/link";
@@ -76,7 +77,10 @@ const FretboardControls = ({
   saveProgression,
   playSelectedNotes,
   progression,
-  createNewBoardDisplay
+  createNewBoardDisplay,
+  boards,
+  selectedFretboardIndex,
+  setSelectedFretboardIndex
 }) => {
   const theme = useTheme();
   const keysSharps = guitar.notes.sharps;
@@ -139,6 +143,26 @@ const FretboardControls = ({
           <CloseIcon fontSize="small" />
         </IconButton>
       </Box>
+
+      {/* BOARD SWITCHER */}
+      {boards && boards.length > 1 && (
+        <StyledPaper elevation={0}>
+          <SectionTitle>Active Board</SectionTitle>
+          <Grid container spacing={1}>
+            {boards.map((b, i) => (
+              <Grid item xs={3} key={b.id}>
+                <OptionButton
+                  selected={props.selectedFretboardIndex === i}
+                  onClick={() => props.setSelectedFretboardIndex(i)}
+                  sx={{ justifyContent: 'center', minWidth: 'auto', px: 1 }}
+                >
+                  {i + 1}
+                </OptionButton>
+              </Grid>
+            ))}
+          </Grid>
+        </StyledPaper>
+      )}
 
       {/* CATEGORY SELECTION */}
       <StyledPaper elevation={0}>
@@ -280,11 +304,11 @@ const FretboardControls = ({
               fullWidth
               variant="contained"
               color="secondary"
-              startIcon={<SaveIcon />}
+              startIcon={<AddCircleOutlineIcon />}
               onClick={createNewBoardDisplay}
               sx={{ borderRadius: 2, color: 'white' }}
             >
-              Save
+              Add Fretboard
             </Button>
           </Grid>
           <Grid item xs={12}>

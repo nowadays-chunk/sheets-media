@@ -242,10 +242,10 @@ const FretboardDisplay = ({
                 fretboard[fretboard.generalSettings.choice + 'Settings']?.notes?.indexOf(
                   note.current
                 );
-              modalNoteIndex = visualizerModalIndex >= 0 ? visualizerModalIndex : fretboard.keySettings.mode ;
+              modalNoteIndex = visualizerModalIndex >= 0 ? visualizerModalIndex : fretboard.keySettings.mode;
             }
           }
- 
+
           const noteStyle = getNoteStyle(note, noteIndex, modalNoteIndex);
 
           return (
@@ -284,6 +284,13 @@ const FretboardDisplay = ({
         key={`fretboard-${fretboardIndex}`}
         onFocus={() => handleFretboardSelect(fretboardIndex)}
         onClick={() => handleFretboardSelect(fretboardIndex)}
+        style={{
+          border: selectedFretboard.id === fretboard.id ? '2px solid #8884d8' : '2px solid transparent',
+          borderRadius: '8px',
+          padding: '10px',
+          transition: 'border 0.2s ease',
+          backgroundColor: selectedFretboard.id === fretboard.id ? 'rgba(136, 132, 216, 0.05)' : 'transparent'
+        }}
       >
         <label style={{ fontWeight: 'bold' }}>
           #Strings:
@@ -316,7 +323,7 @@ const FretboardDisplay = ({
             <TableRow>{newHeads}</TableRow>
           </tfoot>
         </FretboardTable>
-{/* 
+        {/* 
       <MidiReader playNote={onNoteClick} onHighlight={(e) => {
         console.log("note being played ", e);
       }} /> */}

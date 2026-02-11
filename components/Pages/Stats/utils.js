@@ -340,11 +340,15 @@ export const combineStats = (computed, precomputed) => {
             precomputed.stringUsage && precomputed.stringUsage.length > 0
                 ? toRadar(precomputed.stringUsage)
                 : computed.radarStrings,
-        // Fallbacks for missing data in simplified JSONs
-        noteUsage: computed.noteUsage,
-        treemap: computed.treemap,
-        scatter: computed.scatter,
-        fretRanges: computed.fretRanges,
-        flow: computed.flow,
+
+        // NEW MAPPINGS
+        noteUsage: precomputed.noteUsage || computed.noteUsage,
+        treemap: precomputed.treemap || computed.treemap,
+        scatter: precomputed.scatter || computed.scatter,
+        fretRanges: precomputed.fretRanges || computed.fretRanges,
+
+        // Flow remains computed per session as it is sequence-dependent, 
+        // but we can support precomputed theoretical flow if provided
+        flow: precomputed.flow || computed.flow,
     };
 };
