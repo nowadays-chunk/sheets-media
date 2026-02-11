@@ -11,8 +11,7 @@ import {
     TreemapGraph,
     LineGraph,
     RadialBarGraph,
-    FlowGraph,
-    GraphCard
+    FlowGraph
 } from "../Charts";
 import {
     buildNoteUsage,
@@ -72,79 +71,49 @@ export default function ArpeggiosTab({ boards, precomputedStats, saveStats, isHo
     return (
         <Grid container spacing={1}>
             <Grid item xs={12}>
-                <GraphCard>
-                    <Heatmap title="Arpeggio Heatmap" data={arpStats.fretHeatmap} />
-                </GraphCard>
+                <Heatmap title="Arpeggio Heatmap" data={arpStats.fretHeatmap} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <BarGraph title="Arpeggio Note Frequency" data={arpStats.noteUsage} />
-                </GraphCard>
+                <BarGraph title="Arpeggio Note Frequency" data={arpStats.noteUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <PieGraph title="Arpeggio Interval Usage" data={arpStats.intervalUsage} />
-                </GraphCard>
+                <PieGraph title="Arpeggio Interval Usage" data={arpStats.intervalUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <BarGraph title="Arpeggio Key Distribution" data={arpStats.keys} />
-                </GraphCard>
+                <BarGraph title="Arpeggio Key Distribution" data={arpStats.keys} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <PieGraph title="Arpeggio Shape Usage" data={arpStats.shapes} />
-                </GraphCard>
+                <PieGraph title="Arpeggio Shape Usage" data={arpStats.shapes} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <BarGraph title="Mode Occurrence in Arpeggios" data={arpStats.modes} />
-                </GraphCard>
+                <BarGraph title="Mode Occurrence in Arpeggios" data={arpStats.modes} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <RadarGraph title="Arpeggio String Usage Radar" data={arpStats.radarStrings} />
-                </GraphCard>
+                <RadarGraph title="Arpeggio String Usage Radar" data={arpStats.radarStrings} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <PieGraph title="Arpeggio Neck Zones" data={arpStats.neckZones} />
-                </GraphCard>
+                <PieGraph title="Arpeggio Neck Zones" data={arpStats.neckZones} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <HistogramGraph title="Arpeggio Fret Histogram" data={arpStats.fretHistogram} />
-                </GraphCard>
+                <HistogramGraph title="Arpeggio Fret Histogram" data={arpStats.fretHistogram} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <RangeGraph title="Arpeggio Fret Range" data={arpStats.fretRanges} />
-                </GraphCard>
+                <RangeGraph title="Arpeggio Fret Range" data={arpStats.fretRanges} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <ScatterGraph title="Arpeggio Fret vs String Scatter" data={arpStats.scatter} />
-                </GraphCard>
+                <ScatterGraph title="Arpeggio Fret vs String Scatter" data={arpStats.scatter} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <TreemapGraph title="Arpeggio Note Treemap" data={arpStats.treemap} />
-                </GraphCard>
+                <TreemapGraph title="Arpeggio Note Treemap" data={arpStats.treemap} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <LineGraph title="Arpeggio Note Popularity Trend" data={arpStats.noteUsage} />
-                </GraphCard>
+                <LineGraph title="Arpeggio Note Popularity Trend" data={arpStats.noteUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <RadialBarGraph title="Arpeggio Radial Note Distribution" data={arpStats.noteUsage} />
-                </GraphCard>
+                <RadialBarGraph title="Arpeggio Radial Note Distribution" data={arpStats.noteUsage} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <FlowGraph title="Arpeggio Flow Pattern" data={arpStats.flow} />
-                </GraphCard>
+                <FlowGraph title="Arpeggio Flow Pattern" data={arpStats.flow} />
             </Grid>
         </Grid>
     );

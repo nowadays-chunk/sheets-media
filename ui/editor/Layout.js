@@ -23,8 +23,8 @@ export default function Layout() {
           flex: 1,
           display: "flex",
           flexDirection: "column",
-          height: "auto",
-          overflow: "visible",
+          height: "calc(100vh - 65px)",
+          overflow: "hidden", // Prevent global scroll
         }}
       >
         {/* FRETBOARD & CONTROLS */}

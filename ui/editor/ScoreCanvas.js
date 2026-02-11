@@ -37,7 +37,10 @@ export default function ScoreCanvas() {
     <div
       style={{
         width: "100%",
-        paddingBottom: 60,
+        height: "100%",
+        display: "flex",
+        flexDirection: "column",
+        overflow: "hidden"
       }}
     >
       {/* TOGGLE BUTTONS */}
@@ -45,15 +48,15 @@ export default function ScoreCanvas() {
         style={{
           display: "flex",
           width: "100%",
-          border: "1px solid #ccc",
-          overflow: "hidden",
+          borderBottom: "1px solid #ccc",
           background: "#fafafa",
+          flexShrink: 0
         }}
       >
         <button
           onClick={() => setActiveTab("notation")}
           style={{
-            width: "50%",
+            flex: 1,
             padding: "12px 0",
             fontSize: 16,
             fontWeight: activeTab === "notation" ? "bold" : "normal",
@@ -69,7 +72,7 @@ export default function ScoreCanvas() {
         <button
           onClick={() => setActiveTab("tab")}
           style={{
-            width: "50%",
+            flex: 1,
             padding: "12px 0",
             fontSize: 16,
             fontWeight: activeTab === "tab" ? "bold" : "normal",
@@ -83,46 +86,41 @@ export default function ScoreCanvas() {
         </button>
       </div>
 
-      {/* SPACING */}
-      <div style={{ height: 40 }}></div>
-
       {/* SCORE AREA */}
-      <div style={{ position: "relative", minHeight: 300 }}>
+      <div
+        style={{
+          flex: 1,
+          overflowX: "auto",
+          overflowY: "hidden",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "flex-start",
+          position: "relative",
+          width: "100%"
+        }}
+      >
         <CursorOverlay activeTab={activeTab} />
 
-        {/* SCORE SVG */}
-        <div
-          ref={notationRef}
-          className="notation"
-          style={{
-            width: "100%",
-            minHeight: 300,
-            visibility: activeTab === "notation" ? "visible" : "hidden",
-            position: activeTab === "notation" ? "relative" : "absolute",
-            top: 0,
-            left: 0,
-            opacity: activeTab === "notation" ? 1 : 0,
-            pointerEvents: activeTab === "notation" ? "auto" : "none",
-            transition: "opacity 0.2s",
-          }}
-        ></div>
+        {/* CONTAINER FOR CONTENT TO ENSURE IT CAN GROW HORIZONTALLY */}
+        <div style={{ display: "flex", alignItems: "center", minHeight: "100%" }}>
+          {/* SCORE SVG */}
+          <div
+            ref={notationRef}
+            className="notation"
+            style={{
+              display: activeTab === "notation" ? "block" : "none",
+            }}
+          ></div>
 
-        {/* TAB SVG */}
-        <div
-          ref={tabRef}
-          className="tablature"
-          style={{
-            width: "100%",
-            minHeight: 200,
-            visibility: activeTab === "tab" ? "visible" : "hidden",
-            position: activeTab === "tab" ? "relative" : "absolute",
-            top: 0,
-            left: 0,
-            opacity: activeTab === "tab" ? 1 : 0,
-            pointerEvents: activeTab === "tab" ? "auto" : "none",
-            transition: "opacity 0.2s",
-          }}
-        ></div>
+          {/* TAB SVG */}
+          <div
+            ref={tabRef}
+            className="tablature"
+            style={{
+              display: activeTab === "tab" ? "block" : "none",
+            }}
+          ></div>
+        </div>
       </div>
     </div>
   );

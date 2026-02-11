@@ -6,9 +6,9 @@ import guitar from "@/config/guitar";
 export const FRET_COUNT = 25;
 
 export const COLORS = [
-    "#1976d2", "#9c27b0", "#ff9800", "#4caf50", "#e91e63",
-    "#009688", "#d32f2f", "#303f9f", "#7b1fa2", "#455a64",
-    "#f57c00", "#388e3c", "#00838f", "#6d4c41", "#283593"
+    "#0088FE", "#00C49F", "#FFBB28", "#FF8042", "#8884d8",
+    "#82ca9d", "#ffc658", "#8dd1e1", "#a4de6c", "#d0ed57",
+    "#ffc0cb", "#b0c4de", "#dda0dd", "#f0e68c", "#e6e6fa"
 ];
 
 /* ------------------------------------------------------------

@@ -11,8 +11,7 @@ import {
     TreemapGraph,
     LineGraph,
     RadialBarGraph,
-    FlowGraph,
-    GraphCard
+    FlowGraph
 } from "../Charts";
 import {
     buildNoteUsage,
@@ -72,79 +71,49 @@ export default function ScalesTab({ boards, precomputedStats, saveStats, isHomep
     return (
         <Grid container spacing={1}>
             <Grid item xs={12}>
-                <GraphCard>
-                    <Heatmap title="Scale Heatmap" data={scaleStats.fretHeatmap} />
-                </GraphCard>
+                <Heatmap title="Scale Heatmap" data={scaleStats.fretHeatmap} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <BarGraph title="Scale Note Frequency" data={scaleStats.noteUsage} />
-                </GraphCard>
+                <BarGraph title="Scale Note Frequency" data={scaleStats.noteUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <PieGraph title="Scale Interval Distribution" data={scaleStats.intervalUsage} />
-                </GraphCard>
+                <PieGraph title="Scale Interval Distribution" data={scaleStats.intervalUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <BarGraph title="Scale Key Distribution" data={scaleStats.keys} />
-                </GraphCard>
+                <BarGraph title="Scale Key Distribution" data={scaleStats.keys} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <PieGraph title="Scale Shape Distribution" data={scaleStats.shapes} />
-                </GraphCard>
+                <PieGraph title="Scale Shape Distribution" data={scaleStats.shapes} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <BarGraph title="Mode Distribution (Scales)" data={scaleStats.modes} />
-                </GraphCard>
+                <BarGraph title="Mode Distribution (Scales)" data={scaleStats.modes} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <RadarGraph title="Scale String Usage Radar" data={scaleStats.radarStrings} />
-                </GraphCard>
+                <RadarGraph title="Scale String Usage Radar" data={scaleStats.radarStrings} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <PieGraph title="Scale Neck Zones Distribution" data={scaleStats.neckZones} />
-                </GraphCard>
+                <PieGraph title="Scale Neck Zones Distribution" data={scaleStats.neckZones} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <HistogramGraph title="Scale Fret Histogram" data={scaleStats.fretHistogram} />
-                </GraphCard>
+                <HistogramGraph title="Scale Fret Histogram" data={scaleStats.fretHistogram} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <RangeGraph title="Scale Fret Range" data={scaleStats.fretRanges} />
-                </GraphCard>
+                <RangeGraph title="Scale Fret Range" data={scaleStats.fretRanges} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <ScatterGraph title="Scale Fret vs String Scatter" data={scaleStats.scatter} />
-                </GraphCard>
+                <ScatterGraph title="Scale Fret vs String Scatter" data={scaleStats.scatter} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <TreemapGraph title="Scale Note Treemap" data={scaleStats.treemap} />
-                </GraphCard>
+                <TreemapGraph title="Scale Note Treemap" data={scaleStats.treemap} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <LineGraph title="Scale Note Trend" data={scaleStats.noteUsage} />
-                </GraphCard>
+                <LineGraph title="Scale Note Trend" data={scaleStats.noteUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <RadialBarGraph title="Scale Radial Note Distribution" data={scaleStats.noteUsage} />
-                </GraphCard>
+                <RadialBarGraph title="Scale Radial Note Distribution" data={scaleStats.noteUsage} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <FlowGraph title="Scale Flow Pattern" data={scaleStats.flow} />
-                </GraphCard>
+                <FlowGraph title="Scale Flow Pattern" data={scaleStats.flow} />
             </Grid>
         </Grid>
     );

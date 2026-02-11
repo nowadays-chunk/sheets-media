@@ -11,8 +11,7 @@ import {
     TreemapGraph,
     LineGraph,
     RadialBarGraph,
-    FlowGraph,
-    GraphCard
+    FlowGraph
 } from "../Charts";
 import {
     buildNoteUsage,
@@ -49,80 +48,48 @@ export default function OverviewTab({ boards }) {
 
     return (
         <Grid container spacing={1}>
-            <Grid item xs={12}>
-                <GraphCard>
-                    <Heatmap title="Fretboard Heatmap (All Data)" data={allFretHeatmap} />
-                </GraphCard>
+            <Heatmap title="Fretboard Heatmap (All Data)" data={allFretHeatmap} />
+            <Grid item xs={12} md={6}>
+                <BarGraph title="Global Note Frequency" data={allNoteUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <BarGraph title="Global Note Frequency" data={allNoteUsage} />
-                </GraphCard>
+                <PieGraph title="Interval Usage Ratio" data={allIntervalUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <PieGraph title="Interval Usage Ratio" data={allIntervalUsage} />
-                </GraphCard>
+                <BarGraph title="Key Usage Distribution" data={allKeyUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <BarGraph title="Key Usage Distribution" data={allKeyUsage} />
-                </GraphCard>
-            </Grid>
-            <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <PieGraph title="Shape Preference Distribution" data={allShapeUsage} />
-                </GraphCard>
+                <PieGraph title="Shape Preference Distribution" data={allShapeUsage} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <BarGraph title="Mode Usage" data={allModeUsage} />
-                </GraphCard>
+                <BarGraph title="Mode Usage" data={allModeUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <RadarGraph title="String Usage Radar" data={allRadarStrings} />
-                </GraphCard>
+                <RadarGraph title="String Usage Radar" data={allRadarStrings} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <PieGraph title="Neck Zones Heat Distribution" data={allNeckZones} />
-                </GraphCard>
+                <PieGraph title="Neck Zones Heat Distribution" data={allNeckZones} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <HistogramGraph title="Fret Density Histogram" data={allFretHistogram} />
-                </GraphCard>
+                <HistogramGraph title="Fret Density Histogram" data={allFretHistogram} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <RangeGraph title="Fret Range Analysis" data={allFretRanges} />
-                </GraphCard>
+                <RangeGraph title="Fret Range Analysis" data={allFretRanges} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <ScatterGraph title="Fret vs String Density Map" data={allScatter} />
-                </GraphCard>
+                <ScatterGraph title="Fret vs String Density Map" data={allScatter} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <TreemapGraph title="Note Importance (Treemap)" data={allTreemapNotes} />
-                </GraphCard>
+                <TreemapGraph title="Note Importance (Treemap)" data={allTreemapNotes} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <LineGraph title="Notes Trend (Sorted Alphabetically)" data={allNoteUsage} />
-                </GraphCard>
+                <LineGraph title="Notes Trend (Sorted Alphabetically)" data={allNoteUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <RadialBarGraph title="Radial Distribution of Notes" data={allNoteUsage} />
-                </GraphCard>
+                <RadialBarGraph title="Radial Distribution of Notes" data={allNoteUsage} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <FlowGraph title="Chord / Scale Flow Transitions" data={allFlow} />
-                </GraphCard>
+                <FlowGraph title="Chord / Scale Flow Transitions" data={allFlow} />
             </Grid>
         </Grid>
     );

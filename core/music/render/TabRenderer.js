@@ -27,20 +27,19 @@ export default class TabRenderer {
     renderer.resize(900, 1400);
     const ctx = renderer.getContext();
 
-    const MEASURES_PER_LINE = 4;
-    const MEASURE_WIDTH = 200;
-    const SYSTEM_HEIGHT = 150; // Increased for bends
+    const MEASURES_PER_LINE = Infinity;
+    const MEASURE_WIDTH = 250; // Increased
+    const SYSTEM_HEIGHT = 150;
     const START_X = 20;
+
+    // Calculate total width needed
+    const totalWidth = START_X + (MEASURE_WIDTH * this.score.measures.length) + 100;
+    renderer.resize(totalWidth, 200);
 
     let x = START_X;
     let y = 40;
 
     this.score.measures.forEach((measure, index) => {
-      if (index % MEASURES_PER_LINE === 0 && index !== 0) {
-        x = START_X;
-        y += SYSTEM_HEIGHT;
-      }
-
       const stave = new VF.TabStave(x, y, MEASURE_WIDTH);
       if (index === 0) stave.addClef("tab");
       stave.setContext(ctx).draw();

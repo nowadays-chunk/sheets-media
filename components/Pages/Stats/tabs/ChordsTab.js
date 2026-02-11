@@ -11,8 +11,7 @@ import {
     TreemapGraph,
     LineGraph,
     RadialBarGraph,
-    FlowGraph,
-    GraphCard
+    FlowGraph
 } from "../Charts";
 import {
     buildNoteUsage,
@@ -73,79 +72,49 @@ export default function ChordsTab({ boards, precomputedStats, saveStats, isHomep
     return (
         <Grid container spacing={1}>
             <Grid item xs={12}>
-                <GraphCard>
-                    <Heatmap title="Chord Heatmap" data={chordStats.fretHeatmap} />
-                </GraphCard>
+                <Heatmap title="Chord Heatmap" data={chordStats.fretHeatmap} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <BarGraph title="Chord Note Frequency" data={chordStats.noteUsage} />
-                </GraphCard>
+                <BarGraph title="Chord Note Frequency" data={chordStats.noteUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <PieGraph title="Chord Interval Usage" data={chordStats.intervalUsage} />
-                </GraphCard>
+                <PieGraph title="Chord Interval Usage" data={chordStats.intervalUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <BarGraph title="Chord Keys Distribution" data={chordStats.keys} />
-                </GraphCard>
+                <BarGraph title="Chord Keys Distribution" data={chordStats.keys} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <PieGraph title="Chord Shape Distribution" data={chordStats.shapes} />
-                </GraphCard>
+                <PieGraph title="Chord Shape Distribution" data={chordStats.shapes} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <BarGraph title="Modal Presence in Chords" data={chordStats.modes} />
-                </GraphCard>
+                <BarGraph title="Modal Presence in Chords" data={chordStats.modes} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <RadarGraph title="Chord String Usage Radar" data={chordStats.radarStrings} />
-                </GraphCard>
+                <RadarGraph title="Chord String Usage Radar" data={chordStats.radarStrings} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <PieGraph title="Chord Neck Zones" data={chordStats.neckZones} />
-                </GraphCard>
+                <PieGraph title="Chord Neck Zones" data={chordStats.neckZones} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <HistogramGraph title="Chord Fret Density Histogram" data={chordStats.fretHistogram} />
-                </GraphCard>
+                <HistogramGraph title="Chord Fret Density Histogram" data={chordStats.fretHistogram} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <RangeGraph title="Chord Fret Range" data={chordStats.fretRanges} />
-                </GraphCard>
+                <RangeGraph title="Chord Fret Range" data={chordStats.fretRanges} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <ScatterGraph title="Chord Fret vs String Scatter" data={chordStats.scatter} />
-                </GraphCard>
+                <ScatterGraph title="Chord Fret vs String Scatter" data={chordStats.scatter} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <TreemapGraph title="Chord Note Weights" data={chordStats.treemap} />
-                </GraphCard>
+                <TreemapGraph title="Chord Note Weights" data={chordStats.treemap} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <LineGraph title="Chord Notes Over Representation" data={chordStats.noteUsage} />
-                </GraphCard>
+                <LineGraph title="Chord Notes Over Representation" data={chordStats.noteUsage} />
             </Grid>
             <Grid item xs={12} md={6}>
-                <GraphCard>
-                    <RadialBarGraph title="Chord Radial Distribution" data={chordStats.noteUsage} />
-                </GraphCard>
+                <RadialBarGraph title="Chord Radial Distribution" data={chordStats.noteUsage} />
             </Grid>
             <Grid item xs={12}>
-                <GraphCard>
-                    <FlowGraph title="Chord Transition Flow" data={chordStats.flow} />
-                </GraphCard>
+                <FlowGraph title="Chord Transition Flow" data={chordStats.flow} />
             </Grid>
         </Grid>
     );
