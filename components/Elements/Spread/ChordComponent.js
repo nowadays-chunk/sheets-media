@@ -3,9 +3,10 @@ import React from 'react';
 import MusicApp from '../../Containers/MusicApp'; // Adjust the path if needed
 import { styled } from '@mui/system';
 import ArticleCard from '../../Listing/ArticleCard'; // Adjust the path if needed
-import Meta from '../../Partials/Head';
+import Head from 'next/head';
 import { Typography } from '@mui/material';
 import { ScoreProvider } from "@/core/editor/ScoreContext";
+import { DEFAULT_KEYWORDS } from '../../../data/seo';
 
 const Root = styled('div')({
   marginTop: 100,
@@ -19,9 +20,17 @@ const ChordComponent = (props) => {
 
   return (
     <Root>
-      <Meta
-        title={title}
-        description={description || "Learn guitar chord shapes and positions on the fretboard. Master chord voicings using the CAGED system across all five positions."}></Meta>
+      <Head>
+        <title>{title}</title>
+        <meta
+          name="description"
+          content={description || "Learn guitar chord shapes and positions on the fretboard. Master chord voicings using the CAGED system across all five positions."}
+        />
+        <meta
+          name="keywords"
+          content={DEFAULT_KEYWORDS}
+        />
+      </Head>
       <Typography variant="h6">
         {title}
       </Typography>

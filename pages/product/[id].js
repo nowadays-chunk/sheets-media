@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Meta from '../../components/Partials/Head';
+import Head from 'next/head';
 import Image from 'next/image';
 import { useRouter } from 'next/router';
 import { useDispatch } from 'react-redux';
@@ -22,6 +22,7 @@ import NavigateNextIcon from '@mui/icons-material/NavigateNext';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import { addToCart, toggleCart } from '../../redux/actions/cartActions';
 import products from '../../data/products.json'; // Direct import since we use getStaticProps
+import { DEFAULT_KEYWORDS } from '../../data/seo';
 
 const ProductPage = ({ product }) => {
     const dispatch = useDispatch();
@@ -47,10 +48,17 @@ const ProductPage = ({ product }) => {
 
     return (
         <Box sx={{ bgcolor: '#fff', minHeight: '100vh', pb: 10 }}>
-            <Meta
-                title={`${product.title} | Guitar Sheets Store`}
-                description={product.description || `Buy ${product.title} - ${product.type} guitar sheet music and learning materials. Instant delivery, high quality format, secure checkout.`}
-            />
+            <Head>
+                <title>{`${product.title} | Guitar Sheets Store`}</title>
+                <meta
+                    name="description"
+                    content={product.description || `Buy ${product.title} - ${product.type} guitar sheet music and learning materials. Instant delivery, high quality format, secure checkout.`}
+                />
+                <meta
+                    name="keywords"
+                    content={DEFAULT_KEYWORDS}
+                />
+            </Head>
 
             <Container maxWidth="lg" sx={{ pt: 4, pb: 8 }}>
                 {/* Breadcrumbs */}

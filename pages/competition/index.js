@@ -1,5 +1,5 @@
 import React from 'react';
-import Meta from '../../components/Partials/Head';
+import Head from 'next/head';
 import { Container, Typography, Box, Button, Divider } from '@mui/material';
 import Link from 'next/link';
 import TournamentSchedule from '../../components/Pages/TournamentSchedule';
@@ -7,6 +7,7 @@ import WinnersRanking from '../../components/Pages/WinnersRanking';
 import ArtworkGallery from '../../components/Pages/ArtworkGallery';
 import tournamentsData from '../../data/tournaments.json';
 import winnersData from '../../data/winners.json';
+import { DEFAULT_KEYWORDS } from '../../data/seo';
 
 export async function getStaticProps() {
     return {
@@ -20,10 +21,17 @@ export async function getStaticProps() {
 const CompetitionPage = ({ tournaments, winners }) => {
     return (
         <>
-            <Meta
-                title="Join Competition - Guitar Sheets"
-                description="Join our guitar competition and show off your skills! Compete with guitarists worldwide, win amazing prizes, and showcase your talent."
-            />
+            <Head>
+                <title>Join Competition - Guitar Sheets</title>
+                <meta
+                    name="description"
+                    content="Join our guitar competition and show off your skills! Compete with guitarists worldwide, win amazing prizes, and showcase your talent."
+                />
+                <meta
+                    name="keywords"
+                    content={DEFAULT_KEYWORDS}
+                />
+            </Head>
 
             {/* Hero Section */}
             <Box

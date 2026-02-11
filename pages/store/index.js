@@ -1,5 +1,6 @@
 import React, { useState, useMemo } from 'react';
-import Meta from '../../components/Partials/Head';
+import Head from 'next/head';
+import { DEFAULT_KEYWORDS } from '../../data/seo';
 import {
     Container,
     Grid,
@@ -140,10 +141,11 @@ const StorePage = ({ products }) => {
 
     return (
         <>
-            <Meta
-                title="Guitar Sheets Store - Shop Music & Merchandise"
-                description="Browse our complete collection of guitar sheet music, learning materials, merchandise, and accessories. Filter by category, price, and type to find exactly what you need."
-            />
+            <Head>
+                <title>Guitar Sheets Store | Premium Music Gear & Resources</title>
+                <meta name="description" content="Shop premium guitar gear, sheet music, and accessories. Enhance your playing with our curated collection." />
+                <meta name="keywords" content={DEFAULT_KEYWORDS} />
+            </Head>
 
             <Container maxWidth="xl" sx={{ py: 4, mt: 8 }}>
                 {/* Breadcrumbs */}

@@ -1,6 +1,6 @@
 import React from 'react';
 import MusicApp from '../../components/Containers/MusicApp';
-import Meta from '../../components/Partials/Head';
+
 import ArticleCard from '../../components/Listing/ArticleCard';
 import { ScoreProvider } from "@/core/editor/ScoreContext";
 
@@ -45,9 +45,6 @@ const CoverOne = () => {
 const PlayAndVisualize = (props) => {
   return (
     <div style={{ marginTop: '100px' }}>
-      <Meta
-        title="Play And Visualize"
-        description="Play And Visualize Chords, Scales And Arppegios In A Complete Reference Of Guitar Music Sheets."></Meta>
       <ScoreProvider>
         <MusicApp
           board="home"
@@ -61,8 +58,10 @@ const PlayAndVisualize = (props) => {
           showStats={true}
           leftDrawerOpen={props.leftDrawerOpen}
           leftDrawerWidth={props.leftDrawerWidth}
+          title="Play And Visualize"
+          description="Play And Visualize Chords, Scales And Arppegios In A Complete Reference Of Guitar Music Sheets."
         />
-      </ ScoreProvider >
+      </ScoreProvider >
     </div>
   );
 };

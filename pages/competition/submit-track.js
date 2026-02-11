@@ -1,16 +1,24 @@
 import React from 'react';
-import Meta from '../../components/Partials/Head';
+import Head from 'next/head';
 import { Container, Typography, Box, Button, Paper, Stack } from '@mui/material';
 import Link from 'next/link';
 import LibraryMusicIcon from '@mui/icons-material/LibraryMusic';
+import { DEFAULT_KEYWORDS } from '../../data/seo';
 
 const SubmitTrackPage = () => {
     return (
         <>
-            <Meta
-                title="Submit Track - Guitar Sheets"
-                description="Submit your original composition for the Best Composition contest."
-            />
+            <Head>
+                <title>Submit Track - Guitar Sheets</title>
+                <meta
+                    name="description"
+                    content="Submit your original composition for the Best Composition contest."
+                />
+                <meta
+                    name="keywords"
+                    content={DEFAULT_KEYWORDS}
+                />
+            </Head>
             <Container maxWidth="md" sx={{ mt: 15, mb: 10, textAlign: 'center' }}>
                 <Typography variant="h2" component="h1" gutterBottom sx={{ fontWeight: 'bold' }}>
                     Best Composition

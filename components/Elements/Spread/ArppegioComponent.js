@@ -2,9 +2,10 @@
 import React from 'react';
 import MusicApp from '../../Containers/MusicApp'; // Adjust the path if needed
 import { styled } from '@mui/system';
-import Meta from '../../Partials/Head';
+import Head from 'next/head';
 import { Typography } from '@mui/material';
 import { ScoreProvider } from "@/core/editor/ScoreContext";
+import { DEFAULT_KEYWORDS } from '../../../data/seo';
 
 const Root = styled('div')({
   marginTop: 100,
@@ -13,15 +14,23 @@ const Root = styled('div')({
   alignItems: 'center',
 });
 
-const ScaleComponent = (props) => {
+const ArppegioComponent = (props) => {
   const { boards, title, description } = props;
 
   return (
     <Root>
       <ScoreProvider>
-        <Meta
-          title={title}
-          description={description || "Explore arpeggio patterns on guitar fretboard. Learn chord arpeggios across all positions using the CAGED system for better improvisation and soloing."}></Meta>
+        <Head>
+          <title>{title}</title>
+          <meta
+            name="description"
+            content={description || "Explore arpeggio patterns on guitar fretboard. Learn chord arpeggios across all positions using the CAGED system for better improvisation and soloing."}
+          />
+          <meta
+            name="keywords"
+            content={DEFAULT_KEYWORDS}
+          />
+        </Head>
         <Typography variant="h6">
           {title}
         </Typography>
@@ -50,4 +59,4 @@ const ScaleComponent = (props) => {
   );
 };
 
-export default ScaleComponent;
+export default ArppegioComponent;

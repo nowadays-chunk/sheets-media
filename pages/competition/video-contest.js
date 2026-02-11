@@ -1,16 +1,24 @@
 import React from 'react';
-import Meta from '../../components/Partials/Head';
+import Head from 'next/head';
 import { Container, Typography, Box, Button, Paper } from '@mui/material';
 import Link from 'next/link';
+import { DEFAULT_KEYWORDS } from '../../data/seo';
 
 const VideoContestPage = () => {
 
     return (
         <>
-            <Meta
-                title="Video Contest - Guitar Sheets"
-                description="Submit your video for the global guitar challenge!"
-            />
+            <Head>
+                <title>Video Contest - Guitar Sheets</title>
+                <meta
+                    name="description"
+                    content="Submit your video for the global guitar challenge!"
+                />
+                <meta
+                    name="keywords"
+                    content={DEFAULT_KEYWORDS}
+                />
+            </Head>
             <Container maxWidth="md" sx={{ mt: 15, mb: 10, textAlign: 'center' }}>
                 <Typography variant="h2" component="h1" gutterBottom sx={{ fontWeight: 'bold' }}>
                     Video Contest

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Meta from '../components/Partials/Head';
+import Head from 'next/head';
 import { useSelector, useDispatch } from 'react-redux';
 import {
     Container,
@@ -13,14 +13,12 @@ import {
     IconButton,
     Divider,
     Paper,
-    FormControlLabel,
-    Checkbox,
-    Alert
 } from '@mui/material';
 import DeleteIcon from '@mui/icons-material/Delete';
 import AddIcon from '@mui/icons-material/Add';
 import RemoveIcon from '@mui/icons-material/Remove';
 import { removeFromCart, updateQuantity, clearCart } from '../redux/actions/cartActions';
+import { DEFAULT_KEYWORDS } from '../data/seo';
 
 const CartPage = () => {
     const { items, total } = useSelector(state => state.cart);
@@ -84,10 +82,17 @@ const CartPage = () => {
 
     return (
         <Container maxWidth="lg" sx={{ py: 10 }}>
-            <Meta
-                title="Shopping Cart | Guitar Sheets Store"
-                description="Review your cart and checkout guitar sheets and music products. Secure checkout for digital and physical guitar learning materials."
-            />
+            <Head>
+                <title>Shopping Cart | Guitar Sheets Store</title>
+                <meta
+                    name="keywords"
+                    content={DEFAULT_KEYWORDS}
+                />
+                <meta
+                    name="description"
+                    content="Review your cart and checkout guitar sheets and music products. Secure checkout for digital and physical guitar learning materials."
+                />
+            </Head>
             <Typography variant="h4" component="h1" gutterBottom fontWeight="bold">
                 Shopping Cart
             </Typography>

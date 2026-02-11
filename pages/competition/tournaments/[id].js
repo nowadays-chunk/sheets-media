@@ -1,7 +1,8 @@
 import React from 'react';
-import Meta from '../../../components/Partials/Head';
+import Head from 'next/head';
 import TournamentDetails from '../../../components/Pages/TournamentDetails';
 import tournamentsData from '../../../data/tournaments.json';
+import { DEFAULT_KEYWORDS } from '../../../data/seo';
 
 export async function getStaticPaths() {
     const paths = tournamentsData.map((tournament) => ({
@@ -33,10 +34,17 @@ export async function getStaticProps({ params }) {
 const TournamentPage = ({ tournament }) => {
     return (
         <div style={{ marginTop: '100px' }}>
-            <Meta
-                title={`${tournament.name} - Guitar Sheets Competition`}
-                description={tournament.description}
-            />
+            <Head>
+                <title>{`${tournament.name} - Guitar Sheets Competition`}</title>
+                <meta
+                    name="description"
+                    content={tournament.description}
+                />
+                <meta
+                    name="keywords"
+                    content={DEFAULT_KEYWORDS}
+                />
+            </Head>
             <TournamentDetails tournament={tournament} />
         </div>
     );

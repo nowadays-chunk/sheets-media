@@ -1,7 +1,8 @@
 import React from 'react';
+import Head from 'next/head';
 import SongsSelector from '../../components/Pages/LearnSongs/SongsSelector';
-import Meta from '../../components/Partials/Head';
 import ArticleCard from '../../components/Listing/ArticleCard';
+import { DEFAULT_KEYWORDS } from '../../data/seo';
 
 const secondPage = `
 ### Practice Tips
@@ -34,7 +35,7 @@ const CoverTwo = () => {
   return (
     <div>
       <ArticleCard article={{
-          content: secondPage
+        content: secondPage
       }}></ArticleCard>
     </div>
   );
@@ -43,11 +44,18 @@ const CoverTwo = () => {
 const LearnSongs = () => {
 
   return (
-    <div style={{marginTop: '100px'}}>
-      <Meta 
-        title="Learn Songs"
-        description="Learn Songs Using Interactive Musical Components Like The Circle Of Fifths, Visual Colored Fretboard And A Chord Progressions Visualizer And Mapper"
-      ></Meta>
+    <div style={{ marginTop: '100px' }}>
+      <Head>
+        <title>Learn Songs</title>
+        <meta
+          name="description"
+          content="Learn Songs Using Interactive Musical Components Like The Circle Of Fifths, Visual Colored Fretboard And A Chord Progressions Visualizer And Mapper"
+        />
+        <meta
+          name="keywords"
+          content={DEFAULT_KEYWORDS}
+        />
+      </Head>
       <SongsSelector />
     </div>
   );

@@ -1,7 +1,6 @@
-
 import React from 'react';
 import { useDispatch } from 'react-redux';
-import Meta from '../components/Partials/Head';
+import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
 import {
@@ -37,6 +36,7 @@ import globalTheme from '../ui/theme'; // Use the newly created theme
 import products from '../data/products.json';
 import { addToCart } from '../redux/actions/cartActions';
 import { toggleCart } from '../redux/actions/cartActions';
+import { DEFAULT_KEYWORDS } from '../data/seo';
 
 // --- Reusable Components ---
 
@@ -201,10 +201,17 @@ const ProjectFunctionalities = () => {
     return (
         <ThemeProvider theme={globalTheme}>
             <CssBaseline />
-            <Meta
-                title="Guitar Sheets & Music Store | Learn, Play & Compose"
-                description="The ultimate guitar platform. Master chords and scales with interactive tools, buy exclusive merchandise and sheet music, compose your own music, and join our global community competitions."
-            />
+            <Head>
+                <title>Guitar Sheets & Music Store | Learn, Play & Compose</title>
+                <meta
+                    name="keywords"
+                    content={DEFAULT_KEYWORDS}
+                />
+                <meta
+                    name="description"
+                    content="The ultimate guitar platform. Master chords and scales with interactive tools, buy exclusive merchandise and sheet music, compose your own music, and join our global community competitions."
+                />
+            </Head>
 
             {/* Navigation Bar */}
             <MainAppBar isHomepage={true} />

@@ -29,6 +29,8 @@ import '../styles/CircleOfFifths.css';
 import './styles.css';
 import MainAppBar from '../components/Partials/MainAppBar';
 import CartDrawer from '../components/cart/CartDrawer';
+import Head from 'next/head';
+import Script from 'next/script';
 
 const inter = Open_Sans({ subsets: ['latin'], weight: ['300', '400', '500', '700'] });
 
@@ -128,6 +130,26 @@ function App({ Component, pageProps }) {
 
   return (
     <>
+      <Head>
+        <meta
+          name="format-detection"
+          content="telephone=no, date=no, email=no, address=no"
+        />
+      </Head>
+      <Script async src="https://www.googletagmanager.com/gtag/js?id=G-L813ECJ9RR" />
+      <Script
+        id="google-analytics"
+        strategy="afterInteractive"
+        dangerouslySetInnerHTML={{
+          __html: `
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+
+                  gtag('config', 'G-L813ECJ9RR');
+              `,
+        }}
+      />
       <style jsx global>{`
         html, body {
           overflow-x: hidden !important;

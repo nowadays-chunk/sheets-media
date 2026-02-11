@@ -5,6 +5,7 @@
 import React, { useEffect, useCallback, useState } from "react";
 import { IconButton } from "@mui/material";
 import { styled } from "@mui/system";
+import Head from 'next/head';
 
 import ChevronLeftIcon from "@mui/icons-material/ChevronLeft";
 import ChevronRightIcon from "@mui/icons-material/ChevronRight";
@@ -29,7 +30,7 @@ import Stats from "../Pages/Stats/Stats";
 
 import { useScore } from "@/core/editor/ScoreContext";
 import guitar from "../../config/guitar";
-import Meta from "../Partials/Head";
+import { DEFAULT_KEYWORDS } from "../../data/seo";
 
 // ============================================================================
 // CONSTANTS
@@ -170,8 +171,6 @@ const MobileDrawerContent = styled("div")({
   overflowX: "hidden",
 });
 
-// ... (skipping unchanged parts)
-
 // **HYDRATION-SAFE SCROLL WRAPPER**
 const FretboardScroll = styled("div")({
   width: "100%",
@@ -229,11 +228,15 @@ const MusicApp = (props) => {
     showStats,
     leftDrawerOpen,
     leftDrawerWidth,
+    // SEO props
+    title,
+    description,
+    keywords,
   } = props;
 
   const { addNoteFromFretboard } = useScore();
 
-  // UPDATE LOGIC (unchanged)
+  // UPDATE LOGIC
   const updateBoardsCallback = useCallback(() => {
     if (!selectedFretboard?.id) return;
 
@@ -340,7 +343,17 @@ const MusicApp = (props) => {
           "@media (min-width:1200px)": { padding: board === 'compose' ? '10px' : "0px 180px" }
         }}>
           <Root>
-            <Meta />
+            <Head>
+              <title>{title}</title>
+              <meta
+                name="keywords"
+                content={keywords || DEFAULT_KEYWORDS}
+              />
+              <meta
+                name="description"
+                content={description}
+              />
+            </Head>
 
             {showFretboard && (
               <FretboardContainer>
@@ -350,9 +363,6 @@ const MusicApp = (props) => {
                     boards={boards}
                     handleFretboardSelect={(i) => {
                       handleFretboardSelect(i);
-                      // REMOVE auto-open behavior
-                      // setMobileDrawerOpen(true);
-                      // setDrawerOpen(true);
                     }}
                     onElementChange={onElementChange}
                     onNoteClick={(noteObj) => {

@@ -1,15 +1,16 @@
-// ============================================================
+// ============================================================================
 // pages/learn/[slug].jsx
-// ============================================================
+// ============================================================================
 
 import React, { useState } from "react";
+import Head from 'next/head';
 import { Box, Button, Typography } from "@mui/material";
 import SongFullscreenPlayer from "@/components/Pages/LearnSongs/SongFullscreenPlayer";
-import Meta from "../../components/Partials/Head";
+import { DEFAULT_KEYWORDS } from "../../data/seo";
 
-/* ============================================================
+/* ============================================================================
    PAGE
-============================================================ */
+============================================================================ */
 
 export default function LearnSong({ song }) {
   const [fullscreen, setFullscreen] = useState(false);
@@ -20,10 +21,17 @@ export default function LearnSong({ song }) {
 
   return (
     <>
-      <Meta
-        title={`${song.title} by ${song.artist} | Learn Guitar`}
-        description={`Learn to play ${song.title} by ${song.artist} on guitar. Interactive chord charts, lyrics, and fullscreen player for practicing guitar songs.`}
-      />
+      <Head>
+        <title>{`${song.title} by ${song.artist} | Learn Guitar`}</title>
+        <meta
+          name="description"
+          content={`Learn to play ${song.title} by ${song.artist} on guitar. Interactive chord charts, lyrics, and fullscreen player for practicing guitar songs.`}
+        />
+        <meta
+          name="keywords"
+          content={DEFAULT_KEYWORDS}
+        />
+      </Head>
       <Box maxWidth={900} mx="auto" p={3}>
         <Typography variant="h4">{song.title}</Typography>
         <Typography variant="h6">{song.artist}</Typography>
@@ -67,9 +75,9 @@ export default function LearnSong({ song }) {
   );
 }
 
-/* ============================================================
+/* ============================================================================
    SSG
-============================================================ */
+============================================================================ */
 
 export async function getStaticPaths() {
   const fs = require("fs");

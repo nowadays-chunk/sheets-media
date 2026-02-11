@@ -1,16 +1,24 @@
 import React from 'react';
-import Meta from '../../components/Partials/Head';
+import Head from 'next/head';
 import { Container, Typography, Box, Button, Paper, TextField } from '@mui/material';
 import Link from 'next/link';
 import SchoolIcon from '@mui/icons-material/School';
+import { DEFAULT_KEYWORDS } from '../../data/seo';
 
 const ShareStoryPage = () => {
     return (
         <>
-            <Meta
-                title="Share Your Story - Guitar Sheets"
-                description="Inspire others by sharing your guitar learning or teaching journey."
-            />
+            <Head>
+                <title>Share Your Story - Guitar Sheets</title>
+                <meta
+                    name="description"
+                    content="Inspire others by sharing your guitar learning or teaching journey."
+                />
+                <meta
+                    name="keywords"
+                    content={DEFAULT_KEYWORDS}
+                />
+            </Head>
             <Container maxWidth="md" sx={{ mt: 15, mb: 10, textAlign: 'center' }}>
                 <SchoolIcon sx={{ fontSize: 60, color: '#4caf50', mb: 2 }} />
                 <Typography variant="h2" component="h1" gutterBottom sx={{ fontWeight: 'bold' }}>
