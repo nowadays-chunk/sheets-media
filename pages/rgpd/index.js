@@ -47,8 +47,8 @@ Thank you for visiting Sheets.media! We value your privacy and are committed to 
 
 const CoverOne = () => {
   return (
-    <div>
-      <ArticleCard sx={{ mt: 10 }} article={{
+    <div style={{ marginTop: '100px' }}>
+      <ArticleCard article={{
         content: firstPage
       }}></ArticleCard>
     </div>
