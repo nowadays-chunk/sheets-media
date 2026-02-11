@@ -33,6 +33,7 @@ import StarIcon from '@mui/icons-material/Star';
 import MovieIcon from '@mui/icons-material/Movie';
 import MainAppBar from '../components/Partials/MainAppBar';
 import globalTheme from '../ui/theme'; // Use the newly created theme
+import products from '../data/products.json';
 
 // --- Reusable Components ---
 
@@ -85,73 +86,82 @@ const SectionHeader = ({ title, subtitle }) => (
     </Box>
 );
 
-const ProductCard = ({ title, price, image, type }) => (
-    <Grid item xs={12} sm={6} md={4} lg={3}>
-        <Card sx={{
-            height: '100%',
-            display: 'flex',
-            flexDirection: 'column',
-            position: 'relative',
-            transition: 'transform 0.2s',
-            '&:hover': { transform: 'translateY(-4px)', boxShadow: 6 }
-        }}>
-            <Box sx={{ position: 'absolute', top: 12, right: 12, zIndex: 1 }}>
-                <Chip label={type} size="small" color={type === 'Physical' ? 'secondary' : 'primary'} />
-            </Box>
-            <Box sx={{
-                height: 200,
+const ProductCard = ({ id, title, price, image, type }) => {
+    // We shouldn't nest <a> inside <Link> if we use MUI Card as the clickable element or Button.
+    // However, the "Add to Cart" button should probably just add to cart, 
+    // and clicking the image or title should go to the product page.
+
+    return (
+        <Grid item xs={12} sm={6} md={4} lg={3}>
+            <Card sx={{
+                height: '100%',
+                display: 'flex',
+                flexDirection: 'column',
                 position: 'relative',
-                overflow: 'hidden',
-                bgcolor: '#f5f5f5'
+                transition: 'transform 0.2s',
+                '&:hover': { transform: 'translateY(-4px)', boxShadow: 6 }
             }}>
-                {image ? (
-                    <Image
-                        src={image}
-                        alt={title}
-                        fill
-                        style={{ objectFit: 'cover' }}
-                    />
-                ) : (
+                <Box sx={{ position: 'absolute', top: 12, right: 12, zIndex: 1 }}>
+                    <Chip label={type} size="small" color={type === 'Physical' ? 'secondary' : 'primary'} />
+                </Box>
+                <Link href={`/product/${id}`} style={{ textDecoration: 'none', color: 'inherit', flexGrow: 1, display: 'flex', flexDirection: 'column' }}>
                     <Box sx={{
-                        height: '100%',
-                        background: type === 'Physical' ? 'linear-gradient(135deg, #e0e0e0 0%, #f5f5f5 100%)' : 'linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%)',
-                        display: 'flex',
-                        alignItems: 'center',
-                        justifyContent: 'center',
-                        position: 'relative'
+                        height: 200,
+                        position: 'relative',
+                        overflow: 'hidden',
+                        bgcolor: '#f5f5f5',
+                        cursor: 'pointer'
                     }}>
-                        <Box sx={{
-                            position: 'absolute',
-                            top: -20,
-                            right: -20,
-                            width: 100,
-                            height: 100,
-                            borderRadius: '50%',
-                            background: 'rgba(255,255,255,0.2)'
-                        }} />
-                        {type === 'Physical' ?
-                            <ShoppingCartIcon sx={{ fontSize: 60, color: 'text.secondary', opacity: 0.3 }} /> :
-                            <LibraryMusicIcon sx={{ fontSize: 60, color: 'primary.main', opacity: 0.3 }} />
-                        }
+                        {image ? (
+                            <Image
+                                src={image}
+                                alt={title}
+                                fill
+                                style={{ objectFit: 'cover' }}
+                            />
+                        ) : (
+                            <Box sx={{
+                                height: '100%',
+                                background: type === 'Physical' ? 'linear-gradient(135deg, #e0e0e0 0%, #f5f5f5 100%)' : 'linear-gradient(135deg, #e3f2fd 0%, #bbdefb 100%)',
+                                display: 'flex',
+                                alignItems: 'center',
+                                justifyContent: 'center',
+                                position: 'relative'
+                            }}>
+                                <Box sx={{
+                                    position: 'absolute',
+                                    top: -20,
+                                    right: -20,
+                                    width: 100,
+                                    height: 100,
+                                    borderRadius: '50%',
+                                    background: 'rgba(255,255,255,0.2)'
+                                }} />
+                                {type === 'Physical' ?
+                                    <ShoppingCartIcon sx={{ fontSize: 60, color: 'text.secondary', opacity: 0.3 }} /> :
+                                    <LibraryMusicIcon sx={{ fontSize: 60, color: 'primary.main', opacity: 0.3 }} />
+                                }
+                            </Box>
+                        )}
                     </Box>
-                )}
-            </Box>
-            <CardContent sx={{ flexGrow: 1 }}>
-                <Typography variant="h6" component="h3" gutterBottom fontWeight="bold" sx={{ fontSize: '1rem' }}>
-                    {title}
-                </Typography>
-                <Typography variant="h5" color="primary.main" fontWeight="bold">
-                    ${price}
-                </Typography>
-            </CardContent>
-            <CardActions sx={{ p: 2, pt: 0 }}>
-                <Button fullWidth variant="contained" color="secondary" startIcon={<ShoppingCartIcon />}>
-                    Add to Cart
-                </Button>
-            </CardActions>
-        </Card>
-    </Grid>
-);
+                    <CardContent sx={{ flexGrow: 1 }}>
+                        <Typography variant="h6" component="h3" gutterBottom fontWeight="bold" sx={{ fontSize: '1rem' }}>
+                            {title}
+                        </Typography>
+                        <Typography variant="h5" color="primary.main" fontWeight="bold">
+                            ${price}
+                        </Typography>
+                    </CardContent>
+                </Link>
+                <CardActions sx={{ p: 2, pt: 0 }}>
+                    <Button fullWidth variant="contained" color="secondary" startIcon={<ShoppingCartIcon />}>
+                        Add to Cart
+                    </Button>
+                </CardActions>
+            </Card>
+        </Grid>
+    );
+};
 
 const TestimonialCard = ({ name, role, text, rating }) => (
     <Grid item xs={12} md={4}>
@@ -290,14 +300,16 @@ const ProjectFunctionalities = () => {
                     <SectionHeader title="Master The Guitar Store" subtitle="Exclusive merchandise, premium PDFs, custom picks, and sheet music." />
 
                     <Grid container spacing={4}>
-                        <ProductCard id="pdf-mastery" title="#1 Guitar Mastery PDF" price={19.99} type="Digital" image="/assets/products/guitar-mastery-pdf.png" />
-                        <ProductCard id="tshirt-master" title="Official 'Master' T-Shirt" price={24.99} type="Physical" image="/assets/products/master-tshirt.png" />
-                        <ProductCard id="picks-custom" title="Custom Picks Pack (x12)" price={9.99} type="Physical" image="/assets/products/custom-picks.png" />
-                        <ProductCard id="poster-theory" title="Theory Poster Set" price={29.99} type="Physical" image="/assets/products/theory-poster.png" />
-                        <ProductCard id="mug-premium" title="Premium Mug" price={14.99} type="Physical" image="/assets/products/premium-mug.png" />
-                        <ProductCard id="tabs-collection" title="Complete Tabs Collection" price={39.99} type="Digital" image="/assets/products/tabs-collection.png" />
-                        <ProductCard id="partitions-adv" title="Advanced Partitions" price={12.99} type="Digital" image="/assets/products/advanced-partitions.png" />
-                        <ProductCard id="lifetime-access" title="Lifetime Access Pass" price={99.99} type="Digital" image="/assets/products/lifetime-access.png" />
+                        {products.map((product) => (
+                            <ProductCard
+                                key={product.id}
+                                id={product.id}
+                                title={product.title}
+                                price={product.price}
+                                type={product.type}
+                                image={product.image}
+                            />
+                        ))}
                     </Grid>
                     <Box sx={{ textAlign: 'center', mt: 6 }}>
                         <Button variant="outlined" size="large" endIcon={<ShoppingCartIcon />}>View All Products</Button>

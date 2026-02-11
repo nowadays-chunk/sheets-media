@@ -28,6 +28,7 @@ import '../styles/styles.css';
 import '../styles/CircleOfFifths.css';
 import './styles.css';
 import MainAppBar from '../components/Partials/MainAppBar';
+import CartDrawer from '../components/cart/CartDrawer';
 
 const inter = Open_Sans({ subsets: ['latin'], weight: ['300', '400', '500', '700'] });
 
@@ -39,9 +40,6 @@ const theme = createTheme({
 
 const drawerWidth = 240;
 
-/* -----------------------------------------------------------
-   FIX 1: Remove overflow sources
------------------------------------------------------------ */
 const Main = styled('main', { shouldForwardProp: (prop) => prop !== 'open' })(
   ({ theme, open }) => ({
     flexGrow: 1,
@@ -51,7 +49,7 @@ const Main = styled('main', { shouldForwardProp: (prop) => prop !== 'open' })(
       duration: theme.transitions.duration.leavingScreen,
     }),
     width: '100%',
-    maxWidth: '100%',          // ← FIXED (was 100vw)
+    maxWidth: '100%',
     ...(open && {
       transition: theme.transitions.create('margin', {
         easing: theme.transitions.easing.easeOut,
@@ -60,7 +58,6 @@ const Main = styled('main', { shouldForwardProp: (prop) => prop !== 'open' })(
     }),
   })
 );
-
 
 const DrawerHeader = styled('div')(({ theme }) => ({
   display: 'flex',
@@ -71,10 +68,10 @@ const DrawerHeader = styled('div')(({ theme }) => ({
 
 const Container = styled('div')({
   width: '100%',
-  maxWidth: '100%',       // ← FIXED
+  maxWidth: '100%',
   margin: 0,
   padding: 0,
-  overflowX: 'hidden',    // ← SAFETY
+  overflowX: 'hidden',
 });
 
 const DrawerContent = styled('div')({
@@ -83,9 +80,6 @@ const DrawerContent = styled('div')({
   position: 'relative',
 });
 
-/* -----------------------------------------------------------
-   MAIN COMPONENT
------------------------------------------------------------ */
 function App({ Component, pageProps }) {
   const router = useRouter();
   const [drawerOpen, setDrawerOpen] = useState(false);
@@ -94,12 +88,12 @@ function App({ Component, pageProps }) {
   const handleDrawerToggle = () => setDrawerOpen(!drawerOpen);
   const handleDrawerClose = () => setDrawerOpen(false);
 
-  // If homepage, render without the app shell
   if (isHomepage) {
     return (
       <Provider store={store}>
         <ThemeProvider theme={globalTheme}>
           <Component {...pageProps} />
+          <CartDrawer />
         </ThemeProvider>
       </Provider>
     );
@@ -123,6 +117,7 @@ function App({ Component, pageProps }) {
         <ListItem component={Link} href="/compose" onClick={handleDrawerToggle} button><ListItemText primary="Compose Music" /></ListItem>
         <ListItem component={Link} href="/competition" onClick={handleDrawerToggle} button><ListItemText primary="Join Competition" /></ListItem>
         <ListItem component={Link} href="/stats" onClick={handleDrawerToggle} button><ListItemText primary="Stats" /></ListItem>
+        <ListItem component={Link} href="/tables" onClick={handleDrawerToggle} button><ListItemText primary="Tables" /></ListItem>
         <ListItem component={Link} href="/references" onClick={handleDrawerToggle} button><ListItemText primary="References" /></ListItem>
         <ListItem component={Link} href="/#store" onClick={handleDrawerToggle} button><ListItemText primary="Store" sx={{ color: 'red' }} /></ListItem>
       </List>
@@ -185,6 +180,9 @@ function App({ Component, pageProps }) {
                 <Component {...pageProps} leftDrawerOpen={drawerOpen} leftDrawerWidth={drawerWidth} />
               </Container>
             </Main>
+
+            <CartDrawer />
+
           </Box>
         </ThemeProvider>
       </Provider>

@@ -18,3 +18,7 @@ export const updateQuantity = (id, quantity) => ({
 export const clearCart = () => ({
     type: actionTypes.CLEAR_CART,
 });
+
+export const toggleCart = () => ({
+    type: actionTypes.TOGGLE_CART,
+});

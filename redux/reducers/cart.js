@@ -3,15 +3,23 @@ import * as actionTypes from '../actionTypes';
 const initialState = {
     items: [],
     total: 0,
+    isOpen: false, // Added
 };
 
 const cartReducer = (state = initialState, action) => {
     switch (action.type) {
+        case actionTypes.TOGGLE_CART:
+            return {
+                ...state,
+                isOpen: !state.isOpen,
+            };
+
         case actionTypes.ADD_TO_CART:
             const existingItem = state.items.find(item => item.id === action.payload.id);
             if (existingItem) {
                 return {
                     ...state,
+                    isOpen: true, // Open cart when adding item
                     items: state.items.map(item =>
                         item.id === action.payload.id
                             ? { ...item, quantity: item.quantity + 1 }
@@ -22,6 +30,7 @@ const cartReducer = (state = initialState, action) => {
             }
             return {
                 ...state,
+                isOpen: true, // Open cart when adding item
                 items: [...state.items, { ...action.payload, quantity: 1 }],
                 total: state.total + action.payload.price,
             };
@@ -51,7 +60,7 @@ const cartReducer = (state = initialState, action) => {
             };
 
         case actionTypes.CLEAR_CART:
-            return initialState;
+            return { ...initialState, isOpen: state.isOpen }; // Keep cart open state if verified user desires
 
         default:
             return state;
@@ -59,3 +68,4 @@ const cartReducer = (state = initialState, action) => {
 };
 
 export default cartReducer;
+
