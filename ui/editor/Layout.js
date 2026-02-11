@@ -36,8 +36,7 @@ export default function Layout() {
           style={{
             flexShrink: 0,
             height: "auto",
-            maxHeight: "40%",
-            overflow: "hidden",
+            maxHeight: "50%",
           }}
         >
           <MusicApp
