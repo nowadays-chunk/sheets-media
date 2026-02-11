@@ -37,6 +37,7 @@ import Meta from "../Partials/Head";
 const SIDEBAR_CLOSED = 40;
 const SIDEBAR_OPEN = 600;
 const HEADER_HEIGHT = 65;
+const HEADER_HEIGHT_MOBILE = 58;
 
 // ============================================================================
 // STYLED COMPONENTS
@@ -46,9 +47,6 @@ const HEADER_HEIGHT = 65;
 const AppWrapper = styled("div")({
   display: "flex",
   flexDirection: "column",
-  maxWidth: "100vw",
-  overflowX: "hidden",
-  overflowY: "hidden",
   position: "relative",
 });
 
@@ -56,9 +54,6 @@ const AppWrapper = styled("div")({
 const MainContent = styled("div")(({ drawerOpen }) => ({
   position: "relative",
   flex: 1,
-  width: "100%",
-  overflowY: "auto",
-  overflowX: "hidden",
   margin: 0,
   padding: 0,
   transition: "margin-left 0.3s ease",
@@ -70,10 +65,8 @@ const MainContent = styled("div")(({ drawerOpen }) => ({
   }),
 }));
 
+// Main Inner
 const MainInner = styled("div")({
-  width: "100%",
-  maxWidth: "100vw",
-  overflowX: "hidden",
   margin: 0,
   "@media (max-width:1200px)": { padding: "0px 15px" },
   "@media (min-width:1200px)": { padding: "0px 180px" },
@@ -130,7 +123,7 @@ const DrawerContent = styled("div")(({ open }) => ({
 // Mobile drawer
 const MobileDrawer = styled("div")(({ open }) => ({
   position: "fixed",
-  top: HEADER_HEIGHT,
+  top: HEADER_HEIGHT_MOBILE,
   left: 0,
   right: 0,
   width: "100%",
@@ -141,6 +134,7 @@ const MobileDrawer = styled("div")(({ open }) => ({
   WebkitTransform: "translateZ(0)",
   WebkitOverflowScrolling: "touch",
   backgroundColor: "#f5f5f5",
+  borderTop: "1px solid #5a5656ff",
   borderBottom: "1px solid #5a5656ff",
   zIndex: 3000,
   overflowX: "hidden",
@@ -176,12 +170,13 @@ const MobileDrawerContent = styled("div")({
   overflowX: "hidden",
 });
 
+// ... (skipping unchanged parts)
+
 // **HYDRATION-SAFE SCROLL WRAPPER**
 const FretboardScroll = styled("div")({
   width: "100%",
   maxWidth: "100%",
   overflowX: "auto",
-  overflowY: "hidden",
   WebkitOverflowScrolling: "touch",
   "& > *": {
     maxWidth: "none !important",
@@ -200,7 +195,6 @@ const Root = styled("div")({
   width: "100%",
   display: "flex",
   flexDirection: "column",
-  overflowX: "hidden",
 });
 
 // ============================================================================

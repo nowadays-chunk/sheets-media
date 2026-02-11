@@ -8,12 +8,6 @@ const CELL_SIZE = 25; // <- EXACT requirement
 const NOTE_SIZE = 20; // circle size inside cell
 
 const FretboardContainer = styled('div')({
-  width: '100%',
-  maxWidth: '100vw',
-  '@media (min-width: 1024px)': {
-    width: '100%',
-    height: '100%',
-  },
   '@media print': {
     width: '100%',
     height: '100%',
@@ -287,7 +281,7 @@ const FretboardDisplay = ({
         style={{
           border: selectedFretboard.id === fretboard.id ? '2px solid #8884d8' : '2px solid transparent',
           borderRadius: '8px',
-          padding: '10px',
+          padding: '0 10px 5px 10px',
           transition: 'border 0.2s ease',
           backgroundColor: selectedFretboard.id === fretboard.id ? 'rgba(136, 132, 216, 0.05)' : 'transparent'
         }}

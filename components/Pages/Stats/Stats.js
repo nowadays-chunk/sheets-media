@@ -112,7 +112,7 @@ export default function Stats({
   // RENDER SWITCH
   // -------------------------------------------------------------------------
   return (
-    <Box sx={{ p: p == 0 ? 0 : 12, m: 0 }}>
+    <Box sx={{ height: '100%', p: p == 0 ? 0 : 12, m: 0 }}>
       <Typography variant="h4" sx={{ mb: 3 }}>
         🎸 The guitar fretboard in digits :
       </Typography>
