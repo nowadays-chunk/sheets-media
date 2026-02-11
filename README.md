@@ -1,10 +1,10 @@
-Below is a **complete concept design** of what a platform named **Strum.fun** could offer — based on your needs (guitar sheets, interactive fretboards, educational tools, AI features, and your ongoing music-sheets project).
+Below is a **complete concept design** of what a platform named **Sheets.media** could offer — based on your needs (guitar sheets, interactive fretboards, educational tools, AI features, and your ongoing music-sheets project).
 
 The list is structured in **core features**, **advanced features**, **AI-powered features**, **community features**, **premium tier ideas**, and **future expansion**.
 
 ---
 
-# 🎸 **Strum.fun — Feature Blueprint**
+# 🎸 **Sheets.media — Feature Blueprint**
 
 ### *A modern guitar platform for learning, playing, and interacting with music sheets.*
 
@@ -12,7 +12,7 @@ The list is structured in **core features**, **advanced features**, **AI-powered
 
 # 🟦 1. **CORE FEATURES (MUST-HAVES)**
 
-These establish Strum.fun as a complete guitar sheets reference.
+These establish Sheets.media as a complete guitar sheets reference.
 
 ## **1.1. Thousands of Guitar Sheets**
 
@@ -66,7 +66,7 @@ Clickable on the side → jumps to section.
 
 # 🟪 2. **ADVANCED PROFESSIONAL FEATURES**
 
-These give Strum.fun a unique identity.
+These give Sheets.media a unique identity.
 
 ## **2.1. Auto-Transposition**
 
@@ -184,7 +184,7 @@ Users can:
 
 # 🟥 5. **PREMIUM TIER IDEAS (MONETIZABLE)**
 
-If Strum.fun becomes a business.
+If Sheets.media becomes a business.
 
 ### **5.1. Premium Sheet Packs**
 
@@ -209,7 +209,7 @@ If Strum.fun becomes a business.
 
 # 🟫 6. **FUTURE EXPANSION**
 
-Strum.fun could eventually include:
+Sheets.media could eventually include:
 
 * Piano sheets
 * Ukulele tabs
@@ -223,7 +223,7 @@ Strum.fun could eventually include:
 
 # 💡 **In short:**
 
-Strum.fun can become a **fully integrated platform** that includes:
+Sheets.media can become a **fully integrated platform** that includes:
 
 ### ✔ A complete guitar sheet reference
 
@@ -245,7 +245,7 @@ Strum.fun can become a **fully integrated platform** that includes:
 
 ### ✔ A pitch deck / branding description?
 
-### ✔ A full UI/UX structure for Strum.fun?
+### ✔ A full UI/UX structure for Sheets.media?
 
 ### ✔ The full database schema?
 

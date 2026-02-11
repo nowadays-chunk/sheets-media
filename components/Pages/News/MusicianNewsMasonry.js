@@ -28,7 +28,7 @@ import { styled } from "@mui/material/styles";
 // ============================================================================
 const SIDEBAR_WIDTH = 350;
 const SIDEBAR_CLOSED = 40;
-const HEADER_HEIGHT = 64;
+const HEADER_HEIGHT = 65;
 
 // ============================================================================
 // RSS FEEDS

@@ -16,7 +16,7 @@ As we do not collect personal data through cookies or authentication, the only p
 Under the GDPR, the legal basis for processing your personal data is your consent. By providing your personal information, you consent to its use for the purposes stated above.
 
 ## Sharing Your Data
-We do not share your personal data with any third parties. Your information will only be used by Strum.fun to respond to your inquiries and provide the services you request.
+We do not share your personal data with any third parties. Your information will only be used by Sheets.media to respond to your inquiries and provide the services you request.
 
 ## Data Retention
 We will retain your personal data only for as long as necessary to fulfill the purposes for which it was collected, or as required by applicable laws and regulations.
@@ -41,9 +41,9 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 ## Contact Us
 If you have any questions or concerns about this Privacy Policy or how we handle your personal data, please contact us at:
 
-Strum.fun
+Sheets.media
 
-Thank you for visiting Strum.fun! We value your privacy and are committed to protecting your personal data.`;
+Thank you for visiting Sheets.media! We value your privacy and are committed to protecting your personal data.`;
 
 const CoverOne = () => {
   return (
