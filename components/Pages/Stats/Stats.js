@@ -13,7 +13,7 @@ import {
   Typography,
 } from "@mui/material";
 
-import OverviewTab from "./tabs/OverviewTab";
+
 import ChordsTab from "./tabs/ChordsTab";
 import ArpeggiosTab from "./tabs/ArpeggiosTab";
 import ScalesTab from "./tabs/ScalesTab";
@@ -88,7 +88,7 @@ export default function Stats({
   // ---------------------------------------------------------
   // TABS DEFINITION
   // ---------------------------------------------------------
-  const tabs = ["All", "Chords", "Arpeggios", "Scales"];
+  const tabs = ["Chords", "Arpeggios", "Scales"];
 
   // -------------------------------------------
   // FILTERED BOARDS FOR TABS
@@ -131,17 +131,11 @@ export default function Stats({
         ))}
       </Box>
 
-      {/* ===========================================================
-          TAB 0 — GLOBAL ANALYTICS
-      ============================================================ */}
-      {tab === 0 && (
-        <OverviewTab boards={sourceBoards} />
-      )}
 
       {/* ===========================================================
-          TAB 1 — CHORD ANALYTICS
+          TAB 0 — CHORD ANALYTICS
       ============================================================ */}
-      {tab === 1 && (
+      {tab === 0 && (
         <ChordsTab
           boards={chordBoards}
           precomputedStats={precomputedStats?.chords}
@@ -151,9 +145,9 @@ export default function Stats({
       )}
 
       {/* ===========================================================
-          TAB 2 — ARPEGGIO ANALYTICS
+          TAB 1 — ARPEGGIO ANALYTICS
       ============================================================ */}
-      {tab === 2 && (
+      {tab === 1 && (
         <ArpeggiosTab
           boards={arpBoards}
           precomputedStats={precomputedStats?.arpeggios}
@@ -163,9 +157,9 @@ export default function Stats({
       )}
 
       {/* ===========================================================
-          TAB 3 — SCALE ANALYTICS
+          TAB 2 — SCALE ANALYTICS
       ============================================================ */}
-      {tab === 3 && (
+      {tab === 2 && (
         <ScalesTab
           boards={scaleBoards}
           precomputedStats={precomputedStats?.scales}
