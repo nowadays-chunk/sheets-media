@@ -58,7 +58,7 @@ const PlayAndVisualize = (props) => {
           showStats={true}
           leftDrawerOpen={props.leftDrawerOpen}
           leftDrawerWidth={props.leftDrawerWidth}
-          title="Play And Visualize"
+          title="Play And Visualize Guitar Music Sheets"
           description="Play And Visualize Chords, Scales And Arppegios In A Complete Reference Of Guitar Music Sheets."
         />
       </ScoreProvider >

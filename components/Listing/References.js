@@ -1,7 +1,6 @@
 import React, { useState, useMemo } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
-import Meta from '../Partials/Head';
 
 import {
   Card,
@@ -14,6 +13,9 @@ import {
 
 import { styled } from '@mui/material/styles';
 import guitar from '../../config/guitar.js';
+import { DEFAULT_KEYWORDS } from '../../data/seo';
+
+import Head from 'next/head';
 
 // -----------------------------------------
 // CONSTANTS
@@ -180,10 +182,17 @@ const References = ({ elements = [] }) => {
 
   return (
     <Container sx={{ mt: 10 }}>
-      <Meta
-        title="Musical Guitar Sheets Complete References"
-        description="Explore chords, scales, modes and arpeggios for every key."
-      />
+      <Head>
+        <title>Guitar Sheets Refernces 800+ Elements to Visualize</title>
+        <meta
+          name="description"
+          content="Explore chords, scales, modes and arpeggios for every key."
+        />
+        <meta
+          name="keywords"
+          content={DEFAULT_KEYWORDS}
+        />
+      </Head>
 
       {/* BREADCRUMB */}
       <StyledCard>

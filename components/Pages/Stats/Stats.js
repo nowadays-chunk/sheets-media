@@ -18,6 +18,9 @@ import ChordsTab from "./tabs/ChordsTab";
 import ArpeggiosTab from "./tabs/ArpeggiosTab";
 import ScalesTab from "./tabs/ScalesTab";
 
+import Head from 'next/head';
+import { DEFAULT_KEYWORDS } from '../../../data/seo';
+
 export default function Stats({
   boards = [],
   chords = [],
@@ -113,6 +116,17 @@ export default function Stats({
   // -------------------------------------------------------------------------
   return (
     <Box sx={{ height: '100%', p: p == 0 ? 0 : 12, m: 0 }}>
+      <Head>
+        <title>Analyze The Guitar Fretboard In Digits</title>
+        <meta
+          name="keywords"
+          content={DEFAULT_KEYWORDS}
+        />
+        <meta
+          name="description"
+          content="Analyzee the Guitar Fretboard on all keys, chorsd, shapes, scales, modes, arpeggios."
+        />
+      </Head>
       <Typography variant="h4" sx={{ mb: 3 }}>
         🎸 The guitar fretboard in digits :
       </Typography>
