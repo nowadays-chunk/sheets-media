@@ -58,7 +58,7 @@ export default {
         { "start": 10, "end": 14 }
       ],
       "min": [
-        { "start": 3, "end": 5 },
+        { "start": 0, "end": 3 },
         { "start": 3, "end": 5 },
         { "start": 5, "end": 8 },
         { "start": 8, "end": 10 },
@@ -236,7 +236,7 @@ export default {
         { "name": "Locrian", "intervals": ["1", "b2", "b3", "4", "b5", "b6", "b7"] }
       ],
       "indexes": [
-        { "start": 0, "end": 3},  // C shape
+        { "start": 0, "end": 3 },  // C shape
         { "start": 2, "end": 6 },  // A shape
         { "start": 4, "end": 8 }, // G shape
         { "start": 7, "end": 10 },// E shape
@@ -358,7 +358,7 @@ export default {
       "degree": "Minor",
       "matchingScale": "Aeolian",
       "cagedShapes": {
-        "C": [null, 3, 5, 5, 4, 3],   // corrected C minor
+        "C": [null, 3, 1, 0, 1, 3],   // corrected C minor
         "A": [null, 3, 5, 5, 4, 3],
         "G": [8, 6, 5, 5, 8, 8],
         "E": [8, 10, 10, 8, 8, 8],

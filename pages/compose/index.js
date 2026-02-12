@@ -1,4 +1,3 @@
-import React from 'react';
 import AppShell from "@/ui/app/AppShell";
 import Head from 'next/head';
 import { DEFAULT_KEYWORDS } from '../../data/seo';

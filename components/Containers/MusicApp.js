@@ -343,17 +343,19 @@ const MusicApp = (props) => {
           "@media (min-width:1200px)": { padding: board === 'compose' ? '10px' : "0px 180px" }
         }}>
           <Root>
-            <Head>
-              <title>{title}</title>
-              <meta
-                name="keywords"
-                content={keywords || DEFAULT_KEYWORDS}
-              />
-              <meta
-                name="description"
-                content={description}
-              />
-            </Head>
+            {title && (
+              <Head>
+                <title>{title}</title>
+                <meta
+                  name="keywords"
+                  content={keywords || DEFAULT_KEYWORDS}
+                />
+                <meta
+                  name="description"
+                  content={description}
+                />
+              </Head>
+            )}
 
             {showFretboard && (
               <FretboardContainer>

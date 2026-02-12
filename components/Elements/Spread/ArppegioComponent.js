@@ -18,44 +18,47 @@ const ArppegioComponent = (props) => {
   const { boards, title, description } = props;
 
   return (
-    <Root>
-      <ScoreProvider>
-        <Head>
-          <title>{title}</title>
-          <meta
-            name="description"
-            content={description || "Explore arpeggio patterns on guitar fretboard. Learn chord arpeggios across all positions using the CAGED system for better improvisation and soloing."}
-          />
-          <meta
-            name="keywords"
-            content={DEFAULT_KEYWORDS}
-          />
-        </Head>
-        <Typography variant="h6">
-          {title}
-        </Typography>
-        {
-          boards.map((el, index) => {
-            return <MusicApp
-              key={index}
-              display="arppegio"
-              board={el.board}
-              keyIndex={el.keyIndex}
-              quality={el.quality}
-              shape={el.shape}
+    <>
+      <Head>
+        <title>{title}</title>
+        <meta
+          name="description"
+          content={description || "Explore arpeggio patterns on guitar fretboard. Learn chord arpeggios across all positions using the CAGED system for better improvisation and soloing."}
+        />
+        <meta
+          name="keywords"
+          content={DEFAULT_KEYWORDS}
+        />
+      </Head>
+      <Root>
+        <ScoreProvider>
 
-              showStats={false}
-              showFretboardControls={false}
-              showCircleOfFifths={false}
-              showFretboard={true}
-              showChordComposer={false}
-              showProgressor={false}
-              showSongsSelector={false}
-            />
-          })
-        }
-      </ScoreProvider>
-    </Root>
+          <Typography variant="h6">
+            {title}
+          </Typography>
+          {
+            boards.map((el, index) => {
+              return <MusicApp
+                key={index}
+                display="arppegio"
+                board={el.board}
+                keyIndex={el.keyIndex}
+                quality={el.quality}
+                shape={el.shape}
+
+                showStats={false}
+                showFretboardControls={false}
+                showCircleOfFifths={false}
+                showFretboard={true}
+                showChordComposer={false}
+                showProgressor={false}
+                showSongsSelector={false}
+              />
+            })
+          }
+        </ScoreProvider>
+      </Root>
+    </>
   );
 };
 
