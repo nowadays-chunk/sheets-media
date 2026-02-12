@@ -183,7 +183,7 @@ const References = ({ elements = [] }) => {
   return (
     <Container sx={{ mt: 10 }}>
       <Head>
-        <title>Guitar Sheets Refernces 800+ Elements to Visualize</title>
+        <title>Guitar Sheets References 800+ Elements To Visualize</title>
         <meta
           name="description"
           content="Explore chords, scales, modes and arpeggios for every key."

@@ -2,6 +2,7 @@
 import React from 'react';
 import MusicApp from '../../Containers/MusicApp'; // Adjust the path if needed
 import { styled } from '@mui/system';
+import Head from 'next/head';
 import { Typography } from '@mui/material';
 import { ScoreProvider } from "@/core/editor/ScoreContext";
 import { DEFAULT_KEYWORDS } from '../../../data/seo';

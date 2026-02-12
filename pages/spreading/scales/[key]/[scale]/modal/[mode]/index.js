@@ -65,7 +65,7 @@ export const getStaticProps = async ({ params }) => {
   const notesString = notes.join(', ');
 
   // Generate the title based on the params
-  const title = `Scale ${scaleObj.name} in ${decodedKey} Mode ${scaleObj.modes[validMode].name}`;
+  const title = `Scale: ${scaleObj.name} in ${decodedKey} Mode ${scaleObj.modes[validMode].name}`;
   const description = `Learn ${scaleObj.name} scale in ${scaleObj.modes[validMode].name} mode in the key of ${decodedKey} on guitar. Notes: ${notesString}. Master all CAGED positions and patterns for this scale mode across the fretboard.`;
 
   const boards = ['C', 'A', 'G', 'E', 'D'].map((cagedSystemElement) => {

@@ -57,7 +57,7 @@ export const getStaticProps = async ({ params }) => {
     const notesString = notes.join(', ');
 
     // Generate the title based on the params
-    const title = `Arpeggio ${guitar.arppegios[decodedArppegio].name} in ${decodedKey}`;
+    const title = `Arpeggio: ${guitar.arppegios[decodedArppegio].name} in ${decodedKey}`;
     const description = `Learn ${guitar.arppegios[decodedArppegio].name} arpeggio in the key of ${decodedKey} on guitar. Notes: ${notesString}. Master all CAGED positions and patterns for this arpeggio across the fretboard.`;
 
     const boards = ['C', 'A', 'G', 'E', 'D'].map((cagedSystemElement) => {
