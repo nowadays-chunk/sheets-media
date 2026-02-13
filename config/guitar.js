@@ -334,340 +334,1705 @@ export default {
   },
   "cagedIntervals": [0, 3, 5],
   "arppegios": {
-    "M": {
-      "name": "Major",
-      "formula": [4, 3, 5],
-      "intervals": ["1", "3", "5"],
-      "quality": "Major",
-      "degree": "Major",
-      "matchingScale": "Ionian",
-      "cagedShapes": {
-        "C": [0, 3, 2, 0, 1, 0],
-        "A": [null, 3, 5, 5, 5, 3],
-        "G": [8, 7, 5, 5, 8, 8],
-        "E": [8, 10, 10, 9, 8, 8],
-        "D": [null, null, 10, 12, 13, 12]
-      }
-    },
-
-    "min": {
-      "name": "Minor",
-      "formula": [3, 4, 5],
-      "intervals": ["1", "b3", "5"],
-      "quality": "Minor",
-      "degree": "Minor",
-      "matchingScale": "Aeolian",
-      "cagedShapes": {
-        "C": [null, 3, 1, 0, 1, 3],   // corrected C minor
-        "A": [null, 3, 5, 5, 4, 3],
-        "G": [8, 6, 5, 5, 8, 8],
-        "E": [8, 10, 10, 8, 8, 8],
-        "D": [null, null, 10, 12, 13, 11]
-      }
-    },
-
-    "aug": {
-      "name": "Augmented",
-      "formula": [4, 4, 4],
-      "intervals": ["1", "3", "#5"],
-      "quality": "Augmented",
-      "degree": "Augmented",
-      "matchingScale": "Harmonic Major",
-      "cagedShapes": {
-        "C": [null, 3, 2, 1, 1, 0],
-        "A": [null, 3, 6, 5, 5, 4],
-        "G": [8, 7, 6, 5, 9, 8],
-        "E": [8, 11, 10, 9, 9, 8],
-        "D": [null, null, 10, 13, 13, 12]
-      }
-    },
-
-    "dim": {
-      "name": "Diminished",
-      "formula": [3, 3, 3],
-      "intervals": ["1", "b3", "b5"],
-      "quality": "Diminished",
-      "degree": "Locrian",
-      "matchingScale": "Locrian",
-      "cagedShapes": {
-        "C": [null, 3, 4, 2, 4, null],
-        "A": [null, 3, 4, 2, 4, 2],
-        "G": [8, 6, 7, 8, 7, 8],
-        "E": [8, 9, 10, 8, 10, 8],
-        "D": [null, null, 10, 11, 10, 11]
-      }
-    },
-
-    "sus2": {
-      "name": "sus2",
-      "intervals": ["1", "2", "5"],
-      "formula": [2, 5],
-      "quality": "Suspended",
-      "degree": "Major",
-      "matchingScale": "Ionian",
-      "cagedShapes": {
-        "C": [0, 3, 0, 0, 1, 3],
-        "A": [null, 3, 5, 5, 3, 3],
-        "G": [8, 7, 5, 5, 8, 10],
-        "E": [8, 10, 10, 10, 8, 8],
-        "D": [null, null, 10, 12, 10, 10]
-      }
-    },
-
-    "sus4": {
-      "name": "sus4",
-      "intervals": ["1", "4", "5"],
-      "formula": [5, 2],
-      "quality": "Suspended",
-      "degree": "Major",
-      "matchingScale": "Ionian",
-      "cagedShapes": {
-        "C": [0, 3, 3, 0, 1, 1],
-        "A": [null, 3, 5, 5, 6, 3],
-        "G": [8, 8, 5, 5, 6, 8],
-        "E": [8, 10, 10, 10, 11, 8],
-        "D": [null, null, 10, 12, 13, 13]
-      }
-    },
-
-    "add2": {
-      "name": "add2",
-      "intervals": ["1", "2", "3", "5"],
-      "formula": [2, 2, 3, 3],
-      "quality": "Added Tone",
-      "degree": "Major",
-      "matchingScale": "Ionian",
-      "cagedShapes": {
-        "C": [null, 3, 2, 0, 3, 0],
-        "A": [null, 0, 2, 2, 2, 0],
-        "G": [3, 0, 0, 0, 0, 3],
-        "E": [0, 2, 2, 1, 2, 0],
-        "D": [null, null, 0, 2, 3, 2]
-      }
-    },
-
-    "add4": {
-      "name": "add4",
-      "intervals": ["1", "3", "4", "5"],
-      "formula": [4, 1, 2, 2],
-      "quality": "Added Tone",
-      "degree": "Major",
-      "matchingScale": "Ionian",
-      "cagedShapes": {
-        "C": [null, 3, 2, 0, 1, 3],
-        "A": [null, 0, 2, 2, 2, 3],
-        "G": [3, 2, 0, 0, 3, 3],
-        "E": [0, 2, 1, 2, 0, 0],
-        "D": [null, null, 0, 2, 3, 3]
-      }
-    },
-
     "6": {
       "name": "6th",
-      "intervals": ["1", "3", "5", "6"],
-      "formula": [4, 3, 2, 3],
+      "intervals": [
+        "1",
+        "3",
+        "5",
+        "6"
+      ],
+      "formula": [
+        4,
+        3,
+        2,
+        3
+      ],
       "quality": "Major",
       "degree": "Major",
-      "matchingScale": "Ionian",
-      "cagedShapes": {
-        "C": [0, 3, 2, 2, 1, 0],
-        "A": [null, 3, 5, 4, 5, 3],
-        "G": [8, 7, 5, 7, 8, 8],
-        "E": [8, 10, 10, 9, 10, 8],
-        "D": [null, null, 10, 12, 12, 12]
-      }
-    },
 
-    "min6": {
-      "name": "Minor 6th",
-      "intervals": ["1", "b3", "5", "6"],
-      "formula": [3, 4, 2, 3],
-      "quality": "Minor",
-      "degree": "Minor",
-      "matchingScale": "Melodic minor",
       "cagedShapes": {
-        "C": [null, 3, 5, 2, 4, 3],
-        "A": [null, 3, 5, 2, 4, 3],
-        "G": [8, 6, 5, 7, 8, 8],
-        "E": [8, 10, 10, 8, 10, 8],
-        "D": [null, null, 10, 12, 10, 12]
-      }
+        "C": [
+          0,
+          3,
+          2,
+          2,
+          1,
+          0
+        ],
+        "A": [
+          null,
+          3,
+          5,
+          4,
+          5,
+          3
+        ],
+        "G": [
+          8,
+          7,
+          5,
+          7,
+          8,
+          8
+        ],
+        "E": [
+          8,
+          10,
+          10,
+          9,
+          10,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          12,
+          12,
+          12
+        ]
+      },
+      "matchingScales": [
+        "Ionian",
+        "Lydian",
+        "Mixolydian",
+        "Ionian augmented",
+        "Lydian #2",
+        "Lydian dominant"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Dominant 7th",
+        "9th",
+        "11th",
+        "13th",
+        "Major",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4",
+        "Major 7th",
+        "Minor 7b5"
+      ]
     },
-
-    "min7": {
-      "name": "Minor 7th",
-      "formula": [3, 4, 3],
-      "intervals": ["1", "b3", "5", "b7"],
-      "quality": "Minor 7",
-      "degree": "Dorian",
-      "matchingScale": "Dorian",
-      "cagedShapes": {
-        "C": [null, 3, 5, 3, 4, 3],
-        "A": [null, 3, 5, 3, 4, 3],
-        "G": [8, 6, 5, 5, 8, 8],
-        "E": [8, 10, 8, 8, 8, 8],
-        "D": [null, null, 10, 12, 11, 11]
-      }
-    },
-
     "7": {
       "name": "Dominant 7th",
-      "formula": [4, 3, 3],
-      "intervals": ["1", "3", "5", "b7"],
+      "formula": [
+        4,
+        3,
+        3
+      ],
+      "intervals": [
+        "1",
+        "3",
+        "5",
+        "b7"
+      ],
       "quality": "Dominant",
       "degree": "Mixolydian",
-      "matchingScale": "Mixolydian",
-      "cagedShapes": {
-        "C": [0, 3, 2, 3, 1, 0],
-        "A": [null, 3, 5, 3, 5, 3],
-        "G": [8, 7, 5, 8, 8, 8],
-        "E": [8, 10, 8, 9, 8, 8],
-        "D": [null, null, 10, 12, 11, 12]
-      }
-    },
 
-    "M7": {
-      "name": "Major 7th",
-      "formula": [4, 3, 4],
-      "intervals": ["1", "3", "5", "7"],
-      "quality": "Major 7",
-      "degree": "Major",
-      "matchingScale": "Ionian",
       "cagedShapes": {
-        "C": [0, 3, 2, 0, 0, 0],
-        "A": [null, 3, 5, 4, 5, 3],
-        "G": [8, 7, 5, 4, 8, 7],
-        "E": [8, 10, 9, 9, 8, 7],
-        "D": [null, null, 10, 12, 12, 12]
-      }
+        "C": [
+          0,
+          3,
+          2,
+          3,
+          1,
+          0
+        ],
+        "A": [
+          null,
+          3,
+          5,
+          3,
+          5,
+          3
+        ],
+        "G": [
+          8,
+          7,
+          5,
+          8,
+          8,
+          8
+        ],
+        "E": [
+          8,
+          10,
+          8,
+          9,
+          8,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          12,
+          11,
+          12
+        ]
+      },
+      "matchingScales": [
+        "Mixolydian",
+        "Phrygian dominant"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Dominant 7th",
+        "9th",
+        "11th",
+        "13th",
+        "Major",
+        "Augmented",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4",
+        "Dominant 7#5"
+      ]
     },
-
-    "min7b5": {
-      "name": "Minor 7b5",
-      "intervals": ["1", "b3", "b5", "b7"],
-      "formula": [3, 3, 4, 2],
-      "quality": "Diminished",
-      "degree": "Minor",
-      "matchingScale": "Locrian",
-      "cagedShapes": {
-        "C": [null, 3, 4, 3, 4, null],
-        "A": [null, 0, null, 0, 1, 1],
-        "G": [3, null, 3, 3, 2, null],
-        "E": [0, null, 0, 1, 0, 1],
-        "D": [null, null, 0, 1, 0, 1]
-      }
-    },
-
-    "dim7": {
-      "name": "Diminished 7th",
-      "intervals": ["1", "b3", "b5", "bb7"],
-      "formula": [3, 3, 3, 3],
-      "quality": "Diminished",
-      "degree": "Minor",
-      "matchingScale": "Ultra Locrian",
-      "cagedShapes": {
-        "C": [null, 3, 1, 2, 1, 2],
-        "A": [null, 0, 1, 0, 1, 0],
-        "G": [3, 1, 2, 0, 1, null],
-        "E": [0, 1, 2, 0, 1, 0],
-        "D": [null, null, 0, 1, 3, 1]
-      }
-    },
-
     "9": {
       "name": "9th",
-      "intervals": ["1", "3", "5", "b7", "9"],
-      "formula": [4, 3, 3, 3, 2],
+      "intervals": [
+        "1",
+        "3",
+        "5",
+        "b7",
+        "9"
+      ],
+      "formula": [
+        4,
+        3,
+        3,
+        3,
+        2
+      ],
       "quality": "Dominant",
       "degree": "Major",
-      "matchingScale": "Mixolydian",
-      "cagedShapes": {
-        "C": [null, 3, 2, 3, 3, 3],
-        "A": [null, 3, 2, 3, 3, 3],
-        "G": [8, 7, 5, 7, 8, 8],
-        "E": [8, 10, 8, 9, 10, 8],
-        "D": [null, null, 10, 12, 10, 12]
-      }
-    },
 
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          2,
+          3,
+          3,
+          3
+        ],
+        "A": [
+          null,
+          3,
+          2,
+          3,
+          3,
+          3
+        ],
+        "G": [
+          8,
+          7,
+          5,
+          7,
+          8,
+          8
+        ],
+        "E": [
+          8,
+          10,
+          8,
+          9,
+          10,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          12,
+          10,
+          12
+        ]
+      },
+      "matchingScales": [
+        "Mixolydian"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Dominant 7th",
+        "9th",
+        "11th",
+        "13th",
+        "Major",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4"
+      ]
+    },
     "11": {
       "name": "11th",
-      "intervals": ["1", "3", "5", "b7", "9", "11"],
-      "formula": [4, 3, 3, 2, 4, 5],
+      "intervals": [
+        "1",
+        "3",
+        "5",
+        "b7",
+        "9",
+        "11"
+      ],
+      "formula": [
+        4,
+        3,
+        3,
+        2,
+        4,
+        5
+      ],
       "quality": "Dominant",
       "degree": "Major",
-      "matchingScale": "Mixolydian",
-      "cagedShapes": {
-        "C": [null, 3, 3, 3, 1, 1],
-        "A": [null, 3, 5, 3, 6, 3],
-        "G": [8, 7, 5, 5, 6, 8],
-        "E": [8, 8, 8, 8, 8, 8],
-        "D": [null, null, 10, 12, 13, 13]
-      }
-    },
 
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          3,
+          3,
+          1,
+          1
+        ],
+        "A": [
+          null,
+          3,
+          5,
+          3,
+          6,
+          3
+        ],
+        "G": [
+          8,
+          7,
+          5,
+          5,
+          6,
+          8
+        ],
+        "E": [
+          8,
+          8,
+          8,
+          8,
+          8,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          12,
+          13,
+          13
+        ]
+      },
+      "matchingScales": [
+        "Mixolydian"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Dominant 7th",
+        "9th",
+        "11th",
+        "13th",
+        "Major",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4"
+      ]
+    },
     "13": {
       "name": "13th",
-      "intervals": ["1", "3", "5", "b7", "9", "13"],
-      "formula": [4, 3, 3, 2, 4, 9],
+      "intervals": [
+        "1",
+        "3",
+        "5",
+        "b7",
+        "9",
+        "13"
+      ],
+      "formula": [
+        4,
+        3,
+        3,
+        2,
+        4,
+        9
+      ],
       "quality": "Dominant",
       "degree": "Major",
-      "matchingScale": "Mixolydian",
-      "cagedShapes": {
-        "C": [null, 3, 2, 3, 5, 5],
-        "A": [null, 3, 5, 3, 5, 5],
-        "G": [8, 7, 5, 7, 8, 8],
-        "E": [8, 10, 8, 9, 10, 10],
-        "D": [null, null, 10, 12, 12, 12]
-      }
-    },
 
-    "minMaj7": {
-      "name": "Minor Major 7th",
-      "intervals": ["1", "b3", "5", "7"],
-      "formula": [3, 4, 4, 4],
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          2,
+          3,
+          5,
+          5
+        ],
+        "A": [
+          null,
+          3,
+          5,
+          3,
+          5,
+          5
+        ],
+        "G": [
+          8,
+          7,
+          5,
+          7,
+          8,
+          8
+        ],
+        "E": [
+          8,
+          10,
+          8,
+          9,
+          10,
+          10
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          12,
+          12,
+          12
+        ]
+      },
+      "matchingScales": [
+        "Mixolydian"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Dominant 7th",
+        "9th",
+        "11th",
+        "13th",
+        "Major",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4"
+      ]
+    },
+    "M": {
+      "name": "Major",
+      "formula": [
+        4,
+        3,
+        5
+      ],
+      "intervals": [
+        "1",
+        "3",
+        "5"
+      ],
+      "quality": "Major",
+      "degree": "Major",
+
+      "cagedShapes": {
+        "C": [
+          0,
+          3,
+          2,
+          0,
+          1,
+          0
+        ],
+        "A": [
+          null,
+          3,
+          5,
+          5,
+          5,
+          3
+        ],
+        "G": [
+          8,
+          7,
+          5,
+          5,
+          8,
+          8
+        ],
+        "E": [
+          8,
+          10,
+          10,
+          9,
+          8,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          12,
+          13,
+          12
+        ]
+      },
+      "matchingScales": [
+        "Ionian",
+        "Lydian",
+        "Mixolydian",
+        "Ionian augmented",
+        "Phrygian dominant",
+        "Lydian #2",
+        "Lydian dominant",
+        "Blues major"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Dominant 7th",
+        "9th",
+        "11th",
+        "13th",
+        "Major",
+        "Minor",
+        "Augmented",
+        "Diminished",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4",
+        "Minor 6th",
+        "Minor 7th",
+        "Major 7th",
+        "Minor 7b5",
+        "Diminished 7th",
+        "Minor Major 7th",
+        "Dominant 7#5",
+        "Minor 7b5"
+      ]
+    },
+    "min": {
+      "name": "Minor",
+      "formula": [
+        3,
+        4,
+        5
+      ],
+      "intervals": [
+        "1",
+        "b3",
+        "5"
+      ],
       "quality": "Minor",
       "degree": "Minor",
-      "matchingScale": "Melodic minor",
-      "cagedShapes": {
-        "C": [null, 3, 5, 4, 3, 0],
-        "A": [null, 0, 2, 1, 1, 0],
-        "G": [3, 5, 4, 0, 0, 2],
-        "E": [0, 2, 1, 1, 0, 0],
-        "D": [null, null, 0, 2, 2, 1]
-      }
-    },
 
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          1,
+          0,
+          1,
+          3
+        ],
+        "A": [
+          null,
+          3,
+          5,
+          5,
+          4,
+          3
+        ],
+        "G": [
+          8,
+          6,
+          5,
+          5,
+          8,
+          8
+        ],
+        "E": [
+          8,
+          10,
+          10,
+          8,
+          8,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          12,
+          13,
+          11
+        ]
+      },
+      "matchingScales": [
+        "Dorian",
+        "Phrygian",
+        "Aeolian",
+        "Minor",
+        "Harmonic minor",
+        "Romanian",
+        "Melodic minor",
+        "Javanese",
+        "Hindu",
+        "Blues minor",
+        "Blues major"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Dominant 7th",
+        "9th",
+        "11th",
+        "13th",
+        "Major",
+        "Minor",
+        "Augmented",
+        "Diminished",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4",
+        "Minor 6th",
+        "Minor 7th",
+        "Major 7th",
+        "Minor 7b5",
+        "Diminished 7th",
+        "Minor Major 7th",
+        "Dominant 7#5",
+        "Minor 7b5"
+      ]
+    },
+    "aug": {
+      "name": "Augmented",
+      "formula": [
+        4,
+        4,
+        4
+      ],
+      "intervals": [
+        "1",
+        "3",
+        "#5"
+      ],
+      "quality": "Augmented",
+      "degree": "Augmented",
+
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          2,
+          1,
+          1,
+          0
+        ],
+        "A": [
+          null,
+          3,
+          6,
+          5,
+          5,
+          4
+        ],
+        "G": [
+          8,
+          7,
+          6,
+          5,
+          9,
+          8
+        ],
+        "E": [
+          8,
+          11,
+          10,
+          9,
+          9,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          13,
+          13,
+          12
+        ]
+      },
+      "matchingScales": [
+        "Phrygian dominant",
+        "Super locrian"
+      ],
+      "matchingArpeggios": [
+        "Dominant 7th",
+        "Major",
+        "Minor",
+        "Augmented",
+        "Diminished",
+        "sus4",
+        "add4",
+        "Minor 7th",
+        "Minor 7b5",
+        "Dominant 7#5",
+        "Minor 7b5"
+      ]
+    },
+    "dim": {
+      "name": "Diminished",
+      "formula": [
+        3,
+        3,
+        3
+      ],
+      "intervals": [
+        "1",
+        "b3",
+        "b5"
+      ],
+      "quality": "Diminished",
+      "degree": "Locrian",
+
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          4,
+          2,
+          4,
+          null
+        ],
+        "A": [
+          null,
+          3,
+          4,
+          2,
+          4,
+          2
+        ],
+        "G": [
+          8,
+          6,
+          7,
+          8,
+          7,
+          8
+        ],
+        "E": [
+          8,
+          9,
+          10,
+          8,
+          10,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          11,
+          10,
+          11
+        ]
+      },
+      "matchingScales": [
+        "Locrian",
+        "Locrian #6",
+        "Romanian",
+        "Ultra locrian",
+        "Locrian #2",
+        "Super locrian",
+        "Blues minor"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Dominant 7th",
+        "9th",
+        "11th",
+        "13th",
+        "Major",
+        "Minor",
+        "Augmented",
+        "Diminished",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4",
+        "Minor 6th",
+        "Minor 7th",
+        "Major 7th",
+        "Minor 7b5",
+        "Diminished 7th",
+        "Minor Major 7th",
+        "Dominant 7#5",
+        "Minor 7b5"
+      ]
+    },
+    "sus2": {
+      "name": "sus2",
+      "intervals": [
+        "1",
+        "2",
+        "5"
+      ],
+      "formula": [
+        2,
+        5
+      ],
+      "quality": "Suspended",
+      "degree": "Major",
+
+      "cagedShapes": {
+        "C": [
+          0,
+          3,
+          0,
+          0,
+          1,
+          3
+        ],
+        "A": [
+          null,
+          3,
+          5,
+          5,
+          3,
+          3
+        ],
+        "G": [
+          8,
+          7,
+          5,
+          5,
+          8,
+          10
+        ],
+        "E": [
+          8,
+          10,
+          10,
+          10,
+          8,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          12,
+          10,
+          10
+        ]
+      },
+      "matchingScales": [
+        "Ionian",
+        "Dorian",
+        "Lydian",
+        "Mixolydian",
+        "Aeolian",
+        "Minor",
+        "Harmonic minor",
+        "Ionian augmented",
+        "Romanian",
+        "Melodic minor",
+        "Lydian dominant",
+        "Hindu",
+        "Blues major"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Dominant 7th",
+        "9th",
+        "11th",
+        "13th",
+        "Major",
+        "Minor",
+        "Augmented",
+        "Diminished",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4",
+        "Minor 6th",
+        "Minor 7th",
+        "Major 7th",
+        "Minor 7b5",
+        "Diminished 7th",
+        "Minor Major 7th",
+        "Dominant 7#5",
+        "Minor 7b5"
+      ]
+    },
+    "sus4": {
+      "name": "sus4",
+      "intervals": [
+        "1",
+        "4",
+        "5"
+      ],
+      "formula": [
+        5,
+        2
+      ],
+      "quality": "Suspended",
+      "degree": "Major",
+
+      "cagedShapes": {
+        "C": [
+          0,
+          3,
+          3,
+          0,
+          1,
+          1
+        ],
+        "A": [
+          null,
+          3,
+          5,
+          5,
+          6,
+          3
+        ],
+        "G": [
+          8,
+          8,
+          5,
+          5,
+          6,
+          8
+        ],
+        "E": [
+          8,
+          10,
+          10,
+          10,
+          11,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          12,
+          13,
+          13
+        ]
+      },
+      "matchingScales": [
+        "Ionian",
+        "Dorian",
+        "Phrygian",
+        "Mixolydian",
+        "Aeolian",
+        "Minor",
+        "Harmonic minor",
+        "Phrygian dominant",
+        "Melodic minor",
+        "Javanese",
+        "Hindu",
+        "Blues minor"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Dominant 7th",
+        "9th",
+        "11th",
+        "13th",
+        "Major",
+        "Minor",
+        "Augmented",
+        "Diminished",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4",
+        "Minor 6th",
+        "Minor 7th",
+        "Major 7th",
+        "Minor 7b5",
+        "Diminished 7th",
+        "Minor Major 7th",
+        "Dominant 7#5",
+        "Minor 7b5"
+      ]
+    },
+    "add2": {
+      "name": "add2",
+      "intervals": [
+        "1",
+        "2",
+        "3",
+        "5"
+      ],
+      "formula": [
+        2,
+        2,
+        3,
+        3
+      ],
+      "quality": "Added Tone",
+      "degree": "Major",
+
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          2,
+          0,
+          3,
+          0
+        ],
+        "A": [
+          null,
+          0,
+          2,
+          2,
+          2,
+          0
+        ],
+        "G": [
+          3,
+          0,
+          0,
+          0,
+          0,
+          3
+        ],
+        "E": [
+          0,
+          2,
+          2,
+          1,
+          2,
+          0
+        ],
+        "D": [
+          null,
+          null,
+          0,
+          2,
+          3,
+          2
+        ]
+      },
+      "matchingScales": [
+        "Ionian",
+        "Lydian",
+        "Mixolydian",
+        "Ionian augmented",
+        "Lydian dominant",
+        "Blues major"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Dominant 7th",
+        "9th",
+        "11th",
+        "13th",
+        "Major",
+        "Minor",
+        "Diminished",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4",
+        "Minor 6th",
+        "Minor 7th",
+        "Major 7th",
+        "Minor 7b5",
+        "Diminished 7th",
+        "Minor Major 7th",
+        "Minor 7b5"
+      ]
+    },
+    "add4": {
+      "name": "add4",
+      "intervals": [
+        "1",
+        "3",
+        "4",
+        "5"
+      ],
+      "formula": [
+        4,
+        1,
+        2,
+        2
+      ],
+      "quality": "Added Tone",
+      "degree": "Major",
+
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          2,
+          0,
+          1,
+          3
+        ],
+        "A": [
+          null,
+          0,
+          2,
+          2,
+          2,
+          3
+        ],
+        "G": [
+          3,
+          2,
+          0,
+          0,
+          3,
+          3
+        ],
+        "E": [
+          0,
+          2,
+          1,
+          2,
+          0,
+          0
+        ],
+        "D": [
+          null,
+          null,
+          0,
+          2,
+          3,
+          3
+        ]
+      },
+      "matchingScales": [
+        "Ionian",
+        "Mixolydian",
+        "Phrygian dominant"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Dominant 7th",
+        "9th",
+        "11th",
+        "13th",
+        "Major",
+        "Augmented",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4",
+        "Major 7th",
+        "Dominant 7#5"
+      ]
+    },
+    "min6": {
+      "name": "Minor 6th",
+      "intervals": [
+        "1",
+        "b3",
+        "5",
+        "6"
+      ],
+      "formula": [
+        3,
+        4,
+        2,
+        3
+      ],
+      "quality": "Minor",
+      "degree": "Minor",
+
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          5,
+          2,
+          4,
+          3
+        ],
+        "A": [
+          null,
+          3,
+          5,
+          2,
+          4,
+          3
+        ],
+        "G": [
+          8,
+          6,
+          5,
+          7,
+          8,
+          8
+        ],
+        "E": [
+          8,
+          10,
+          10,
+          8,
+          10,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          12,
+          10,
+          12
+        ]
+      },
+      "matchingScales": [
+        "Dorian",
+        "Romanian",
+        "Melodic minor",
+        "Javanese",
+        "Hindu"
+      ],
+      "matchingArpeggios": [
+        "Minor",
+        "Diminished",
+        "sus2",
+        "sus4",
+        "Minor 6th",
+        "Minor 7th",
+        "Minor 7b5",
+        "Diminished 7th",
+        "Minor Major 7th"
+      ]
+    },
+    "min7": {
+      "name": "Minor 7th",
+      "formula": [
+        3,
+        4,
+        3
+      ],
+      "intervals": [
+        "1",
+        "b3",
+        "5",
+        "b7"
+      ],
+      "quality": "Minor 7",
+      "degree": "Dorian",
+
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          5,
+          3,
+          4,
+          3
+        ],
+        "A": [
+          null,
+          3,
+          5,
+          3,
+          4,
+          3
+        ],
+        "G": [
+          8,
+          6,
+          5,
+          5,
+          8,
+          8
+        ],
+        "E": [
+          8,
+          10,
+          8,
+          8,
+          8,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          12,
+          11,
+          11
+        ]
+      },
+      "matchingScales": [
+        "Dorian",
+        "Phrygian",
+        "Aeolian",
+        "Minor",
+        "Javanese"
+      ],
+      "matchingArpeggios": [
+        "Minor",
+        "sus2",
+        "sus4",
+        "Minor 6th",
+        "Minor 7th"
+      ]
+    },
+    "M7": {
+      "name": "Major 7th",
+      "formula": [
+        4,
+        3,
+        4
+      ],
+      "intervals": [
+        "1",
+        "3",
+        "5",
+        "7"
+      ],
+      "quality": "Major 7",
+      "degree": "Major",
+
+      "cagedShapes": {
+        "C": [
+          0,
+          3,
+          2,
+          0,
+          0,
+          0
+        ],
+        "A": [
+          null,
+          3,
+          5,
+          4,
+          5,
+          3
+        ],
+        "G": [
+          8,
+          7,
+          5,
+          4,
+          8,
+          7
+        ],
+        "E": [
+          8,
+          10,
+          9,
+          9,
+          8,
+          7
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          12,
+          12,
+          12
+        ]
+      },
+      "matchingScales": [
+        "Ionian",
+        "Lydian",
+        "Ionian augmented",
+        "Lydian #2",
+        "Lydian dominant"
+      ],
+      "matchingArpeggios": [
+        "6th",
+        "Major",
+        "sus2",
+        "sus4",
+        "add2",
+        "add4",
+        "Major 7th"
+      ]
+    },
+    "min7b5": {
+      "name": "Minor 7b5",
+      "intervals": [
+        "1",
+        "b3",
+        "b5",
+        "b7"
+      ],
+      "formula": [
+        3,
+        3,
+        4,
+        2
+      ],
+      "quality": "Diminished",
+      "degree": "Minor",
+
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          4,
+          3,
+          4,
+          null
+        ],
+        "A": [
+          null,
+          0,
+          null,
+          0,
+          1,
+          1
+        ],
+        "G": [
+          3,
+          null,
+          3,
+          3,
+          2,
+          null
+        ],
+        "E": [
+          0,
+          null,
+          0,
+          1,
+          0,
+          1
+        ],
+        "D": [
+          null,
+          null,
+          0,
+          1,
+          0,
+          1
+        ]
+      },
+      "matchingScales": [
+        "Locrian",
+        "Locrian #6",
+        "Locrian #2",
+        "Super locrian"
+      ],
+      "matchingArpeggios": [
+        "Augmented",
+        "Diminished",
+        "Minor 7b5",
+        "Diminished 7th",
+        "Dominant 7#5",
+        "Minor 7b5"
+      ]
+    },
+    "dim7": {
+      "name": "Diminished 7th",
+      "intervals": [
+        "1",
+        "b3",
+        "b5",
+        "bb7"
+      ],
+      "formula": [
+        3,
+        3,
+        3,
+        3
+      ],
+      "quality": "Diminished",
+      "degree": "Minor",
+
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          1,
+          2,
+          1,
+          2
+        ],
+        "A": [
+          null,
+          0,
+          1,
+          0,
+          1,
+          0
+        ],
+        "G": [
+          3,
+          1,
+          2,
+          0,
+          1,
+          null
+        ],
+        "E": [
+          0,
+          1,
+          2,
+          0,
+          1,
+          0
+        ],
+        "D": [
+          null,
+          null,
+          0,
+          1,
+          3,
+          1
+        ]
+      },
+      "matchingScales": [
+        "Locrian #6",
+        "Romanian",
+        "Ultra locrian"
+      ],
+      "matchingArpeggios": [
+        "Minor",
+        "Diminished",
+        "sus2",
+        "sus4",
+        "Minor 6th",
+        "Minor 7th",
+        "Minor 7b5",
+        "Diminished 7th",
+        "Minor Major 7th"
+      ]
+    },
+    "minMaj7": {
+      "name": "Minor Major 7th",
+      "intervals": [
+        "1",
+        "b3",
+        "5",
+        "7"
+      ],
+      "formula": [
+        3,
+        4,
+        4,
+        4
+      ],
+      "quality": "Minor",
+      "degree": "Minor",
+
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          5,
+          4,
+          3,
+          0
+        ],
+        "A": [
+          null,
+          0,
+          2,
+          1,
+          1,
+          0
+        ],
+        "G": [
+          3,
+          5,
+          4,
+          0,
+          0,
+          2
+        ],
+        "E": [
+          0,
+          2,
+          1,
+          1,
+          0,
+          0
+        ],
+        "D": [
+          null,
+          null,
+          0,
+          2,
+          2,
+          1
+        ]
+      },
+      "matchingScales": [
+        "Harmonic minor",
+        "Romanian",
+        "Melodic minor",
+        "Hindu"
+      ],
+      "matchingArpeggios": [
+        "Minor",
+        "Diminished",
+        "sus2",
+        "sus4",
+        "Minor 6th",
+        "Diminished 7th",
+        "Minor Major 7th"
+      ]
+    },
     "7#5": {
       "name": "Dominant 7#5",
-      "intervals": ["1", "3", "#5", "b7"],
-      "formula": [4, 4, 2, 2],
+      "intervals": [
+        "1",
+        "3",
+        "#5",
+        "b7"
+      ],
+      "formula": [
+        4,
+        4,
+        2,
+        2
+      ],
       "quality": "Dominant",
       "degree": "Major",
-      "matchingScale": "Mixolydian augmented",
-      "cagedShapes": {
-        "C": [null, 3, 2, 3, 2, 3],
-        "A": [null, 3, 6, 3, 5, 3],
-        "G": [8, 7, 6, 7, 8, 8],
-        "E": [8, 11, 8, 9, 9, 8],
-        "D": [null, null, 10, 13, 11, 12]
-      }
-    },
 
+      "cagedShapes": {
+        "C": [
+          null,
+          3,
+          2,
+          3,
+          2,
+          3
+        ],
+        "A": [
+          null,
+          3,
+          6,
+          3,
+          5,
+          3
+        ],
+        "G": [
+          8,
+          7,
+          6,
+          7,
+          8,
+          8
+        ],
+        "E": [
+          8,
+          11,
+          8,
+          9,
+          9,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          13,
+          11,
+          12
+        ]
+      },
+      "matchingScales": [
+        "Phrygian dominant",
+        "Super locrian"
+      ],
+      "matchingArpeggios": [
+        "Dominant 7th",
+        "Major",
+        "Minor",
+        "Augmented",
+        "Diminished",
+        "sus4",
+        "add4",
+        "Minor 7th",
+        "Minor 7b5",
+        "Dominant 7#5",
+        "Minor 7b5"
+      ]
+    },
     "7b5": {
       "name": "Minor 7b5",
-      "intervals": ["1", "3", "b5", "b7"],
-      "formula": [4, 2, 5, 2],
+      "intervals": [
+        "1",
+        "3",
+        "b5",
+        "b7"
+      ],
+      "formula": [
+        4,
+        2,
+        5,
+        2
+      ],
       "quality": "Dominant",
       "degree": "Major",
-      "matchingScale": "Mixolydian b5",
+
       "cagedShapes": {
-        "C": [null, 3, 2, 3, 1, 2],
-        "A": [null, 3, 4, 3, 5, 3],
-        "G": [8, 7, 4, 5, 8, 8],
-        "E": [8, 9, 8, 9, 8, 8],
-        "D": [null, null, 10, 11, 11, 12]
-      }
+        "C": [
+          null,
+          3,
+          2,
+          3,
+          1,
+          2
+        ],
+        "A": [
+          null,
+          3,
+          4,
+          3,
+          5,
+          3
+        ],
+        "G": [
+          8,
+          7,
+          4,
+          5,
+          8,
+          8
+        ],
+        "E": [
+          8,
+          9,
+          8,
+          9,
+          8,
+          8
+        ],
+        "D": [
+          null,
+          null,
+          10,
+          11,
+          11,
+          12
+        ]
+      },
+      "matchingScales": [
+        "Super locrian"
+      ],
+      "matchingArpeggios": [
+        "Augmented",
+        "Diminished",
+        "Minor 7b5",
+        "Dominant 7#5",
+        "Minor 7b5"
+      ]
     }
   }
 }

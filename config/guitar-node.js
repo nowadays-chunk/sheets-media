@@ -333,7 +333,7 @@ module.exports = {
       "intervals": ["1", "3", "5"],
       "quality": "Major",
       "degree": "Major",
-      "matchingScale": "Ionian",
+
       "cagedShapes": {
         "C": [0, 3, 2, 0, 1, 0],
         "A": [null, 3, 5, 5, 5, 3],
@@ -349,7 +349,7 @@ module.exports = {
       "intervals": ["1", "b3", "5"],
       "quality": "Minor",
       "degree": "Minor",
-      "matchingScale": "Aeolian",
+
       "cagedShapes": {
         "C": [null, 3, 5, 5, 4, 3],   // corrected C minor
         "A": [null, 3, 5, 5, 4, 3],
@@ -365,7 +365,7 @@ module.exports = {
       "intervals": ["1", "3", "#5"],
       "quality": "Augmented",
       "degree": "Augmented",
-      "matchingScale": "Harmonic Major",
+
       "cagedShapes": {
         "C": [null, 3, 2, 1, 1, 0],
         "A": [null, 3, 6, 5, 5, 4],
@@ -381,7 +381,7 @@ module.exports = {
       "intervals": ["1", "b3", "b5"],
       "quality": "Diminished",
       "degree": "Locrian",
-      "matchingScale": "Locrian",
+
       "cagedShapes": {
         "C": [null, 3, 4, 2, 4, null],
         "A": [null, 3, 4, 2, 4, 2],
@@ -397,7 +397,7 @@ module.exports = {
       "formula": [2, 5],
       "quality": "Suspended",
       "degree": "Major",
-      "matchingScale": "Ionian",
+
       "cagedShapes": {
         "C": [0, 3, 0, 0, 1, 3],
         "A": [null, 3, 5, 5, 3, 3],
@@ -413,7 +413,7 @@ module.exports = {
       "formula": [5, 2],
       "quality": "Suspended",
       "degree": "Major",
-      "matchingScale": "Ionian",
+
       "cagedShapes": {
         "C": [0, 3, 3, 0, 1, 1],
         "A": [null, 3, 5, 5, 6, 3],
@@ -429,7 +429,7 @@ module.exports = {
       "formula": [2, 2, 3, 3],
       "quality": "Added Tone",
       "degree": "Major",
-      "matchingScale": "Ionian",
+
       "cagedShapes": {
         "C": [null, 3, 2, 0, 3, 0],
         "A": [null, 0, 2, 2, 2, 0],
@@ -445,7 +445,7 @@ module.exports = {
       "formula": [4, 1, 2, 2],
       "quality": "Added Tone",
       "degree": "Major",
-      "matchingScale": "Ionian",
+
       "cagedShapes": {
         "C": [null, 3, 2, 0, 1, 3],
         "A": [null, 0, 2, 2, 2, 3],
@@ -461,7 +461,7 @@ module.exports = {
       "formula": [4, 3, 2, 3],
       "quality": "Major",
       "degree": "Major",
-      "matchingScale": "Ionian",
+
       "cagedShapes": {
         "C": [0, 3, 2, 2, 1, 0],
         "A": [null, 3, 5, 4, 5, 3],
@@ -477,7 +477,7 @@ module.exports = {
       "formula": [3, 4, 2, 3],
       "quality": "Minor",
       "degree": "Minor",
-      "matchingScale": "Melodic minor",
+
       "cagedShapes": {
         "C": [null, 3, 5, 2, 4, 3],
         "A": [null, 3, 5, 2, 4, 3],
@@ -493,7 +493,7 @@ module.exports = {
       "intervals": ["1", "b3", "5", "b7"],
       "quality": "Minor 7",
       "degree": "Dorian",
-      "matchingScale": "Dorian",
+
       "cagedShapes": {
         "C": [null, 3, 5, 3, 4, 3],
         "A": [null, 3, 5, 3, 4, 3],
@@ -509,7 +509,7 @@ module.exports = {
       "intervals": ["1", "3", "5", "b7"],
       "quality": "Dominant",
       "degree": "Mixolydian",
-      "matchingScale": "Mixolydian",
+
       "cagedShapes": {
         "C": [0, 3, 2, 3, 1, 0],
         "A": [null, 3, 5, 3, 5, 3],
@@ -525,7 +525,7 @@ module.exports = {
       "intervals": ["1", "3", "5", "7"],
       "quality": "Major 7",
       "degree": "Major",
-      "matchingScale": "Ionian",
+
       "cagedShapes": {
         "C": [0, 3, 2, 0, 0, 0],
         "A": [null, 3, 5, 4, 5, 3],
@@ -541,7 +541,7 @@ module.exports = {
       "formula": [3, 3, 4, 2],
       "quality": "Diminished",
       "degree": "Minor",
-      "matchingScale": "Locrian",
+
       "cagedShapes": {
         "C": [null, 3, 4, 3, 4, null],
         "A": [null, 0, null, 0, 1, 1],
@@ -557,7 +557,7 @@ module.exports = {
       "formula": [3, 3, 3, 3],
       "quality": "Diminished",
       "degree": "Minor",
-      "matchingScale": "Ultra Locrian",
+
       "cagedShapes": {
         "C": [null, 3, 1, 2, 1, 2],
         "A": [null, 0, 1, 0, 1, 0],
@@ -573,7 +573,7 @@ module.exports = {
       "formula": [4, 3, 3, 3, 2],
       "quality": "Dominant",
       "degree": "Major",
-      "matchingScale": "Mixolydian",
+
       "cagedShapes": {
         "C": [null, 3, 2, 3, 3, 3],
         "A": [null, 3, 2, 3, 3, 3],
@@ -589,7 +589,7 @@ module.exports = {
       "formula": [4, 3, 3, 2, 4, 5],
       "quality": "Dominant",
       "degree": "Major",
-      "matchingScale": "Mixolydian",
+
       "cagedShapes": {
         "C": [null, 3, 3, 3, 1, 1],
         "A": [null, 3, 5, 3, 6, 3],
@@ -605,7 +605,7 @@ module.exports = {
       "formula": [4, 3, 3, 2, 4, 9],
       "quality": "Dominant",
       "degree": "Major",
-      "matchingScale": "Mixolydian",
+
       "cagedShapes": {
         "C": [null, 3, 2, 3, 5, 5],
         "A": [null, 3, 5, 3, 5, 5],
@@ -621,7 +621,7 @@ module.exports = {
       "formula": [3, 4, 4, 4],
       "quality": "Minor",
       "degree": "Minor",
-      "matchingScale": "Melodic minor",
+
       "cagedShapes": {
         "C": [null, 3, 5, 4, 3, 0],
         "A": [null, 0, 2, 1, 1, 0],
@@ -637,7 +637,7 @@ module.exports = {
       "formula": [4, 4, 2, 2],
       "quality": "Dominant",
       "degree": "Major",
-      "matchingScale": "Mixolydian augmented",
+
       "cagedShapes": {
         "C": [null, 3, 2, 3, 2, 3],
         "A": [null, 3, 6, 3, 5, 3],
@@ -653,7 +653,7 @@ module.exports = {
       "formula": [4, 2, 5, 2],
       "quality": "Dominant",
       "degree": "Major",
-      "matchingScale": "Mixolydian b5",
+
       "cagedShapes": {
         "C": [null, 3, 2, 3, 1, 2],
         "A": [null, 3, 4, 3, 5, 3],
