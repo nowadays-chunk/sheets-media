@@ -1,5 +1,6 @@
 import guitar from '../../config/guitar';
 import QueryComponent from '../../components/Elements/Query/QueryComponent';
+import { getAbsoluteNotes, checkMatch } from '../../core/music/musicTheory';
 
 const slugify = (text) => text.toLowerCase().replace(/#/g, 'sharp').replace(/ /g, '_');
 
@@ -8,79 +9,113 @@ export const getStaticPaths = async () => {
     const keys = guitar.notes.sharps;
     const CAGED_SHAPES = ['c', 'a', 'g', 'e', 'd'];
 
-    // For each key
-    keys.forEach((key) => {
-        const rootSlug = slugify(key);
+    // For static export, we must pre-calculate ALL valid matches
+    // This replicates the logic in References.js but at build time
+    keys.forEach((chordKeyName) => {
+        const chordKeyIndex = guitar.notes.sharps.indexOf(chordKeyName);
+        const chordRootSlug = slugify(chordKeyName);
 
-        // For each arpeggio that has matches
-        Object.entries(guitar.arppegios).forEach(([chordKey, chordData]) => {
+        Object.entries(guitar.arppegios).forEach(([chordKeyId, chordData]) => {
+            const chordNotes = getAbsoluteNotes('chord', chordKeyId, chordKeyIndex);
             const chordSlug = slugify(chordData.name);
 
-            // Matches are only Scale or Arpeggio
-            (chordData.matchingScales || []).forEach((scaleName) => {
-                const matchSlug = slugify(scaleName);
-                CAGED_SHAPES.forEach((shape) => {
-                    paths.push({
-                        params: {
-                            slug: `scale_${matchSlug}_matches_chord_${chordSlug}_in_${rootSlug}_key_and_${shape}_shape`
-                        }
-                    });
-                });
-            });
+            // Check against ALL keys for EACH match type
+            keys.forEach((targetKeyName) => {
+                const targetKeyIndex = guitar.notes.sharps.indexOf(targetKeyName);
+                const targetRootSlug = slugify(targetKeyName);
 
-            (chordData.matchingArpeggios || []).forEach((arpName) => {
-                const matchSlug = slugify(arpName);
-                CAGED_SHAPES.forEach((shape) => {
-                    paths.push({
-                        params: {
-                            slug: `arpeggio_${matchSlug}_matches_chord_${chordSlug}_in_${rootSlug}_key_and_${shape}_shape`
+                // 1. Scales
+                Object.entries(guitar.scales).forEach(([scaleKey, scaleData]) => {
+                    if (scaleData.modes) {
+                        scaleData.modes.forEach((mode, mIdx) => {
+                            const targetNotes = getAbsoluteNotes('scale', scaleKey, targetKeyIndex, mIdx);
+                            if (checkMatch(chordNotes, targetNotes)) {
+                                CAGED_SHAPES.forEach((shape) => {
+                                    paths.push({
+                                        params: {
+                                            slug: `scale_${slugify(mode.name)}_in_${targetRootSlug}_key_matches_chord_${chordSlug}_in_${chordRootSlug}_key_and_${shape}_shape`
+                                        }
+                                    });
+                                });
+                            }
+                        });
+                    } else {
+                        const targetNotes = getAbsoluteNotes('scale', scaleKey, targetKeyIndex);
+                        if (checkMatch(chordNotes, targetNotes)) {
+                            CAGED_SHAPES.forEach((shape) => {
+                                paths.push({
+                                    params: {
+                                        slug: `scale_${slugify(scaleKey)}_in_${targetRootSlug}_key_matches_chord_${chordSlug}_in_${chordRootSlug}_key_and_${shape}_shape`
+                                    }
+                                });
+                            });
                         }
-                    });
+                    }
+                });
+
+                // 2. Arpeggios
+                Object.entries(guitar.arppegios).forEach(([arpKey, arpData]) => {
+                    const targetNotes = getAbsoluteNotes('arppegio', arpKey, targetKeyIndex);
+                    if (checkMatch(chordNotes, targetNotes)) {
+                        CAGED_SHAPES.forEach((shape) => {
+                            paths.push({
+                                params: {
+                                    slug: `arpeggio_${slugify(arpKey)}_in_${targetRootSlug}_key_matches_chord_${chordSlug}_in_${chordRootSlug}_key_and_${shape}_shape`
+                                }
+                            });
+                        });
+                    }
                 });
             });
         });
     });
 
+    console.log(`Generated ${paths.length} harmonic match paths for static export.`);
     return { paths, fallback: false };
 };
 
 export const getStaticProps = async ({ params }) => {
     const { slug } = params;
 
-    // Format: [type1]_[name1]_matches_chord_[name2]_in_[root]_key_and_[shape]_shape
+    // Format: [type]_[name]_in_[key1]_key_matches_chord_[name]_in_[key2]_key_and_[shape]_shape
 
-    // Split by '_matches_chord_'
     const matchesSplit = slug.split('_matches_chord_');
     if (matchesSplit.length !== 2) return { notFound: true };
 
-    const firstPart = matchesSplit[0]; // e.g., 'scale_mixolydian' or 'arpeggio_minor_7th'
-    const secondPart = matchesSplit[1]; // e.g., 'dominant_7th_in_c_key_and_e_shape'
+    const matchPart = matchesSplit[0]; // e.g., 'scale_ionian_in_g_key'
+    const chordPart = matchesSplit[1]; // e.g., 'major_in_c_key_and_e_shape'
 
-    // Parse Match
-    const matchType = firstPart.startsWith('scale_') ? 'scale' : 'arpeggio';
-    const matchSlug = firstPart.replace(`${matchType}_`, '');
+    // Parse Match Part
+    const matchType = matchPart.startsWith('scale_') ? 'scale' : 'arpeggio';
+    const matchKeySplit = matchPart.replace(`${matchType}_`, '').split('_in_');
+    if (matchKeySplit.length !== 2) return { notFound: true };
 
-    // Parse Chord and Root
-    const keySplit = secondPart.split('_in_');
-    if (keySplit.length !== 2) return { notFound: true };
+    const matchSlug = matchKeySplit[0];
+    const matchRootSlug = matchKeySplit[1].replace('_key', '');
+    const matchRootKey = matchRootSlug.replace('sharp', '#').toUpperCase();
+    const matchKeyIndex = guitar.notes.sharps.indexOf(matchRootKey);
 
-    const chordSlug = keySplit[0];
-    const tailSection = keySplit[1]; // e.g., 'c_key_and_e_shape' or 'csharp_key_and_e_shape'
+    // Parse Chord Part
+    const chordKeySplit = chordPart.split('_in_');
+    if (chordKeySplit.length !== 2) return { notFound: true };
+
+    const chordSlug = chordKeySplit[0];
+    const tailSection = chordKeySplit[1];
 
     const tailSplit = tailSection.split('_key_and_');
     if (tailSplit.length !== 2) return { notFound: true };
 
-    const rootSlug = tailSplit[0];
+    const chordRootSlug = tailSplit[0];
     const shape = tailSplit[1].replace('_shape', '').toUpperCase();
 
-    const rootKey = rootSlug.replace('sharp', '#').toUpperCase();
-    const keyIndex = guitar.notes.sharps.indexOf(rootKey);
+    const chordRootKey = chordRootSlug.replace('sharp', '#').toUpperCase();
+    const chordKeyIndex = guitar.notes.sharps.indexOf(chordRootKey);
 
     // Find the chord
     const chordEntry = Object.entries(guitar.arppegios).find(([_, data]) => slugify(data.name) === chordSlug);
-    if (!chordEntry || keyIndex === -1) return { notFound: true };
+    if (!chordEntry || chordKeyIndex === -1 || matchKeyIndex === -1) return { notFound: true };
 
-    const [chordKey, chord] = chordEntry;
+    const [chordKeyId, chord] = chordEntry;
 
     // Find the match
     let matchSettings = null;
@@ -96,7 +131,7 @@ export const getStaticProps = async ({ params }) => {
                         display: 'scale',
                         scale: sKey,
                         modeIndex: mIdx,
-                        keyIndex,
+                        keyIndex: matchKeyIndex,
                         shape,
                         label: matchDisplayName
                     };
@@ -108,7 +143,7 @@ export const getStaticProps = async ({ params }) => {
                     display: 'scale',
                     scale: sKey,
                     modeIndex: 0,
-                    keyIndex,
+                    keyIndex: matchKeyIndex,
                     shape,
                     label: matchDisplayName
                 };
@@ -122,7 +157,7 @@ export const getStaticProps = async ({ params }) => {
             matchSettings = {
                 display: 'arppegio',
                 quality: arpEntry[0],
-                keyIndex,
+                keyIndex: matchKeyIndex,
                 shape,
                 label: matchDisplayName
             };
@@ -133,24 +168,24 @@ export const getStaticProps = async ({ params }) => {
 
     // Explicitly set titles and descriptions with types
     const matchTypeLabel = matchType.charAt(0).toUpperCase() + matchType.slice(1);
-    const title = `Analyze: How the ${matchTypeLabel} ${matchDisplayName} matches the Chord ${chord.name} (${rootKey} / ${shape} Shape)`;
-    const description = `Discover why the ${matchTypeLabel} ${matchDisplayName} is a perfect harmonic fit for the Chord ${chord.name} in ${rootKey}. Exploration in the guitar CAGED ${shape} shape with interval analysis and stats.`;
-    const queryInfo = `Comparing the ${matchTypeLabel} ${matchDisplayName} with the Chord ${chord.name} on the guitar fretboard.`;
+    const title = `Analyze: How the ${matchTypeLabel} ${matchDisplayName} in ${matchRootKey} matches the Chord ${chord.name} in ${chordRootKey} (${shape} Shape)`;
+    const description = `Discover why the ${matchTypeLabel} ${matchDisplayName} in ${matchRootKey} is a harmonic fit for the Chord ${chord.name} in ${chordRootKey}. Exploration in the guitar CAGED ${shape} shape with interval analysis.`;
+    const queryInfo = `Comparing the ${matchTypeLabel} ${matchDisplayName} (${matchRootKey}) with the Chord ${chord.name} (${chordRootKey}) on the guitar fretboard.`;
 
     const pair = {
         boardId: 'query-0',
         rootSettings: {
             display: 'chord', // Show as chord type
-            quality: chordKey,
-            keyIndex,
+            quality: chordKeyId,
+            keyIndex: chordKeyIndex,
             shape,
-            label: `Chord ${chord.name} (Root)`
+            label: `Chord ${chord.name} in ${chordRootKey}`
         },
         matchSettings: {
             ...matchSettings,
-            label: `${matchTypeLabel} ${matchDisplayName}`
+            label: `${matchTypeLabel} ${matchDisplayName} in ${matchRootKey}`
         },
-        title: `Analyzing how the chord ${chord.name} matches the ${matchDisplayName} ${matchType} in ${rootKey}`
+        title: `Analyzing how the chord ${chord.name} in ${chordRootKey} matches the ${matchDisplayName} ${matchType} in ${matchRootKey}`
     };
 
     return {

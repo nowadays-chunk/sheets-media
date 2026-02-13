@@ -67,7 +67,7 @@ const QueryIndex = () => {
                                                                     {CAGED_SHAPES.map(shape => (
                                                                         <Link
                                                                             key={shape}
-                                                                            href={`/matches/scale_${slugify(scaleName)}_matches_chord_${slugify(chordData.name)}_in_${keySlug}_key_and_${shape.toLowerCase()}_shape`}
+                                                                            href={`/matches/scale_${slugify(scaleName)}_in_${keySlug}_key_matches_chord_${slugify(chordData.name)}_in_${keySlug}_key_and_${shape.toLowerCase()}_shape`}
                                                                             passHref
                                                                         >
                                                                             <Typography variant="caption" sx={{ color: 'secondary.main', cursor: 'pointer', '&:hover': { textDecoration: 'underline' } }}>
@@ -94,7 +94,7 @@ const QueryIndex = () => {
                                                                     {CAGED_SHAPES.map(shape => (
                                                                         <Link
                                                                             key={shape}
-                                                                            href={`/matches/arpeggio_${slugify(arpName)}_matches_chord_${slugify(chordData.name)}_in_${keySlug}_key_and_${shape.toLowerCase()}_shape`}
+                                                                            href={`/matches/arpeggio_${slugify(arpName)}_in_${keySlug}_key_matches_chord_${slugify(chordData.name)}_in_${keySlug}_key_and_${shape.toLowerCase()}_shape`}
                                                                             passHref
                                                                         >
                                                                             <Typography variant="caption" sx={{ color: 'secondary.main', cursor: 'pointer', '&:hover': { textDecoration: 'underline' } }}>

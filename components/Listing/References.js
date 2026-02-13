@@ -16,6 +16,7 @@ import guitar from '../../config/guitar.js';
 import { DEFAULT_KEYWORDS } from '../../data/seo';
 
 import Head from 'next/head';
+import { getAbsoluteNotes, checkMatch } from '../../core/music/musicTheory';
 
 // -----------------------------------------
 // CONSTANTS
@@ -102,6 +103,7 @@ const References = ({ elements = [] }) => {
   const [searchChord, setSearchChord] = useState("M");
   const [searchMatchType, setSearchMatchType] = useState("scale");
   const [searchShape, setSearchShape] = useState("E");
+  const [searchCrossKey, setSearchCrossKey] = useState(false);
 
   const slugify = (text) => text.toLowerCase().replace(/#/g, 'sharp').replace(/ /g, '_');
 
@@ -114,18 +116,57 @@ const References = ({ elements = [] }) => {
       if (!searchKey || !searchChord || !searchMatchType || !searchShape) return [];
 
       const chordData = guitar.arppegios[searchChord];
-      const rootSlug = slugify(searchKey);
+      const keyIndex = guitar.notes.sharps.indexOf(searchKey);
+      if (keyIndex === -1) return [];
+
+      const chordNotes = getAbsoluteNotes('chord', searchChord, keyIndex);
       const chordSlug = slugify(chordData.name);
       const shapeSlug = searchShape.toLowerCase();
 
-      const matches = searchMatchType === 'scale'
-        ? (chordData.matchingScales || [])
-        : (chordData.matchingArpeggios || []);
+      let results = [];
+      const keysToSearch = searchCrossKey ? guitar.notes.sharps : [searchKey];
 
-      return matches.map(matchName => ({
-        label: `${searchMatchType === 'scale' ? 'Scale' : 'Arpeggio'} ${matchName} matches Chord ${chordData.name} in ${searchKey} (${searchShape} Shape)`,
-        href: `/matches/${searchMatchType}_${slugify(matchName)}_matches_chord_${chordSlug}_in_${rootSlug}_key_and_${shapeSlug}_shape`
-      }));
+      keysToSearch.forEach((targetKey) => {
+        const targetKeyIndex = guitar.notes.sharps.indexOf(targetKey);
+        const targetRootSlug = slugify(targetKey);
+
+        if (searchMatchType === 'scale') {
+          Object.entries(guitar.scales).forEach(([scaleKey, scaleData]) => {
+            if (scaleData.modes) {
+              scaleData.modes.forEach((mode, mIdx) => {
+                const targetNotes = getAbsoluteNotes('scale', scaleKey, targetKeyIndex, mIdx);
+                if (checkMatch(chordNotes, targetNotes)) {
+                  results.push({
+                    label: `Scale ${mode.name} in ${targetKey} matches Chord ${chordData.name} in ${searchKey} (${searchShape} Shape)`,
+                    href: `/matches/scale_${slugify(mode.name)}_in_${targetRootSlug}_key_matches_chord_${chordSlug}_in_${slugify(searchKey)}_key_and_${shapeSlug}_shape`
+                  });
+                }
+              });
+            } else {
+              const targetNotes = getAbsoluteNotes('scale', scaleKey, targetKeyIndex);
+              if (checkMatch(chordNotes, targetNotes)) {
+                results.push({
+                  label: `Scale ${scaleData.name} in ${targetKey} matches Chord ${chordData.name} in ${searchKey} (${searchShape} Shape)`,
+                  href: `/matches/scale_${slugify(scaleKey)}_in_${targetRootSlug}_key_matches_chord_${chordSlug}_in_${slugify(searchKey)}_key_and_${shapeSlug}_shape`
+                });
+              }
+            }
+          });
+        } else {
+          // Arpeggios
+          Object.entries(guitar.arppegios).forEach(([arpKey, arpData]) => {
+            const targetNotes = getAbsoluteNotes('arppegio', arpKey, targetKeyIndex);
+            if (checkMatch(chordNotes, targetNotes)) {
+              results.push({
+                label: `Arpeggio ${arpData.name} in ${targetKey} matches Chord ${chordData.name} in ${searchKey} (${searchShape} Shape)`,
+                href: `/matches/arpeggio_${slugify(arpData.name)}_in_${targetRootSlug}_key_matches_chord_${chordSlug}_in_${slugify(searchKey)}_key_and_${shapeSlug}_shape`
+              });
+            }
+          });
+        }
+      });
+
+      return results;
     }
 
     return elements.filter(el => {
@@ -184,7 +225,8 @@ const References = ({ elements = [] }) => {
     searchDegree,
     searchChord,
     searchMatchType,
-    searchShape
+    searchShape,
+    searchCrossKey
   ]);
 
 
@@ -303,9 +345,26 @@ const References = ({ elements = [] }) => {
           {/* MATCHES FLOW */}
           {searchType === 'matches' && searchKey && (
             <>
-              {/* STEP 3 - CHORD */}
+              {/* CROSS-KEY TOGGLE */}
               <Box mb={2}>
-                <Typography variant="h6">Step 3: Root Chord</Typography>
+                <Typography variant="h6">Step 3: Match Search Depth</Typography>
+                <OptionButton
+                  selected={!searchCrossKey}
+                  onClick={() => setSearchCrossKey(false)}
+                >
+                  Same Key ({searchKey})
+                </OptionButton>
+                <OptionButton
+                  selected={searchCrossKey}
+                  onClick={() => setSearchCrossKey(true)}
+                >
+                  Cross-Key (All Keys)
+                </OptionButton>
+              </Box>
+
+              {/* STEP 4 - CHORD */}
+              <Box mb={2}>
+                <Typography variant="h6">Step 4: Root Chord</Typography>
                 {Object.entries(guitar.arppegios)
                   .filter(([_, data]) => data.matchingScales?.length > 0 || data.matchingArpeggios?.length > 0)
                   .map(([chordKey, chordData]) => (
@@ -319,10 +378,10 @@ const References = ({ elements = [] }) => {
                   ))}
               </Box>
 
-              {/* STEP 4 - MATCH TYPE */}
+              {/* STEP 5 - MATCH TYPE */}
               {searchChord && (
                 <Box mb={2}>
-                  <Typography variant="h6">Step 4: Match Type</Typography>
+                  <Typography variant="h6">Step 5: Match Type</Typography>
                   <OptionButton
                     selected={searchMatchType === 'scale'}
                     onClick={() => setSearchMatchType(searchMatchType === 'scale' ? '' : 'scale')}
@@ -338,10 +397,10 @@ const References = ({ elements = [] }) => {
                 </Box>
               )}
 
-              {/* STEP 5 - SHAPE */}
+              {/* STEP 6 - SHAPE */}
               {searchChord && searchMatchType && (
                 <Box mb={2}>
-                  <Typography variant="h6">Step 5: CAGED Shape</Typography>
+                  <Typography variant="h6">Step 6: CAGED Shape</Typography>
                   {['C', 'A', 'G', 'E', 'D'].map(s => (
                     <OptionButton
                       key={s}
