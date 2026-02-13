@@ -150,7 +150,7 @@ export const getStaticProps = async ({ params }) => {
             ...matchSettings,
             label: `${matchTypeLabel} ${matchDisplayName}`
         },
-        title: `${matchTypeLabel} ${matchDisplayName} vs Chord ${chord.name}`
+        title: `Analyzing how the chord ${chord.name} matches the ${matchDisplayName} ${matchType} in ${rootKey}`
     };
 
     return {

@@ -56,7 +56,7 @@ const QueryPair = ({ pair }) => {
 
     return (
         <Box mb={8} p={3} sx={{ border: '1px solid #ddd', borderRadius: 2, bgcolor: '#fff', boxShadow: '0 4px 12px rgba(0,0,0,0.05)' }}>
-            <Typography variant="h5" gutterBottom color="primary" sx={{ fontWeight: 'bold', borderBottom: '2px solid #eee', pb: 1, mb: 3 }}>
+            <Typography variant="h6" gutterBottom sx={{ fontWeight: '600', color: '#000', borderBottom: '1px solid #f0f0f0', pb: 1, mb: 3 }}>
                 {pair.title}
             </Typography>
             <MusicApp
@@ -87,14 +87,6 @@ const QueryComponent = (props) => {
             <Root>
                 <ScoreProvider>
                     <Container maxWidth="xl">
-                        <Box mb={6} textAlign="center">
-                            <Typography variant="h3" component="h1" gutterBottom>
-                                {title}
-                            </Typography>
-                            <Typography variant="h6" color="textSecondary">
-                                {queryInfo}
-                            </Typography>
-                        </Box>
 
                         {pairings && pairings.length > 0 ? (
                             pairings.map((pair, index) => (
