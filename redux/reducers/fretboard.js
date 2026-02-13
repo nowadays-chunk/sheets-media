@@ -44,6 +44,10 @@ const initialState = {
     newFretboard(6, 25, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "circle"), // no fretboard only circle of fifths
     newFretboard(6, 25, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "generate"), // chords only
     newFretboard(6, 25, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "empty"), // chords only
+    ...Array.from({ length: 20 }, (_, i) => [
+      newFretboard(6, 25, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], `query-${i}`, 'arppegio'),
+      newFretboard(6, 25, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], `query-${i}`, 'scale')
+    ]).flat(),
     // chords only
     // newFretboard(6, 25, [4, 7, 2, 9, 11, 4], [4, 3, 3, 3, 2, 2], "fill-only"), // fill only
   ]
