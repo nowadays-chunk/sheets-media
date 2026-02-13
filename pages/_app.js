@@ -112,14 +112,17 @@ function App({ Component, pageProps }) {
       <Divider />
 
       <List>
-        <ListItem component={Link} href="/play" onClick={handleDrawerToggle} button><ListItemText primary="Play and Visualize" /></ListItem>
-        <ListItem component={Link} href="/about" onClick={handleDrawerToggle} button><ListItemText primary="About Page" /></ListItem>
-        <ListItem component={Link} href="/learn" onClick={handleDrawerToggle} button><ListItemText primary="Learn Songs" /></ListItem>
-        <ListItem component={Link} href="/circle" onClick={handleDrawerToggle} button><ListItemText primary="The Circle Of Fifths" /></ListItem>
-        <ListItem component={Link} href="/compose" onClick={handleDrawerToggle} button><ListItemText primary="Compose Music" /></ListItem>
-        <ListItem component={Link} href="/competition" onClick={handleDrawerToggle} button><ListItemText primary="Join Competition" /></ListItem>
-        <ListItem component={Link} href="/references" onClick={handleDrawerToggle} button><ListItemText primary="References" /></ListItem>
-        <ListItem component={Link} href="/store" onClick={handleDrawerToggle} button><ListItemText primary="Store" sx={{ color: 'red' }} /></ListItem>
+        <ListItem component={Link} href="/play" onClick={handleDrawerClose} button><ListItemText primary="Play and Visualize" /></ListItem>
+        <ListItem component={Link} href="/about" onClick={handleDrawerClose} button><ListItemText primary="About Page" /></ListItem>
+        <ListItem component={Link} href="/learn" onClick={handleDrawerClose} button><ListItemText primary="Learn Songs" /></ListItem>
+        <ListItem component={Link} href="/news" onClick={handleDrawerClose} button><ListItemText primary="Musician News" /></ListItem>
+        <ListItem component={Link} href="/tables" onClick={handleDrawerClose} button><ListItemText primary="Data Tables" /></ListItem>
+        <ListItem component={Link} href="/circle" onClick={handleDrawerClose} button><ListItemText primary="The Circle Of Fifths" /></ListItem>
+        <ListItem component={Link} href="/compose" onClick={handleDrawerClose} button><ListItemText primary="Compose Music" /></ListItem>
+        <ListItem component={Link} href="/competition" onClick={handleDrawerClose} button><ListItemText primary="Join Competition" /></ListItem>
+        <ListItem component={Link} href="/references" onClick={handleDrawerClose} button><ListItemText primary="References" /></ListItem>
+        <ListItem component={Link} href="/stats" onClick={handleDrawerClose} button><ListItemText primary="Statistics" /></ListItem>
+        <ListItem component={Link} href="/store" onClick={handleDrawerClose} button><ListItemText primary="Store" sx={{ color: 'red' }} /></ListItem>
       </List>
 
       <Divider />

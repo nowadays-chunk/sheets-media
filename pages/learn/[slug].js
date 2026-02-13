@@ -75,9 +75,8 @@ export default function LearnSong({ song }) {
   );
 }
 
-/* ============================================================================
-   SSG
-============================================================================ */
+import fs from "fs";
+import path from "path";
 
 export async function getStaticPaths() {
   // We return an empty array and use fallback: 'blocking'
@@ -90,12 +89,21 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }) {
-  const song = await import(`../../songs/${params.slug}.json`);
+  try {
+    const filePath = path.join(process.cwd(), "songs", `${params.slug}.json`);
+    const fileContent = fs.readFileSync(filePath, "utf8");
+    const song = JSON.parse(fileContent);
 
-  return {
-    props: {
-      song: song.default ?? song,
-    },
-    revalidate: 60,
-  };
+    return {
+      props: {
+        song,
+      },
+      revalidate: 60,
+    };
+  } catch (error) {
+    console.error(`Error loading song ${params.slug}:`, error);
+    return {
+      notFound: true,
+    };
+  }
 }

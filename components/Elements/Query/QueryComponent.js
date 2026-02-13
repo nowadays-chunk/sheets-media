@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { useDispatch, useSelector } from 'react-redux';
+import { useDispatch, useSelector, shallowEqual } from 'react-redux';
 import MusicApp from '../../Containers/MusicApp';
 import { updateStateProperty } from '../../../redux/actions';
 import { styled } from '@mui/system';
@@ -20,7 +20,8 @@ const Root = styled('div')({
 const QueryPair = ({ pair }) => {
     const dispatch = useDispatch();
     const boards = useSelector(state =>
-        state.fretboard.components.filter(b => b.generalSettings.page === pair.boardId)
+        state.fretboard.components.filter(b => b.generalSettings.page === pair.boardId),
+        shallowEqual
     );
 
     useEffect(() => {

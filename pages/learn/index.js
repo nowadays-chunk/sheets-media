@@ -61,22 +61,34 @@ const LearnSongs = ({ songs }) => {
   );
 };
 
+import fs from 'fs';
+import path from 'path';
+
 export async function getStaticProps() {
-  const songsFirst = require("../../output_songs/first-songs.json");
-  const songsSecond = require("../../output_songs/second-songs.json");
+  try {
+    const firstPath = path.join(process.cwd(), "output_songs", "first-songs.json");
+    const secondPath = path.join(process.cwd(), "output_songs", "second-songs.json");
 
-  // Merge and maybe limit if it's still too big for the initial page load
-  const allSongs = [...songsFirst, ...songsSecond];
+    const songsFirst = JSON.parse(fs.readFileSync(firstPath, 'utf8'));
+    const songsSecond = JSON.parse(fs.readFileSync(secondPath, 'utf8'));
 
-  return {
-    props: {
-      // For now we pass all but if memory still issues we can paginate
-      // However the main issue was the client BUNDLER loading the json.
-      // Server-side it's more manageable.
-      songs: allSongs,
-    },
-    revalidate: 60,
-  };
+    const allSongs = [...songsFirst, ...songsSecond];
+
+    return {
+      props: {
+        songs: allSongs,
+      },
+      revalidate: 60,
+    };
+  } catch (error) {
+    console.error("Error loading songs in learn/index.js:", error);
+    return {
+      props: {
+        songs: [],
+      },
+      revalidate: 60,
+    };
+  }
 }
 
 export default LearnSongs;
