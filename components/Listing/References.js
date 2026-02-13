@@ -225,27 +225,8 @@ const References = ({ elements = [] }) => {
     searchDegree,
     searchChord,
     searchMatchType,
-    searchShape,
-    searchCrossKey
+    searchShape
   ]);
-
-
-  // ============================================================
-  // Breadcrumb
-  // ============================================================
-
-  const breadcrumb = [
-    { label: 'Play And Visualize', href: '/' },
-    { label: 'Learn Songs', href: '/learn' },
-    { label: 'The Circle Of Fifths', href: '/circle' },
-    { label: 'Matches Reference Registry', href: '/matches' },
-    key && { label: key, href: `/references/${key}` },
-    type && { label: type, href: `/references/${key}/${type}` },
-    subType && { label: subType, href: `/references/${key}/${type}/${subType}` },
-    quality && { label: quality, href: `/references/${key}/${type}/${subType}/${quality}` },
-    shape && { label: shape, href: `/references/${key}/${type}/${subType}/${quality}/${shape}` },
-    mode && { label: mode, href: `/references/${key}/${type}/${subType}/${quality}/${shape}/${mode}` }
-  ].filter(Boolean);
 
   // ============================================================
   // RENDER
@@ -264,18 +245,6 @@ const References = ({ elements = [] }) => {
           content={DEFAULT_KEYWORDS}
         />
       </Head>
-
-      {/* BREADCRUMB */}
-      <StyledCard>
-        <Typography variant="h3" gutterBottom>Site Pages :</Typography>
-        <CardContent>
-          <ol>
-            {breadcrumb.map((c, i) => (
-              <li key={i}><Link href={c.href}>{c.label}</Link></li>
-            ))}
-          </ol>
-        </CardContent>
-      </StyledCard>
 
       {/* SEARCH FILTERS */}
       <StyledCard>

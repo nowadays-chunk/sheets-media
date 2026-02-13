@@ -1,5 +1,4 @@
 module.exports = {
-    siteUrl: 'https://sheets.media', // Replace with your actual site URL
-    generateRobotsTxt: true, // Generate a robots.txt file
-  };
-  
+  siteUrl: 'https://www.sheets.media', // Replace with your actual site URL
+  generateRobotsTxt: true, // Generate a robots.txt file
+};
