@@ -5,73 +5,9 @@ import { getAbsoluteNotes, checkMatch } from '../../core/music/musicTheory';
 const slugify = (text) => text.toLowerCase().replace(/#/g, 'sharp').replace(/ /g, '_');
 
 export const getStaticPaths = async () => {
-    const paths = [];
-    const keys = guitar.notes.sharps;
-    const CAGED_SHAPES = ['c', 'a', 'g', 'e', 'd'];
-
-    // For static export, we must pre-calculate ALL valid matches
-    // This replicates the logic in References.js but at build time
-    keys.forEach((chordKeyName) => {
-        const chordKeyIndex = guitar.notes.sharps.indexOf(chordKeyName);
-        const chordRootSlug = slugify(chordKeyName);
-
-        Object.entries(guitar.arppegios).forEach(([chordKeyId, chordData]) => {
-            const chordNotes = getAbsoluteNotes('chord', chordKeyId, chordKeyIndex);
-            const chordSlug = slugify(chordData.name);
-
-            // Check against ALL keys for EACH match type
-            keys.forEach((targetKeyName) => {
-                const targetKeyIndex = guitar.notes.sharps.indexOf(targetKeyName);
-                const targetRootSlug = slugify(targetKeyName);
-
-                // 1. Scales
-                Object.entries(guitar.scales).forEach(([scaleKey, scaleData]) => {
-                    if (scaleData.modes) {
-                        scaleData.modes.forEach((mode, mIdx) => {
-                            const targetNotes = getAbsoluteNotes('scale', scaleKey, targetKeyIndex, mIdx);
-                            if (checkMatch(chordNotes, targetNotes)) {
-                                CAGED_SHAPES.forEach((shape) => {
-                                    paths.push({
-                                        params: {
-                                            slug: `scale_${slugify(mode.name)}_in_${targetRootSlug}_key_matches_chord_${chordSlug}_in_${chordRootSlug}_key_and_${shape}_shape`
-                                        }
-                                    });
-                                });
-                            }
-                        });
-                    } else {
-                        const targetNotes = getAbsoluteNotes('scale', scaleKey, targetKeyIndex);
-                        if (checkMatch(chordNotes, targetNotes)) {
-                            CAGED_SHAPES.forEach((shape) => {
-                                paths.push({
-                                    params: {
-                                        slug: `scale_${slugify(scaleKey)}_in_${targetRootSlug}_key_matches_chord_${chordSlug}_in_${chordRootSlug}_key_and_${shape}_shape`
-                                    }
-                                });
-                            });
-                        }
-                    }
-                });
-
-                // 2. Arpeggios
-                Object.entries(guitar.arppegios).forEach(([arpKey, arpData]) => {
-                    const targetNotes = getAbsoluteNotes('arppegio', arpKey, targetKeyIndex);
-                    if (checkMatch(chordNotes, targetNotes)) {
-                        CAGED_SHAPES.forEach((shape) => {
-                            paths.push({
-                                params: {
-                                    slug: `arpeggio_${slugify(arpKey)}_in_${targetRootSlug}_key_matches_chord_${chordSlug}_in_${chordRootSlug}_key_and_${shape}_shape`
-                                }
-                            });
-                        });
-                    }
-                });
-            });
-        });
-    });
-
-    console.log(`Generated ${paths.length} harmonic match paths for static export.`);
-    return { paths, fallback: false };
+    // Return empty array and use fallback: 'blocking' to optimize build time.
+    // Pages will be generated on-demand and cached.
+    return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps = async ({ params }) => {
@@ -201,7 +137,8 @@ export const getStaticProps = async ({ params }) => {
             description,
             queryInfo,
             keywords
-        }
+        },
+        revalidate: 60
     };
 };
 

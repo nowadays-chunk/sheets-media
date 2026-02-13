@@ -2,21 +2,8 @@ import ArpeggioComponent from '../../../../../components/Elements/Spread/Arppegi
 import guitar from '../../../../../config/guitar';
 
 export const getStaticPaths = async () => {
-    const { notes, arppegios } = guitar;
-    const paths = [];
-
-    notes.sharps.forEach((key) => {
-        if (arppegios && Object.keys(arppegios).length > 0) {
-            Object.keys(arppegios).forEach((arppegioKey) => {
-                const arppegio = arppegios[arppegioKey];
-                if (arppegio) {
-                    paths.push({ params: { key: key.replace('#', 'sharp'), arppegio: arppegioKey.replace('#', 'sharp') } });
-                }
-            });
-        }
-    });
-
-    return { paths, fallback: false };
+    // Return empty array to optimize build time and memory.
+    return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps = async ({ params }) => {
@@ -75,6 +62,7 @@ export const getStaticProps = async ({ params }) => {
             title,
             description
         },
+        revalidate: 60,
     };
 };
 

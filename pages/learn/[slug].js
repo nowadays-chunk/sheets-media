@@ -96,5 +96,6 @@ export async function getStaticProps({ params }) {
     props: {
       song: song.default ?? song,
     },
+    revalidate: 60,
   };
 }

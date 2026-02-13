@@ -160,16 +160,17 @@ const ProductPage = ({ product }) => {
 };
 
 export async function getStaticPaths() {
-    const paths = products.map((product) => ({
-        params: { id: product.id },
-    }));
-
-    return { paths, fallback: false };
+    // Return empty array to optimize build time and memory.
+    // Pages will be generated on-demand.
+    return { paths: [], fallback: 'blocking' };
 }
 
 export async function getStaticProps({ params }) {
     const product = products.find((p) => p.id === params.id);
-    return { props: { product } };
+    return {
+        props: { product },
+        revalidate: 60
+    };
 }
 
 export default ProductPage;

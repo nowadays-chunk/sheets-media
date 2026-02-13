@@ -2,21 +2,8 @@ import ScaleComponent from '../../../../../../components/Elements/Spread/ScaleCo
 import guitar from '../../../../../../config/guitar';
 
 export const getStaticPaths = async () => {
-  const { notes, scales, shapes } = guitar;
-  const paths = [];
-
-  notes.sharps.forEach((key) => {
-    Object.keys(scales).forEach((scaleKey) => {
-      const scale = scales[scaleKey];
-      if (!scale.isModal) {
-        shapes.names.forEach((shape) => {
-          paths.push({ params: { key: key.replace("#", "sharp"), scale: scaleKey } });
-        });
-      }
-    });
-  });
-
-  return { paths, fallback: false };
+  // Return empty array to optimize build time and memory.
+  return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps = async ({ params }) => {
@@ -72,6 +59,7 @@ export const getStaticProps = async ({ params }) => {
       title,
       description
     },
+    revalidate: 60
   };
 };
 

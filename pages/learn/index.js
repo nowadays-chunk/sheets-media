@@ -75,6 +75,7 @@ export async function getStaticProps() {
       // Server-side it's more manageable.
       songs: allSongs,
     },
+    revalidate: 60,
   };
 }
 

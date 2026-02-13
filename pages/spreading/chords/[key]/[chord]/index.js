@@ -3,21 +3,8 @@ import ChordComponent from '../../../../../components/Elements/Spread/ChordCompo
 import guitar from '../../../../../config/guitar';
 
 export const getStaticPaths = async () => {
-    const { notes, arppegios } = guitar;
-    const paths = [];
-
-    notes.sharps.forEach((key) => {
-        if (arppegios && Object.keys(arppegios).length > 0) {
-            Object.keys(arppegios).forEach((arppegioKey) => {
-                const arppegio = arppegios[arppegioKey];
-                if (arppegio) {
-                    paths.push({ params: { key: key.replace('#', 'sharp'), chord: arppegioKey.replace('#', 'sharp') } });
-                }
-            });
-        }
-    });
-
-    return { paths, fallback: false };
+    // Return empty array to optimize build time and memory.
+    return { paths: [], fallback: 'blocking' };
 };
 
 export const getStaticProps = async ({ params }) => {
@@ -74,7 +61,8 @@ export const getStaticProps = async ({ params }) => {
             boards,
             title,
             description
-        }
+        },
+        revalidate: 60
     };
 };
 
