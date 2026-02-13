@@ -429,6 +429,7 @@ const ProjectFunctionalities = () => {
                                 <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/play" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Player</Typography></Box>
                                 <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/compose" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Composer</Typography></Box>
                                 <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/store" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Store</Typography></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/about" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>About</Typography></Box>
                             </Box>
                         </Grid>
                         <Grid item xs={6} sm={2}>

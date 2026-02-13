@@ -75,14 +75,14 @@ const QueryPair = ({ pair }) => {
 };
 
 const QueryComponent = (props) => {
-    const { pairings, title, description, queryInfo } = props;
+    const { pairings, title, description, queryInfo, keywords } = props;
 
     return (
         <>
             <Head>
                 <title>{title}</title>
                 <meta name="description" content={description} />
-                <meta name="keywords" content={DEFAULT_KEYWORDS} />
+                <meta name="keywords" content={keywords || DEFAULT_KEYWORDS} />
             </Head>
             <Root>
                 <ScoreProvider>

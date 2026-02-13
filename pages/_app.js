@@ -113,13 +113,11 @@ function App({ Component, pageProps }) {
 
       <List>
         <ListItem component={Link} href="/play" onClick={handleDrawerToggle} button><ListItemText primary="Play and Visualize" /></ListItem>
-        <ListItem component={Link} href="/news" onClick={handleDrawerToggle} button><ListItemText primary="Musicians News" /></ListItem>
+        <ListItem component={Link} href="/about" onClick={handleDrawerToggle} button><ListItemText primary="About Page" /></ListItem>
         <ListItem component={Link} href="/learn" onClick={handleDrawerToggle} button><ListItemText primary="Learn Songs" /></ListItem>
         <ListItem component={Link} href="/circle" onClick={handleDrawerToggle} button><ListItemText primary="The Circle Of Fifths" /></ListItem>
         <ListItem component={Link} href="/compose" onClick={handleDrawerToggle} button><ListItemText primary="Compose Music" /></ListItem>
         <ListItem component={Link} href="/competition" onClick={handleDrawerToggle} button><ListItemText primary="Join Competition" /></ListItem>
-        <ListItem component={Link} href="/stats" onClick={handleDrawerToggle} button><ListItemText primary="Stats" /></ListItem>
-        <ListItem component={Link} href="/tables" onClick={handleDrawerToggle} button><ListItemText primary="Tables" /></ListItem>
         <ListItem component={Link} href="/references" onClick={handleDrawerToggle} button><ListItemText primary="References" /></ListItem>
         <ListItem component={Link} href="/store" onClick={handleDrawerToggle} button><ListItemText primary="Store" sx={{ color: 'red' }} /></ListItem>
       </List>

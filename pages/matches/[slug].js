@@ -168,8 +168,14 @@ export const getStaticProps = async ({ params }) => {
 
     // Explicitly set titles and descriptions with types
     const matchTypeLabel = matchType.charAt(0).toUpperCase() + matchType.slice(1);
-    const title = `Analyze: How the ${matchTypeLabel} ${matchDisplayName} in ${matchRootKey} matches the Chord ${chord.name} in ${chordRootKey} (${shape} Shape)`;
-    const description = `Discover why the ${matchTypeLabel} ${matchDisplayName} in ${matchRootKey} is a harmonic fit for the Chord ${chord.name} in ${chordRootKey}. Exploration in the guitar CAGED ${shape} shape with interval analysis.`;
+
+    // User requested format: "Find out how [match_name] matches [chord_name] in [key] in [shape] shape"
+    const title = `Find out how the ${matchDisplayName} matches ${chord.name} in ${matchRootKey} in ${shape} shape`;
+
+    const description = `Analyze how the ${matchDisplayName} ${matchType} matches ${chord.name} in ${matchRootKey} with the ${shape} shape. Perfect for mastering soloing, chord changes, and modal playing on the guitar fretboard.`;
+
+    const keywords = `soloing, chord, changes, modal, playing, theory, fretboard visualization, scale diagrams, musical patterns, guitar harmony, CAGED system, ${matchDisplayName}, ${chord.name}, ${matchRootKey} key, ${shape} shape, music analysis`;
+
     const queryInfo = `Comparing the ${matchTypeLabel} ${matchDisplayName} (${matchRootKey}) with the Chord ${chord.name} (${chordRootKey}) on the guitar fretboard.`;
 
     const pair = {
@@ -193,7 +199,8 @@ export const getStaticProps = async ({ params }) => {
             pairings: [pair],
             title,
             description,
-            queryInfo
+            queryInfo,
+            keywords
         }
     };
 };

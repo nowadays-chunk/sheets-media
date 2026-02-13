@@ -26,7 +26,6 @@ import FretboardDisplay from "../Pages/Fretboard/FretboardDisplay";
 import FretboardControls from "../Pages/Fretboard/FretboardControls";
 import CircleOfFifths from "../Pages/CircleOfFifths/CircleOfFifths";
 import ChordComposer from "../Pages/Composer/ChordComposer";
-import Stats from "../Pages/Stats/Stats";
 
 import { useScore } from "@/core/editor/ScoreContext";
 import guitar from "../../config/guitar";
@@ -395,7 +394,7 @@ const MusicApp = (props) => {
               />
             )}
 
-            {showStats && <Stats p={0} boards={boards} />}
+            {/* {showStats && <Stats p={0} boards={boards} />} */}
           </Root>
         </MainInner>
       </MainContent>
