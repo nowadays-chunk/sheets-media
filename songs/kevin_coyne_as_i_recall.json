@@ -1,0 +1,534 @@
+{
+  "url": "https://www.chordie.com/chord.pere/chordiearchive.chordie.com/chord.pere/www.guitaretab.com/k/kevin-coyne/131514.html",
+  "title": "As I Recall",
+  "artist": "Kevin Coyne",
+  "key": null,
+  "scrapedAt": "2025-12-16T13:16:12.786Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#As I Recall (Kevin Coyne/Brian Godding- 1981)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#Tabbed by seboddos aka zappy the koala"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#Riff 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E |---------l-----------l------------l----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B |---------l-----------l------------l----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G |---------l-----------l------------l----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D |---------l-----------l------------l----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A |---------l-----------l------------l----------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E |-7--6--5-l--5--4--3--l---3--2--1--l--0--1--2--3-/-7--5�3...------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#Verse (Riff 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "father"
+            },
+            {
+              "chord": "G",
+              "lyrics": "He"
+            },
+            {
+              "chord": "F",
+              "lyrics": "never said a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "word"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "mother"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Sq"
+            },
+            {
+              "chord": "F",
+              "lyrics": "uat and absur"
+            },
+            {
+              "chord": "G",
+              "lyrics": "d"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "cousin"
+            },
+            {
+              "chord": "G",
+              "lyrics": "He"
+            },
+            {
+              "chord": "F",
+              "lyrics": "never spoke t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "sister"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Sh"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e was married and unfr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "riest"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "He told me what to do"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "king"
+            },
+            {
+              "chord": "G",
+              "lyrics": "But he"
+            },
+            {
+              "chord": "F",
+              "lyrics": "never told the tr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "uth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "orld"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Bu"
+            },
+            {
+              "chord": "F",
+              "lyrics": "t they all laughed at"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "ou"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Why don"
+            },
+            {
+              "chord": "F",
+              "lyrics": "'t you talk to me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus: (Riff 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E |-------------------------|-----------------------|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B |-------------------------|-----------------------|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G |-------------------------|--------11-------------|-8--9-8-9------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D |---------------10--11----|10-11------12-10--11---|----------9-10-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A |-10--12--10--12-------12-|------12-------------12|---------------11-12-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E |-------------------------|-----------------------|---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You never talk to me You never try to see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As I recall, as I recall."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse (Riff 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You got me walking on water Pretending I'm God"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You got me flying A lazy little sod"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You got me creeping Doing everything I can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To prove to you That I really am a man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus: (Riff 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse (Riff 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can see my flesh wound See my little scar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can see me crashing In some unknown car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can see me dying On some lonely road"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can see me feeling my way But nowhere to go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus: (Riff 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "End (Riff1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've got a good memory As I recall, such a good memory (repeat)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I never forget a thing, as I recall, I never forget a thing you know you had me as I recall, as I recall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Remember me, I was your friend, I was your friend, I was your friend"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

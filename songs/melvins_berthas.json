@@ -1,0 +1,78 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/m/melvins-tabs-2523/berthas-tabs-74434.html",
+  "title": "Berthas",
+  "artist": "Melvins",
+  "key": null,
+  "scrapedAt": "2025-12-16T15:58:32.832Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This song is on STAG album"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "E"
+            },
+            {
+              "chord": "44444444444444/7777/222234-44444444444444/2222/66666/4",
+              "lyrics": "20202020202022/5555/000012-20202020202022/0000/44444/2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "E"
+            },
+            {
+              "chord": "44444444444444/7777/222234-44444444444444/2222/4",
+              "lyrics": "20202020202022/5555/000012-20202020202022/0000/-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF1 THEN GO BACK TO VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ENDING RIFF"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "THE END"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

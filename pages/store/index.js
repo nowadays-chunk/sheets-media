@@ -173,21 +173,6 @@ const StorePage = ({ products }) => {
                     onTypeClick={setProductType}
                 />
 
-                {/* Page Header */}
-                <Box sx={{ mb: 4, textAlign: 'center' }}>
-                    <Typography
-                        variant="h3"
-                        component="h1"
-                        gutterBottom
-                        sx={{ fontWeight: 'bold' }}
-                    >
-                        Guitar Sheets Store
-                    </Typography>
-                    <Typography variant="h6" color="text.secondary">
-                        Premium sheet music, learning materials & merchandise
-                    </Typography>
-                </Box>
-
                 {/* Mobile Filter Button */}
                 {isMobile && (
                     <Box sx={{ mb: 3 }}>

@@ -1,0 +1,94 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/b/bryan_ferry/a_waste_land_crd.html",
+  "title": "A Waste Land",
+  "artist": "Bryan Ferry",
+  "key": null,
+  "scrapedAt": "2025-12-16T10:41:30.155Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Bryan Ferry)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "en love's gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#+",
+              "lyrics": "ere's no one"
+            },
+            {
+              "chord": "G#sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A waste land"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A ghetto"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When love's gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A tear on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A waste land"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your pillow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

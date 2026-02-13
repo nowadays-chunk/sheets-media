@@ -1,0 +1,910 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/graham-gouldman/389399.html",
+  "title": "Bus Stop",
+  "artist": "Graham Gouldman",
+  "key": null,
+  "scrapedAt": "2025-12-16T19:17:24.688Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: Bus stop - live acoustic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: DJ"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2nd May 2014"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO:2nd fret (Sounds in key of F#m)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Based on Graham's acoustic performances"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chord shapes and fret positions are relative to the capo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em = 022000 F#7 = x44320 Em7 = 020000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 = 0799xx Bm = x24432"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "E4/B"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "= x22200"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E7sus4 = 0777xx Bm/A = x04432"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "E7sus4/B"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "= x20230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "= 024000 Gmaj7 = 3x443x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D = xx0232"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Gmaj7/F#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "= 2x443x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 320033 Em6 = 022020"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj7 = x32000 B = x24442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "****************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em Emadd9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bus stop, wet day, she's there, I say,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em Emadd9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Please, share my um - brel - la!\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em Emadd9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bus stops, bus goes, she stays, love grows..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em Emadd9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...Under my um - brel - la!\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll that su"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mmer"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "we enjoyed it,"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "wind and rain and sh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ine,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em Emadd9 Em D Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That um - brella, we em - ployed it, by August she was mine!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ev"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ery morning"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "I would see her wa"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "iting"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "at the"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "stop,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Gmaj7/F#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em6"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Some - times she'd shopped,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#7 Bm Bm/A Gmaj7"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Gmaj7/F#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll the people st"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "ared, as if we w"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ere both q"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "uite in -"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "sane,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Gmaj7/F#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em6 F#7 Bm B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Some - day, my name, and hers, are going to be the same! | / / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That's the way the whole thing started,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Silly, but it's true,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Thinking of a sweet ro - mance be - ginning in a queue!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Ca"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me the s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "un, the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ice was melting,"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "no more sheltering n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em D Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nice to think that that um - brella led me to a vow!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ev"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ery morning"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "I would see her wa"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "iting"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "at the"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "stop,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Gmaj7/F#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em6"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Some - times she'd shopped,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#7 Bm Bm/A Gmaj7"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "D6/F#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll the people st"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "ared, as if we w"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ere both q"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "uite in -"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "sane,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Gmaj7/F#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em6 F#7 Bm B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Some - day, my name, and hers, are going to be the same! | / / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bus stop, wet day, she's there, I say,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Please, share my um - brel - la!\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bus stops, bus goes, she stays, love grows..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...Under my um - brel - la!\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll that su"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mmer"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "we enjoyed it,"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "wind and rain and sh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ine,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Emadd9"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Em Emadd9 Em D Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That um - brella, we em - ployed it, by August she was mine!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "****************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "An alternative way to play the intro and coda riff:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "E4/B"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            },
+            {
+              "chord": "cb",
+              "lyrics": "E7sus4/B"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

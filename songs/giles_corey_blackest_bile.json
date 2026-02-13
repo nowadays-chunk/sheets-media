@@ -1,0 +1,558 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/giles-corey/304846.html",
+  "title": "Blackest Bile",
+  "artist": "Giles Corey",
+  "key": null,
+  "scrapedAt": "2025-12-16T16:53:11.000Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Giles Corey - Blackest Bile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Trelt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: greggatrelt@gmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This should be something like 90% correct. Theres a few places where its hard to hear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the chords but the majority of this should be fairly accurate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "=====Chords====="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "=====Intro======"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "================"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "all around me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb7",
+              "lyrics": "in the air hangs a wreath"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Db (9, 8, 6 on E)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "of blackest bile, and smoke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbsus2",
+              "lyrics": "that I can see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "I open up my heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb7",
+              "lyrics": "and let it all in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "and it kills all my love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbsus2",
+              "lyrics": "and hope for everyone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "=====Guitar riff====="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "====================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(not too confident about the accuracy of this section, take it with a grain of salt)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and it ha"
+            },
+            {
+              "chord": "Bb5",
+              "lyrics": "sn't been"
+            },
+            {
+              "chord": "Bbsus2",
+              "lyrics": "easy on"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "you,"
+            },
+            {
+              "chord": "Bb5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb5",
+              "lyrics": "I know"
+            },
+            {
+              "chord": "Bbsus2",
+              "lyrics": "that mor"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "e than most."
+            },
+            {
+              "chord": "Bb5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb5",
+              "lyrics": "I am"
+            },
+            {
+              "chord": "Bbsus2",
+              "lyrics": "born to b"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "e alone,"
+            },
+            {
+              "chord": "Bb5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb5",
+              "lyrics": "I am"
+            },
+            {
+              "chord": "Bbsus2",
+              "lyrics": "just some l"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "onely ghost"
+            },
+            {
+              "chord": "Bb7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "======interlude======"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "====================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "all around us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb7",
+              "lyrics": "hangs an air of darkest doom,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "and it flows out my lungs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbsus2",
+              "lyrics": "and slowly fills the room"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "I open up my heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb7",
+              "lyrics": "and stick my fingers in,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "but you will never want"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbsus2",
+              "lyrics": "what I have to give"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and it ha"
+            },
+            {
+              "chord": "Bb5",
+              "lyrics": "sn't been"
+            },
+            {
+              "chord": "Bbsus2",
+              "lyrics": "easy on"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "you,"
+            },
+            {
+              "chord": "Bb5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb5",
+              "lyrics": "I know"
+            },
+            {
+              "chord": "Bbsus2",
+              "lyrics": "that mor"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "e than most."
+            },
+            {
+              "chord": "Bb5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb5",
+              "lyrics": "I am"
+            },
+            {
+              "chord": "Bbsus2",
+              "lyrics": "born to b"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "e alone,"
+            },
+            {
+              "chord": "Bb5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb5",
+              "lyrics": "I am"
+            },
+            {
+              "chord": "Bbsus2",
+              "lyrics": "just some l"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "onely ghost"
+            },
+            {
+              "chord": "Bb7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb7 Bbsus2 Bb7 (not sure about this part)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ghost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| / slide up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| \\ slide down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| h hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| p pull-off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| ~ vibrato"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| + harmonic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| x Mute note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| b Bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| pb Pre-bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| br Bend release"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| pbr Pre-bend release"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| brb Bend release bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

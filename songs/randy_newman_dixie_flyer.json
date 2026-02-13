@@ -1,0 +1,842 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/r/randy-newman/324949.html",
+  "title": "Dixie Flyer",
+  "artist": "Randy Newman",
+  "key": null,
+  "scrapedAt": "2025-12-17T00:16:56.598Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dixie Flyer - Randy Newman"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: maguri"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Randy Newman"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dixie Flyer (1988)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Randy Newman)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: \"Land of Dreams\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e-B-G-D-A-e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fsus x-1-3-3-3-1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb/F x-3-3-3-x-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb/D 1-3-3-0-x-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F/C 1-1-2-3-3-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C6 0-1-2-2-3-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A/C# 0-2-2-2-4-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Dm |2/4 Am | Bb | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Dm |2/4 Am | Bb | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Gm |2/4 Dm | Eb | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| F C | Bb | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| F C | Bb | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was"
+            },
+            {
+              "chord": "F",
+              "lyrics": "born"
+            },
+            {
+              "chord": "Fsus",
+              "lyrics": "right"
+            },
+            {
+              "chord": "F",
+              "lyrics": "here,"
+            },
+            {
+              "chord": "Bb/F",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "No"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "vember '43"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "My dad was a"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "captain in the"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": "army"
+            },
+            {
+              "chord": "Fsus",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Fighting the"
+            },
+            {
+              "chord": "C6",
+              "lyrics": "Germans in"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "Sicily"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "F",
+              "lyrics": "poor"
+            },
+            {
+              "chord": "Fsus",
+              "lyrics": "little"
+            },
+            {
+              "chord": "F",
+              "lyrics": "momma"
+            },
+            {
+              "chord": "Bb/F",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "didn't know a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "soul in LA"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "So we"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "went down to the"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "union"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": "station and made our"
+            },
+            {
+              "chord": "C",
+              "lyrics": "getaway"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Got on the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Dixie Flyer bound for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "New Or"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "leans"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Across the"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "state of"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": "Texas to the"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "land of"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "dreams"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Dixie Flyer bound for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "New Or"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "leans"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Back to her"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "friends and her"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": "family in the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "land of"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dreams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Her own mother came to"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "meet us at the"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "station,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Her dress as black as a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "crow in a coal"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "She cried when her little girl"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "got off the"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "train"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Her brothers and her sisters drove down from"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Jackson, Missi"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "ssippi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "In a great green Hudson driven by a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "gentile they"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "knew"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Drinkin' rye whiskey from a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "flask in the"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "back seat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tryin' to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "do like the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "gentiles"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Christ, they"
+            },
+            {
+              "chord": "F",
+              "lyrics": "wanted to be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "gentiles,"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who"
+            },
+            {
+              "chord": "F",
+              "lyrics": "wouldn't down"
+            },
+            {
+              "chord": "C",
+              "lyrics": "there, wouldn't"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "you?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "An A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "meri"
+            },
+            {
+              "chord": "C",
+              "lyrics": "can Chris"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "tian,"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "God damn!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Dixie Flyer bound for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "New Or"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "leans"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Across the"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "state of"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": "Texas to the"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "land of"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "dreams"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Dixie Flyer bound for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "New Or"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "leans"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Back to her"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "friends and her"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": "family in the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "land of"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dreams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Back to her"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "friends and her"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": "family in the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "land of"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dreams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Dm |2/4 Am | Bb | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Dm |2/4 Am | Bb | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Gm |2/4 Dm | Eb | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Dm |2/4 Am | Bb | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Dm |2/4 Am | Bb | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Gm |2/4 Dm | Eb | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeat and fade)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

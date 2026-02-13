@@ -1,0 +1,650 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/k/katri-ylander/347709.html",
+  "title": "En koskaan",
+  "artist": "Katri Ylander",
+  "key": null,
+  "scrapedAt": "2025-12-17T07:02:26.575Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "EN KOSKAAN ? Katri Ylander"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Kengus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m D A E x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Kadull"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a hiuks"
+            },
+            {
+              "chord": "A",
+              "lyrics": "iini sataa lu"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nta,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "taivaall"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a t�hdet"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n�kee susta u"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nta"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Tunnen"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sen,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mulla on sun"
+            },
+            {
+              "chord": "E",
+              "lyrics": "luokses ik�v"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "�, en"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tahdo eksy"
+            },
+            {
+              "chord": "A",
+              "lyrics": "�"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE II"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Satut"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in sua"
+            },
+            {
+              "chord": "A",
+              "lyrics": "liian monta k"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ertaa,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "tied�n s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "en, kuulen"
+            },
+            {
+              "chord": "A",
+              "lyrics": "itkun hiljai"
+            },
+            {
+              "chord": "E",
+              "lyrics": "sen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Huoma"
+            },
+            {
+              "chord": "D",
+              "lyrics": "an,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mulla ei oo"
+            },
+            {
+              "chord": "E",
+              "lyrics": "mit��n ilman su"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "a, tahdon"
+            },
+            {
+              "chord": "D",
+              "lyrics": "takaisin sun"
+            },
+            {
+              "chord": "A",
+              "lyrics": "luo"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "En en��"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "koska"
+            },
+            {
+              "chord": "D",
+              "lyrics": "an p�"
+            },
+            {
+              "chord": "A",
+              "lyrics": "�st�is sua p"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ois, en en��"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "koska"
+            },
+            {
+              "chord": "D",
+              "lyrics": "an"
+            },
+            {
+              "chord": "A",
+              "lyrics": "l�htis luotas"
+            },
+            {
+              "chord": "E",
+              "lyrics": "pois"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Niin"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "heikko oon"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ilman sua, niin"
+            },
+            {
+              "chord": "A",
+              "lyrics": "koditon m� i"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lman sua"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "En"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "koska"
+            },
+            {
+              "chord": "D",
+              "lyrics": "an p�"
+            },
+            {
+              "chord": "A",
+              "lyrics": "�st�is sua p"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ois"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE III"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Illal"
+            },
+            {
+              "chord": "D",
+              "lyrics": "la"
+            },
+            {
+              "chord": "A",
+              "lyrics": "yksin en saa u"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nta,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ikku"
+            },
+            {
+              "chord": "D",
+              "lyrics": "naan sade"
+            },
+            {
+              "chord": "A",
+              "lyrics": "itkee suru"
+            },
+            {
+              "chord": "E",
+              "lyrics": "aan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Lupaan"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sen,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "syd�nt�ni t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "�n��n kuunte"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "len, se"
+            },
+            {
+              "chord": "D",
+              "lyrics": "kertoo mulle"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sen"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "En en��"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "koska"
+            },
+            {
+              "chord": "D",
+              "lyrics": "an p�"
+            },
+            {
+              "chord": "A",
+              "lyrics": "�st�is sua p"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ois, en en��"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "koska"
+            },
+            {
+              "chord": "D",
+              "lyrics": "an"
+            },
+            {
+              "chord": "A",
+              "lyrics": "l�htis luotas"
+            },
+            {
+              "chord": "E",
+              "lyrics": "pois"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Niin"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "heikko oon"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ilman sua, niin"
+            },
+            {
+              "chord": "A",
+              "lyrics": "koditon m� i"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lman sua"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "En"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "koska"
+            },
+            {
+              "chord": "D",
+              "lyrics": "an p�"
+            },
+            {
+              "chord": "A",
+              "lyrics": "�st�is sua p"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ois"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Niin l�helle"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "m� p��sin sua,"
+            },
+            {
+              "chord": "E/G#",
+              "lyrics": "kiinni syliis"
+            },
+            {
+              "chord": "A",
+              "lyrics": "i"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Palelen"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "sua etsi"
+            },
+            {
+              "chord": "E/G#",
+              "lyrics": "en"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "En en��"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "koska"
+            },
+            {
+              "chord": "D",
+              "lyrics": "an p�"
+            },
+            {
+              "chord": "A",
+              "lyrics": "�st�is sua p"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ois, en en��"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "koska"
+            },
+            {
+              "chord": "D",
+              "lyrics": "an"
+            },
+            {
+              "chord": "A",
+              "lyrics": "l�htis luotas"
+            },
+            {
+              "chord": "E",
+              "lyrics": "pois"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Niin"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "heikko oon"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ilman sua, niin"
+            },
+            {
+              "chord": "A",
+              "lyrics": "koditon m� i"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lman sua"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "En"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "koska"
+            },
+            {
+              "chord": "D",
+              "lyrics": "an p�"
+            },
+            {
+              "chord": "A",
+              "lyrics": "�st�is sua p"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ois."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "========================================================================"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

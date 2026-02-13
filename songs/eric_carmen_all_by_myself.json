@@ -1,0 +1,614 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/eric-carmen/137730.html",
+  "title": "All by Myself",
+  "artist": "Eric Carmen",
+  "key": null,
+  "scrapedAt": "2025-12-16T11:23:04.395Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eric Carmen - All By Myself"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning for guitar. As this song is all piano, the chords may not sound correct"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the guitar, but competent pianists should be able to work it out. The structure here may"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "be the same as some versions, as two were released. One is a shorter one, and the other"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "one has a piano solo in, and is about seven minutes long."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: F x8"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "When I was young"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm/F",
+              "lyrics": "needed anyone"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7-5/Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus4",
+              "lyrics": "love was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "just for fun"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm6",
+              "lyrics": "Those days are gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge: F/A, F/A, Gm7-5, C/E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Livin' alone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm/F",
+              "lyrics": "all the friends I've known"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7-5/Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus4",
+              "lyrics": "dial the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "telephone"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm6",
+              "lyrics": "Nobody's home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge: F/A, F/A, D7, D, G7,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C7, C7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "All by mys"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "elf"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7-5/Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "mysel"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "f anymor"
+            },
+            {
+              "chord": "Gm7-5/Db",
+              "lyrics": "e"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "All by mys"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "elf"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7-5/Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "mysel"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "f anymor"
+            },
+            {
+              "chord": "Gm7-5/Db",
+              "lyrics": "e"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Hard to be sure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm/F",
+              "lyrics": "feel so insecure"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7-5/Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus4",
+              "lyrics": "distant and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "obscure"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm6",
+              "lyrics": "Remains the cure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge: F/A, F/A, Gm7-5, C/E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "When I was young"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm/F",
+              "lyrics": "needed anyone"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7-5/Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus4",
+              "lyrics": "love was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "just for fun"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm6",
+              "lyrics": "Those days are gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge: F/A, F/A, D7, D, G7,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C7, C7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "All by mys"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "elf"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7-5/Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "mysel"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "f anymor"
+            },
+            {
+              "chord": "Gm7-5/Db",
+              "lyrics": "e"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "All by mys"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "elf"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7-5/Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "mysel"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "f anymor"
+            },
+            {
+              "chord": "Gm7-5/Db",
+              "lyrics": "e"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(In Extended Version)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Piano Solo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "When I was young"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm/F",
+              "lyrics": "needed anyone"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7-5/Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus4",
+              "lyrics": "love was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "just for fun"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm6",
+              "lyrics": "Those days are gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge: F/A, F/A, Gm7-5, C/E (arpeggiate the chord and hold)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "All by mys"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "elf"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7-5/Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "mysel"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "f anymor"
+            },
+            {
+              "chord": "Gm7-5/Db",
+              "lyrics": "e"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "All by mys"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "elf"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7-5/Eb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "mysel"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "f anymor"
+            },
+            {
+              "chord": "Gm7-5/Db",
+              "lyrics": "e"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

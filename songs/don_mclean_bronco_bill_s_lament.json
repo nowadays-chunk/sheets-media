@@ -1,0 +1,518 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/don-mclean/190341.html",
+  "title": "Bronco Bill's Lament",
+  "artist": "Don McLean",
+  "key": null,
+  "scrapedAt": "2025-12-16T18:51:01.124Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRONCO BILL'S LAMENT"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Words & Music by Don McLean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "COULDA BEEN MOST"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ANYTHING I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "PUT MY"
+            },
+            {
+              "chord": "D",
+              "lyrics": "MIND TO"
+            },
+            {
+              "chord": "G",
+              "lyrics": "BE,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BUT A"
+            },
+            {
+              "chord": "A",
+              "lyrics": "COWBOY'S LIFE WAS THE"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ONLY LIFE FOR"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ME."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "IT'S A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "STRONG MAN'S OCCU"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "PATION RIDIN'"
+            },
+            {
+              "chord": "C",
+              "lyrics": "HERD AND"
+            },
+            {
+              "chord": "D",
+              "lyrics": "LIVIN'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "FREE,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BUT"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "STRONG MEN OFTEN"
+            },
+            {
+              "chord": "A",
+              "lyrics": "FAIL"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "WHERE"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "SHREWD MEN CAN PRE"
+            },
+            {
+              "chord": "A",
+              "lyrics": "VAIL,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'M AN"
+            },
+            {
+              "chord": "D",
+              "lyrics": "OLD MAN NOW WITH"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "NOTHIN' LEFT TO"
+            },
+            {
+              "chord": "D",
+              "lyrics": "SAY,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BUT"
+            },
+            {
+              "chord": "C",
+              "lyrics": "OH GOD"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "HOW I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "WORKED MY YOUTH A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "WAY."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "WELL YOU MAY NOT RECOG"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "NIZE MY FACE, I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "USED TO"
+            },
+            {
+              "chord": "D",
+              "lyrics": "BE A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "STAR,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "A",
+              "lyrics": "COWBOY HERO"
+            },
+            {
+              "chord": "C",
+              "lyrics": "KNOWN BOTH NEAR AND"
+            },
+            {
+              "chord": "G",
+              "lyrics": "FAR."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "PERCHED UPON A"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "SILVER MOUNT AND"
+            },
+            {
+              "chord": "C",
+              "lyrics": "SANG WITH MY GUI"
+            },
+            {
+              "chord": "G",
+              "lyrics": "TAR,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BUT THE"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "STUDIO OF C"
+            },
+            {
+              "chord": "A",
+              "lyrics": "OURSE, OWNED MY"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "SADDLE AND MY"
+            },
+            {
+              "chord": "A",
+              "lyrics": "HORSE,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BUT THAT"
+            },
+            {
+              "chord": "C",
+              "lyrics": "SIX-GUN ON THE"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "WALL BELONGS TO"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ME,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "OH GOD"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I CAN'T"
+            },
+            {
+              "chord": "D",
+              "lyrics": "LIVE A MEMO"
+            },
+            {
+              "chord": "G",
+              "lyrics": "RY."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "YOU KNOW I'D LIKE TO PUT MY FINGER ON THAT TRIGGER ONCE AGAIN,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "AND POINT THAT GUN AT ALL THE PRIDEFUL MEN."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ALL THE VOYEURS AND THE LAWYERS WHO CAN PULL A FOUNTAIN PEN,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "AND PUT YOU WHERE THEY CHOOSE,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "WITH THE LANGUAGE THAT THEY USE,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "AND ENSLAVE YOU TILL YOU WORK YOUR YOUTH AWAY,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "OH GOD"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "HOW I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "WORKED MY"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "YOUTH A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "WAY."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "WHOOPEE"
+            },
+            {
+              "chord": "G",
+              "lyrics": "TY YI"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "OH WHOOPEE"
+            },
+            {
+              "chord": "G",
+              "lyrics": "TY YI"
+            },
+            {
+              "chord": "D",
+              "lyrics": "AY,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "ONE MAN'S"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "WORK IS A"
+            },
+            {
+              "chord": "A",
+              "lyrics": "NOTHER MAN'S"
+            },
+            {
+              "chord": "D",
+              "lyrics": "PLAY"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "OH GOD"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "HOW I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "WORKED MY"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "YOUTH A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "WAY."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "YOU SEE I ALWAYS LIKED THE NOTION OF A COWBOY FIGHTING CRIME,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "THIS PHOTOGRAPH WAS TAKEN IN MY PRIME,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I COULD BEAT THOSE DESPERADOS BUT THERE'S NO SENSE FIGHTIN' TIME,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BUT THE SINGIN' WAS A BALL"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAUSE I'M NOT MUSICAL AT ALL,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I MOVED MY LIPS TO SOMEONE ELSE'S VOICE."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat verse 1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

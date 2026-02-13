@@ -1,0 +1,630 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/l/louis-armstrong/183374.html",
+  "title": "Cheek to Cheek",
+  "artist": "Louis Armstrong",
+  "key": null,
+  "scrapedAt": "2025-12-16T20:46:48.074Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A6",
+              "lyrics": "Heave"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n,"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": "I'm in"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "Heave"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n,"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "And my h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eart beats"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "so that"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "I can"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "hardly sp"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "eak;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "seem to f"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ind the"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "hap - pi -"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "ness I s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eek"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When we're"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "out to -"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "geth - er d"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ancing,"
+            },
+            {
+              "chord": "E7/6",
+              "lyrics": "cheek"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "to ch"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eek."
+            },
+            {
+              "chord": "Edim",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A6",
+              "lyrics": "Heave"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n,"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": "I'm in"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "Heave"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n,"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "And the c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ares that"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "hang ar"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ound me"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "through the"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "week"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Seem to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "vanish l"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ike a"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "gambler's"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "lucky str"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eak"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When we're"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "out to -"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "geth - er d"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ancing,"
+            },
+            {
+              "chord": "E7/6",
+              "lyrics": "cheek"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "to ch"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eek."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Oh! I l"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ove to c"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "limb a m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ountain,"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "and to r"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "each the"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "highest pe"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ak,"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "doesn't"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "thrill me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "half as"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "much as d"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ancing c"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "heek to ch"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eek."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Oh! I l"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ove to"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "go out f"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ishing"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "in a r"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "iver"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "or a cr"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eek,"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I d"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "on't enj"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "oy it ha"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lf as m"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "uch as d"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ancing c"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "heek to ch"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eek."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm7",
+              "lyrics": "Dance with me -- I want my"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "arm about you;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The c"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "harm about you will carry me th"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "rough"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A6",
+              "lyrics": "Heave"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n,"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": "I'm in"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "Heave"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n,"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "And my h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eart beats"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "so that"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "I can"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "hardly sp"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "eak;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "seem to f"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ind the"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "hap - pi -"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "ness I s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eek"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When we're"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "out to -"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "geth - er d"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ancing,"
+            },
+            {
+              "chord": "E7/6",
+              "lyrics": "cheek"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "to ch"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eek."
+            },
+            {
+              "chord": "D9",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.christianguitar.org/csong8451/Andrew-Peterson-All-The-Way-Home",
+  "title": "All The Way Home",
+  "artist": "Andrew Peterson",
+  "key": null,
+  "scrapedAt": "2025-12-16T11:44:09.976Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"All The Way Home\" by Andrew Peterson"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From \"Carried Along\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Music and lyrics by Andrew Peterson (Deuteronomy 6:7)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Copyright � 2000 New Spring Publishing (ASCAP)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://www.andrew-peterson.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo the bottom 5 strings at the 2nd fret."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "These are abbreviations, not correct chord names:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "O00230 D9 (O = open bass note)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3x0230 Gsus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x02232 Asus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x02220 A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x02200 A9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C22000 Em (C = bass note same fret as capo)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3x0033 G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "200230 D9/F#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "O4xxxx D7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "O5xxxx D8 (hammer from D7)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "200xxx D/F#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3x00xx G5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x022xx A5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x024xx A2 (hammer from A5)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D9 . . . Gsus . . ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus . A . Gsus . . ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D7 D8 D/F# G5 A5 A2 A5 . x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D7 D8 D/F# G5 A5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D7 D8 D/F# G5 A5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus",
+              "lyrics": ""
+            },
+            {
+              "chord": "A9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus",
+              "lyrics": ""
+            },
+            {
+              "chord": "A9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus",
+              "lyrics": ""
+            },
+            {
+              "chord": "A9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A9",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A9",
+              "lyrics": ""
+            },
+            {
+              "chord": "D9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "A9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A9",
+              "lyrics": ""
+            },
+            {
+              "chord": "D9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A9",
+              "lyrics": ""
+            },
+            {
+              "chord": "D9",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "A9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus",
+              "lyrics": ""
+            },
+            {
+              "chord": "A9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gsus",
+              "lyrics": ""
+            },
+            {
+              "chord": "A9",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

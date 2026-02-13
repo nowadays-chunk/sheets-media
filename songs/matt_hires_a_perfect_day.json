@@ -1,0 +1,594 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/matt-hires/185114.html",
+  "title": "A Perfect Day",
+  "artist": "Matt Hires",
+  "key": null,
+  "scrapedAt": "2025-12-16T10:29:37.018Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A Perfect Day by Matt Hires"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://www.myspace.com/matthires"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO 7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|-------3-------3-------3-------3-------3-------3-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|-------3-------3-------3-------3-------3-------3-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|-------0-------2-------2-------0-------0-------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-------0-------0-------2-------0-------2-------2-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|-------2-------0-------0-------3-------2-------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-------3-------2-------0-------0-------0-------0-------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Verse 1",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I was ready for the truth, I wasn't ready for this si"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "tuation,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "you're outta your mind, said we were fine, but now you want"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I was ready for a change, I wasn't ready for a r"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "evolution,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "well maybe it's time, maybe it's time we figure this"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out."
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Chorus",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "et?s not walk"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "away from the"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "one thing we know is"
+            },
+            {
+              "chord": "Em/Cadd9",
+              "lyrics": "great,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "life can trip you"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "up on a perfect"
+            },
+            {
+              "chord": "Cadd9/Em/Cadd9",
+              "lyrics": "day."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And let?s not run and"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "hide from the t"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ruth we know in"
+            },
+            {
+              "chord": "Em/Cadd9",
+              "lyrics": "side,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "life can trip you"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "up on a perfect d"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ay."
+            },
+            {
+              "chord": "Em/Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Verse 2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You wanna make an escape, you wanna prove this was a"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "grand illusion,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "maybe it's wise we look inside and work it all"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Chorus",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "let?s not walk"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "away from the"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "one thing we know is g"
+            },
+            {
+              "chord": "Em/Cadd9",
+              "lyrics": "reat,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "life can trip you"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "up on a perfect d"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ay."
+            },
+            {
+              "chord": "Em/Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "et?s not run and"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "hide from the t"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ruth we know in"
+            },
+            {
+              "chord": "Em/Cadd9",
+              "lyrics": "side,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "life can trip you"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "up on a perfect"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "day."
+            },
+            {
+              "chord": "Em/",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bridge",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "out of the clouds, stand right in front of me,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "oh oh oh"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "hollow me out, I'm not the enemy,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "oh oh oh"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "oh,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "oh oh, oh"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": ".."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I was ready for the truth, I wasn't ready for this"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "situation."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "well Maybe in time, maybe in time I'll figure this"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out."
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Chorus",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "let?s just walk"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "away from the on"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "e thing we know is"
+            },
+            {
+              "chord": "Em/Cadd9",
+              "lyrics": "great,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "life can trip you"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "up on a perfect"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "day."
+            },
+            {
+              "chord": "Em/Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "let?s not run an"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "d hide from the t"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ruth we know in"
+            },
+            {
+              "chord": "Em/Cadd9",
+              "lyrics": "side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "life can trip you"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "up on a perfect d"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ay..."
+            },
+            {
+              "chord": "Em/Cadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "ife can trip you u"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "p on a perfect d"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Life can trip you"
+            },
+            {
+              "chord": "DsusF",
+              "lyrics": "up on a perfect d"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ay,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7sus4",
+              "lyrics": "day..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

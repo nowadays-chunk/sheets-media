@@ -1,0 +1,814 @@
+{
+  "url": "https://www.chordie.com/chord.pere/tabfu.thudspace.net/p/phish/david_bowie.tab",
+  "title": "David Bowie",
+  "artist": "Phish",
+  "key": null,
+  "scrapedAt": "2025-12-16T23:09:31.186Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Music & \"lyrics\" by Trey Anastasio"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcription by Neil Berkman (berkman@cs.umass.edu)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Notation conventions:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/"
+            },
+            {
+              "chord": "1",
+              "lyrics": "Strike the string and bend it at the same time by the amount shown."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bend the string until the note changes by the specified number of steps."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For example, if you see this over a note on the 3rd fret of the E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "string (a G), this sounds as an A (otherwise played 2 frets higher)."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A bend of 1/2 is the same as a single fret (half step on the piano)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(10) Implied note on the indicated fret (10, in this case). This note is not"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "plucked, but usually occurs when you release a bent string but still"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "let the note ring."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/S Slide up to note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S\\ Slide down from note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H Hammer on: hit the specified fret with a finger, but don't pick."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "P Pull off: put your finger on the fret at the specified location before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "pulling off another finger from another fret. Don't pick."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x Mute string"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've made no attempt to indicate timing, so you'll have to listen to a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "recording for that."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H H S\\ H H"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Da- vid Bo-wie Da-vid Bo-wie *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is played through a total of three times, then started a fourth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "time. The fourth time is the same up the the point marked with a *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and then:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "/S /S /S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The part within the parentheses is played a total of three times, then"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "started a fourth time, stopping at the point marked with a #"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Note: when you are playing the \"UB40\" part, this is where it stops"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "paralleling the \"David Bowie\" part - don't worry about this until later)."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Next, the first part is played through three more times, then started"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a fourth time and played up to the point marked with a *, followed by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "what I think Trey & co. call the first interlude:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "After playing this, move the whole thing down 2 frets (so your pinkie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "is on on the 5th fret) and play the same pattern. The next time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "through, again move it down 2 frets and play the same pattern, although"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the fingering is a bit different since there are some open strings."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Next, move the whole thing up so that your pinkie is on the 13th fret,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "then down to the 11th fret, and finally down to the 9th fret."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Next, the guitar rests for two beats while the piano plays C# then A,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "then plays:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A couple of notes on this: I play the first 6 notes with my ring"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "finger, moving it up from the 11th to 13th frets. Also, I cheat on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the part marked in parentheses, playing it like:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Next, this whole pattern is moved up chromatically and played starting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "on the 12th fret and again at the 13th fret. Then comes:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then comes a fast descending chromatic run:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And so on until:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm not entirely sure about this last part, but it's close."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Next comes the \"UB40\" part, which is exactly like the \"David Bowie\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "part except everything is moved up 3 frets. I put a note indicating"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "where the UB40 part stops paralleling the David Bowie part. After"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "that point comes the _really_ weird part (the second interlude). This"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "part is based on a long pattern that repeats in several positions, but"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "is not played all the way through in a couple of these positions:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/S /S H"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "P /S /S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H H"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": "/S /S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At this point, this whole pattern repeats with everything moved up 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "frets (so the first note played is on the 11th rather than the 9th"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "fret). Then, after the last slide from the 13th to the 15th fret, the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "following is played, and then held for four beats:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Next, the whole pattern is repeated 3 frets down from the original"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "position (so the first note played is on the 6th rather than the 9th"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "fret). The pattern is started again 2 frets up from this position (so"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the first note is played on the 8th fret), but stops at the point"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "marked with a *. An E chord is then played and held for four beats:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Next, the whole pattern is started again 7 frets down from the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "original position (so the first note played is on the 2nd fret), until"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the point marked with a +. After that comes:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": "/S"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Next comes the jam, which is pretty much Em to D. Towards the end, it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "starts alternating the Em to D part with a C to D to Em part:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm not sure how Phish decides when to kick into this part - when my"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "old band played it, the bass player would just scream when he thought"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the time was right. Anyway, after alternating these parts a few"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "times, Trey plays a pull-off pattern outlining the C, D, and Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Re"
+            },
+            {
+              "chord": "C",
+              "lyrics": "peat 4x Re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "peat 4x Re"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "peat 8x Re"
+            },
+            {
+              "chord": "C",
+              "lyrics": "peat 4x Re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "peat 4x Re"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "peat 8x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "P P P P P P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This goes back and forth between this pattern and the Em to D part a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "few times, and then when Trey decides to end the jam, he plays the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "pull-off pattern up until the point marked with a *, and then plays"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "four whole-step bends at the 22nd fret (so he's bending D up to E)."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And finally:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-Repeat 4x-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "drum *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "fill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The fourth time the B chord marked with a * is played, I think Trey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "toggles his pickup selector switch."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That's about it, I'd appreciate any comments or corrections."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Neil"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "berkman@cs.umass.edu"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

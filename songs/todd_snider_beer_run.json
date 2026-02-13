@@ -1,0 +1,778 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/todd-snider/332556.html",
+  "title": "Beer Run",
+  "artist": "Todd Snider",
+  "key": null,
+  "scrapedAt": "2025-12-16T15:38:19.747Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "B, double E, double are-you-in?"
+            },
+            {
+              "chord": "C",
+              "lyrics": ":"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beer run."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "B, double E, double are-you-in?:"
+            },
+            {
+              "chord": "D",
+              "lyrics": "beer run."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All you need is a"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ten and a fiver,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "car, and a key, and a"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "sober driver."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "B, double E, double"
+            },
+            {
+              "chord": "D",
+              "lyrics": "are-you-in?:"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beer run."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "couple of frat guys from Abilene"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "drove"
+            },
+            {
+              "chord": "D",
+              "lyrics": "out all night to see Robert Earl Keen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "at the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "KPIG Swine and Soiree Dance."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They wore"
+            },
+            {
+              "chord": "C",
+              "lyrics": "baseball caps and khaki pants."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They wanted"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cigs, so to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "save some money"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "got one off a hippie that"
+            },
+            {
+              "chord": "C",
+              "lyrics": "smelled kinda funny"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G",
+              "lyrics": "next thing they knew they was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "both really hungry and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "pretty thirsty"
+            },
+            {
+              "chord": "D",
+              "lyrics": "too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "B, double E, double are-you-in?"
+            },
+            {
+              "chord": "C",
+              "lyrics": ":"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beer run."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "B, double E, double are-you-in?:"
+            },
+            {
+              "chord": "D",
+              "lyrics": "beer run."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All you need is a"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ten and a fiver,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "car, and a key, and a"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "sober driver."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "B, double E, double"
+            },
+            {
+              "chord": "D",
+              "lyrics": "are-you-in?:"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beer run."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They found a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "store with a sign said their beer was coldest,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so they"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sent in Brad ('cause he looked the oldest)."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He got a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "case of beer and a candybar,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "walked"
+            },
+            {
+              "chord": "C",
+              "lyrics": "over to where them registers are,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "laid his"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fake I.D. on the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "countertop."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The clerk"
+            },
+            {
+              "chord": "G",
+              "lyrics": "looked, he turned, he looked"
+            },
+            {
+              "chord": "C",
+              "lyrics": "back up, he stopped,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "he said, \""
+            },
+            {
+              "chord": "G",
+              "lyrics": "Son, I'm not gonna"
+            },
+            {
+              "chord": "D",
+              "lyrics": "call the cops"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I'm"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "gonna have to keep this"
+            },
+            {
+              "chord": "D",
+              "lyrics": "card.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "guys both took it pretty"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hard."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS (MOD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "B, double E, double are-you-in?"
+            },
+            {
+              "chord": "C",
+              "lyrics": ":"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beer run."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "B, double E, double are-you-in?:"
+            },
+            {
+              "chord": "D",
+              "lyrics": "beer run."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh, how happy"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "we would be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if"
+            },
+            {
+              "chord": "C",
+              "lyrics": "we'da only brought a better"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "fake I.D."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "on this"
+            },
+            {
+              "chord": "G",
+              "lyrics": "B, double E, double"
+            },
+            {
+              "chord": "D",
+              "lyrics": "are-you-in?:"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beer run."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They met this"
+            },
+            {
+              "chord": "G",
+              "lyrics": "other old hippie named Sleepy John,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "who"
+            },
+            {
+              "chord": "D",
+              "lyrics": "claimed to be the one from the Robert Earl song,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so they"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gave 'im their cash, he bought 'em some brews;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it was a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "beautiful day in Santa Cruz."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Feelin' so good,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "shoulda been a crime."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Crowd was cool and the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "band was prime."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They"
+            },
+            {
+              "chord": "G",
+              "lyrics": "made it back up to their"
+            },
+            {
+              "chord": "D",
+              "lyrics": "seats just in time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "sing with all their"
+            },
+            {
+              "chord": "D",
+              "lyrics": "friends:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"The"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "road goes on forever and the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "party never"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ends.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "B, double E, double are-you-in?"
+            },
+            {
+              "chord": "C",
+              "lyrics": ":"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beer run."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "B, double E, double are-you-in?:"
+            },
+            {
+              "chord": "D",
+              "lyrics": "beer run."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All you need is a"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ten and a fiver,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "car, and a key, and a"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "sober driver."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "B, double E, double"
+            },
+            {
+              "chord": "D",
+              "lyrics": "are-you-in?:"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beer run."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

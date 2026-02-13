@@ -1,0 +1,898 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/cat-stevens/176770.html",
+  "title": "A Bad Penny",
+  "artist": "Cat Stevens",
+  "key": null,
+  "scrapedAt": "2025-12-16T10:09:21.867Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...A BAD PENNY... by Cat Stevens"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-----------------..............."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*from 'Buddha And The Chocolate Box' (1974)*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "no,"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "dont,"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "say those"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "same idle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lies;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "I've heard them be-"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "fore,"
+            },
+            {
+              "chord": "E+",
+              "lyrics": "oh,"
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": "oh,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "fool who"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "left his"
+            },
+            {
+              "chord": "G",
+              "lyrics": "heart on an early"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "train,"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "more."
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "no,"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "dont,"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "use those"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "same weeping"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eyes;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "I'll wipe them no"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "more,"
+            },
+            {
+              "chord": "E+",
+              "lyrics": "oh,"
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": "oh,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I didnt want to"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "have to be"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "cruel,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "truth must be said,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "you ain't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "heard e-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nough."
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "not so long a-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "go,,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "wandered out of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "here."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "come a silver"
+            },
+            {
+              "chord": "D",
+              "lyrics": "model of a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "city on the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "air."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "choke me with your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lies,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "man has open"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eyes;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "see.."
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I can"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "see, I can"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tell."
+            },
+            {
+              "chord": "G7",
+              "lyrics": "Ooh,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ooh, ooh."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D Bm7 Em G A A7,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Break:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I had it e-"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nough;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "sneaky bars and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "smart parties."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Had E-"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nough;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "sweet friends and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lovers."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "had e-"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nough;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "lonely rooms and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "blank faces."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Had E-"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nough;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "want"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you, I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "want"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "no"
+            },
+            {
+              "chord": "D",
+              "lyrics": "more,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "want"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you, I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "want"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "no"
+            },
+            {
+              "chord": "D",
+              "lyrics": "more."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "no,"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "dont,"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "say those"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "same idle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lies;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "I've heard them be-"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "fore,"
+            },
+            {
+              "chord": "E+",
+              "lyrics": "oh,"
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": "oh,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "fool who"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "left his"
+            },
+            {
+              "chord": "G",
+              "lyrics": "heart on an early"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "train,"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "more."
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7 Em D, G G7 C G Am,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D E D A, E B E F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G Am G7 C, G Am D Am G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORD DIAGRAMS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "---------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "320003"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "200033"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "100033"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "020100"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02210"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "021200"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "E+",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "022000"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "021000"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "020000"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32010"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02233"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0232"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "323000"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x24232"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02223"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0212"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Joel from cLuMsY, Bristol, England, 2004"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(clumsyband@hotmail.com)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

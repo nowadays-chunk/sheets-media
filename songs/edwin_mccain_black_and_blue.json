@@ -1,0 +1,434 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/edwin-mccain/143751.html",
+  "title": "Black and Blue",
+  "artist": "Edwin McCain",
+  "key": null,
+  "scrapedAt": "2025-12-16T16:40:58.545Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords (relative to Capo):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D: x00232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dsus: x00230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A: 002220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm: 224432"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m: 244222"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E: 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E* (just the note - used in Intro): xxxx3x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D#* (just the note - used in Intro): xxxx2x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A#* (just the note - used in Intro): xxx2xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D Dsus, D Dsus, D Dsus, (E*, D#*, A#* - just strike the note)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Showed up in a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sleeve of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tattoos"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "High definition"
+            },
+            {
+              "chord": "D",
+              "lyrics": "broadcast of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "attitude"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "It's like she wants me to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "she's got nothing left to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lose, me"
+            },
+            {
+              "chord": "E",
+              "lyrics": "too"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Little bag of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "junk gets her"
+            },
+            {
+              "chord": "A",
+              "lyrics": "high"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Keeps her from"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thinkin' 'bout the s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hadows in her"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "She likes"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "She knows I won't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ask her"
+            },
+            {
+              "chord": "E",
+              "lyrics": "why, she"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cries"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Let me fall"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "down, you can fall"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We'll call this"
+            },
+            {
+              "chord": "A",
+              "lyrics": "banged up black and blue"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Let me find"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "out what happened to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Waking up"
+            },
+            {
+              "chord": "A",
+              "lyrics": "banged up black and"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "blue"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Sometimes it's the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "struggle that makes it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "good"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I wouldn't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "judge ya even"
+            },
+            {
+              "chord": "A",
+              "lyrics": "if I coul"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "d"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "There's no magic in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "line this"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "misundersto"
+            },
+            {
+              "chord": "G",
+              "lyrics": "od"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "D",
+              "lyrics": "could, you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "would"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat Chorus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

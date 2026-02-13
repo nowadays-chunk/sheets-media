@@ -41,7 +41,7 @@ const CoverTwo = () => {
   );
 };
 
-const LearnSongs = () => {
+const LearnSongs = ({ songs }) => {
 
   return (
     <div style={{ marginTop: '100px' }}>
@@ -56,9 +56,26 @@ const LearnSongs = () => {
           content={DEFAULT_KEYWORDS}
         />
       </Head>
-      <SongsSelector />
+      <SongsSelector songs={songs} />
     </div>
   );
 };
+
+export async function getStaticProps() {
+  const songsFirst = require("../../output_songs/first-songs.json");
+  const songsSecond = require("../../output_songs/second-songs.json");
+
+  // Merge and maybe limit if it's still too big for the initial page load
+  const allSongs = [...songsFirst, ...songsSecond];
+
+  return {
+    props: {
+      // For now we pass all but if memory still issues we can paginate
+      // However the main issue was the client BUNDLER loading the json.
+      // Server-side it's more manageable.
+      songs: allSongs,
+    },
+  };
+}
 
 export default LearnSongs;

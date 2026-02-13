@@ -1,0 +1,566 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/my-favorite-highway/361084.html",
+  "title": "Bittersweet Life",
+  "artist": "My Favorite Highway",
+  "key": null,
+  "scrapedAt": "2025-12-16T16:40:08.043Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is my first tab so bear with me here. I looked everywhere for the chords to this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "song but I couldn't seem to find them anywhere. So I decided to try to work it out myself,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it's definitely not perfect but I wanted to share in case other people were in the same"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "predicament as me. Thanks and Enjoy :)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No Capo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C Cmaj9 Am Gmaj7 x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Lonely,Stubborn and complacent,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj9",
+              "lyrics": "You have insisted"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On leaving me here,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Writing the same song"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I started last yea"
+            },
+            {
+              "chord": "F",
+              "lyrics": "r."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Lovely Conjunctions and phrases,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj9",
+              "lyrics": "Plays on a few words,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That you never meant."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I must have misread"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "All of the signals that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You never sent."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chrous:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "(F)",
+              "lyrics": "It's a bittersweet"
+            },
+            {
+              "chord": "C",
+              "lyrics": "life,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's leaving me"
+            },
+            {
+              "chord": "Cmaj9",
+              "lyrics": "a-ok."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's a bittersweet li"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "fe,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I have loved and lost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eart along the w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Maybe I could still hold you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj9",
+              "lyrics": "Or you could call if you feel so inclined."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Please take your time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "Locating whatever you're tr"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ying to find."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Maybe it's time to let go,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj9",
+              "lyrics": "But I'm too scared"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And so unprepared."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "How do I forget,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "Every moment in t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ime that we shared?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "(F)",
+              "lyrics": "It's a bittersweet"
+            },
+            {
+              "chord": "C",
+              "lyrics": "life,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's leaving me"
+            },
+            {
+              "chord": "Cmaj9",
+              "lyrics": "a-ok."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's a bittersweet li"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "fe,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I have loved and lost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eart along this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bittersweet l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ife,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's leaving me"
+            },
+            {
+              "chord": "Cmaj9",
+              "lyrics": "a-ok."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's a bittersweet li"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "fe,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I have loved and lost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eart along the w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm calling your bluff,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I have to"
+            },
+            {
+              "chord": "Cmaj9",
+              "lyrics": "yed with the idea of burning your stuff."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "This is so"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "rough,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "as if deserting me"
+            },
+            {
+              "chord": "Cmaj9",
+              "lyrics": "wasn't enough."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well I've had enough,"
+            },
+            {
+              "chord": "Cmaj9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I'm calling your"
+            },
+            {
+              "chord": "Cmaj9",
+              "lyrics": "bluff."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "(F)",
+              "lyrics": "It's a bittersweet"
+            },
+            {
+              "chord": "C",
+              "lyrics": "life,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's leaving me"
+            },
+            {
+              "chord": "Cmaj9",
+              "lyrics": "a-ok."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's a bittersweet li"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "fe,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I have loved and lost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eart along the w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ay."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

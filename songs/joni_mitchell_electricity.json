@@ -1,0 +1,738 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/j/jonimitchell-tabs-24808/electricity-tabs-258416.html",
+  "title": "Electricity",
+  "artist": "Joni Mitchell",
+  "key": null,
+  "scrapedAt": "2025-12-17T06:51:07.471Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Electricity: Joni Mitchell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">>TUNING: GGDGBD<< (tune low E string down to G, not up.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">>CAPO 3RD FRET<<"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7: X2201X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F6/G: 003210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G1: 00000X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G2: 005030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gmaj7: 000434"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G6sus2,4: 000212"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G7: 003000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G7sus4: 003010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G1",
+              "lyrics": "The"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "mi- - nus is"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "love-less,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "talks to the"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "land"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G1",
+              "lyrics": "And the leaves"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the pond over-ices."
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She"
+            },
+            {
+              "chord": "G1",
+              "lyrics": "don�??t know th"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "e sys-tem, plus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G6sus2,4 Gmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She don�??t un- - -derstand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She�??s go"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "t all the wron"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "g fu- - se"
+            },
+            {
+              "chord": "G1",
+              "lyrics": "s an"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "d spli-ces"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She�??"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "s not gonn"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "a fix it u"
+            },
+            {
+              "chord": "G1",
+              "lyrics": "p"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "too easy."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G1",
+              "lyrics": "The"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "mask- ing tape"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "tan-gles,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It�??"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "s stic-ky and bl"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "ack. And"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G1",
+              "lyrics": "The"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "cop-per"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Proud headed Queen"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "Lizzie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Con-"
+            },
+            {
+              "chord": "G1",
+              "lyrics": "ducts little"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "char-ges"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G6sus2,4 Gmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That don�??t get charged back.�??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She�??"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s not gonn"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "a fix it"
+            },
+            {
+              "chord": "G1",
+              "lyrics": "up t"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "oo easy."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And she"
+            },
+            {
+              "chord": "G",
+              "lyrics": "holds out her"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "flash- light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G1",
+              "lyrics": "she"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "shines it on me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "wants me to"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "tell her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G1",
+              "lyrics": "What the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "trouble might be."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, I�??"
+            },
+            {
+              "chord": "G1",
+              "lyrics": "m learning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It�??"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "s peaceful"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G6sus2,4 Gmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With a good dog and some trees,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Out of"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "touch with the"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "break- down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G1",
+              "lyrics": "Of this cen-"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "tury"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They're"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "not gonna"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "fix it up"
+            },
+            {
+              "chord": "G1",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Too easy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G1 �?? G7sus4 �?? G1 �?? Am7 �?? G1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G2 �?? G1 �?? G7sus4 �?? G1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7 �?? G7sus4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G1 �?? Am7 �?? G6sus2,4 �?? Gmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G2 �?? G7sus4 �?? G1 �?? Am7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We once loved - together"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And we floodlit that time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Input �?? output �?? electricity"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But the lines overloaded"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the sparks started flying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the loose wires"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Were lashing out at me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's not gonna fix it up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Too easy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But she hold out her candle"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And she shines it in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And she begs him to show her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How to fix it again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "While the song that he sang her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To soothe her to sleep"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Runs all through her circuits"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Like a heartbeat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "not gonna"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "fix it up"
+            },
+            {
+              "chord": "G1",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Too"
+            },
+            {
+              "chord": "F6/G",
+              "lyrics": "eas- -"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "-y"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ending: F6/G �?? G7 (repeat until fade)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

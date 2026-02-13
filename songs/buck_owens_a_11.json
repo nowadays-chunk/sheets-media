@@ -1,0 +1,70 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/buck-owens/a11",
+  "title": "A-11",
+  "artist": "Buck Owens",
+  "key": null,
+  "scrapedAt": "2025-12-16T10:43:34.642Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">C F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't know you from Adam"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "gonna play the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "jukebox"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Please don't"
+            },
+            {
+              "chord": "F",
+              "lyrics": "play A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Eleven"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "here from force of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "h"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

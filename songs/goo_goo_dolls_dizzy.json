@@ -1,0 +1,522 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/goo-goo-dolls/22804.html",
+  "title": "Dizzy",
+  "artist": "Goo Goo Dolls",
+  "key": null,
+  "scrapedAt": "2025-12-17T00:17:19.584Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song Title: Dizzy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: Goo Goo Dolls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Dizzy Up the Girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Lance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning (low to high): E A D G C G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "WARNING!!! Be careful when tuning the high E string up to a G."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you don't want to risk breaking a string, just leave it tuned to E."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It will still sound good."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chord formations:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em: 022xxx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A: 0022xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A2: 577000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F: 133000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C: x35000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 355000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B: x24000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D: x57000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "First Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You're cynical and beautiful, you always make a scene"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You're monochrome delirious, you're nothing that you seem"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I'm drowning in your vanity, your laugh is a disease"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You're dirty and you're sweet, you know your everything I nee"
+            },
+            {
+              "chord": "C",
+              "lyrics": "d"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Everyth"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing you are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Falls from the s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ky like a star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Everyth"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing you are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Whatever e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ver you want"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Second Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I wanna k"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ick at the machine, that made you piss away your dreams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And tear at your defenses, till there's nothing there but me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You're angry when you're beautiful, your love is such a tease"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'm drowning in your dizzy noise, I wanna feel you screa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "m"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Everyth"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing you are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Falls from the s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ky like a star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Everyth"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing you are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Whatever e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ver you want"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo: (I don't know how accurate this is, but its pretty close."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The spacing probably isn't right either.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It sounds like there are two guitars."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Guitar 1 plays this over and over again:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "should figure it out.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Guitar 2 (bend string a half step up and back down a bunch of"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "times for each note):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus (End song on F)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Questions or comments?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Contact me at lance_mar@hotmail.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

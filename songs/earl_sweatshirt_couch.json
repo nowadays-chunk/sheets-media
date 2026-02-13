@@ -1,0 +1,110 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/earl-sweatshirt/271685.html",
+  "title": "Couch",
+  "artist": "Earl Sweatshirt",
+  "key": null,
+  "scrapedAt": "2025-12-16T22:09:57.298Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The whole song just repeats a 4 measure chord progression of Bbmaj7, Cmaj7, and Ebm."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Uh, was always"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "smart-mouthed and quick-witted"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But somethin' was always"
+            },
+            {
+              "chord": "(Bbmaj7)",
+              "lyrics": "missin' like six digits"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lucky seven probably"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "poppa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Little nigga so they"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "picked on him, hassled him"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "Things changed when I hassled back, so"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeat)Bbmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "David hit the..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The trumpet is only playing the arpeggio of each chord."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and that's it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

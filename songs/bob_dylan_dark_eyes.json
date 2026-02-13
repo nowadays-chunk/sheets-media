@@ -1,0 +1,954 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/bob-dylan/207546.html",
+  "title": "Dark Eyes",
+  "artist": "Bob Dylan",
+  "key": null,
+  "scrapedAt": "2025-12-16T23:03:21.310Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Title: Dark Eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Empire Burlesque"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 3rd fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Throughout the whole song he just plucks the bottom 5th and 6th string,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so you would play:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "gen"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "tle-"
+            },
+            {
+              "chord": "B",
+              "lyrics": "men"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "are"
+            },
+            {
+              "chord": "E",
+              "lyrics": "tal"
+            },
+            {
+              "chord": "B",
+              "lyrics": "king and the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "mid"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "night"
+            },
+            {
+              "chord": "B",
+              "lyrics": "moon is"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "on the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "river"
+            },
+            {
+              "chord": "E",
+              "lyrics": "side,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They're"
+            },
+            {
+              "chord": "E",
+              "lyrics": "dri"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "nking"
+            },
+            {
+              "chord": "B",
+              "lyrics": "up"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "wal"
+            },
+            {
+              "chord": "B",
+              "lyrics": "king and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "it"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "is t"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ime"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "for"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "slide."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "live"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "a-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nother"
+            },
+            {
+              "chord": "B",
+              "lyrics": "world where"
+            },
+            {
+              "chord": "B",
+              "lyrics": "life"
+            },
+            {
+              "chord": "A",
+              "lyrics": "and"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "death"
+            },
+            {
+              "chord": "A",
+              "lyrics": "are"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me-"
+            },
+            {
+              "chord": "B",
+              "lyrics": "morized,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "earth"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "is s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "trung"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "with"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lovers'"
+            },
+            {
+              "chord": "B",
+              "lyrics": "pearls and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "I s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ee"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "are d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ark"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eyes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "E",
+              "lyrics": "cock"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "is c"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ro-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "wing"
+            },
+            {
+              "chord": "E",
+              "lyrics": "far"
+            },
+            {
+              "chord": "B",
+              "lyrics": "away and a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "no-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ther"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sol-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "dier's d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eep in"
+            },
+            {
+              "chord": "E",
+              "lyrics": "prayer,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Some"
+            },
+            {
+              "chord": "E",
+              "lyrics": "mo-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ther's"
+            },
+            {
+              "chord": "B",
+              "lyrics": "child"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "has g"
+            },
+            {
+              "chord": "E",
+              "lyrics": "one"
+            },
+            {
+              "chord": "B",
+              "lyrics": "astray,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "she"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "can't"
+            },
+            {
+              "chord": "B",
+              "lyrics": "find"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "him"
+            },
+            {
+              "chord": "A",
+              "lyrics": "any"
+            },
+            {
+              "chord": "E",
+              "lyrics": "where."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "B",
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "can"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "hear"
+            },
+            {
+              "chord": "A",
+              "lyrics": "a-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nother"
+            },
+            {
+              "chord": "B",
+              "lyrics": "drum"
+            },
+            {
+              "chord": "B",
+              "lyrics": "bea"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ting"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "for t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "he d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ead t"
+            },
+            {
+              "chord": "B",
+              "lyrics": "hat rise,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Whom"
+            },
+            {
+              "chord": "E",
+              "lyrics": "na-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ture's"
+            },
+            {
+              "chord": "B",
+              "lyrics": "beast"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "fears"
+            },
+            {
+              "chord": "E",
+              "lyrics": "as they"
+            },
+            {
+              "chord": "B",
+              "lyrics": "come and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "I s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ee"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "are d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ark"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eyes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "They"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "tell"
+            },
+            {
+              "chord": "B",
+              "lyrics": "me"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "be"
+            },
+            {
+              "chord": "B",
+              "lyrics": "discreet for"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "in-t"
+            },
+            {
+              "chord": "B",
+              "lyrics": "en-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ded"
+            },
+            {
+              "chord": "A",
+              "lyrics": "purpo"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ses,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "They"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "tell"
+            },
+            {
+              "chord": "B",
+              "lyrics": "me"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "re-v"
+            },
+            {
+              "chord": "E",
+              "lyrics": "enge is"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sweet and from"
+            },
+            {
+              "chord": "E",
+              "lyrics": "where"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "they"
+            },
+            {
+              "chord": "B",
+              "lyrics": "stand,"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sure it"
+            },
+            {
+              "chord": "E",
+              "lyrics": "is."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "B",
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feel"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "no-t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hing f"
+            },
+            {
+              "chord": "A",
+              "lyrics": "or t"
+            },
+            {
+              "chord": "B",
+              "lyrics": "heir game where b"
+            },
+            {
+              "chord": "B",
+              "lyrics": "eau"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ty"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "goes"
+            },
+            {
+              "chord": "A",
+              "lyrics": "un-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "re-"
+            },
+            {
+              "chord": "B",
+              "lyrics": "cognized,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "All"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "I f"
+            },
+            {
+              "chord": "B",
+              "lyrics": "eel"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "is he"
+            },
+            {
+              "chord": "E",
+              "lyrics": "at and f"
+            },
+            {
+              "chord": "B",
+              "lyrics": "lame and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "I s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ee"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "are d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ark"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eyes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "French"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "girl,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "she's"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "in p"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ara"
+            },
+            {
+              "chord": "B",
+              "lyrics": "dise and a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "drun"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "-ken"
+            },
+            {
+              "chord": "B",
+              "lyrics": "man"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "is"
+            },
+            {
+              "chord": "A",
+              "lyrics": "at the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "wheel,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Hun-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ger"
+            },
+            {
+              "chord": "B",
+              "lyrics": "pays"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "a h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eavy"
+            },
+            {
+              "chord": "B",
+              "lyrics": "price to the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fall"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "-ing"
+            },
+            {
+              "chord": "B",
+              "lyrics": "gods"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "of sp"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eed and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "steel."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "Time"
+            },
+            {
+              "chord": "A",
+              "lyrics": "is"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "short"
+            },
+            {
+              "chord": "A",
+              "lyrics": "and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "the days"
+            },
+            {
+              "chord": "B",
+              "lyrics": "are sweet and"
+            },
+            {
+              "chord": "B",
+              "lyrics": "pas"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sion"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "rules t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "he a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rrow"
+            },
+            {
+              "chord": "B",
+              "lyrics": "that flies,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "E",
+              "lyrics": "mill"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "-ion"
+            },
+            {
+              "chord": "B",
+              "lyrics": "fac"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "-es"
+            },
+            {
+              "chord": "E",
+              "lyrics": "at my"
+            },
+            {
+              "chord": "B",
+              "lyrics": "feet but"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "I s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ee"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "are d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ark"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eyes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "During the bridges there's a slight riff that goes like:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tabbed by: Blaine Arihara"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

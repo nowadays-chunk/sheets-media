@@ -1,0 +1,562 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/the-pigeon-detectives/109342.html",
+  "title": "Don't You Wanna Find Out",
+  "artist": "The Pigeon Detectives",
+  "key": null,
+  "scrapedAt": "2025-12-17T00:52:36.753Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B: 7 9 9 8 7 7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m: 9 11 11 9 9 9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#: 14 16 16 15 14 14 (verse) 2 4 4 3 2 2 (chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E: 12 14 14 13 12 12"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D#m: 11 13 13 11 11 11"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Main Riff:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "They say we look pretty good to"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "gether"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, don't you wanna"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "find out"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't you wanna"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "find out"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "I know you think you're oh so"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "clever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, soon you're gonna"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "find out"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Soon you're gonna"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "find out"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That when the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sun comes up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There'll be"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "nothing wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I will"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "be away from you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sun comes up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There'll be"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "nothing wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I will"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "be away from you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Main riff x1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "I'm trying hard to make you"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "listen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But you don't wanna"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "find out"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You don't wanna"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "find out"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "If you could see what you were"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "missing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm sure you'd wanna"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "find out"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't you wanna"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "find out"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That when the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sun comes up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There'll be"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "nothing wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I will"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "be away from you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sun comes up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There'll be"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "nothing wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I will"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "be away from you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse chords under solo (can't be bothered to work out)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When the sun c"
+            },
+            {
+              "chord": "B",
+              "lyrics": "omes up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There'll be"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "nothing wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I will"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "be away from you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sun comes up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There'll be"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "nothing wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I will"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "be away from you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "They say we look pretty good to"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "gether"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, don't you wanna"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "find out"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't you wanna"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "find out"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

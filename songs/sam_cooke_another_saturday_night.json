@@ -1,0 +1,794 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/sam-cooke/124190.html",
+  "title": "Another Saturday Night",
+  "artist": "Sam Cooke",
+  "key": "A",
+  "scrapedAt": "2025-12-16T12:48:24.561Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...ANOTHER SATURDAY NIGHT... by Sam Cooke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "----------------------------............."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*from 'Ain't That Good News' (1964)*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*CAPO 2nd FRET*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Original Key: A)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Saturday night,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "ain't got nobody,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I got some money,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "just got paid."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "How I wish I had,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Someone to talk to;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm in an"
+            },
+            {
+              "chord": "C",
+              "lyrics": "awful"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I got in town,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "month ago,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "seen a lot of,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "then,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "meet 'em,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can get 'em,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "yet,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I haven't met 'em,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "why I'm,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "shape I'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, oh;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Saturday night,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "ain't got nobody,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I got some money,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "just got paid."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "How I wish I had,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Someone to talk to;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm in an"
+            },
+            {
+              "chord": "C",
+              "lyrics": "awful"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Another feller,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Told me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "sister,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "fine."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "being,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My deliverance,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "had a,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Strange resemblance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "cat named,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Franken-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stein. Oh, oh."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Saturday night,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "ain't got nobody,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I got some money,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "just got paid."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "How I wish I had,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Someone to talk to;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm in an"
+            },
+            {
+              "chord": "C",
+              "lyrics": "awful"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Instrumental)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G D G C, G C,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "It's hard,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "feller,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "don't know,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "round."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "find me a honey,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "help me spend my money,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "gonna have to,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Blow this"
+            },
+            {
+              "chord": "G",
+              "lyrics": "town. Oh, no."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Saturday night,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "ain't got nobody,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I got some money,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "just got paid."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "How I wish I had,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Someone to talk to;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm in an"
+            },
+            {
+              "chord": "C",
+              "lyrics": "awful"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coda:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Saturday night,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "ain't got nobody,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I got some money,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "just got paid."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "How I wish I had,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Someone to talk to;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm in an"
+            },
+            {
+              "chord": "C",
+              "lyrics": "awful"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat to Fade)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORD DIAGRAMS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "---------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "320003"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32010"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Joel from cLuMsY, Bristol, England, 2005"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(clumsyband@hotmail.com)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

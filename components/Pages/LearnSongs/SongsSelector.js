@@ -20,9 +20,6 @@ import { useRouter } from "next/router";
 import PlayCircleFilledWhiteIcon from '@mui/icons-material/PlayCircleFilledWhite';
 import MusicNoteIcon from '@mui/icons-material/MusicNote';
 
-import songsFirst from "@/output_songs/first-songs.json";
-import songsSecond from "@/output_songs/second-songs.json";
-
 /* ============================================================
    HELPERS
 ============================================================ */
@@ -100,19 +97,10 @@ const SongCard = styled(Card)(({ theme }) => ({
 
 /* ============================================================
    COMPONENT
-============================================================ */
+ ============================================================ */
 
-const SongsSelector = () => {
+const SongsSelector = ({ songs = [] }) => {
   const router = useRouter();
-
-  /* ------------------------------------------------------------
-     MERGE LISTS (ONCE)
-  ------------------------------------------------------------ */
-
-  const allSongs = useMemo(
-    () => [...songsFirst, ...songsSecond],
-    []
-  );
 
   /* ------------------------------------------------------------
      STATE
@@ -127,10 +115,10 @@ const SongsSelector = () => {
 
   const filtered = useMemo(() => {
     const q = search.toLowerCase();
-    return allSongs.filter((s) =>
+    return songs.filter((s) =>
       `${s.song_name} ${s.artist_name}`.toLowerCase().includes(q)
     );
-  }, [search, allSongs]);
+  }, [search, songs]);
 
   const visibleSongs = filtered.slice(0, visibleCount);
 

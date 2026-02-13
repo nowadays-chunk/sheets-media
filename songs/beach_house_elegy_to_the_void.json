@@ -1,0 +1,558 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/b/beachhouse-tabs-35018/elegytothevoid-tabs-890078.html",
+  "title": "Elegy to the Void",
+  "artist": "Beach House",
+  "key": null,
+  "scrapedAt": "2025-12-17T06:51:50.789Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "capo 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "To your sons and dau"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ghters"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Bending at the a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ltar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Disappearin"
+            },
+            {
+              "chord": "D",
+              "lyrics": "g in the mi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rror"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Watch it as it burns"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(It is just a flame)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Freckle faced young v"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "irgin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(It is just a game)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Platinum vi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sion"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bringing you down ag"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ain and a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Again and a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Black clock looming di"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "stant"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're a great white"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "They were never li"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "stening"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Waiting for the li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ght to c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ome ag"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Deep ben"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eath the wa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ves"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Lilies"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "of the"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Garden"
+            },
+            {
+              "chord": "A",
+              "lyrics": "of rem"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ains"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": "Diamond m"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "aiden cha"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ined"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To your sons and dau"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ghters"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Bending at the a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ltar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Don't you disa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ppear in the mirror"
+            },
+            {
+              "chord": "A",
+              "lyrics": "again and a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Again and a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Instrumental)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Deep ben"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eath the wa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ves"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "White-winged b"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "irds of"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "May"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Run from ho"
+            },
+            {
+              "chord": "A",
+              "lyrics": "llow hi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": "Walk i"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "nto the n"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "eep ben"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eath the wa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ves"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "L"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ilies"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "of the"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Run from ho"
+            },
+            {
+              "chord": "A",
+              "lyrics": "llow hi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "alk i"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "nto the n"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Deep ben"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eath the wa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ves"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "White-winged b"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "irds of"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "May"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Run from ho"
+            },
+            {
+              "chord": "A",
+              "lyrics": "llow hi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": "Walk i"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "nto the n"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ight"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

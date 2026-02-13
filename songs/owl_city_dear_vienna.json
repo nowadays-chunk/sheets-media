@@ -1,0 +1,666 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/o/owl-city/318743.html",
+  "title": "Dear Vienna",
+  "artist": "Owl City",
+  "key": null,
+  "scrapedAt": "2025-12-16T23:24:34.185Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Songwriter: Adam Randal Young"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Comment: Chords in brackets are kinda optional, but they go well along the melody :)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*****"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Dear Vienna)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "I reg"
+            },
+            {
+              "chord": "(Ab)",
+              "lyrics": "arded the"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "world as"
+            },
+            {
+              "chord": "(Db)",
+              "lyrics": "such a sad sight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "Until"
+            },
+            {
+              "chord": "(Ab)",
+              "lyrics": "I viewed it in b"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "lack and w"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "hite"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "Then"
+            },
+            {
+              "chord": "(Ab)",
+              "lyrics": "I reviewed every"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "frame and"
+            },
+            {
+              "chord": "(Ebm)",
+              "lyrics": "basic"
+            },
+            {
+              "chord": "(Db)",
+              "lyrics": "shape"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "And sealed the e"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "xits with"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "caution"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "tape"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Dear Vienna)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "Don't"
+            },
+            {
+              "chord": "(Ab)",
+              "lyrics": "refocus your"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "eyes in the"
+            },
+            {
+              "chord": "(Db)",
+              "lyrics": "darkness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "And don't re"
+            },
+            {
+              "chord": "(Ab)",
+              "lyrics": "member this p"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lace un"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "less"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "I describe"
+            },
+            {
+              "chord": "(Ab)",
+              "lyrics": "all the"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "things that you"
+            },
+            {
+              "chord": "(Ebm)",
+              "lyrics": "cannot"
+            },
+            {
+              "chord": "(Db)",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "And we'll"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "unravel the"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "myst"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ery"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Same as *****, no vocals) :)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Farewell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All my"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "friends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In t"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "extbooks"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "going home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause my"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "blood cells"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cannot de"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "pend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On the"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "weather"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In p"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "hotographs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's a l"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "ight show"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Out my"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "window"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Some"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "where"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Way up"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ebm or Db"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dear Vienna, are you singing?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dear Vi"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "enna, are you swinging?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dear Vi"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "enna, we were happy like the shades of"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "May"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When we got carried a"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Dear Vienna)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "***** Again :)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "then,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INSTRUMENTAL and INTERLUDE (same chords as VERSE 1):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "I was so far out of"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Watching those stars in outer"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "space"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause I am so far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From w"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "here you are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "There's a light show"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(There's a light show)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Out my window"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Out my window)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "Somewhere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Somewhere)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "Way up there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Way up there)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dear"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "Vienna, are you singing?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dear"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "Vienna, are you swinging?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dear"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "Vienna, we were happy like the shades of M"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When we got carried aw"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Dear Vienna)..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

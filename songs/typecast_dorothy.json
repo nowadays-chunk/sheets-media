@@ -1,0 +1,378 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/typecast/59625.html",
+  "title": "Dorothy",
+  "artist": "Typecast",
+  "key": null,
+  "scrapedAt": "2025-12-17T00:55:42.389Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "TILE:dorothy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ARTIST:TYPECAST"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intro:D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "it was saturday and i'm"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "waiting for my friends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and then you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "came..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A break"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and you dazzled me with the way you walk near me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "REFRAIN 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "then i thought i would"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "approach you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but it makes no"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sense"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "because"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you're with your boyfriend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and i"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "know i can never skate the wa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "y he does"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "growls the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way he growls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the way he"
+            },
+            {
+              "chord": "A",
+              "lyrics": "dress so cool"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and i"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "know i can never be the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "same like him"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "cool like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "him"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but that's just"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "i was playing my guitar when"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "you passed by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "body got so heavy,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "i cant move my fingers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "REFRAIN 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "and then you sat in front of"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "feel you're staring at me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you could see me shiver"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(REPEAT CHORUS)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE:(REPEAT 2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i"
+            },
+            {
+              "chord": "D",
+              "lyrics": "'m a little older,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "but then i feel so young"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "even if your boyfriend kicks my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ass its alright i see you there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ending:D break"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "END"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "thank you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "franxis_sopoco8293@yahoo.com(friendster)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1414 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/s/steel_pulse/bodyguard_crd.html",
+  "title": "Bodyguard",
+  "artist": "Steel Pulse",
+  "key": null,
+  "scrapedAt": "2025-12-16T17:38:35.188Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...BODYGUARD... by Steel Pulse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*from 'Earth Crisis' (1984)*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m G#m, F#m G#m A, G#m"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m G#m, F#m G#m, Dmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m A, G#m (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Every time you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "meet,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "public,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "You get scared and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Start to pa-"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "nic."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "who,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "got a gun?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A who"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "got a bomb?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Who,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "got a knife?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A who's gonna"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "lose their life?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "So-called leaders,"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With deceitful"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "faces,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cor-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ruption,"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "In a high place."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "hands filled with bribes;"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mouth pours out lies,"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "yea."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Cause of all op-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "pression now,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Running for pro-"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "tection."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Bodyguard,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wouldn't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "like your job"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Snakes in the grass),"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Say they"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "know not God."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Poly-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "tricksters,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Drinking"
+            },
+            {
+              "chord": "A",
+              "lyrics": "human blood,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(A concrete heart),"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "hold no love."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m A, G#m"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "just can't sorry,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bodyguard."
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Bullet-proof vest,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Strapped to your chest,"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Under your collar,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is"
+            },
+            {
+              "chord": "A",
+              "lyrics": "getting hot."
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "who,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "got a gun?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A who"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "got a bomb?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Who,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "got a knife?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A who's gonna"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "lose their life?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Bodyguard,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wouldn't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "like your job"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Snakes in the grass),"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Say they"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "know not God."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Poly-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "tricksters,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Drinking"
+            },
+            {
+              "chord": "A",
+              "lyrics": "human blood,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(A concrete heart),"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "hold no love."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Bodyguard,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wouldn't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "like your job"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Snakes in the grass),"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Say they"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "know not God."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Poly-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "tricksters,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Drinking"
+            },
+            {
+              "chord": "A",
+              "lyrics": "human blood,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(A concrete heart),"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "hold no love."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Break:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m B, C#m F#7,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m B, G#7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/s/steel_pulse/bodyguard_crd.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m B, C#m F#7,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m, F#m G#m, Dmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Hey, hey,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feel no way,"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "just can't sorry,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bodyguard."
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "who,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "got a gun?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A who"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "got a bomb?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Who,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "got a knife?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A who's gonna"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "lose their life?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Bodyguard,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wouldn't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "like your job"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Snakes in the grass),"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Say they"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "know not God."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Poly-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "tricksters,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Drinking"
+            },
+            {
+              "chord": "A",
+              "lyrics": "human blood,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(A concrete heart),"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "hold no love."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 5:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Bodyguard,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wouldn't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "like your job"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Snakes in the grass),"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Say they"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "know not God."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Poly-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "tricksters,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Drinking"
+            },
+            {
+              "chord": "A",
+              "lyrics": "human blood,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(A concrete heart),"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "hold no love."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coda:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Watch it all you presidents,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Boo!"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Heads of government,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Boo!"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Mash down parliaments,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Boo!"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "just can't sorry,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bodyguard."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(A who's gonna"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "lose their life?)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "just can't sorry,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bodyguard."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(A who's gonna"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "lose their life?)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All that"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "fretting,"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All that checking."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Gonna"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "lose their life?)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All that"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "searching,"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For assassin"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "hey!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Fade)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORD DIAGRAMS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx6654"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xxx444"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xxx222"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx7655"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "x57675"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx9877"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xxx656"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xxx878"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "_ __ __ | __| __ __"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| | _ _ | \\ / | | |__ \\ \\ / /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "_____ | | | | | | | | |__ | \\ \\/ /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| ___| | | | | | | | |\\_/| | __| | \\ /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| |= = | | | |_| | | | = | | |____| | |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| | | | |_____| | | | | = = = | |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| |___ | | = = = | | | | | |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|_____| | | |_| |_| | |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "= = = | |_____ = = Tabbed by |_|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|_______| Joel from cLuMsY, 2008 ="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "= = = = (clumsyband@hotmail.com)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

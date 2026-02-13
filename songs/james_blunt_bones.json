@@ -1,0 +1,766 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/j/james_blunt/bones_crd.html",
+  "title": "Bones",
+  "artist": "James Blunt",
+  "key": null,
+  "scrapedAt": "2025-12-16T17:42:07.070Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Kwint & Troy (from Sir Jupiter)."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hope you enjoy this song, and don't forget to check out our band Sir Jupiter here :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "https://www.facebook.com/sirjupiter"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist : James Blunt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song : Bones"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album : Moon Landing"
+            },
+            {
+              "chord": "2013",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO IV"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used in CHORUS and BRIDGE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9"
+            },
+            {
+              "chord": "x32033",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G"
+            },
+            {
+              "chord": "320033",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7"
+            },
+            {
+              "chord": "022033",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D"
+            },
+            {
+              "chord": "xx0232",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(You can also just play C G Em D, but this sounds more accurate)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I have never been a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beautiful boy,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Never liked the sound of"
+            },
+            {
+              "chord": "D",
+              "lyrics": "my own voice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I wasn'’t cool when"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I was in my teens"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I never slept but I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "did have dreams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And as I step out in this"
+            },
+            {
+              "chord": "G",
+              "lyrics": "big old world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Seven billion just"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tryin' to cope and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Every one of us some"
+            },
+            {
+              "chord": "G",
+              "lyrics": "day will die but"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Today I never felt"
+            },
+            {
+              "chord": "D",
+              "lyrics": "more alive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "feel it coming?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you feel it coming?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you feel it, feel it, feel it?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Running through your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "bo-o-on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "es?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Running through your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "b-o-one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah you set my"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "heart on fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it&#"
+            },
+            {
+              "chord": "D",
+              "lyrics": "146;s all hard-wired"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "to my b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o-o-ones"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I can count all the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "things I fear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I close my eyes but they don'&#"
+            },
+            {
+              "chord": "D",
+              "lyrics": "146;t disappear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "If there'’s a God then the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "re’s a guarantee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "But if there’'s not it'&"
+            },
+            {
+              "chord": "D",
+              "lyrics": "#146;s just you and me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "feel it coming?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you feel it coming?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you feel it, feel it, feel it?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Running through your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "bo-o-on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "es?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Running through your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "b-o-one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah you set my"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "heart on fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it&#"
+            },
+            {
+              "chord": "D",
+              "lyrics": "146;s all hard-wired"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "to my b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o-o-ones"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "kiss me before the"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "sun falls down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Run before your l"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "egs give way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "Swallow it all t"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ill you drown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "feel it coming?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you feel it coming?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you feel it, feel it, feel it?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Running through your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "bo-o-on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "es?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Running through your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "b-o-one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah you set my"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "heart on fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it&#"
+            },
+            {
+              "chord": "D",
+              "lyrics": "146;s all hard-wired"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "to my b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o-o-ones"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Running through your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "b-o-one"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah you set my"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "heart on fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it&#"
+            },
+            {
+              "chord": "D",
+              "lyrics": "146;s all hard-wired"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "to my b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o-o-ones"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Running through my b-"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "o-ones?"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Running through my b-"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "o-ones?"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you have any suggestions/corrections, please let us know in the comments!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

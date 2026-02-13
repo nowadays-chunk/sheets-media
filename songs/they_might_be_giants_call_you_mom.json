@@ -1,0 +1,802 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/they-might-be-giants/349843.html",
+  "title": "Call You Mom",
+  "artist": "They Might Be Giants",
+  "key": null,
+  "scrapedAt": "2025-12-16T19:42:31.978Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CALL YOU MOM - They Might Be Giants"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard Tuning (EADGBe)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*Chords sound better in barred position,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and anything in parenthesis are optional."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F... F... F... E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I think I'd like to call you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Mo"
+            },
+            {
+              "chord": "(F7",
+              "lyrics": "m"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause you remind me of my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "mom"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna go put on my"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sailor suit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "we'll go out on the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "town"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Why don't you let me call you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "th"
+            },
+            {
+              "chord": "(F7",
+              "lyrics": "at?"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're acting so much like my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "mom"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She didn't like it when I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "called her name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "You and her are the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "same"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When we go"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'll know"
+            },
+            {
+              "chord": "D",
+              "lyrics": "someone is there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You will"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "feel someone staring at"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're on my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "dream of the game"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where I'm"
+            },
+            {
+              "chord": "B",
+              "lyrics": "rolling a hoop"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "turn around to find that you are"
+            },
+            {
+              "chord": "A",
+              "lyrics": "go"
+            },
+            {
+              "chord": "(F7",
+              "lyrics": "ne"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Which was exactly like my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "mom"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I will go hang up my"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sailor suit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "lie face-down on the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lawn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A (F7 E7 A) F#m B..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm... Dm... A..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When we go"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'll know"
+            },
+            {
+              "chord": "D",
+              "lyrics": "someone is there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You will"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "feel someone staring at"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're on my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "dream of the game"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where I'm"
+            },
+            {
+              "chord": "B",
+              "lyrics": "rolling a hoop"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "turn around to find that you are"
+            },
+            {
+              "chord": "A",
+              "lyrics": "go"
+            },
+            {
+              "chord": "(F7",
+              "lyrics": "ne"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Which was exactly like my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "mom"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I will go hang up my"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sailor suit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "lie face-down on the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lawn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A Bb B C Db D Eb E F... E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I see you moving towards the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "do"
+            },
+            {
+              "chord": "(F7",
+              "lyrics": "or"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause you don't trust me any"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "more"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I need to find someone who's"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "nice to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "way that you used to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And then I'm gonna call her"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Yo"
+            },
+            {
+              "chord": "(F7",
+              "lyrics": "u"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause she'll remind me of"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "you"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna dress her in a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sailor suit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "That would look very"
+            },
+            {
+              "chord": "A",
+              "lyrics": "cute"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When we go"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She'll know"
+            },
+            {
+              "chord": "D",
+              "lyrics": "someone is there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She will"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "feel someone staring at"
+            },
+            {
+              "chord": "A",
+              "lyrics": "her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's on my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "dream of the game"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where she's"
+            },
+            {
+              "chord": "B",
+              "lyrics": "rolling a hoop"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And she"
+            },
+            {
+              "chord": "E",
+              "lyrics": "turns around to find that I am"
+            },
+            {
+              "chord": "A",
+              "lyrics": "go"
+            },
+            {
+              "chord": "(F7",
+              "lyrics": "ne"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Which was exactly like her"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "mom"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And she will go hang up her"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sailor suit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "lie face-down on the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lawn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm... Dm... A... B..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm... Dm... A..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

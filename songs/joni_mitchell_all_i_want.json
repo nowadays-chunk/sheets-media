@@ -1,0 +1,850 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/joni-mitchell/127162.html",
+  "title": "All I Want",
+  "artist": "Joni Mitchell",
+  "key": null,
+  "scrapedAt": "2025-12-16T11:29:25.803Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#...ALL I WANT... by Joni Mitchell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#*from 'Blue' (1971)*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#*CAPO 7th FRET*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#(Original Key: D)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I am on a lonely road,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "I am"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "traveling,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Looking for"
+            },
+            {
+              "chord": "C",
+              "lyrics": "something,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "What can it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "be?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "hate you some,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "some,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "love you some,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "love you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "When I for-"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "get about"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "strong,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "long,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "long,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "living."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "light,        D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to get up and jive,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "stockings,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "dive."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Do you want, do you want,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do you want,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "dance with me baby?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "take a chance,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On maybe finding some,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Sweet romance with me baby?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "come on."
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All I really,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "want our"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "love to do,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "bring out the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "best in"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "you too."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All I really,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "want our"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "love to do,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "bring out the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "best in"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "you too."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "to you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "through you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "new you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "gain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "plause,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "cause,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "kisses,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "saws."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Do you see, do you see,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do you see,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "hurt me baby?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "you too,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "blue."
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I am on a lonely road,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "I am"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "traveling,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Traveling, traveling,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Looking for the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "key,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "set me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "free."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "jealousy,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "the un-"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "raveling,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's the unraveling,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "undoes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "All the"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "joy that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "could be."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "fun,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to shine,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "sun,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "one,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "to see."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I want to knit,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "sweater,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to write you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "letter,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to make you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Feel better,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "feel..."
+            },
+            {
+              "chord": "D",
+              "lyrics": "free!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "hmm, hmm,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Want to make you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "free."
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

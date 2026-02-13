@@ -1,0 +1,134 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/p/pappo/82413.html",
+  "title": "Blues de Santa Fe",
+  "artist": "Pappo",
+  "key": null,
+  "scrapedAt": "2025-12-16T17:30:50.906Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: E5 D5 A5 E5 A5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Oh yeah!"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "este es el blues de Santa Fe"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ";"
+            },
+            {
+              "chord": "A5-B5-C5-C#5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "oh yeah!"
+            },
+            {
+              "chord": "D5-C5-",
+              "lyrics": "este es el bl"
+            },
+            {
+              "chord": "B5-",
+              "lyrics": "ues de"
+            },
+            {
+              "chord": "Bb5",
+              "lyrics": "Santa"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "Fe;"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tu tienes blues, con este blues de Santa Fe."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo: (A5 D5 A5 A5 D5 D5 A5 A5 E5 D5 A5 E5)x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Acom"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "p��ame, te mostrar�,"
+            },
+            {
+              "chord": "D5-C5-B5-Bb5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "unos c"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "ampos, en Santa Fe,"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "oh yeah!, este es el blues de Santa Fe;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tu tienes blues, con este blues de Santa Fe."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

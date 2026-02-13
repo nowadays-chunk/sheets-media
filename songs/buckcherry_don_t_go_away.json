@@ -1,0 +1,938 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/b/buckcherry/dont_go_away_crd_ver_2.html",
+  "title": "Don't Go Away",
+  "artist": "Buckcherry",
+  "key": null,
+  "scrapedAt": "2025-12-17T00:37:09.118Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't Go Away (From the album \"Black Butterfly\")"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pretty standard fare here, nothing too difficult. There could be three"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "possibly four guitars playing on this one at different parts, but this tab"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "is pretty much the simplified version of the song for one or two players."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sounds great played through acoustics as well. Not quite sure of the F#m in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the chrous but I like the feel of it better than an F#."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ = slide up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\\ = slide down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "b = bend (whole step)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "b^ = bend (1/2 step)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "b^^ = bend (1 1/2 steps)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "pb = pre-bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "r = release-bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "t^ = tap with righthand finger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "h = hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "p = pull-off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~ = Vibrato"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* = Natural Harmonic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "** = Artificial Harmonic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x = Dead notes (no pitch)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "P.M. = Palm mute (- -> underneath indicates which notes)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(\\) = Dive w\\bar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(/) = Release w\\bar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tp = Tap w\\plectrum"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Riff 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Riff 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In my"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "darkest state of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mind, I am"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "riddled with des"
+            },
+            {
+              "chord": "A",
+              "lyrics": "pair."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "try and close my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eyes, Your"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "voice is all I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hear."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I will"
+            },
+            {
+              "chord": "G",
+              "lyrics": "think of you to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "night"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", I will"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hold back all my"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tears."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "G",
+              "lyrics": "waited all these ye"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ars."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chrous:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please don't go aw"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ay, You're making a mi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "stake."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You and I were m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "eant to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "be."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You opened up my e"
+            },
+            {
+              "chord": "D",
+              "lyrics": "yes, And made me real"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ize."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now it's changing e"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "verything"
+            },
+            {
+              "chord": "G",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's crazy how I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "feel this"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "way, I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "can't exp"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G Riff 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't go away."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I see your"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "shadow all the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "time, I see your"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "face inside my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mirror."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sunset in the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sky, You dist"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ract me from my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "fears."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I keep"
+            },
+            {
+              "chord": "G",
+              "lyrics": "holding it in"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "side,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "And I w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ish that you were n"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ear."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "It's better when You're"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "here."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chrous:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please don't go aw"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ay, You're making a mi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "stake."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You and I were m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "eant to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "be."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You opened up my e"
+            },
+            {
+              "chord": "D",
+              "lyrics": "yes, And made me real"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ize."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now it's changing e"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "verything"
+            },
+            {
+              "chord": "G",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's crazy how I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "feel this"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "way, I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "can't exp"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't go"
+            },
+            {
+              "chord": "G",
+              "lyrics": "away."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "All the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "things you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "said, And"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "all the g"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ames we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "played."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will come back to"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you, See the look in your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eyes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Ooooh, don't go away."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo 1: G-Bm-A-G-F#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Refrain:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please don't go"
+            },
+            {
+              "chord": "D",
+              "lyrics": "away, You're making a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mistake."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You and I were"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "meant to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "be."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chrous:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please don't go aw"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ay, You're making a mi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "stake."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You and I were m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "eant to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "be."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You opened up my e"
+            },
+            {
+              "chord": "D",
+              "lyrics": "yes, And made me real"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ize."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now it's changing e"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "verything"
+            },
+            {
+              "chord": "G",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's crazy how I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "feel this"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "way, I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "can't exp"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Why I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "feel this"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "way, it's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hard to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "say."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wanna"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "make you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "see, what you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mean to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G Riff 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't go away."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

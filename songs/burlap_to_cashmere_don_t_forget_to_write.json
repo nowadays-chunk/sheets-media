@@ -1,0 +1,870 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/b/burlap_to_cashmere/dont_forget_to_write_crd.html",
+  "title": "Don't Forget to Write",
+  "artist": "Burlap to Cashmere",
+  "key": null,
+  "scrapedAt": "2025-12-17T00:36:01.166Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Burlap To Cashmere - Don't Forget to Write"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Thanks to a friend for writing me about this song :)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "live: www.youtube.com/watch?v=mEXFDc95jTY"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "live: www.youtube.com/watch?v=1JCJqQCteoA"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "video: www.youtube.com/watch?v=LUmnpYwfsTk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key of Bb --> Capo 3: G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's a bit confusing to notate a song relative to a capo and then have parts, like the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intro here, played with bar chords. The first bar chord is a Cm, but since we need to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "keep the notation of the capo it's Am (and the numbers are relative to the capo). The"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "capo is used to make the quick pulls used throughout the song possible."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "x x 7 9 10 9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Emaj7"
+            },
+            {
+              "chord": "x79897",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G"
+            },
+            {
+              "chord": "xx5787",
+              "lyrics": "or? Gmaj7"
+            },
+            {
+              "chord": "xx5777",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dmaj7"
+            },
+            {
+              "chord": "x57675",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F"
+            },
+            {
+              "chord": "xx3565",
+              "lyrics": "or? Fmaj7"
+            },
+            {
+              "chord": "xx3555",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj7"
+            },
+            {
+              "chord": "x.5453",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D"
+            },
+            {
+              "chord": "xx0232",
+              "lyrics": "or sometimes he plays D*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G"
+            },
+            {
+              "chord": "320003",
+              "lyrics": ""
+            },
+            {
+              "chord": "3x0003",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G"
+            },
+            {
+              "chord": "3x2013",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C"
+            },
+            {
+              "chord": "x32010",
+              "lyrics": ""
+            },
+            {
+              "chord": "x32013",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D*"
+            },
+            {
+              "chord": "554030",
+              "lyrics": "(open C slid up 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em"
+            },
+            {
+              "chord": "022000",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7"
+            },
+            {
+              "chord": "x21202",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G(C/G) combo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G played with pinky and 3rd finger slightly muting 5th string so that hammering 5th"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "lowers string and sounds. Then first two fingers make the C/G (C with G in the base) pulling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "off on each strum."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The Gs at the ends of lines are played like that."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Keep your eyes on the"
+            },
+            {
+              "chord": "Emaj7",
+              "lyrics": "new day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You and me we are the"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "same"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Shout it out on the"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "horizon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "don't forget to change your"
+            },
+            {
+              "chord": "G(C/G)",
+              "lyrics": "name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am at"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ease, the ocean's near, the sun is s"
+            },
+            {
+              "chord": "G(C/G)",
+              "lyrics": "inking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The moon is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tame, the fever's gone, and I fee"
+            },
+            {
+              "chord": "G",
+              "lyrics": "l fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Oh, bab"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "y, and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don't for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "get to"
+            },
+            {
+              "chord": "G(C/G)",
+              "lyrics": "write"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Que"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sera sera I am an"
+            },
+            {
+              "chord": "C",
+              "lyrics": "orp"
+            },
+            {
+              "chord": "G",
+              "lyrics": "han"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Though I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "see the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "world as ne"
+            },
+            {
+              "chord": "D",
+              "lyrics": "w"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do you re"
+            },
+            {
+              "chord": "G",
+              "lyrics": "member"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "when the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "clouds were"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "shining"
+            },
+            {
+              "chord": "G(C/G)",
+              "lyrics": "through"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am at"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ease the ocean's near I see you smi"
+            },
+            {
+              "chord": "G(C/G)",
+              "lyrics": "ling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your eyes re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "deem my foolish ways and you are"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Oh baby"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don't for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "get to"
+            },
+            {
+              "chord": "G(C/G)",
+              "lyrics": "write"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Instrumental D G D G B7 Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don't f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "orget to."
+            },
+            {
+              "chord": "G(C/G)",
+              "lyrics": ".."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am at"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ease the ocean's near the sun is s"
+            },
+            {
+              "chord": "G(C/G)",
+              "lyrics": "inking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The eastern"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wind reveals your name across the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Oh I love yo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "u and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don't for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "get to"
+            },
+            {
+              "chord": "G(C/G)",
+              "lyrics": "write"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Que"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sera sera I am an"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oce"
+            },
+            {
+              "chord": "G",
+              "lyrics": "an"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sa-ailing"
+            },
+            {
+              "chord": "D",
+              "lyrics": "to be"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do you re"
+            },
+            {
+              "chord": "G",
+              "lyrics": "member"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "when it was"
+            },
+            {
+              "chord": "C",
+              "lyrics": "beautiful forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Was"
+            },
+            {
+              "chord": "G",
+              "lyrics": "blind but"
+            },
+            {
+              "chord": "D",
+              "lyrics": "now I"
+            },
+            {
+              "chord": "G(C/G)",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Lai Lai Lai.."
+            },
+            {
+              "chord": "G(C/G)",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Lai Lai Lai.."
+            },
+            {
+              "chord": "G",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Oh bab"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "y and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "forget to"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "write"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7 C D* G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh my darling..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7 Em C D*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G(C/G) G(C/G) G(C/G)....."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh baby and don't, forget, to, write"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "--Art"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

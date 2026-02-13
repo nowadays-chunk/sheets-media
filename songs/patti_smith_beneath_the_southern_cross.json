@@ -1,0 +1,602 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/p/patti-smith/322176.html",
+  "title": "Beneath the Southern Cross",
+  "artist": "Patti Smith",
+  "key": null,
+  "scrapedAt": "2025-12-16T15:56:10.062Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song information: the song's signature meter is 12/8. BPM is around 100. Listen to the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "song for the strumming pattern and accents (first chord of the bar is louder than the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "others). Mostly the pattern consists of downstrokes, but there are variations. Give"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "attention to the rhythm."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Play the first chord of the bar fully, the other chords only the 'higher sounding' ones."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chord voicings:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D: x00232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus4: x00230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: xx0033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D en G actually have other names (D/A, G/D), but I call them D and G for readability of"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the chord chart."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus4 G x3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "not a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nyone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "this"
+            },
+            {
+              "chord": "D",
+              "lyrics": "maze of being"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "skin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "not"
+            },
+            {
+              "chord": "D",
+              "lyrics": "any cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "mournful that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "dove just"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "laughs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the steadfast"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gasps"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "owe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "not"
+            },
+            {
+              "chord": "D",
+              "lyrics": "anyone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "not"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but"
+            },
+            {
+              "chord": "D",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "forsaking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "equatorial bliss"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "who"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "walked through"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "callow mist"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "dressed in scraps"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "who"
+            },
+            {
+              "chord": "D",
+              "lyrics": "walked"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "curve of the world"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "whose"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "bone scraped"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "whose"
+            },
+            {
+              "chord": "D",
+              "lyrics": "flesh unfurled"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "who"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "grieves not"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "anyone gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "greet"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "inspired sky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "amazed to stumble"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "where"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "gods get"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "beneath"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "southern cross"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D Asus4 (x5)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D G (x4) D D Asus4 D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "(chord"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s played over Jeff Buckley's vocal)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coda:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "cross over boy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "cross over"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

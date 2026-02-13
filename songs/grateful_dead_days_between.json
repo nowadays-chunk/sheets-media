@@ -1,0 +1,774 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/grateful-dead/188010.html",
+  "title": "Days Between",
+  "artist": "Grateful Dead",
+  "key": null,
+  "scrapedAt": "2025-12-16T23:13:17.389Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(ROBERT HUNTER/JERRY GARCIA)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NOTE: I tried to ensure that I replaced all the \"Tab stops\" from Notepad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with spaces, but I may have missed some. If something doesn't sound right,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "play the offending chord(s) a few beats later and it should work out . . ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 2nd Fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "There were days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "and there were"
+            },
+            {
+              "chord": "A",
+              "lyrics": "day"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "there were days be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tween"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Summer flies and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "August dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "the world grows dark and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Comes the shimmer of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "on black infested"
+            },
+            {
+              "chord": "C",
+              "lyrics": "trees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "the singing man is at his"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "the holy on their"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "knees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "The reckless are out"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wrecking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "The timid plead their"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "pleas"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "No one knows much"
+            },
+            {
+              "chord": "C",
+              "lyrics": "more of this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G D C Em (Intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "than anyone can see can see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "There were days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "and there were"
+            },
+            {
+              "chord": "A",
+              "lyrics": "day"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "there were days bes"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ides"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "when phantom ships with"
+            },
+            {
+              "chord": "C",
+              "lyrics": "phantom sails"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "set to sea on phantom"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tides"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Comes the lightning of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "on bright unfocused"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "the blue of yet another"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "a springtime wet with"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sighs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "a hopeful candle"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lingers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "in the land of lulla"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "bies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "where headless horsemen"
+            },
+            {
+              "chord": "C",
+              "lyrics": "vanish"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G D C Em (Intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with wild and lonely cries lonely cries"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "There were days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "and there were"
+            },
+            {
+              "chord": "A",
+              "lyrics": "day"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "there were days I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "when all we ever"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wanted"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "was to learn and love and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "grow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Once we grew into our"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shoes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "we told them where to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Walked halfway around the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "on promise of the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "glow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Stood upon a mountain"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "top"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Walked barefoot in the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "snow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Gave the best we had to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "give"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G D C Em (Intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How much we'll never know never know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "There were days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "and there were"
+            },
+            {
+              "chord": "A",
+              "lyrics": "day"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "there were days"
+            },
+            {
+              "chord": "C",
+              "lyrics": "between"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "polished like a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "golden bowl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The finest ever"
+            },
+            {
+              "chord": "D",
+              "lyrics": "seen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Hearts of Summer"
+            },
+            {
+              "chord": "C",
+              "lyrics": "held in trust"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "still tender, young and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "green"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "left on shelves co"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "llecting dust"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "not knowing what they"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "mean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Valentines of"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "flesh and blood"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "as soft as velve"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "teen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "hoping love would not"
+            },
+            {
+              "chord": "C",
+              "lyrics": "forsake"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G D C Em (Intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the days that lie between lie between"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Fade out. . .)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(h) Hammer On"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO 2ND FRET"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Note: Thanks to the folks over at rukind.org for getting me started on this."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Hey, now, get back truckin' on . . .\""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

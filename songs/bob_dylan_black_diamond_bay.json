@@ -1,0 +1,890 @@
+{
+  "url": "https://www.chordie.com/chord.pere/dylanchords.info/18_desire/black_diamond_bay.htm",
+  "title": "Black Diamond Bay",
+  "artist": "Bob Dylan",
+  "key": null,
+  "scrapedAt": "2025-12-16T16:44:51.628Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\" encoding=\"UTF-8\"?>"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Black Diamond Bay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Black Diamond Bay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Words and Music Bob Dylan and Jacques Levy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Released on Desire (1976)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Eyolf Østrem"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "“C/B” (or just /B when following a C) is shorthand for x20010 in the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "descending bass figure:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It is not obvious which chord ends the lines 7 and 9. I've chosen the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/B, since it matches both the b of the vocal and the c"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "of the violin, but both a plain C, G or even D7 are playable."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Up on the white veranda"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "She wears a necktie and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Panama hat."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Her passport shows a face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From"
+            },
+            {
+              "chord": "C",
+              "lyrics": "another time and place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She looks"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nothin' like that."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And all the remnants of her"
+            },
+            {
+              "chord": "C",
+              "lyrics": "re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "cent"
+            },
+            {
+              "chord": "C",
+              "lyrics": "past"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/B",
+              "lyrics": "Are"
+            },
+            {
+              "chord": "G",
+              "lyrics": "scattered in the wild wind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "walks across the marble floor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "voice"
+            },
+            {
+              "chord": "D",
+              "lyrics": "from the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "gambling"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "room"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "callin' her to come on in."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "smiles, walks the other"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "last"
+            },
+            {
+              "chord": "/B",
+              "lyrics": "ship"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sails"
+            },
+            {
+              "chord": "G",
+              "lyrics": "and the"
+            },
+            {
+              "chord": "D(/F#)",
+              "lyrics": "moon fades a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Black"
+            },
+            {
+              "chord": "/B",
+              "lyrics": "Dia"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "mond"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Bay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the mornin' light breaks open, the Greek comes down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And he asks for a rope and a pen that will write."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Pardon, monsieur,\" the desk clerk says,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Carefully removes his fez,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Am I hearin' you right?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And as the yellow fog is liftin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The Greek is quickly headin' for the second floor."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She passes him on the spiral staircase"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Thinkin' he's the Soviet Ambassador,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She starts to speak, but he walks away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the storm clouds rise and the palm branches sway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On Black Diamond Bay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A soldier sits beneath the fan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Doin' business with a tiny man who sells him a ring."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lightning strikes, the lights blow out."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The desk clerk wakes and begins to shout,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Can you see anything?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then the Greek appears on the second floor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In his bare feet with a rope around his neck,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "While a loser in the gambling room lights up a candle,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Says, \"Open up another deck.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But the dealer says, \"Attendez-vous, s'il vous plait,”"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the rain beats down and the cranes fly away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From Black Diamond Bay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The desk clerk heard the woman laugh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As he looked around the aftermath and the soldier got tough."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He tried to grab the woman's hand,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Said, \"Here's a ring, it cost a grand.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She said, \"That ain't enough.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then she ran upstairs to pack her bags"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "While a horse-drawn taxi waited at the curb."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She passed the door that the Greek had locked,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where a handwritten sign read, \"Do Not Disturb.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She knocked upon it anyway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the sun went down and the music did play"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On Black Diamond Bay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"I've got to talk to someone quick!\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But the Greek said, \"Go away,\" and he kicked the chair to the floor."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He hung there from the chandelier."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She cried, \"Help, there's danger near"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please open up the door!\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then the volcano erupted"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the lava flowed down from the mountain high above."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The soldier and the tiny man were crouched in the corner"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Thinking of forbidden love."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But the desk clerk said, \"It happens every day,\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the stars fell down and the fields burned away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On Black Diamond Bay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the island slowly sank"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The loser finally broke the bank in the gambling room."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The dealer said, \"It's too late now."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can take your money, but I don't know how"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'll spend it in the tomb.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The tiny man bit the soldier's ear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the floor caved in and the boiler in the basement blew,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "While she's out on the balcony, where a stranger tells her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"My darling, je vous aime beaucoup.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She sheds a tear and then begins to pray"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the fire burns on and the smoke drifts away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From Black Diamond Bay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was sittin' home alone one night in L.A.,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Watchin' old Cronkite on the seven o'clock news."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It seems there was an earthquake that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Left nothin' but a Panama hat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And a pair of old Greek shoes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Didn't seem like much was happenin',"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I turned it off and went to grab another beer."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Seems like every time you turn around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's another hard-luck story that you're gonna hear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And there's really nothin' anyone can say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I never did plan to go anyway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To Black Diamond Bay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Eyolf Østrem - dylanchords.info"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

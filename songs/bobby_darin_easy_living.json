@@ -1,0 +1,406 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/easylivi.htm",
+  "title": "Easy Living",
+  "artist": "Bobby Darin",
+  "key": null,
+  "scrapedAt": "2025-12-17T06:36:18.920Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "AM7",
+              "lyrics": "Living for"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "you"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "is easy"
+            },
+            {
+              "chord": "F7-9",
+              "lyrics": "living"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "easy to"
+            },
+            {
+              "chord": "F#7-9",
+              "lyrics": "live"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "when you're in"
+            },
+            {
+              "chord": "E7-9",
+              "lyrics": "love"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "AM7/9",
+              "lyrics": "so in"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love there's"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "nothing in"
+            },
+            {
+              "chord": "E7/6",
+              "lyrics": "life"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "but"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "you"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fdim",
+              "lyrics": "I n"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "ever re"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "gret"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "the years I'm"
+            },
+            {
+              "chord": "F7-9",
+              "lyrics": "giving"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They're"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "easy to"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "give"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": ""
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "when you're in"
+            },
+            {
+              "chord": "E7-9",
+              "lyrics": "love"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "hap"
+            },
+            {
+              "chord": "AM7/9",
+              "lyrics": "- py to"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "do wha"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "tever I"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "do"
+            },
+            {
+              "chord": "E7/6",
+              "lyrics": "for y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ou"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For"
+            },
+            {
+              "chord": "FM7",
+              "lyrics": "you"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "maybe I'm a f"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "ool,"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "but its"
+            },
+            {
+              "chord": "FM7",
+              "lyrics": "fun;"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "People say you r"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "ule"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "me with"
+            },
+            {
+              "chord": "FM7",
+              "lyrics": "one"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "wave of your"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "hand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Darling, its"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "grand"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "-- they j"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ust don't"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "unders"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "tand"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "AM7",
+              "lyrics": "Living for"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "you"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "is easy"
+            },
+            {
+              "chord": "F7-9",
+              "lyrics": "living"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "easy to"
+            },
+            {
+              "chord": "F#7-9",
+              "lyrics": "live"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "when you're in"
+            },
+            {
+              "chord": "G7-9",
+              "lyrics": "love"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "AM7/9",
+              "lyrics": "so in"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "love there's"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "nothing in"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "life"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "but y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ou."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

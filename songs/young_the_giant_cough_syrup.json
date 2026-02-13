@@ -1,0 +1,534 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/y/young-the-giant/296710.html",
+  "title": "Cough Syrup",
+  "artist": "Young the Giant",
+  "key": null,
+  "scrapedAt": "2025-12-16T22:10:10.438Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "COUGH SYRUP - Young the Giant"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by:McAvro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning:Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo at 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The other tabs for this song didn't quite get the right picking pattern."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm fairly certain that the intro is correct,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "although the strumming pattern after the first chorus is open for interpretation."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Any corrections are welcome."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Life's too short to even care at all"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'm losing my mind losing my mind losing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "control"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "These fishes in the sea they're staring at me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh oh oh oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "A wet world aches for a beat of a drum"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "If I could find a way to see this straight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'd run away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To some fortune that"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "should have found"
+            },
+            {
+              "chord": "G",
+              "lyrics": "by now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm waiting for t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "his cough"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "syrup to come"
+            },
+            {
+              "chord": "G",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse 2, strumming)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Life's too short to even care at all"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'm coming up now coming up now out of the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "blue oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "These zombies in the park they're looking for my heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh oh oh oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "A dark world aches for a splash of the sun"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "If I could find a way to see this straight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'd run away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To some fortune that"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I I should"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "have found by"
+            },
+            {
+              "chord": "G",
+              "lyrics": "now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And so I run to the things they said could"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "restore me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Restore life the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way it should be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm waiting for this"
+            },
+            {
+              "chord": "F",
+              "lyrics": "cough"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "syrup to come"
+            },
+            {
+              "chord": "G",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse 3, picking)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Life's too short to even care at all"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'm losing my mind losing my mind losing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "control"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude: C G F C G 3x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am (one strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I could find a way to see this straight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G (one strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'd run away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "To some fortune that"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I I should have"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "found by"
+            },
+            {
+              "chord": "G",
+              "lyrics": "now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I run to the things they said could"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "restore me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Restore life the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way it should be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm waiting for this"
+            },
+            {
+              "chord": "F",
+              "lyrics": "cough"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "syrup to co"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Outro, picking)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "One more spoon of cough syrup now whoa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "One more spoon of cough syrup now whoa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,622 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/bruce-springsteen/140687.html",
+  "title": "Cover Me",
+  "artist": "Bruce Springsteen",
+  "key": null,
+  "scrapedAt": "2025-12-16T22:16:43.172Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "The times are t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ough n"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ow"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "Just getting t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ougher"
+            },
+            {
+              "chord": "A",
+              "lyrics": ", this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "old world is r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ough,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "it's"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "just getting r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ougher C"
+            },
+            {
+              "chord": "A",
+              "lyrics": "over m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e"
+            },
+            {
+              "chord": "Em11",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come on"
+            },
+            {
+              "chord": "Em11",
+              "lyrics": "baby, c"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "over m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "e"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": "Well"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I'm l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ooking for a lover who will"
+            },
+            {
+              "chord": "A",
+              "lyrics": "come on in and cover m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "e"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Promise me b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aby y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ou"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "won't let them f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ind"
+            },
+            {
+              "chord": "A",
+              "lyrics": "us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "old me in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "et's let"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "our love bl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ind us C"
+            },
+            {
+              "chord": "A",
+              "lyrics": "over m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e"
+            },
+            {
+              "chord": "Em11",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Shut the d"
+            },
+            {
+              "chord": "Em11",
+              "lyrics": "oor and c"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "over m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "e"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": "Well"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I'm l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ooking for a lover who will"
+            },
+            {
+              "chord": "A",
+              "lyrics": "come on in and cover m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "e"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Outside's the rain, the driving snow"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "I can hear the wild w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ind blowing"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "urn out the light Bolt the door"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "I ain't going out"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "there no more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "This whole world is o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ut there j"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ust"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "trying to sc"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ore"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I've"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "seen enough I don't w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ant t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "o"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "see any m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ore C"
+            },
+            {
+              "chord": "A",
+              "lyrics": "over m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e"
+            },
+            {
+              "chord": "Em11",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come on"
+            },
+            {
+              "chord": "Em11",
+              "lyrics": "and c"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "over"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "me"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'m l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ooking for a lover who will"
+            },
+            {
+              "chord": "A",
+              "lyrics": "come on in and cover m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "e"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo: Bm D A Bm D A Bm D A Bm D A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Outside's the rain, the driving snow"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "I can hear the wild w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ind blowing"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "urn out the light Bolt the door"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "I ain't going out"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "there no more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "This whole world is o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ut there j"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ust"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "trying to sc"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ore"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I've"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "seen enough I don't w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ant t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "o"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "see any m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ore C"
+            },
+            {
+              "chord": "A",
+              "lyrics": "over m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e"
+            },
+            {
+              "chord": "Em11",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come on"
+            },
+            {
+              "chord": "Em11",
+              "lyrics": "and c"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "over"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "me"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3x: Bm D A G A Bm D A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm looking for a lover who will come on in and cover me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "fadout"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

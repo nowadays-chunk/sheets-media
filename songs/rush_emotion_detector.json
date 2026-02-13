@@ -1,0 +1,782 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/r/rush/emotion_detector_crd.html",
+  "title": "Emotion Detector",
+  "artist": "Rush",
+  "key": null,
+  "scrapedAt": "2025-12-17T06:58:29.645Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Emotion Detector - Rush"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jimmy Pena - jimmy@walrus.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chord legend:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gm :"
+            },
+            {
+              "chord": "355333",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7 :"
+            },
+            {
+              "chord": "x02010",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb :"
+            },
+            {
+              "chord": "x13331",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bbmaj7 :"
+            },
+            {
+              "chord": "x1323x",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F :"
+            },
+            {
+              "chord": "133211",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F/A :"
+            },
+            {
+              "chord": "x03211",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb(addC) :"
+            },
+            {
+              "chord": "x33331",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C :"
+            },
+            {
+              "chord": "x30210",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G :"
+            },
+            {
+              "chord": "320033",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm :"
+            },
+            {
+              "chord": "xx0231",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am :"
+            },
+            {
+              "chord": "x02210",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song Progression:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gm Am7 Bb x4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gm9"
+            },
+            {
+              "chord": "353335",
+              "lyrics": "Am7 Bbmaj7 F Gm sus4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When we lift the cover from our feelings, we expose our insecure spots."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Trust is jus"
+            },
+            {
+              "chord": "F/A",
+              "lyrics": "t as rare as de"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "votion. Fo"
+            },
+            {
+              "chord": "Bb(addC)",
+              "lyrics": "rgive us our cynical thou"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ght"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "s."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If we ne"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ed too much atten"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "tion, not c"
+            },
+            {
+              "chord": "Bb(addC)",
+              "lyrics": "ontent with being cool"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We must thro"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "w ourselves wide o"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "pen, start"
+            },
+            {
+              "chord": "Bb(addC)",
+              "lyrics": "acting like a fool."
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If we nee"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "d too much appro"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "val,"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "then the cut"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "s can seem too c"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "ruel."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Ri"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ght to the he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "art of the m"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "atter."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Ri"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ght to the be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "autiful p"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "art."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Ill"
+            },
+            {
+              "chord": "F",
+              "lyrics": "usions are pai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nfully sha"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ttered ri"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ght where dis"
+            },
+            {
+              "chord": "G",
+              "lyrics": "covery st"
+            },
+            {
+              "chord": "C",
+              "lyrics": "arts."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the sec"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ret w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ells of em"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "otion"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "buried de"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ep in our"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hearts."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's tru"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "e that love can chang"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e us;"
+            },
+            {
+              "chord": "Bb(addC)",
+              "lyrics": "never quite enough."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sometime"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "s we are too te"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "nder, sometimes we'r"
+            },
+            {
+              "chord": "Bb(addC)",
+              "lyrics": "e too tough."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If we g"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "et too much atten"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tion, it get"
+            },
+            {
+              "chord": "Bb(addC)",
+              "lyrics": "s hard to overrule."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So of"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ten fragile pow"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "er turns to sc"
+            },
+            {
+              "chord": "Bb(addC)",
+              "lyrics": "orn and ridicule."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Somet"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "imes our big s"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "plashes.."
+            },
+            {
+              "chord": "Bb(addC)",
+              "lyrics": "... are just ripples in the"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "pool."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Ri"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ght to the he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "art of the m"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "atter."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Ri"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ght to the be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "autiful p"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "art."
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Ill"
+            },
+            {
+              "chord": "F",
+              "lyrics": "usions are pai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nfully sha"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ttered ri"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ght where dis"
+            },
+            {
+              "chord": "G",
+              "lyrics": "covery st"
+            },
+            {
+              "chord": "C",
+              "lyrics": "arts."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the sec"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ret w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ells of em"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "otion"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "buried de"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ep in our"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hearts."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat until end:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Fe"
+            },
+            {
+              "chord": "F",
+              "lyrics": "elings r"
+            },
+            {
+              "chord": "G",
+              "lyrics": "un h"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "igh"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On last repeat, end on C chord"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

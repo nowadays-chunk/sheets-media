@@ -1,0 +1,886 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/ernie-halter/230271.html",
+  "title": "Almost You",
+  "artist": "Ernie Halter",
+  "key": null,
+  "scrapedAt": "2025-12-16T14:36:15.029Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ALMOST YOU ? Ernie Halter"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Kengus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The intro and verses are mostly picked and sort of half-muted, I guess."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The chorus chords may not be dead-on, but they seem to work OK."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em = 022000 G/B = x20033 Am7 = x02010 Dadd4 = x54035"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/F# = 200232 C = x32010 Dadd4* = x54030 Fadd2 = x87068"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 320033 B7 = x21202 D9 = x54530 F = 133211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj7/G = 332000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dadd4* = Dadd4add9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em (D/F#) G (G/B) C B7 x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Went out"
+            },
+            {
+              "chord": "(D/F#)",
+              "lyrics": "last"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Friday night"
+            },
+            {
+              "chord": "(G/B)",
+              "lyrics": ","
+            },
+            {
+              "chord": "C",
+              "lyrics": "felt like I was"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ready to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Pretty pai"
+            },
+            {
+              "chord": "(D/F#)",
+              "lyrics": "r of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "green eye"
+            },
+            {
+              "chord": "(G/B)",
+              "lyrics": "s,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sideways glance from a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "cross the room"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em (D/F#) G G (strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pretty soon we were locked in conversation"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7 Dadd4*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I could've kissed her, leaning up against the driver door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "She was almost everything that I"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "'ve been looking for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She was almost y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou, almost y"
+            },
+            {
+              "chord": "Dadd4",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fadd2",
+              "lyrics": "Almost som"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eone to hold on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Almost y"
+            },
+            {
+              "chord": "Dadd4",
+              "lyrics": "ou,"
+            },
+            {
+              "chord": "Fadd2",
+              "lyrics": "a love to las"
+            },
+            {
+              "chord": "C",
+              "lyrics": "t my whole life"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I swear and I thin"
+            },
+            {
+              "chord": "F",
+              "lyrics": "k I've found it,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the perfect love, she lets me down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Best someone els"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e could hope to do"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is take second place and be almost"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou"
+            },
+            {
+              "chord": "(G/B)",
+              "lyrics": "..."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTERLUDE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "...You"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "(G/B)",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Stumbled on a"
+            },
+            {
+              "chord": "(D/F#)",
+              "lyrics": "n old"
+            },
+            {
+              "chord": "G",
+              "lyrics": "photograph"
+            },
+            {
+              "chord": "(G/B)",
+              "lyrics": ","
+            },
+            {
+              "chord": "C",
+              "lyrics": "you and me we were"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "holding hands"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We were young and so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in love"
+            },
+            {
+              "chord": "(G/B)",
+              "lyrics": ","
+            },
+            {
+              "chord": "C",
+              "lyrics": "like we couldn't get cl"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ose enough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em (D/F#) G G (strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What happened to happily ever after"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7 Dadd4*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I never look at anyone the way I looked at you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "I'm trying hard to find someb"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ody new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(www.ultimate-guitar.com)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She was almost y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou, almost y"
+            },
+            {
+              "chord": "Dadd4",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fadd2",
+              "lyrics": "Almost som"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eone to hold on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Almost y"
+            },
+            {
+              "chord": "Dadd4",
+              "lyrics": "ou,"
+            },
+            {
+              "chord": "Fadd2",
+              "lyrics": "a love to las"
+            },
+            {
+              "chord": "C",
+              "lyrics": "t my whole life"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I swear and I thin"
+            },
+            {
+              "chord": "F",
+              "lyrics": "k I've found it,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the perfect love, she lets me down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Best someone els"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e could hope to do"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em G..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is take second place and be almost you..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTERLUDE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...C (B7) Em G C (B7)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...Almost you..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7 Dadd4*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I never look at anyone the way I looked at you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I'm trying hard to find someb"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ody new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She was almost y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou, almost y"
+            },
+            {
+              "chord": "Dadd4",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fadd2",
+              "lyrics": "Almost som"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eone to hold on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Almost y"
+            },
+            {
+              "chord": "Dadd4",
+              "lyrics": "ou,"
+            },
+            {
+              "chord": "Fadd2",
+              "lyrics": "a love to las"
+            },
+            {
+              "chord": "C",
+              "lyrics": "t my whole life"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I swear and I thin"
+            },
+            {
+              "chord": "F",
+              "lyrics": "k I've found it,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the perfect love, she lets me down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Best someone els"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e could hope to do"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em G C..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is take second place and be almost you..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...B7 Em G C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...Almost you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "(B7)",
+              "lyrics": "Almost"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "(B7)",
+              "lyrics": "Almost"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou."
+            },
+            {
+              "chord": "Cmaj7/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "========================================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Comment, rate, appreciate!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

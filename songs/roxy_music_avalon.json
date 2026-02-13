@@ -1,0 +1,506 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/r/roxy-music/279126.html",
+  "title": "Avalon",
+  "artist": "Roxy Music",
+  "key": null,
+  "scrapedAt": "2025-12-16T13:35:41.591Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "---------------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Avalon - Roxy Music"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "---------------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: maguri"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Roxy Music"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "More Than This (1982)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Bryan Ferry)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: \"Avalon\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "---------------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e-B-G-D-A-E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/E 2-3-2-2-2-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C(add9) 0-3-0-2-3-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus4 0-3-2-2-0-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "---------------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 3rd fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| D/E | % | % | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Now the pa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rty's over,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I'm so"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tired"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Then I see"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you coming"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nowhere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Much com"
+            },
+            {
+              "chord": "A",
+              "lyrics": "munication"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "motion"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Without"
+            },
+            {
+              "chord": "A",
+              "lyrics": "conversation"
+            },
+            {
+              "chord": "G",
+              "lyrics": "or a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "notion"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C(add9) | Bb | Asus4 | A | C(add9) | Bb | Asus4 | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Avalon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "When the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "samba takes you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nowhere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "background's fading"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "focus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yes the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "picture's changing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "every"
+            },
+            {
+              "chord": "A",
+              "lyrics": "moment"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "destination"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you don't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C(add9) | Bb | Asus4 | A | C(add9) | Bb | Asus4 | E | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Avalon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E | A | E | A |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E | A | E | A |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Dancing,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "dancing"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Dancing,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "dancing"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "When you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bossa nova"
+            },
+            {
+              "chord": "G",
+              "lyrics": "there's no"
+            },
+            {
+              "chord": "A",
+              "lyrics": "holding"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Would you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "have me dancing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nowhere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C(add9) | Bb | Asus4 | A | C(add9) | Bb | Asus4 | E | % | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Avalon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CODA"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| D | A | G | A |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| D | A | G | A |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(vocals ad lib) Avalon, ooh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeat and fade)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

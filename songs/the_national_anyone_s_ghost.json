@@ -1,0 +1,574 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/the-national/263222.html",
+  "title": "Anyone's Ghost",
+  "artist": "The National",
+  "key": null,
+  "scrapedAt": "2025-12-16T12:58:54.569Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The tabs I've seen here haven't been 100 % correct. They've had some of the chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "right but Aaron and Bryce plays them in different positions and voicings."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't exactly know what to call the 4th chord but naming it B flat minor with a C#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "just for the sake of it. Sounds like a suspended chord."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I don't think they play the high E in the Abm actually but I like to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sometimes, do what you prefer."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ebm: X643XX (X6887X) Bryce plays that shape during the bridge, I like to change between the two."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B: 7644XX"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Abm: 466444"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BbC#:6X46XX (The 4 on the A string is muted by the ring finger, that's why I X'd it)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#: 244322"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m: X46654"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "Say you stay"
+            },
+            {
+              "chord": "B",
+              "lyrics": "at home,"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "alone with the"
+            },
+            {
+              "chord": "BbC#",
+              "lyrics": "flu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "Find out f"
+            },
+            {
+              "chord": "B",
+              "lyrics": "rom friends"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "that wasn't t"
+            },
+            {
+              "chord": "BbC#",
+              "lyrics": "rue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "Go out at"
+            },
+            {
+              "chord": "B",
+              "lyrics": "night with your headphones"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "on, ag"
+            },
+            {
+              "chord": "BbC#",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "And walk through the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "Manhattan valleys of"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": ", the d"
+            },
+            {
+              "chord": "BbC#",
+              "lyrics": "ead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "be your g"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "host, didn't want to"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "be anyone's"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ghost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "be your g"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "host, didn't want to"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "be anyone's g"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "host"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "I don't want anybody e"
+            },
+            {
+              "chord": "B",
+              "lyrics": "lse, I"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "don't want anybody e"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "lse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "don't want anybody e"
+            },
+            {
+              "chord": "B",
+              "lyrics": "lse, I"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "don't want anybody els"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Play Ebm into the next verse."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "You said I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "came close"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "as anyone's com"
+            },
+            {
+              "chord": "BbC#",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "to live unde"
+            },
+            {
+              "chord": "B",
+              "lyrics": "rwater fo"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "r more than a mo"
+            },
+            {
+              "chord": "BbC#",
+              "lyrics": "nth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "You said it was"
+            },
+            {
+              "chord": "B",
+              "lyrics": "not inside my"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "heart, it w"
+            },
+            {
+              "chord": "BbC#",
+              "lyrics": "as"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "You said it should"
+            },
+            {
+              "chord": "B",
+              "lyrics": "tear a kid apart"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": ", it does"
+            },
+            {
+              "chord": "BbC#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "be your g"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "host, didn't want to"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "be anyone's"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ghost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "be your g"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "host, didn't want to"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "be anyone's g"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "host"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "I don't want anybody e"
+            },
+            {
+              "chord": "B",
+              "lyrics": "lse, I"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "don't want anybody e"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "lse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "don't want anybody e"
+            },
+            {
+              "chord": "B",
+              "lyrics": "lse, I"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "don't want anybody els"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "hole in the middle w"
+            },
+            {
+              "chord": "B",
+              "lyrics": "here the lightning went t"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "hrough it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "worry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "hole in the middle someone's s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ideshow wouldn't do it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "told my friends not to"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "worry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "be your g"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "host, didn't want to"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "be anyone's"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ghost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "be your g"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "host, didn't want to"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "be anyone's g"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "host"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

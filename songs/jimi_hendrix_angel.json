@@ -1,0 +1,602 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/j/jimi_hendrix/angel_acoustic_crd_ver_4.html",
+  "title": "Angel",
+  "artist": "Jimi Hendrix",
+  "key": null,
+  "scrapedAt": "2025-12-16T12:31:32.563Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-------------------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Angel (Acoustic version) - Jimi Hendrix"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-------------------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: J.S.L"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: jonas.lindstroem@yahoo.se"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Half-Step Down."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "A#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|--1------------------1-----------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--2--2h3p2-----------2-----5---------3---------3---------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|--3---------3--------3-----5---------3h5p3-----3-------3--5/7--5--3--------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--3------------------3-----3----3h5---------5--1--3h5----------------5-----|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|--1------------1--1-----1--------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e|---------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|---------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|--------1-----------1------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|-----3-----3-----3-----3---------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|--4-----------4------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|---------------------------------------------------------------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Angel"
+            },
+            {
+              "chord": "C",
+              "lyrics": "came down from"
+            },
+            {
+              "chord": "G",
+              "lyrics": "heaven yesterday"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "She stayed with me"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "just long enough for"
+            },
+            {
+              "chord": "F",
+              "lyrics": "afternoon tea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And she"
+            },
+            {
+              "chord": "C",
+              "lyrics": "told me a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "story yesterday,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "about the love between the"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "moon and the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "deep blue sea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "when it was time for her to"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "go,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "high over me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "said \"I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "shall return to"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "morrow\""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "fly on"
+            },
+            {
+              "chord": "B",
+              "lyrics": "my sweet"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "angel,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "fly"
+            },
+            {
+              "chord": "A",
+              "lyrics": "on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "through"
+            },
+            {
+              "chord": "B",
+              "lyrics": "the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "sky,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "fly on"
+            },
+            {
+              "chord": "B",
+              "lyrics": "my sweet"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "angel,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wait for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you"
+            },
+            {
+              "chord": "B",
+              "lyrics": "by my"
+            },
+            {
+              "chord": "E",
+              "lyrics": "side\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|E |F# |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|A B |C# |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "And sure enou"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "gh this mor"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "ning comes to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "When silver wings silhou"
+            },
+            {
+              "chord": "E",
+              "lyrics": "etted against the glow of the"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "child's sunrise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "And as the"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "bluebirds and the spar"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "rows envy me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "she says \"I love you little boy"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "you shall fly\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "kissed me once"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "and the feelings so"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "good she made me cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "now, we can"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "fly to"
+            },
+            {
+              "chord": "B",
+              "lyrics": "gether"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "fly on"
+            },
+            {
+              "chord": "B",
+              "lyrics": "my sweet"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "angel,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "fly"
+            },
+            {
+              "chord": "A",
+              "lyrics": "on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "through"
+            },
+            {
+              "chord": "B",
+              "lyrics": "the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "sky,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "fly on"
+            },
+            {
+              "chord": "B",
+              "lyrics": "my sweet"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "angel,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "gether"
+            },
+            {
+              "chord": "A",
+              "lyrics": "we shall"
+            },
+            {
+              "chord": "D",
+              "lyrics": "always"
+            },
+            {
+              "chord": "B",
+              "lyrics": "be"
+            },
+            {
+              "chord": "E",
+              "lyrics": "high\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mmm -"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mm -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mm -"
+            },
+            {
+              "chord": "B",
+              "lyrics": "mm -"
+            },
+            {
+              "chord": "E",
+              "lyrics": "mmm..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,750 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/a/akb48/323588.html",
+  "title": "Beginner",
+  "artist": "AKB48",
+  "key": null,
+  "scrapedAt": "2025-12-16T15:44:43.063Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In your position set!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Kinou made no keiken toka"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Chishiki nanka nimotsu na dake"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Kaze wa itsumo toorisugite"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Ato ni nanimo nokosanai yo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Atarashii michi wo sagase!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hito no chizu wo hirogeru na!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Fuseta me w"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "o ageta toki ni zero ni naru'n da"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Reff"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Bokura wa yume mi"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "teru ka?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Mirai wo shinjite"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "iru ka?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Kowai mono shirazu mi"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "nohodo shirazu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7-5",
+              "lyrics": "Muteppou na ma"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "ma"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ima"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "bokura wa yumemi"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "teru ka?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kodo"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "mo no you ni mas"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "sarani..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Shiha"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "i sareta kusari wa hikichig"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "irou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Change your mi"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Change your mi"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Nani mo"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "shiranakute"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "ii b"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "eginner!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Shippai shite haji wo kaite"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Kizutsuita koto torauma ni natte"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Anna omoi nido to iya da to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Kashikoku natta otona-tachi yo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Charenji wa bakageta koto"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Risuku kaihi suru you ni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Oroka na"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "keisan shite nani wo mamoru no?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Bokura wa ikite"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "iru ka?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Ashita mo ikite i"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "tai ka?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Wakatta furi shite"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "shittakaburi de"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7-5",
+              "lyrics": "Yume mo hisashibu"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "ri"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sou"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "bokura wa ikite"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "iru ka?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ino"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "chi muda ni shit"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "enai ka?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "aku wo utsu kodou wo ima kan"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "jiro!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Stand up! T"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ogether!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Umareta hi omoidase!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Dare mo ga beginner!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Stand up! R"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ight away!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Hajime kara kantan ni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#7",
+              "lyrics": "Umaku wa yuka nee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Stand up!"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Together!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#7",
+              "lyrics": "Saisho ni modoreba ii"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#7",
+              "lyrics": "Moichido beginner!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Stand up!"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Right away!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Hirakinaotte hirakinaotte"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#7",
+              "lyrics": "Dounika naru sa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Furui"
+            },
+            {
+              "chord": "A#7",
+              "lyrics": "peeji wa"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "yaburi"
+            },
+            {
+              "chord": "G#7",
+              "lyrics": "sutero"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Saa hajimeyouze!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#7",
+              "lyrics": "We can be reborn all the time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Bokura wa yumemiteru k"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "a?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Mirai wo shinjite iru"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "ka?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Kowai mono shira"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "zu minohodo shirazu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7-5",
+              "lyrics": "Muteppou na ma"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "ma"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Ima bokura wa yumemiteru"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ka?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Kodomo no you ni massara"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "ni..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Shihai sareta kusari wa hikichigi"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "rou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Nani mo dekinai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Chanto dekinai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sore"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "ga dou shita?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bokura"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "wa wakai'n da"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Nanimo dekinai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Sugu ni dekinai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Daka"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "ra bokura ni kanou sei"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "ga aru'n da"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Ame wa yanda"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Kaze wa yanda"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Mita koto no nai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "Hikari ga sasu yo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "Ima ga toki da"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Kimi wa umare"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "kawatt"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "a begin"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ner!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

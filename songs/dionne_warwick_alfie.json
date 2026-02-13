@@ -1,0 +1,406 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/alfie.htm",
+  "title": "Alfie",
+  "artist": "Dionne Warwick",
+  "key": null,
+  "scrapedAt": "2025-12-16T11:16:57.458Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "AM7 Bm7-5 AM7 Dalt D9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What's it all about, Al - fie?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7-5",
+              "lyrics": "Is it"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "just"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "for the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "moment we"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "live?"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "all about"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "when you sort it"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "out, Al"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "fie?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "Are we meant to"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "take more"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "than we"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "give?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7-5",
+              "lyrics": "Or"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "are we meant"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "to be"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": "kind?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cdim E7/9 AM7 Bm7-5 AM7 Dalt D9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And if only fools are kind, Al - fie,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7-5",
+              "lyrics": "Then I g"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "uess"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "that it's"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "wise to be"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "cruel;"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "life belongs"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "only to the s"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "trong, Alf"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "ie,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "ill you"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "lend on an"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "old"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "Gol - den"
+            },
+            {
+              "chord": "G#7",
+              "lyrics": "Rule?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m7",
+              "lyrics": "sure as"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "I bel"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ieve"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "there's a H"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "eaven a"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "bove, Alfie,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m7",
+              "lyrics": "know there's"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "something much"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "more,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m7",
+              "lyrics": "Something even"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "non-bel"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "ievers"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "can be"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": "lieve"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "in."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "AM7 Bm7-5 AM7 Dalt D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I believe in love, Al - fie;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "Without true"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "love, we"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "just ex"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "ist,"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "Al -"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "fie;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "Until you"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "find the"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "love you"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "missed, you're"
+            },
+            {
+              "chord": "G#7",
+              "lyrics": "noth -"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "ing,"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "Al -"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "fie;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "When you"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "walk, let your"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "heart lead the"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": "way,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "you'll find"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "love any"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": "day, Al -"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "fie.."
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": ".Al -"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "fie."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

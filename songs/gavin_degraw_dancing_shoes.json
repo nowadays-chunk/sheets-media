@@ -1,0 +1,626 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/g/gavin_degraw/dancing_shoes_crd.html",
+  "title": "Dancing Shoes",
+  "artist": "Gavin DeGraw",
+  "key": null,
+  "scrapedAt": "2025-12-16T22:58:09.566Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: Dancing Shoes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "By: Gavin Degraw"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is more of a piano song, but i tried hard making chords for it. here it goes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "It's so"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "nice to se"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e you."
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Can we"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "sit and ta"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lk for a"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "while?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I have s"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "earched f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "orever,"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Can't im"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "agine an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ything b"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "etter."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F C2/E G Am7 (2X)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Kids u"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "pon the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stairw"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ay,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Couples"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "on the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sidewalk s"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "quares."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "If I g"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "et to yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ur heart"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "soon,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "F",
+              "lyrics": "call a"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "perfect"
+            },
+            {
+              "chord": "G",
+              "lyrics": "afterno"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "on."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Won't y"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ou c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "all my"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "number."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Don't"
+            },
+            {
+              "chord": "F",
+              "lyrics": "push,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "but don't"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "hesitate."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Wake"
+            },
+            {
+              "chord": "F",
+              "lyrics": "me f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rom this s"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "lumber."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Rush"
+            },
+            {
+              "chord": "F",
+              "lyrics": "me, but"
+            },
+            {
+              "chord": "G",
+              "lyrics": "leave time to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wait."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F C2/E G Am7 (2X)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Checkmate"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "on my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "should"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "er."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tired"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "of this w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in or"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "lose."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I'm no"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "knight in s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hining"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "armor,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I'm no"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "pair of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dancin'"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "shoes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'm no"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "pair of d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ancin'"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "shoes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Im not too sure about the Bridge)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "My patience ran away."
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Take me with"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You keep me"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "holding"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Nothin's understood"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're so"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "confusing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "Tell it to me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "straight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-Chorus-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ending:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I got n"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "othin' l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eft to"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "lose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F C2/E G Am7 (Last time End on C)*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I'm no pair of dancin shoes' (4X)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*(Last time)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I'm no"
+            },
+            {
+              "chord": "C2/E",
+              "lyrics": "pair of d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ancin s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hoes'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you play with the song hopfully you will get it."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~Ro. V"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

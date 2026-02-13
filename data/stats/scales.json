@@ -67742,7 +67742,7 @@
   "flow": [
     {
       "name": "C→G",
-      "value": 27
+      "value": 13
     },
     {
       "name": "G→D",
@@ -67754,39 +67754,39 @@
     },
     {
       "name": "A→E",
-      "value": 28
-    },
-    {
-      "name": "E→B",
-      "value": 23
-    },
-    {
-      "name": "B→F#",
-      "value": 12
-    },
-    {
-      "name": "F#→C#",
-      "value": 25
-    },
-    {
-      "name": "C#→G#",
-      "value": 10
-    },
-    {
-      "name": "G#→D#",
       "value": 20
     },
     {
-      "name": "D#→A#",
+      "name": "E→B",
       "value": 29
     },
     {
-      "name": "A#→F",
+      "name": "B→F#",
       "value": 21
     },
     {
+      "name": "F#→C#",
+      "value": 29
+    },
+    {
+      "name": "C#→G#",
+      "value": 27
+    },
+    {
+      "name": "G#→D#",
+      "value": 26
+    },
+    {
+      "name": "D#→A#",
+      "value": 21
+    },
+    {
+      "name": "A#→F",
+      "value": 12
+    },
+    {
       "name": "F→C",
-      "value": 16
+      "value": 17
     }
   ]
 }

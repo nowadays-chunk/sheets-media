@@ -1,0 +1,702 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/l/leahy/a_love_never_known_crd.html",
+  "title": "A Love Never Known",
+  "artist": "Leahy",
+  "key": null,
+  "scrapedAt": "2025-12-16T10:24:04.113Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Written and Composed by Leahy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is a song by the band Leahy. It's played with a capo on the first fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tempo is moderately slow (quarter note = 60)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "A love"
+            },
+            {
+              "chord": "A7/C#",
+              "lyrics": "never k"
+            },
+            {
+              "chord": "Bm7add11",
+              "lyrics": "nown,"
+            },
+            {
+              "chord": "D2/F#G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2/F#",
+              "lyrics": "Has come"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "to ca"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "ll me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "home."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "And I"
+            },
+            {
+              "chord": "A7/C#",
+              "lyrics": "say I d"
+            },
+            {
+              "chord": "Bm7add11",
+              "lyrics": "o,"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I f"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "ollow"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7add11",
+              "lyrics": "Something from my heart"
+            },
+            {
+              "chord": "D2/A",
+              "lyrics": "has stirred my sou"
+            },
+            {
+              "chord": "G",
+              "lyrics": "l,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "And I can't ignore this feeling anymor"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "e."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "And you say \""
+            },
+            {
+              "chord": "Bm7add11",
+              "lyrics": "Don't you worry I"
+            },
+            {
+              "chord": "D2/A",
+              "lyrics": "will see you thro"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ugh."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "'Cause yo"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "u belong to me, and I t"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "o you."
+            },
+            {
+              "chord": "A",
+              "lyrics": "\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "A love"
+            },
+            {
+              "chord": "A7/C#",
+              "lyrics": "never k"
+            },
+            {
+              "chord": "Bm7add11",
+              "lyrics": "nown,"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Has come"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": "to call"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "me hom"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "e."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "And I s"
+            },
+            {
+              "chord": "A7/C#",
+              "lyrics": "ay I do"
+            },
+            {
+              "chord": "Bm7add11",
+              "lyrics": ","
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I f"
+            },
+            {
+              "chord": "A7sus",
+              "lyrics": "ollow y"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7add11",
+              "lyrics": "Something from my eyes"
+            },
+            {
+              "chord": "D2/A",
+              "lyrics": "I can't eras"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "And the tears keep falling down upon my face."
+            },
+            {
+              "chord": "Asus",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7add11",
+              "lyrics": "You wiped away my"
+            },
+            {
+              "chord": "D2/A",
+              "lyrics": "sorrow and my sin"
+            },
+            {
+              "chord": "G",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "When you g"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ave you blood for me"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "to live"
+            },
+            {
+              "chord": "A",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "A love"
+            },
+            {
+              "chord": "A7/C#",
+              "lyrics": "never k"
+            },
+            {
+              "chord": "Bm7add11",
+              "lyrics": "nown,"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "has come"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": "to call"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "me hom"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "e."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "And I s"
+            },
+            {
+              "chord": "A7/C#",
+              "lyrics": "ay I do"
+            },
+            {
+              "chord": "Bm7add11",
+              "lyrics": ","
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I f"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "ollow you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(jumps straight into the bridge!)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "I've always known"
+            },
+            {
+              "chord": "A7/C#",
+              "lyrics": "that there's been some"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "one looking"
+            },
+            {
+              "chord": "G",
+              "lyrics": "out for m"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "e."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "now I know your nam"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "e."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Lord from you I cam"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "e."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(small silence before continuing on)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Re-intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "A love"
+            },
+            {
+              "chord": "A7/C#",
+              "lyrics": "never k"
+            },
+            {
+              "chord": "Bm7add11",
+              "lyrics": "nown,"
+            },
+            {
+              "chord": "D2/F#G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Has come"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": "to call"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "me hom"
+            },
+            {
+              "chord": "A7sus",
+              "lyrics": "e."
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "And I s"
+            },
+            {
+              "chord": "A7/C#",
+              "lyrics": "ay I do"
+            },
+            {
+              "chord": "Bm7add11",
+              "lyrics": ","
+            },
+            {
+              "chord": "D2/F#G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Fol"
+            },
+            {
+              "chord": "A7sus",
+              "lyrics": "low yo"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "u."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tag:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "I sa"
+            },
+            {
+              "chord": "A7/C#",
+              "lyrics": "y I do,"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I f"
+            },
+            {
+              "chord": "A7sus",
+              "lyrics": "ollow y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Other Leahy information can be found at www.leahymusic.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

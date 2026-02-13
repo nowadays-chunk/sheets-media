@@ -1,0 +1,682 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/jens-lekman/337958.html",
+  "title": "Every Little Hair Knows Your Name",
+  "artist": "Jens Lekman",
+  "key": null,
+  "scrapedAt": "2025-12-17T10:07:49.293Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard Tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords relative to capo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(I'm not sure I got all the chord names right but here's how I play them)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C - x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj11 - x32011"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus4 - x02230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am - x02210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F(1) - xx3211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F(2)",
+              "lyrics": "Gsus4"
+            },
+            {
+              "chord": "-",
+              "lyrics": "-"
+            },
+            {
+              "chord": "133211",
+              "lyrics": "3x001x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G - 320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/B - x20030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj7 - xx3210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/C - x3000x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am11 - x53533"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj7(1) - x35453"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj7(2) - xx(10)987"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jens does a few fingerpicking patterns throughout the song. Just listen to get"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the hang of it."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can also play with dropping your first finger on the F note of the high E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "string during some of C chords (to a Cmaj11) as I've put in the first line."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Every cell"
+            },
+            {
+              "chord": "Cmaj11",
+              "lyrics": "in this"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "body"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "has been"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "replaced since I last"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "saw y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "memo"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "ry is"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "DN"
+            },
+            {
+              "chord": "F(2)",
+              "lyrics": "A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and through the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "vessels an"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "d vein"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "weaves a"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "halo round the"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "brain"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "every"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "little"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hair"
+            },
+            {
+              "chord": "G",
+              "lyrics": "knows your"
+            },
+            {
+              "chord": "F(2)",
+              "lyrics": "name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every littl"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "e hai"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "r know"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "s your n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ame"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every littl"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "e hai"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "r know"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "s your n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ame"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I started"
+            },
+            {
+              "chord": "C",
+              "lyrics": "working out when we"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "broke"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "do one hundred"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "push-u"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ps"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I could"
+            },
+            {
+              "chord": "C",
+              "lyrics": "probab"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "ly do"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "two if"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I was"
+            },
+            {
+              "chord": "F(2)",
+              "lyrics": "bored"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wrote some"
+            },
+            {
+              "chord": "C",
+              "lyrics": "songs when we"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "broke"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but nothing"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "came out so"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "I stop"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ped"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Every"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "chord I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "struck was a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "miserable"
+            },
+            {
+              "chord": "F(2)",
+              "lyrics": "chord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like an F minor"
+            },
+            {
+              "chord": "Am11",
+              "lyrics": "11 or an E flat major"
+            },
+            {
+              "chord": "Cmaj7(1)",
+              "lyrics": "7"
+            },
+            {
+              "chord": "Cmaj7(2)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It all sounds the"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "same"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every chord knows your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "name"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every littl"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "e hai"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "r know"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "s your n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ame"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every littl"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "e hai"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "r know"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "s your n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ame"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every littl"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "e hai"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "r know"
+            },
+            {
+              "chord": "F(1)",
+              "lyrics": "s your n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ame"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

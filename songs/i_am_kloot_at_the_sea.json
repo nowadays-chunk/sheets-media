@@ -1,0 +1,358 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/i/iamkloot-tabs-6924/atthesea-tabs-638798.html",
+  "title": "At the Sea",
+  "artist": "I Am Kloot",
+  "key": null,
+  "scrapedAt": "2025-12-16T13:26:40.468Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "<i></i>-------------------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At the Sea by I Am Kloot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-------------------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(nb there are other versions with variations to verse sequence etc. This is the album version.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning:EADGBE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "022100 E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "X02220 A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "X21202 B7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "X46654 C#m"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Faded in Intro: Loosely strum 'E'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "One day, where the shoreline breaks"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "ite in sand all o"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ur mistakes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "For the sea to w"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ash away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "ou shall sit with"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2: (keep B7 until 'car',then the same chords as Verse 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "nose job, numb right hand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Expecting some kind of reprimand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it's way too late for that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Fortune hasn't robbed me blind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "essed the corners"
+            },
+            {
+              "chord": "E",
+              "lyrics": "of my mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "It came to see what"
+            },
+            {
+              "chord": "E",
+              "lyrics": "it could find"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "ore I slipped aw"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 4: (same chords as verse 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For I walk the shores of its afternoons"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Beneath the sky still hung with jewels"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Caressed by clouds and bloody fools"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who have so much to say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 5:(same chords as verse 3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "One day, where the shoreline breaks"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We'll write in sand all our mistakes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For the sea to wash away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And you shall sit with me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "At the s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ea"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please enjoy!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

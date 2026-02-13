@@ -1,0 +1,514 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/c/crashtestdummies-tabs-903/androgynous1-tabs-174774.html",
+  "title": "Androgynous",
+  "artist": "Crash Test Dummies",
+  "key": null,
+  "scrapedAt": "2025-12-16T12:29:50.799Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ANDROGYNOUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "written by The Replacements"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "as performed by the Crash Test Dummies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Play with capo on 3rd fret."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro and verse in tablature:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|----3--3-------3--3-----2--2-----2--2-----0--0-----0--0-----0--0-------0--0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B|----3--3-------3--3-----3--3-----3--3-----0--0-----0--0-----1--1-------1--1-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G|----0--0-------0--0-----2--2-----2--2-----0--0-----0--0-----0--0-------0--0-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D|----0--0-------0--0--0-----0-----0--0-----2--2-----2--2-----2--2--0h2-----2-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A|----2--2--0h2-----2-----------0-----------2--2--2-----2--3-----3----------3-|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E|-3-----3----------3--------------------0-----0--------0---------------------|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "d",
+              "lyrics": ""
+            },
+            {
+              "chord": "u",
+              "lyrics": ""
+            },
+            {
+              "chord": "d",
+              "lyrics": ""
+            },
+            {
+              "chord": "u",
+              "lyrics": ""
+            },
+            {
+              "chord": "d",
+              "lyrics": ""
+            },
+            {
+              "chord": "u",
+              "lyrics": ""
+            },
+            {
+              "chord": "d",
+              "lyrics": ""
+            },
+            {
+              "chord": "u",
+              "lyrics": ""
+            },
+            {
+              "chord": "d",
+              "lyrics": ""
+            },
+            {
+              "chord": "u",
+              "lyrics": ""
+            },
+            {
+              "chord": "d",
+              "lyrics": ""
+            },
+            {
+              "chord": "u",
+              "lyrics": ""
+            },
+            {
+              "chord": "d",
+              "lyrics": ""
+            },
+            {
+              "chord": "u",
+              "lyrics": ""
+            },
+            {
+              "chord": "d",
+              "lyrics": ""
+            },
+            {
+              "chord": "u",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "d means strum down, u means strum up."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Here comes Dick, he's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wearing a skirt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Here comes Jane you know she's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sportin' a chain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Same hair, a revolution"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Same build, evolution"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Tomorrow who's gonna"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fuss?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "love each other so,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "androgy"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nous"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Closer than you know,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love each other so, androgynous"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well don't get him wrong, and don't get him mad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He might be a father but he sure ain't a dad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And she don't need the advice that is sent to her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's happy with the way she looks, she's happy with her gender"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And they love each other so, androgynous"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer than you know, love each other so, androgynous"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mirror image, see no damage, see no evil at"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Cupie dolls and urine stalls will be"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "laughed at"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "laughed at now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Something meets boy and something meets girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They both look the same, they're overjoyed in this world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Same hair a revolution"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Unisex evolution"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tomorrow who's gonna fuss?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And tomorrow Dick is wearing pants,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tomorrow Jane is wearing a dress"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Future outcasts and they don't last"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And today people dress the way that they please"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They way they tried to do in the last centuries"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And they love each other so, androgynous"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Closer than you know, love each other so, androgynous"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "---",
+              "lyrics": "Compiled by Brian Mauch"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with help from Dave Hornidge and Peter Palmer"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

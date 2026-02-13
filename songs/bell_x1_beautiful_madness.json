@@ -1,0 +1,478 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/b/bell_x1/beautiful_madness_crd_ver_2.html",
+  "title": "Beautiful Madness",
+  "artist": "Bell X1",
+  "key": null,
+  "scrapedAt": "2025-12-16T15:28:22.274Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BEAUTIFUL MADNESS - BELL X1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: sbaxter675"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: simonbaxteris@hotmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning:EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO (from xylophone or whatever that is)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I just worked out the bass for this song and converted it into chords. Pretty simple"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "very powerful though."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Give me an op"
+            },
+            {
+              "chord": "C",
+              "lyrics": "inion"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cos"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I don't have"
+            },
+            {
+              "chord": "D",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I'll agre"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e with you if you're r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I always know where y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou're coming from"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'ve never been t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I have to s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "teal from you when you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "write"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your beautiful mad"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "My beautiful gr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ief"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your dreams are my t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "orture"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Your dreams my re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lief"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/b/bell_x1/beautiful_madness_crd_ver_2.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2 (Same as 1st):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I'll give you an o"
+            },
+            {
+              "chord": "C",
+              "lyrics": "pinion"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cos I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "just found o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ne"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "You won't agr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ee with me out of s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pite"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I lay siege to your f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ortress"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou'll never give i"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "No, yo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "u'll just change your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus (Same again)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your beautiful ma"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "My beautiful g"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rief"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your dreams are my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "torture"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Your dreams my r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "elief"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mad to burn mad to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fly mad to be s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aved"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I stumb"
+            },
+            {
+              "chord": "G",
+              "lyrics": "le through the dark"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ness looking fo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "r the day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fabulou"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s yellow roman cand"
+            },
+            {
+              "chord": "C",
+              "lyrics": "les explodes li"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ke spiders across the sky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the sparkling of th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e day we all go"
+            },
+            {
+              "chord": "D",
+              "lyrics": "..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Riff that plays over chorus is:"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

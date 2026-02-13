@@ -1,0 +1,518 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/b/brooke_fraser/arithmetic_crd_ver_4.html",
+  "title": "Arithmetic",
+  "artist": "Brooke Fraser",
+  "key": "B",
+  "scrapedAt": "2025-12-16T13:10:32.336Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key: B major"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Timing: 4/4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tempo: Quarter note = 120"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==ARRANGEMENT=="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1. Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2. Interlude"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3. Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "4. Prechorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "5. Interlude"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "6 Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "7. Prechorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "8. Interlude (x4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "9. Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "10. Prechorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "11. Interlude (x4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "12. Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "13. Soft bridge (octave higher)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "14. Prechorus (x4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "15. Interlude"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "16. Last 3 chords (Emaj7 F# B...)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "============"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "INTRO",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E9 G#m7/F# G#m (x4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "INTERLUDE",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B G#m7 G#m/F# E9 (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "VERSE",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "'ve be"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "en star"
+            },
+            {
+              "chord": "G#m/F#",
+              "lyrics": "ing at the sk"
+            },
+            {
+              "chord": "E9",
+              "lyrics": "y tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "ng and p"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "assing time"
+            },
+            {
+              "chord": "G#m/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "what to"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "do with"
+            },
+            {
+              "chord": "G#m/F#",
+              "lyrics": "daylight"
+            },
+            {
+              "chord": "E9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "can ma"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "ke You min"
+            },
+            {
+              "chord": "G#m/F#",
+              "lyrics": "e"
+            },
+            {
+              "chord": "E9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "PRECHORUS",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You are the"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "one I wa"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "nt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B ... (interlude)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You are the one I want"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "BRIDGE",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#m",
+              "lyrics": "'t find wha"
+            },
+            {
+              "chord": "E",
+              "lyrics": "t I am"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "looking"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#m",
+              "lyrics": "only 'see'"
+            },
+            {
+              "chord": "E",
+              "lyrics": "by keep"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ing score"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#m",
+              "lyrics": "e I know n"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ow You are"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "so much"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "more than ari"
+            },
+            {
+              "chord": "G#m/F#",
+              "lyrics": "thmetic"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#m",
+              "lyrics": "if I add,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "if"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "I sub"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "tract"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#m",
+              "lyrics": "give it al"
+            },
+            {
+              "chord": "E",
+              "lyrics": "l, try to"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "take some"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#m",
+              "lyrics": "otten the fr"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eedom that"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "comes from the"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "fact"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

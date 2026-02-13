@@ -1,0 +1,1014 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/s/savagegarden-tabs-3444/affirmation-tabs-78224.html",
+  "title": "Affirmation",
+  "artist": "Savage Garden",
+  "key": null,
+  "scrapedAt": "2025-12-16T10:58:29.021Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "AFFIRMATION"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Savage Garden)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1999",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(NOTE 1: Daniel uses a capo on fret 1, and all chords are relative to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the capo. For instance, without the capo, 'A' would be played"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "as 'Bb' (x13331). Most chords are played as fifth root barres. )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(NOTE 2: All chords last for two beats, except the 'Dsus4-D'transition"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "where both chords last for one beat each, and the 'E' chord in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the pre-chorus', which lasts for four beats. This should help"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with timing etc. It's not a hard song! )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G (320033)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D (xx0232) in pre-chorus and chorus: (x57775)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dsus4 (xx0233)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C (x32010)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m (x 9 11 11 10 9)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E (x79997)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A (x02220)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G D C Dsus4 D (NOTE: The last 'D' gets played during the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e--8--9--6--8---------- '8' on the top e string]"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B--------------9-8-9---"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G----------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D----------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A----------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E----------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I believe the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sun should never"
+            },
+            {
+              "chord": "C",
+              "lyrics": "set upon an"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "arguem"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ent"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I believe we"
+            },
+            {
+              "chord": "D",
+              "lyrics": "place our happi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ness in other"
+            },
+            {
+              "chord": "D",
+              "lyrics": "people's hands"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I believe that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "junk food tastes so"
+            },
+            {
+              "chord": "C",
+              "lyrics": "good because it's"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "bad for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I believe your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "parents did the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "best job they knew"
+            },
+            {
+              "chord": "D",
+              "lyrics": "how to do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-chorus 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I believe that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "beauty maga"
+            },
+            {
+              "chord": "E",
+              "lyrics": "zines promote low self-esteem"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I believe I'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "loved when I'm com"
+            },
+            {
+              "chord": "E",
+              "lyrics": "pletely by myself alone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I believe in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "karma what you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "give is what"
+            },
+            {
+              "chord": "D",
+              "lyrics": "get returned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e--------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B----------------------------------------------------------0---"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G----------2---------------2------------2--------------2-------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D------2-------2-------2-------2-----2-----2-------2-----------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A--0---------------0--------------0------------0---------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E--------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I believe you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "can't appreci"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ate real love til"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you've been burned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B--------------------------------------------------------------0---"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G----------2--------------2--------------2-----------------2-------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D------2-------2-------2-----2-------2-------2---------2-----------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A--0----------------0------------0-----------------0---------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I believe the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "grass is no more"
+            },
+            {
+              "chord": "E",
+              "lyrics": "greener on the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "other side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e-------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B---------------------------------------------------------------0---"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G----------2-----------------2--------------2---------------2-------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D------2-------2--------2--------2-------2------2-------2-----------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A--0----------------0----------------0--------------0---------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E-------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I believe you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "don't know what you've"
+            },
+            {
+              "chord": "D",
+              "lyrics": "got until you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "say goodbye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e------------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B--------------------------------------------------------------------0---"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G----------2--------------------2-----------------2--------------2-------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D------2-------2----------2-----------2--------2-----2-------2-----------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A--0----------------0----------------------0-------------0---------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E------------------------------------------------------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I believe you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "can't control or"
+            },
+            {
+              "chord": "C",
+              "lyrics": "choose your sexu"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "ali -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ty"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I believe that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "trust is more im"
+            },
+            {
+              "chord": "C",
+              "lyrics": "portant than mo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nogamy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I believe your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "most attractive"
+            },
+            {
+              "chord": "C",
+              "lyrics": "features are your"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "heart and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "soul"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I believe that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "family is"
+            },
+            {
+              "chord": "C",
+              "lyrics": "worth more than mo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ney or gold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-chorus 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I believe the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "struggle for fi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nancial freedom is unfair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I believe the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "only ones who"
+            },
+            {
+              "chord": "E",
+              "lyrics": "disagree are millionaires"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I believe in karma what you give is what get returned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I believe you can't appreciate real love til you've been burned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I believe the grass is no more greener on the other side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I believe you don't know what you've got until you say goodbye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e----------8--9--6--8--------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B-/9~~~~~~~-----------9-8-9--"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G----------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D----------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A----------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E----------------------------"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I believe forgiveness is the key to your unhappiness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I believe that wedded bliss negates the need to be undressed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-chorus 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I believe that God does not endorse TV evangelists"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I believe love surviving death into eternity"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat chorus twice"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

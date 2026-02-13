@@ -1,0 +1,702 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/e/elliottsmith-tabs-23446/betweenthebarslive-tabs-269746.html",
+  "title": "Between the Bars",
+  "artist": "Elliott Smith",
+  "key": null,
+  "scrapedAt": "2025-12-16T16:17:32.310Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Live)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BETWEEN THE BARS (LIVE) �?? Elliott Smith"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: One step down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7: x02213"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F9: 131213"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C: x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gsus4: X2023X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E: 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F: 133211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 32000X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ab: 43111X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D: 2X023X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fm: 133111"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am_Run_Up:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO: Am7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Drink up baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F9",
+              "lyrics": "Stay up all night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "things you could do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "won't but you might"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The po"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "tential you'll be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That"
+            },
+            {
+              "chord": "F9",
+              "lyrics": "you'll never see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C",
+              "lyrics": "promises"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you'll only"
+            },
+            {
+              "chord": "F",
+              "lyrics": "make"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Drink"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "up with me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For"
+            },
+            {
+              "chord": "F9",
+              "lyrics": "get all about"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C",
+              "lyrics": "pressure of days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus4",
+              "lyrics": "Do what I say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'll"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "make you okay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F9",
+              "lyrics": "And drive them away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C",
+              "lyrics": "images"
+            },
+            {
+              "chord": "E",
+              "lyrics": "stuck in your"
+            },
+            {
+              "chord": "F",
+              "lyrics": "head"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The peo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ple"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am_Run_Up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You've been before that you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "Don't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "want"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Around any more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They"
+            },
+            {
+              "chord": "F",
+              "lyrics": "push and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "shove"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am_Run_Up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And won't bend to your will"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'll keep them"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "still"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Drink up baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F9",
+              "lyrics": "Look at the stars"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "C",
+              "lyrics": "kiss you again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus4",
+              "lyrics": "Between the bars"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where I�??"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "m seeing you there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With your"
+            },
+            {
+              "chord": "F9",
+              "lyrics": "hands in the air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Waiting to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "finally be"
+            },
+            {
+              "chord": "F",
+              "lyrics": "caught"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Drink"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "up one more time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "F9",
+              "lyrics": "I'll make you mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Keep you apart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus4",
+              "lyrics": "Deep in my heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sepa"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "rate from the rest"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where I"
+            },
+            {
+              "chord": "F9",
+              "lyrics": "like you the best"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C",
+              "lyrics": "keep the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "things you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "forgot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The peo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ple"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am_Run_Up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You've been before that you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "Don't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "want"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Around any more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They"
+            },
+            {
+              "chord": "F",
+              "lyrics": "push and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "shove"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am_Run_Up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And won't bend to your will"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I'll keep them"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "still"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

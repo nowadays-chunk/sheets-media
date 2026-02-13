@@ -1,0 +1,662 @@
+{
+  "url": "https://www.chordie.com/chord.pere/chordiearchive.chordie.com/chord.pere/www.lindesign.se/uwp/guitar/a/association/cherish.crd",
+  "title": "Cherish",
+  "artist": "The Association",
+  "key": null,
+  "scrapedAt": "2025-12-16T20:48:34.652Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj9"
+            },
+            {
+              "chord": "xx7988",
+              "lyrics": "Ebmaj9"
+            },
+            {
+              "chord": "xx5766",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Ebmaj9",
+              "lyrics": "Verse 1:"
+            },
+            {
+              "chord": "Bum",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "bum",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "bum",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "bum",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj9 Gm7/C"
+            },
+            {
+              "chord": "xx5766",
+              "lyrics": "Ebmaj9 Gm7/C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cherish is the word I use to describe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All the"
+            },
+            {
+              "chord": "Fmaj9",
+              "lyrics": "feeling that I have hiding"
+            },
+            {
+              "chord": "Gm7/C",
+              "lyrics": "here for you inside"
+            },
+            {
+              "chord": "Ebmaj9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Gm7/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You don't know"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "how many times I've wished that I had t"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "old you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You don't know"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "how many times I've wished that I could h"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "old you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You don't know"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "how many times I've wished that I could"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Mold you"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "into"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "someone who could"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb C"
+            },
+            {
+              "chord": "bammer-on: xx555x->xx756x",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cherish me as much as I cherish you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Perish is the word that more than applies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To the hope in my heart each time I realize"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That I am not gonna be the one to share your dreams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That I am not gonna be the one to share your schemes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That I am not gonna be the one to share what"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Seems to be the life that you could"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cherish as much as I do yours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh I'm be"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "ginning to think that m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "an has never found"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The w"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ords that could make you want"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That have the r"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ight amount of letters, j"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ust the right"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That could"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "make you hear,"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "make you see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That you are d"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "rivin' me out of my m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh I could say I"
+            },
+            {
+              "chord": "Fmaj9",
+              "lyrics": "need you but then you'd r"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ealize"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That I"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "want you just like a t"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "housand other guys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who'd say they l"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "oved you With all the r"
+            },
+            {
+              "chord": "C",
+              "lyrics": "est of their lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When all they w"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "anted was to t"
+            },
+            {
+              "chord": "/Bb",
+              "lyrics": "ouch your f"
+            },
+            {
+              "chord": "/A",
+              "lyrics": "ace, your h"
+            },
+            {
+              "chord": "/G",
+              "lyrics": "ands"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And gaze into your e"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "yes"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3"
+            },
+            {
+              "chord": "words same as verse 1, cbord progression completely different",
+              "lyrics": ":"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Cherish is the word I u"
+            },
+            {
+              "chord": "C",
+              "lyrics": "se to describe"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "All the feeling that I have t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hriving here for you inside"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You don't know"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "how many times I've wished that I had t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "old you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You don't know"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "how many times I've wished that I could h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "old you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You don't know"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "how many times I've wished that I could"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mold you"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "into s"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "omeone who could"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Cherish me as much as I cherish y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coda:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "N.C.",
+              "lyrics": "D G C D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I do cherish you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nd"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "her"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ish y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cherish is the word"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "guitar 1"
+            },
+            {
+              "chord": "w/tremolo",
+              "lyrics": ":"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "guitar 2"
+            },
+            {
+              "chord": "w/more tremolo",
+              "lyrics": ":"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-- another ace 60's tab from Andrew Rogers"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

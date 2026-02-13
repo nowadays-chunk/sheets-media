@@ -1,0 +1,542 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/elton-john/328371.html",
+  "title": "Better Off Dead",
+  "artist": "Elton John",
+  "key": null,
+  "scrapedAt": "2025-12-16T16:10:09.172Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Better Off Dead - Elton John"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Refer to recording for intro, bridge, and outro rhythms."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ab/C Db F/A Bbm F Gb Ab/C Db (2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db",
+              "lyrics": "There was a face on a hoarding that"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "someone had"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "drawn on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And just enough time for the night to pass by without"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "warning"
+            },
+            {
+              "chord": "Db/F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Away in the distance there's a blue"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "flashing light"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Someone's in trouble"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "somewhere"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the"
+            },
+            {
+              "chord": "Gb/Db",
+              "lyrics": "flickering"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "neon stands"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ready to"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "fuse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Gb/Db",
+              "lyrics": "wind blows"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "away all of"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "yesterday's"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "news"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well they've"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "locked up their daughters and they"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "battened the"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "hatches"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They always could find us but they never could"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "catch us"
+            },
+            {
+              "chord": "Db/F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Through the"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "grease streaked windows of an all night"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "cafe"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "We watched the arrested get"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "taken"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And that"
+            },
+            {
+              "chord": "Gb/Db",
+              "lyrics": "cigarette"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "haze has"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ecology"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "beat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the"
+            },
+            {
+              "chord": "Gb/Db",
+              "lyrics": "whores and the"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "drunks filed"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "in from the"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "street"
+            },
+            {
+              "chord": "Bbmsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "'Cause the steam's in the boiler the coal's in the"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "fire"
+            },
+            {
+              "chord": "Bbm/Ab",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "ask how I am then I'll"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "just say"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "inspired"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "If the thorn of a rose is the thorn in your"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "side"
+            },
+            {
+              "chord": "Bbm/Ab",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "Then you're better off"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "dead if you haven't yet"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "died"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Db Ab/C Db F/A Bbm F Gb Ab/C Db (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INSTRUMENTAL VERSE - VOICE \"OOH/AH\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "'Cause the steam's in the boiler the coal's in the"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "fire"
+            },
+            {
+              "chord": "Bbm/Ab",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "ask how I am then I'll"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "just say"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "inspired"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "If the thorn of a rose is the thorn in your"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "side"
+            },
+            {
+              "chord": "Bbm/Ab",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "Then you're better off"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "dead if you haven't yet"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "died"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Db Ab/C Db F/A Bbm F Gb Ab/C Db (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab/C",
+              "lyrics": "Better off"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "dead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F/A",
+              "lyrics": "Better off"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "dead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Db/F",
+              "lyrics": "Better off"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "dead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab/C",
+              "lyrics": "Better off"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "dead (x2)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

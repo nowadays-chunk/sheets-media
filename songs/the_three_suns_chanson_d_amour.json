@@ -1,0 +1,242 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/chansond.htm",
+  "title": "Chanson d'Amour",
+  "artist": "The Three Suns",
+  "key": null,
+  "scrapedAt": "2025-12-16T20:40:47.303Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C"
+            },
+            {
+              "chord": "G",
+              "lyrics": "han"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "- s"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "on"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "d'a -"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "mour"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Rah - tah -"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "tah - tah -"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "tah"
+            },
+            {
+              "chord": "D+",
+              "lyrics": "play e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ncore."
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Here"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "in"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "my he"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "art"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Rah - tah -"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "tah - tah - t"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ah"
+            },
+            {
+              "chord": "D+",
+              "lyrics": "more and m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ore."
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C"
+            },
+            {
+              "chord": "G",
+              "lyrics": "han"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "-"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "son"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "d'a -"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "mour"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Rah - tah -"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "tah - tah - t"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ah"
+            },
+            {
+              "chord": "D+",
+              "lyrics": "I a - d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ore."
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Each"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "time"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "I h"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ear"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

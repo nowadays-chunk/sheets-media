@@ -1,0 +1,514 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/third-day/377469.html",
+  "title": "Angels We Have Heard on High",
+  "artist": "Third Day",
+  "key": null,
+  "scrapedAt": "2025-12-16T12:37:14.293Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Guitar Figure (4 bars over E B E)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Angels we have"
+            },
+            {
+              "chord": "B",
+              "lyrics": "heard on"
+            },
+            {
+              "chord": "E",
+              "lyrics": "high"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Sweetly singing"
+            },
+            {
+              "chord": "B",
+              "lyrics": "o'er the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "plains,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And the mountains"
+            },
+            {
+              "chord": "B",
+              "lyrics": "in re"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ply"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Echoing their"
+            },
+            {
+              "chord": "B",
+              "lyrics": "joyous"
+            },
+            {
+              "chord": "E",
+              "lyrics": "strains."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E B E (x2) (w/ keyboard figure)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Shepherds, why this jubilee?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Why your joyous strains prolong?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What the gladsome tidings be?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Which inspire your heavenly song?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Gloria,_"
+            },
+            {
+              "chord": "A",
+              "lyrics": "____"
+            },
+            {
+              "chord": "E/G#",
+              "lyrics": "_______"
+            },
+            {
+              "chord": "B",
+              "lyrics": "__ in"
+            },
+            {
+              "chord": "E",
+              "lyrics": "exc"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "elsis D"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eo!"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Turn: E - B - G#m A B (w/ keyboard figure)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come to Bethlehem and see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Him Whose birth the angels sing;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come, adore on bended knee,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Christ the Lord, the newborn King."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Gloria,_"
+            },
+            {
+              "chord": "A",
+              "lyrics": "____"
+            },
+            {
+              "chord": "E/G#",
+              "lyrics": "_______"
+            },
+            {
+              "chord": "B",
+              "lyrics": "__"
+            },
+            {
+              "chord": "E",
+              "lyrics": "in ex"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "celsis"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Deo!"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Gloria,_"
+            },
+            {
+              "chord": "A",
+              "lyrics": "______"
+            },
+            {
+              "chord": "E",
+              "lyrics": "_____"
+            },
+            {
+              "chord": "B",
+              "lyrics": "__"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "in ex"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "celsis"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Deo!"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Turn: E - B - G#m A B (2x w/ keyboard figure)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "See Him in the manger lay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jesus, Lord of heav?n and earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mary Joseph, lend your aid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With us sing our Savior's birth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Gloria,_"
+            },
+            {
+              "chord": "A",
+              "lyrics": "____"
+            },
+            {
+              "chord": "E/G#",
+              "lyrics": "_______"
+            },
+            {
+              "chord": "B",
+              "lyrics": "__"
+            },
+            {
+              "chord": "E",
+              "lyrics": "in ex"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "celsis"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Deo!"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E/G#",
+              "lyrics": "Gloria,_"
+            },
+            {
+              "chord": "A",
+              "lyrics": "______"
+            },
+            {
+              "chord": "E",
+              "lyrics": "_____"
+            },
+            {
+              "chord": "B",
+              "lyrics": "__"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "in ex"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "celsis"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Deo!"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "in ex"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "celsis"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Deo!"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "in ex"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "celsis"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Deo!"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "End",
+              "lyrics": "E - B (x4) (keyboard figure)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This version matches the video here: http://www.youtube.com/watch?v=UO3tqaHyNJM"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The guitar figure and keyboard figure are pretty easy."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

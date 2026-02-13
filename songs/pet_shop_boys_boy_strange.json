@@ -1,0 +1,782 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.xguitar.com/guitar-tabs/pet_shop_boys/nightlife/boy_strange.txt",
+  "title": "Boy Strange",
+  "artist": "Pet Shop Boys",
+  "key": null,
+  "scrapedAt": "2025-12-16T18:02:57.902Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pet Shop Boys - Boy Strange (Tennant/Lowe)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed by he_rocker@hotmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://www.geocities.com/he_rocker"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Bb"
+            },
+            {
+              "chord": "575655",
+              "lyrics": "688766"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C5 x355xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dadd9/4 x54030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm x57765"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em/B x22000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "G(1)"
+            },
+            {
+              "chord": "133211",
+              "lyrics": "320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G(2)",
+              "lyrics": "G6"
+            },
+            {
+              "chord": "355433",
+              "lyrics": "320030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G7 320001"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/B x20033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "Gm/Bb"
+            },
+            {
+              "chord": "353333",
+              "lyrics": "x10033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|C5| |G/B| |Gm/Bb| |A|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Dm| |F| |C| |G(1)| |G(1)| |G(1)| |G(1)|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "See Boy"
+            },
+            {
+              "chord": "Dadd9/4",
+              "lyrics": "Strange_ on the hori"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "_zon of love"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He's"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "calling to you"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "_"
+            },
+            {
+              "chord": "F",
+              "lyrics": "what do you say?"
+            },
+            {
+              "chord": "G(2)",
+              "lyrics": "_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "See Boy"
+            },
+            {
+              "chord": "Daad9/4",
+              "lyrics": "Strange_ as an exam"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "_ple of youth_"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "close_ to the truth"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "but still far a-"
+            },
+            {
+              "chord": "G(2)",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And he's such a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "strange_ boy_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "D'you think he'll make a good ex-"
+            },
+            {
+              "chord": "F",
+              "lyrics": "change_ for_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "The one before a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "closed_ door_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "That you left be-"
+            },
+            {
+              "chord": "G(2)",
+              "lyrics": "hind?_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "When you rea-"
+            },
+            {
+              "chord": "Dadd9/4",
+              "lyrics": "lise_ that"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "this boy is strange"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "too late to change"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "_"
+            },
+            {
+              "chord": "F",
+              "lyrics": "your point of view"
+            },
+            {
+              "chord": "G(2)",
+              "lyrics": "_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "He's often there"
+            },
+            {
+              "chord": "Daad9/4",
+              "lyrics": "_ when the sun"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "_ meets the sky_"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "per_fect a-li-bi"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "unlike_"
+            },
+            {
+              "chord": "G(2)",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And he's such a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "strange_ boy_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "D'you think he'll make a good ex-"
+            },
+            {
+              "chord": "F",
+              "lyrics": "change_ for_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "The one before a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "closed_ door_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "That you left be-"
+            },
+            {
+              "chord": "G(2)",
+              "lyrics": "hind?_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Instr:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Ab| |G6|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "To talk of common"
+            },
+            {
+              "chord": "Dadd9/4",
+              "lyrics": "sense_ is a complete"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "_ waste of time"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "His"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "looks are a crime"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "_"
+            },
+            {
+              "chord": "F",
+              "lyrics": "bound to commit"
+            },
+            {
+              "chord": "G(2)",
+              "lyrics": "_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "In the eyes of the"
+            },
+            {
+              "chord": "Dadd9/4",
+              "lyrics": "world he's a"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "bor-der-line fool_"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Both"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "na_ive and cruel"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "why would you in-"
+            },
+            {
+              "chord": "G(2)",
+              "lyrics": "flect him on_"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you?"
+            },
+            {
+              "chord": "Em/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Instr:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|B| |A| |D| |F|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|G(1)| |G(1)| |G7| |G7| |G7|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And he's such a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "strange_ boy_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "D'you think he'll make a good ex-"
+            },
+            {
+              "chord": "F",
+              "lyrics": "change_ for_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "The one before a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "closed_ door_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "That you left be-"
+            },
+            {
+              "chord": "G(2)",
+              "lyrics": "hind?_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And he's such a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "strange_ boy_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "D'you think he'll make a good ex-"
+            },
+            {
+              "chord": "F",
+              "lyrics": "change_ for_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "The one before a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "closed_ door_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ab",
+              "lyrics": "That you left be-"
+            },
+            {
+              "chord": "G(2)",
+              "lyrics": "hind?_"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|C Dadd9/4| |Gm7 A7|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Dm Bb| |F G(2)|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|C Dadd9/4| |Gm7 A7|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Dm Bb| |F G(2)| *Fade Out*"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

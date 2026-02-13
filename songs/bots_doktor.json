@@ -1,0 +1,618 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/bots/292434.html",
+  "title": "Doktor",
+  "artist": "Bots",
+  "key": null,
+  "scrapedAt": "2025-12-17T00:27:42.737Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is my first Tab, but i think it works really fine."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Really simple to play, enjoy."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Doktor from Bots (Netherlands)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Doktor, seit gestern"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Abend geht's mir"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wieder sonder"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bar."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Die Brust wie"
+            },
+            {
+              "chord": "G",
+              "lyrics": "abgedr�ckt, der"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Hintern brennt so"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gar."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Man"
+            },
+            {
+              "chord": "G",
+              "lyrics": "h�rt so viele"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Klagen heutzu"
+            },
+            {
+              "chord": "B",
+              "lyrics": "tage."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wenn ich Sie"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "st�re, Doktor,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "m�ssen sie es"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sagen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Doktor, ist ge"
+            },
+            {
+              "chord": "F",
+              "lyrics": "f�hrlich, wenn es"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hier am Magen"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pocht?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Das tut's nicht"
+            },
+            {
+              "chord": "G",
+              "lyrics": "immer, Nein, jetzt"
+            },
+            {
+              "chord": "D",
+              "lyrics": "greifen Sie zu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hoch."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Man"
+            },
+            {
+              "chord": "G",
+              "lyrics": "h�rt so viele"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Klagen heutzu"
+            },
+            {
+              "chord": "B",
+              "lyrics": "tage."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ich hoff' ich"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nehm' Ihnen nicht"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Ihre teure"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Zeit weg"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Doktor, ich mach' die"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Arbeit nur noch"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lustlos vor mich"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hin."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wie kommt's, dass"
+            },
+            {
+              "chord": "G",
+              "lyrics": "grade ich dann"
+            },
+            {
+              "chord": "D",
+              "lyrics": "v�llig fertig"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "bin?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Von"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Andern h�r' ich"
+            },
+            {
+              "chord": "A",
+              "lyrics": "selten solche"
+            },
+            {
+              "chord": "B",
+              "lyrics": "Klagen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wenn ich Sie"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "st�re, Doktor,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "m�ssen sie es"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sagen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Doktor, ist es Wahr, bild' ich's mir"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ein? Besteht Ge"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fahr?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ich halt's nicht"
+            },
+            {
+              "chord": "C",
+              "lyrics": "l�nger aus, ich"
+            },
+            {
+              "chord": "G",
+              "lyrics": "muss den Grund er"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fahren."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Doktor, hab' ich Recht, um meine"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Galle steht es"
+            },
+            {
+              "chord": "E",
+              "lyrics": "schlecht."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mein Nachbar"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sagt, er hat das"
+            },
+            {
+              "chord": "G",
+              "lyrics": "auch und schon seit"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Jahren."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D F C D G D Em G A B Em A C (Interlude)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Doktor, als ich die"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ganzen Tropfen,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "die Sie mir vers"
+            },
+            {
+              "chord": "D",
+              "lyrics": "chrieben,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Heut' Morgen"
+            },
+            {
+              "chord": "G",
+              "lyrics": "einnahm, ist die"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Luft mir weg g"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eblieben"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Doch"
+            },
+            {
+              "chord": "G",
+              "lyrics": "leider hab' ich"
+            },
+            {
+              "chord": "A",
+              "lyrics": "immer noch zu"
+            },
+            {
+              "chord": "B",
+              "lyrics": "Klagen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wenn ich Sie"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "aufhalt', Doktor,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "m�ssen sie es"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sagen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Doktor, ist es Wahr, bild' ich's mir"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ein? Seit einem"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Jahr?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ach, das"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Gef�hl, gesund zu"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sein ist schon so"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lang her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Doktor, wissen Sie, die Schlankheits"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pille half mir"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Und auch der"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Nachbarin nicht"
+            },
+            {
+              "chord": "G",
+              "lyrics": "und die ist jetzt"
+            },
+            {
+              "chord": "D",
+              "lyrics": "schwanger."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Doktor,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "warum hat mir"
+            },
+            {
+              "chord": "C",
+              "lyrics": "niemand gleich"
+            },
+            {
+              "chord": "D",
+              "lyrics": "erz�hlt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ich gab nur"
+            },
+            {
+              "chord": "G",
+              "lyrics": "st�ndig aus, mein"
+            },
+            {
+              "chord": "D",
+              "lyrics": "schwer erspartes"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Geld"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sie wussten,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dass mich das nicht"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bei Gesundheit"
+            },
+            {
+              "chord": "D",
+              "lyrics": "h�lt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Warum"
+            },
+            {
+              "chord": "G",
+              "lyrics": "h�ren Sie nur"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wortlos meine"
+            },
+            {
+              "chord": "B",
+              "lyrics": "Klagen?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wenn ich Sie"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "st�re, Doktor,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "m�ssen sie es"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sagen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em A C.... (fade out)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

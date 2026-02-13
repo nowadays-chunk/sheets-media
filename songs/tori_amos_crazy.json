@@ -1,0 +1,550 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/tori-amos/156047.html",
+  "title": "Crazy",
+  "artist": "Tori Amos",
+  "key": null,
+  "scrapedAt": "2025-12-16T22:23:37.189Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CRAZY - Tori Amos"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by:mbokatsch"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email:bokatsch@yahoo.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: dm-F-C-C (4x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "dm",
+              "lyrics": "not sayin' not charmed at"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "dm",
+              "lyrics": "not sayin' that you weren't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "worth the fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and I was"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "alon"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "e when I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "knew it was"
+            },
+            {
+              "chord": "F",
+              "lyrics": "real"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "down the"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "canyo"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "n when I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "knew I had"
+            },
+            {
+              "chord": "F",
+              "lyrics": "come"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to the"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "line through the d"
+            },
+            {
+              "chord": "F",
+              "lyrics": "awn to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to the"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "turn when you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you could"
+            },
+            {
+              "chord": "am",
+              "lyrics": "drive all night, drive all night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so I let"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "Crazy"
+            },
+            {
+              "chord": "F",
+              "lyrics": "take a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "spin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "then I let"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "Craz"
+            },
+            {
+              "chord": "F",
+              "lyrics": "y settle"
+            },
+            {
+              "chord": "C",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "kicked off my"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "shoes shut reason out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "he said \""
+            },
+            {
+              "chord": "dm",
+              "lyrics": "first let's just"
+            },
+            {
+              "chord": "F",
+              "lyrics": "unzip your religion"
+            },
+            {
+              "chord": "C",
+              "lyrics": "down\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "dm-F-C-C (2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "dm",
+              "lyrics": "found that I, I craved at"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "dm",
+              "lyrics": "saw me melt"
+            },
+            {
+              "chord": "C",
+              "lyrics": "into your"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "native sh"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "elte"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "r where you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "carved my"
+            },
+            {
+              "chord": "F",
+              "lyrics": "name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "paper tiger"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "s scare"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me and"
+            },
+            {
+              "chord": "F",
+              "lyrics": "came"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "al"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "ive through the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dawn to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to the"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "turn when you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you could"
+            },
+            {
+              "chord": "am",
+              "lyrics": "drive all night, drive all night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so i let"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "Crazy"
+            },
+            {
+              "chord": "F",
+              "lyrics": "take a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "spin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "then i let"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "Crazy"
+            },
+            {
+              "chord": "F",
+              "lyrics": "settle"
+            },
+            {
+              "chord": "C",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "kicked off my"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "shoes shut reason out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "he said \""
+            },
+            {
+              "chord": "dm",
+              "lyrics": "first let's just"
+            },
+            {
+              "chord": "F",
+              "lyrics": "unzip your religion do"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wn\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so i let"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "Crazy"
+            },
+            {
+              "chord": "F",
+              "lyrics": "pull me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "then i let"
+            },
+            {
+              "chord": "dm",
+              "lyrics": "Craz"
+            },
+            {
+              "chord": "F",
+              "lyrics": "y take his"
+            },
+            {
+              "chord": "C",
+              "lyrics": "spin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "kicked off my"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "shoes shut reason out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "he said \""
+            },
+            {
+              "chord": "dm",
+              "lyrics": "first let's just"
+            },
+            {
+              "chord": "F",
+              "lyrics": "unzip your religion do"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wn\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "heard that you were once \""
+            },
+            {
+              "chord": "C",
+              "lyrics": "temptation's girl\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb am G# gm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and as soon as you have rearranged the mess in your head"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F# fm ebm C# ebm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "he will show up looking sane perfectly sane if i know Crazy"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

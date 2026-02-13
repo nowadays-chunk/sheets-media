@@ -1,0 +1,722 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/the-david-wax-museum/271188.html",
+  "title": "Born With a Broken Heart",
+  "artist": "The David Wax Museum",
+  "key": null,
+  "scrapedAt": "2025-12-16T17:53:22.233Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hey y'all,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email me at nikovacevic@gmail.com if you've got corrections, but it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sounds okay to me. You can pick up the strum pattern fairly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "easily from listening to the song."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gsus2 300033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C X32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D7 XX0212"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D7sus4 XX0213"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G - Gsus2 (x4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I was born a broken-"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "hearted bo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "y,"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "give or"
+            },
+            {
+              "chord": "G",
+              "lyrics": "take an"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ounce"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And the world wouldn't"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "give me a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "break"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "waiting,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ready to"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "pounce"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I was born with a br"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "oken heart"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", with a b"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "roken hear"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t, sure was"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "broken"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I was born with a br"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "oken heart"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", with a b"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "roken hear"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t, sure was"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "broken"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oooh in t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If you're out wander"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "ing in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "streets,"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "knock on m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "y window, i"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "t'll open"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "My bed is small, but"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "so are we"
+            },
+            {
+              "chord": "G",
+              "lyrics": ". Let lov"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "e lay us l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ow -- here'"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "s to hop"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": "ing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You were born with a"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "broken he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "art, with"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "a broken h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eart, sure"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "was broken"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You were born with a"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "broken he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "art, with"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "a broken h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eart, sure"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "was brok"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": "en"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oooh in t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Sometimes we get"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "so confused"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We get"
+            },
+            {
+              "chord": "G",
+              "lyrics": "taken for a ride"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We get worked"
+            },
+            {
+              "chord": "C",
+              "lyrics": "over"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Some of us come with new hearts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Most of us come with used hearts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Baby, why do you look so"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sad?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There are men who wi"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "ll stand a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ccused, bu"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "t they won"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'t be told"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "the why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They were strong so"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "were beate"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n down, bu"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "t the sun"
+            },
+            {
+              "chord": "G",
+              "lyrics": "look gold t"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "hrough b"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": "lackened eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They were born with"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "a broken h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eart, with"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "a broken"
+            },
+            {
+              "chord": "G",
+              "lyrics": "heart, sure"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "was broken"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They were born with"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "a broken h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eart, with"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "a broken"
+            },
+            {
+              "chord": "G",
+              "lyrics": "heart, sure"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "was bro"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": "ken"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oooh in t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Sometimes we get"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "so confused"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We get"
+            },
+            {
+              "chord": "G",
+              "lyrics": "taken for a ride"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We get worked"
+            },
+            {
+              "chord": "C",
+              "lyrics": "over"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Some of us come with new hearts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Most of us come with used hearts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Baby, why do you look so"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sad?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Were you born with a"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "broken he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "art, with"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "a broken h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eart, sure"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "was broken"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Were you born with a"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "broken he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "art, with"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": "a broken h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eart, sure"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "was brok"
+            },
+            {
+              "chord": "D7sus4",
+              "lyrics": "en"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oooh in t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

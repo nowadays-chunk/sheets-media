@@ -80,17 +80,12 @@ export default function LearnSong({ song }) {
 ============================================================================ */
 
 export async function getStaticPaths() {
-  const fs = require("fs");
-  const path = require("path");
-
-  const dir = path.join(process.cwd(), "songs");
-  const files = fs.readdirSync(dir);
-
+  // We return an empty array and use fallback: 'blocking'
+  // to avoid loading all song files into memory during build.
+  // Next.js will generate these pages on-demand.
   return {
-    paths: files.map((f) => ({
-      params: { slug: f.replace(".json", "") },
-    })),
-    fallback: false,
+    paths: [],
+    fallback: "blocking",
   };
 }
 

@@ -1,0 +1,78 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/l/lightspeed-champion/104521.html",
+  "title": "Dry Lips",
+  "artist": "Lightspeed Champion",
+  "key": null,
+  "scrapedAt": "2025-12-17T01:23:53.802Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "one of my faves on the album"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "guitar two:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "listen for timing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tell her.."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I give up..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "He's won.."
+            },
+            {
+              "chord": "F",
+              "lyrics": "and i have lost"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "all."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

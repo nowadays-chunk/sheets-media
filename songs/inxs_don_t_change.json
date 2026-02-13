@@ -1,0 +1,130 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.xguitar.com/guitar-tabs/inxs/shabooh_shoobah/dont_change.txt",
+  "title": "Don't Change",
+  "artist": "INXS",
+  "key": null,
+  "scrapedAt": "2025-12-17T00:33:46.899Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro keyboard riff:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'm standing here..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "sky above..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "See no"
+            },
+            {
+              "chord": "D",
+              "lyrics": "evil in all"
+            },
+            {
+              "chord": "A",
+              "lyrics": "directions..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Don't change for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Don't change a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thing for"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At end of song, 2x of:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Don't"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Change..."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Finish on"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
