@@ -89,13 +89,13 @@ export async function getStaticProps() {
       ...songsSecond.map(mapSong)
     ];
 
-    // Optional: Further limit if still too large, but mapper should reduce 50MB significantly
-    // A 48MB file of ~100k songs with many fields usually drops to < 10MB with just 6-7 fields.
-    const limitedSongs = allSongs.slice(0, 30000);
+    // Return a small subset for initial fast render
+    // The full catalog will be fetched on the client side
+    const initialSongs = allSongs.slice(0, 50);
 
     return {
       props: {
-        songs: limitedSongs,
+        songs: initialSongs,
       },
       revalidate: 60,
     };

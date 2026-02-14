@@ -25,17 +25,57 @@ import { DEFAULT_KEYWORDS } from '../../../data/seo';
 
 export default function Stats({
   boards = [],
-  chords = [],
-  arpeggios = [],
-  scales = [],
+  chords: initialChords = [],
+  arpeggios: initialArpeggios = [],
+  scales: initialScales = [],
   /* ---------------------------------------------------------
   // PRECOMPUTED STATS HANDLING
   // --------------------------------------------------------- */
-  usage = null,
-  precomputedStats = {},
+  usage: initialUsage = null,
+  precomputedStats: initialPrecomputedStats = {},
   p // padding between /play page and /stats page
 }) {
   const [tab, setTab] = useState(0);
+  const [usage, setUsage] = useState(initialUsage);
+  const [precomputedStats, setPrecomputedStats] = useState(initialPrecomputedStats);
+  const [loading, setLoading] = useState(false);
+
+  // Client-side fetching of full stats if not provided (Stats page)
+  React.useEffect(() => {
+    async function fetchStats() {
+      // If we are on stats page (not homepage) and don't have usage data
+      if (boards.length === 0 && (!usage || Object.keys(usage).length === 0)) {
+        setLoading(true);
+        try {
+          const [usageRes, chordsRes, arpsRes, scalesRes] = await Promise.all([
+            fetch('/data/stats/usage.json'),
+            fetch('/data/stats/chords.json'),
+            fetch('/data/stats/arpeggios.json'),
+            fetch('/data/stats/scales.json')
+          ]);
+
+          const [usageData, chordsData, arpsData, scalesData] = await Promise.all([
+            usageRes.ok ? usageRes.json() : {},
+            chordsRes.ok ? chordsRes.json() : {},
+            arpsRes.ok ? arpsRes.json() : {},
+            scalesRes.ok ? scalesRes.json() : {}
+          ]);
+
+          setUsage(usageData);
+          setPrecomputedStats({
+            chords: chordsData,
+            arpeggios: arpsData,
+            scales: scalesData
+          });
+        } catch (error) {
+          console.error("Error fetching client-side stats:", error);
+        } finally {
+          setLoading(false);
+        }
+      }
+    }
+    fetchStats();
+  }, [boards.length]);
 
   // ---------------------------------------------------------
   // DETECT HOMEPAGE

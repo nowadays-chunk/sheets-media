@@ -327,31 +327,31 @@ async function generateStats() {
 
     /* -------- SAVE TO FILE -------- */
     const statsDir = path.join(process.cwd(), 'data', 'stats');
+    const publicStatsDir = path.join(process.cwd(), 'public', 'data', 'stats');
 
-    if (!fs.existsSync(statsDir)) {
-        fs.mkdirSync(statsDir, { recursive: true });
-    }
-
-    // Save general usage
-    fs.writeFileSync(path.join(statsDir, 'usage.json'), JSON.stringify(usage, null, 2));
-
-    // We can also save individual categories if needed by the frontend logic
-    // Based on Stats.js: it checks for chords.json, arpeggios.json, scales.json for precomputedStats
-    // But those seem to be expected as "stats for chords", "stats for arpeggios", etc.
-    // The current logic in Stats.js:
-    // const chordStats = precomputedStats?.chords || { ... computed ... }
-
-    // So we should compute stats for each category and save them.
+    [statsDir, publicStatsDir].forEach(dir => {
+        if (!fs.existsSync(dir)) {
+            fs.mkdirSync(dir, { recursive: true });
+        }
+    });
 
     const chordUsage = computeUsage(chords);
     const arpUsage = computeUsage(arpeggios);
     const scaleUsage = computeUsage(scales);
 
+    // Save to data/stats
+    fs.writeFileSync(path.join(statsDir, 'usage.json'), JSON.stringify(usage, null, 2));
     fs.writeFileSync(path.join(statsDir, 'chords.json'), JSON.stringify(chordUsage, null, 2));
     fs.writeFileSync(path.join(statsDir, 'arpeggios.json'), JSON.stringify(arpUsage, null, 2));
     fs.writeFileSync(path.join(statsDir, 'scales.json'), JSON.stringify(scaleUsage, null, 2));
 
-    console.log('Stats generated successfully in data/stats');
+    // Save to public/data/stats
+    fs.writeFileSync(path.join(publicStatsDir, 'usage.json'), JSON.stringify(usage));
+    fs.writeFileSync(path.join(publicStatsDir, 'chords.json'), JSON.stringify(chordUsage));
+    fs.writeFileSync(path.join(publicStatsDir, 'arpeggios.json'), JSON.stringify(arpUsage));
+    fs.writeFileSync(path.join(publicStatsDir, 'scales.json'), JSON.stringify(scaleUsage));
+
+    console.log('Stats generated successfully in data/stats and public/data/stats');
 }
 
 generateStats().catch(console.error);

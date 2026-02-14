@@ -99,15 +99,43 @@ const SongCard = styled(Card)(({ theme }) => ({
    COMPONENT
  ============================================================ */
 
-const SongsSelector = ({ songs = [] }) => {
+const SongsSelector = ({ songs: initialSongs = [] }) => {
   const router = useRouter();
 
   /* ------------------------------------------------------------
      STATE
   ------------------------------------------------------------ */
 
+  const [songs, setSongs] = useState(initialSongs);
+  const [loading, setLoading] = useState(false);
   const [search, setSearch] = useState("");
   const [visibleCount, setVisibleCount] = useState(100);
+
+  /* ------------------------------------------------------------
+     CLIENT-SIDE FETCHING
+  ------------------------------------------------------------ */
+
+  useEffect(() => {
+    async function fetchFullCatalog() {
+      // If we already have a significant amount of songs, don't fetch (initialSongs might be full in some cases)
+      // But here we've capped it at 50 in getStaticProps
+      if (initialSongs.length >= 1000) return;
+
+      setLoading(true);
+      try {
+        const res = await fetch('/data/songs-catalog.json');
+        if (res.ok) {
+          const fullCatalog = await res.json();
+          setSongs(fullCatalog);
+        }
+      } catch (error) {
+        console.error("Error fetching full songs catalog:", error);
+      } finally {
+        setLoading(false);
+      }
+    }
+    fetchFullCatalog();
+  }, [initialSongs.length]);
 
   /* ------------------------------------------------------------
      FILTER

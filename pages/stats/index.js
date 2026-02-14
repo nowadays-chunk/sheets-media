@@ -32,14 +32,13 @@ export async function getStaticProps() {
 
   return {
     props: {
-      // Pass empty arrays so the component doesn't break if it expects them
-      // (though it should rely on precomputedStats now)
       chords: [],
       arpeggios: [],
       scales: [],
-      usage,
-      precomputedStats,
+      usage: {},
+      precomputedStats: {},
     },
+    revalidate: 60,
   };
 }
 
