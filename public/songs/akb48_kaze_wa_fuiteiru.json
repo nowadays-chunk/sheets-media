@@ -1,0 +1,570 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/a/akb48/323373.html",
+  "title": "Kaze wa Fuiteiru",
+  "artist": "AKB48",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:38:12.798Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No Capo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em,CM7,G,D x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "First Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Kono kawarihateta"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "daichi no kuuhaku ni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Kotoba o ushinatte"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tachitsukushite ita"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Nani kara saki ni"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "te o tsukereba ii"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Zetsubou no naka ni"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hikari o sagasu"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "CM7",
+              "lyrics": "Doko ka ni"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "kami ga irunara"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mouichid"
+            },
+            {
+              "chord": "F",
+              "lyrics": "o atarashii"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sekai o"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Kono chi ni hiraka sete kure"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Soredemo mirai e"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "kaze wa fuite iru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hou ni kanjiru i"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nochi no ibuki"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Soredemo watashi wa"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "tsuyoku ikite iku"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Saa tatta hitotsu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "renga o tsumu koto k"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "ara"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hajimeyou ka"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Same as First Verse)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kioku no kizuguchi wa kasabuta ni natte"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Itami no naka ni yasashi-sa o umu nda"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dare kara saki ni dakishimereba ii"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nukumori no naka de yume o katarou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Afureta namida no-bun dake"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nani ka o seowa sete hoshii yo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Boukansha ni wa naranai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Same as Pre Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Afureta"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Namida no bun dake"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nanika wo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Seowasete hoshii yo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Same as Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Soredemo mirai e ai wa tsuzuite iru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hito to hito ga motome atte iru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Soredemo watashi wa ippo aruki dasu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Soko ni wasure rareta kibou o hirotte"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hajimeyou ka"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fm,Eb,Fm,Eb,Fm,Eb,Fm,Eb,B7,B7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Soredemo mirai e"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "kaze wa fuite iru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hitomi tojireba"
+            },
+            {
+              "chord": "D",
+              "lyrics": "kanjiru hazu sa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Tashika ni mirai e"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "kaze wa fuite iru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Subete ushinatte"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tohou ni kurete mo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Tashika ni watashi wa"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "koko ni sonzai suru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Mae o fusai deru"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gareki o dokashite"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Ima o ikiru"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Moshimo kaze ga yande"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "shimatte mo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Kaze ga kieta sekai wa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nai nda"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Donna toki mo kokyu o shite iru you"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "ni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kyo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u toyuu hi ga so tsurai"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ichinichi demo"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Dekiru koto o"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hajimeyo"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "u ka"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7,B7,Em,Em"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

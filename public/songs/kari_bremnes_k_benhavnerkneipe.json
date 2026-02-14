@@ -1,0 +1,558 @@
+{
+  "url": "https://www.chordie.com/chord.pere/nortabs.net/tab/5401/",
+  "title": "Københavnerkneipe",
+  "artist": "Kari Bremnes",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:38:37.769Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Hm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vi hadde gått"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "langt i"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gamle brustein"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sgate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/C#",
+              "lyrics": "Brusteinsgate e ikkje"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "lagd for stil"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "lett"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vi gikk der husan står"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "trangt, vi b"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ehøvde ikkje"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "å prate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Det va"
+            },
+            {
+              "chord": "Em/C#",
+              "lyrics": "sommer og vi gikk"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "sammen ganske"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tett"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#/A#",
+              "lyrics": "Du fikk se ei kneipe,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "vi gikk inn ei dør og ned nån trinn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Dit kor aldri sommern lukkes"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "inn"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vi trengte kanskje litt"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tid tel å"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "venne oss te"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "mørket"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/C#",
+              "lyrics": "Her va bare"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "duse lamper"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tent."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Her hadde dagen tatt"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "fri, her va"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rått og ingen"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tørke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vi fant et"
+            },
+            {
+              "chord": "Em/C#",
+              "lyrics": "bord kor høsten"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "bodde per"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "manent"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#/A#",
+              "lyrics": "Københavnerkneipa fant vi"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "inn ei dør og ned nån trinn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Dit kor aldri sommern lukkes"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "inn"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ho kan ha vært"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "16 år der h"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "o kom imell"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "a bordan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/C#",
+              "lyrics": "Bleik og vever"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "med fortynna"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "blikk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ho hadde langt, slitent"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "hår og ho"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "leita etter"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ordan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Spurte"
+            },
+            {
+              "chord": "Em/C#",
+              "lyrics": "lavt etter"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "penga tel en"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "trikk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#/A#",
+              "lyrics": "Københavnerkneipekelnern"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ba ho gå et anna sted"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Vi bad jenta om å sett s�"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "� ned"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "�? sa såvidt et pa"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "r ord da h"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "o nesten blei p"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "å gråten"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/C#",
+              "lyrics": "Spurte om ho"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "kunne få ei"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "øl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ho sa ho kom hit"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ifjor, klasse"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "tur med danske"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "båten"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "�? hørt"
+            },
+            {
+              "chord": "Em/C#",
+              "lyrics": "e nu at ho v"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "a nordnorsk som m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "æ sjøl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#/A#",
+              "lyrics": "Sa ho kom fra Senja, fra et"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "værhardt lite feskevær"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Sa: Det storme ennu hardar"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "her!"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Da vi"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "endelig gikk så vi"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gjennom kjelle"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "rruta"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At ho"
+            },
+            {
+              "chord": "Em/C#",
+              "lyrics": "igjen gikk rundt og"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "tigde mynt og"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "børst"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ho nådde aldri nå"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "n trikk, kom s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "æ sekkert ald"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ri ut av"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kneipa"
+            },
+            {
+              "chord": "Em/C#",
+              "lyrics": "der ho hadde"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "gått for lenge"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tørst"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vi hadde gått"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "langt i"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gamle brustein"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sgate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/C#",
+              "lyrics": "Brusteinsgate e"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ikkje lagd for sti"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "llett"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

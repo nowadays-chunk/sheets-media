@@ -31,18 +31,26 @@ const ProductFilters = ({
     onCategoryChange,
     priceRange,
     onPriceRangeChange,
+    musicKey,
+    onMusicKeyChange,
+    selectedMusicTypes,
+    onMusicTypeChange,
     productType,
     onProductTypeChange,
     onClearFilters,
     categoryCount,
     totalProducts,
 }) => {
-    const categories = [
-        { value: 'Sheet Music', label: 'Sheet Music', count: categoryCount['Sheet Music'] || 0 },
-        { value: 'Learning Materials', label: 'Learning Materials', count: categoryCount['Learning Materials'] || 0 },
-        { value: 'Merchandise', label: 'Merchandise', count: categoryCount['Merchandise'] || 0 },
-        { value: 'Accessories', label: 'Accessories', count: categoryCount['Accessories'] || 0 },
-    ];
+    const keys = ['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+    const musicTypes = ['Chord', 'Arpeggio', 'Scale'];
+    const categories = Object.keys(categoryCount)
+        .filter(cat => categoryCount[cat] > 0)
+        .map(cat => ({
+            value: cat,
+            label: cat,
+            count: categoryCount[cat]
+        }))
+        .sort((a, b) => b.count - a.count);
 
     const priceRanges = [
         { value: 'all', label: 'All Prices' },
@@ -52,7 +60,7 @@ const ProductFilters = ({
         { value: '50+', label: '$50 and above' },
     ];
 
-    const hasActiveFilters = searchTerm || selectedCategories.length > 0 || priceRange !== 'all' || productType !== 'all';
+    const hasActiveFilters = searchTerm || selectedCategories.length > 0 || priceRange !== 'all' || productType !== 'all' || musicKey !== 'all' || selectedMusicTypes.length > 0;
 
     return (
         <Paper elevation={0} sx={{ p: 3, border: '1px solid #e0e0e0', borderRadius: 2, position: 'sticky', top: 90 }}>
@@ -154,13 +162,73 @@ const ProductFilters = ({
 
             <Divider sx={{ my: 2 }} />
 
-            {/* Product Type */}
+            {/* Music Key */}
             <Accordion defaultExpanded disableGutters elevation={0} sx={{ '&:before': { display: 'none' } }}>
+                <AccordionSummary expandIcon={<ExpandMoreIcon />} sx={{ px: 0 }}>
+                    <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+                        <Typography variant="subtitle2" sx={{ fontWeight: 'bold' }}>
+                            Music Key
+                        </Typography>
+                    </Box>
+                </AccordionSummary>
+                <AccordionDetails sx={{ px: 0, pt: 0 }}>
+                    <RadioGroup value={musicKey} onChange={(e) => onMusicKeyChange(e.target.value)}>
+                        <FormControlLabel value="all" control={<Radio size="small" />} label={<Typography variant="body2">All Keys</Typography>} sx={{ mb: 0.5 }} />
+                        <Box sx={{ display: 'grid', gridTemplateColumns: 'repeat(4, 1fr)', gap: 1 }}>
+                            {keys.map((k) => (
+                                <FormControlLabel
+                                    key={k}
+                                    value={k}
+                                    control={<Radio size="small" />}
+                                    label={<Typography variant="body2">{k}</Typography>}
+                                    sx={{ m: 0 }}
+                                />
+                            ))}
+                        </Box>
+                    </RadioGroup>
+                </AccordionDetails>
+            </Accordion>
+
+            <Divider sx={{ my: 2 }} />
+
+            {/* Music Type */}
+            <Accordion defaultExpanded disableGutters elevation={0} sx={{ '&:before': { display: 'none' } }}>
+                <AccordionSummary expandIcon={<ExpandMoreIcon />} sx={{ px: 0 }}>
+                    <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
+                        <Typography variant="subtitle2" sx={{ fontWeight: 'bold' }}>
+                            Music Type
+                        </Typography>
+                    </Box>
+                </AccordionSummary>
+                <AccordionDetails sx={{ px: 0, pt: 0 }}>
+                    <FormGroup>
+                        {musicTypes.map((type) => (
+                            <FormControlLabel
+                                key={type}
+                                control={
+                                    <Checkbox
+                                        checked={selectedMusicTypes.includes(type)}
+                                        onChange={() => onMusicTypeChange(type)}
+                                        size="small"
+                                    />
+                                }
+                                label={<Typography variant="body2">{type}</Typography>}
+                                sx={{ mb: 0.5 }}
+                            />
+                        ))}
+                    </FormGroup>
+                </AccordionDetails>
+            </Accordion>
+
+            <Divider sx={{ my: 2 }} />
+
+            {/* Product Type (Digital/Physical) */}
+            <Accordion disableGutters elevation={0} sx={{ '&:before': { display: 'none' } }}>
                 <AccordionSummary expandIcon={<ExpandMoreIcon />} sx={{ px: 0 }}>
                     <Box sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
                         <LocalOfferIcon sx={{ fontSize: 20, color: 'secondary.main' }} />
                         <Typography variant="subtitle2" sx={{ fontWeight: 'bold' }}>
-                            Product Type
+                            Offer Type
                         </Typography>
                     </Box>
                 </AccordionSummary>

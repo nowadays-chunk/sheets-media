@@ -1,0 +1,158 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/ub40/kingston-town",
+  "title": "Kingston Town",
+  "artist": "UB40",
+  "key": null,
+  "scrapedAt": "2026-02-14T22:02:38.073Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artiest: UB40"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Labour of love II"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: E-A-D-G-B-E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "uitgezocht door: Fets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Cm"
+            },
+            {
+              "chord": "-",
+              "lyrics": "-"
+            },
+            {
+              "chord": "466544",
+              "lyrics": "x35543"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C# - x46664"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D# - x68886"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Fm7"
+            },
+            {
+              "chord": "-",
+              "lyrics": "/D"
+            },
+            {
+              "chord": "355333",
+              "lyrics": "# - xx1111"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G#/E - 066544"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A#m - x13321"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(intro:)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "night seems to"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "fade,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But the"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "moonlight lingers"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "on"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

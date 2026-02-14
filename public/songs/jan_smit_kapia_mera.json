@@ -1,0 +1,150 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/jan-smit/kapia-mera",
+  "title": "Kapia Mera",
+  "artist": "Jan Smit",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:31:52.842Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">C = x-3-2-0-1-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F = 1-3-3-2-1-1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 3-2-0-0-0-3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am = x-0-2-2-1-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: C F G C F G C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tin"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ora poe gnori"
+            },
+            {
+              "chord": "F",
+              "lyrics": "stikame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "moe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alaxes t'onio"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ro moe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rotises poe tha"
+            },
+            {
+              "chord": "F",
+              "lyrics": "pigena"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ke"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stin zoi moe"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bikes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Refrein:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kapia"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mera, kapia"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nigta"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

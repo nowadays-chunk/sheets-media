@@ -1,0 +1,886 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/s/simonandgarfunkel-tabs-3576/kathyssong-tabs-898354.html",
+  "title": "Kathy's Song",
+  "artist": "Simon & Garfunkel",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:36:10.055Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Play the G chord using the middle, ring and little fingers."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hammer on the notes on 2nd & 4th strings with the index"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and middle fingers to form the C/G chord."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N.B."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please IGNORE ANY POP-UP CHORD BOXES the website"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "might automatically suggest and use the typed shapes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "shown below:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dadd4/9 = xx4030 Cmaj7/G = 332000 G * = 3xx00x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/E = xx2010 C = x32010 C/A = x0x01x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 320003 C/B = x2x010 G/B = x2x03x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G = 3x2013 D = xx0232 Em = 022000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am = x02210 Bm/F# = 224432 Dadd4/9 * = xx4035"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "Dadd4/9",
+              "lyrics": "/ / / / | / / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "Dadd4/9",
+              "lyrics": "/ / / / | / / /"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "/ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||:"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / / / :||"
+            },
+            {
+              "chord": "x2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I hear the d"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "rizzle of the r"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Like"
+            },
+            {
+              "chord": "Cmaj7/G",
+              "lyrics": "a memo -"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ry"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "it f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "alls,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G Bm/F# G * C/A G/B C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And from the s"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "helter of my m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ind,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Through the"
+            },
+            {
+              "chord": "Cmaj7/G",
+              "lyrics": "window"
+            },
+            {
+              "chord": "C",
+              "lyrics": "of"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "my e"
+            },
+            {
+              "chord": "D",
+              "lyrics": "yes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "...gaze be -"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "yond the r"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ain d"
+            },
+            {
+              "chord": "C/A",
+              "lyrics": "ren -"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "ched st"
+            },
+            {
+              "chord": "C",
+              "lyrics": "reets,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "Dadd4/9",
+              "lyrics": "/ / / / | / / / / | / / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "My mind's dis - tr"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "acted, and dif - f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "used,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "My thoughts are"
+            },
+            {
+              "chord": "Cmaj7/G",
+              "lyrics": "many m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "iles"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "a -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ie with"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "you, when yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u're"
+            },
+            {
+              "chord": "C/A",
+              "lyrics": "a"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "- sle"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ep,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And a s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ong I was"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "writing is left un - d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "one,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I don't kno"
+            },
+            {
+              "chord": "Cmaj7/G",
+              "lyrics": "w why I ...s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "pent"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "my t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ime,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Writing"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "songs I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "..."
+            },
+            {
+              "chord": "C/A",
+              "lyrics": "can't"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "be - l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ieve,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With w"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ords that"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "tear,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And ."
+            },
+            {
+              "chord": "D",
+              "lyrics": "..strain to rh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "yme-"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "----! |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dadd4/9 Dadd4/9 * Dadd4/9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| / / / / | / / / / | / / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And so you"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "see I have ...come to d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oubt,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All tha"
+            },
+            {
+              "chord": "Cmaj7/G",
+              "lyrics": "t I once h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eld"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "as tr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ue,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "...stand a -"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "lone, w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ith -"
+            },
+            {
+              "chord": "C/A",
+              "lyrics": "out"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "be - l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "iefs,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And as I"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "...watch the drops of r"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Weave their"
+            },
+            {
+              "chord": "Cmaj7/G",
+              "lyrics": "weary pa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ths,"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "and d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ie,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I ."
+            },
+            {
+              "chord": "G",
+              "lyrics": "...know tha"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "t I am l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ike"
+            },
+            {
+              "chord": "C/A",
+              "lyrics": "..."
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "the r"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "There, but"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "for the grace of y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "/ / | / /"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ / | / /"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7/G",
+              "lyrics": "| / /"
+            },
+            {
+              "chord": "C",
+              "lyrics": "/"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "/ |"
+            },
+            {
+              "chord": "D",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "Bm/F#",
+              "lyrics": "/ /__"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "C/A",
+              "lyrics": "/ /__"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "C",
+              "lyrics": "/ | / /"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "D",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ ||"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

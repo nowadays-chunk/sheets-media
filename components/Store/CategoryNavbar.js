@@ -36,12 +36,10 @@ const CategoryNavbar = ({ products, onCategoryClick, onTypeClick, selectedCatego
         }, {});
     }, [products]);
 
-    const categories = [
-        'Sheet Music',
-        'Learning Materials',
-        'Merchandise',
-        'Accessories',
-    ];
+    const categories = useMemo(() => {
+        const cats = Array.from(new Set(products.map(p => p.category)));
+        return cats.sort();
+    }, [products]);
 
     const types = ['All Types', 'Digital', 'Physical'];
 

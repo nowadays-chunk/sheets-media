@@ -1,0 +1,634 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/david-gray/221495.html",
+  "title": "Kangaroo",
+  "artist": "David Gray",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:30:45.347Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kangaroo - David Gray"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the album \"A New Day At Midnight\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tab by: Christian Doucet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro - Gmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "Don't pay no mind to it"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh let it blo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "w"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Break you up inside"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "don't let it g"
+            },
+            {
+              "chord": "C",
+              "lyrics": "o"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jeez what are you like honey"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "don't know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Recom"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mended"
+            },
+            {
+              "chord": "C",
+              "lyrics": "by my"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "bank"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And every"
+            },
+            {
+              "chord": "D",
+              "lyrics": "body"
+            },
+            {
+              "chord": "C",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "tank"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "First of"
+            },
+            {
+              "chord": "D",
+              "lyrics": "all I'd"
+            },
+            {
+              "chord": "A",
+              "lyrics": "like to thank"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": "This might take a while honey"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hey don't b"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "link"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Missing by a mile now we're"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here on the b"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rink"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Not a day goes by honey"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "don't think"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I could"
+            },
+            {
+              "chord": "D",
+              "lyrics": "be your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "volunteer"
+            },
+            {
+              "chord": "C2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We'll make the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "whole thing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "disappear"
+            },
+            {
+              "chord": "C2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Saddle"
+            },
+            {
+              "chord": "D",
+              "lyrics": "up we're"
+            },
+            {
+              "chord": "A",
+              "lyrics": "outta"
+            },
+            {
+              "chord": "B",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You could"
+            },
+            {
+              "chord": "D",
+              "lyrics": "be my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "olive branch"
+            },
+            {
+              "chord": "C2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Lift me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "up abov"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e the stench"
+            },
+            {
+              "chord": "C2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Walk me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "through the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "avalanche"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Honey"
+            },
+            {
+              "chord": "D",
+              "lyrics": "won't you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "be my flood"
+            },
+            {
+              "chord": "C2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ever"
+            },
+            {
+              "chord": "C",
+              "lyrics": "comes out good"
+            },
+            {
+              "chord": "C2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Trouble"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "neighbourhood"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Conver"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sations"
+            },
+            {
+              "chord": "C",
+              "lyrics": "gone aske"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "w"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And how do you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "make it"
+            },
+            {
+              "chord": "C",
+              "lyrics": "feel like new"
+            },
+            {
+              "chord": "C2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Kooka"
+            },
+            {
+              "chord": "D",
+              "lyrics": "burra"
+            },
+            {
+              "chord": "A",
+              "lyrics": "kangaroo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Will you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "won't you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "be my leech"
+            },
+            {
+              "chord": "C2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Take it"
+            },
+            {
+              "chord": "D",
+              "lyrics": "all and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "when I screec"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "h"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Leave it"
+            },
+            {
+              "chord": "D",
+              "lyrics": "there just"
+            },
+            {
+              "chord": "A",
+              "lyrics": "outta reach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Take me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "to that"
+            },
+            {
+              "chord": "C",
+              "lyrics": "burning bush"
+            },
+            {
+              "chord": "C2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Give me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "something"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I can't crus"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "h"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Lead me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "out in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "to the hush"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So far behind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So far behind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So far behind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So far behind"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

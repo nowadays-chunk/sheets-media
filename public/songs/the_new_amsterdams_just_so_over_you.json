@@ -1,0 +1,490 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/n/new-amsterdams/382286.html",
+  "title": "Just So Over You",
+  "artist": "The New Amsterdams",
+  "key": "E",
+  "scrapedAt": "2026-02-14T21:24:38.212Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The New Amsterdams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just So Over You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Killed Or Cure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2007 Vagrant Records"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Submitted by: jeremyunderground41@yahoo.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key: E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m - x46654"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "B -"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "244222",
+              "lyrics": "x24442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E - 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A - x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "G#/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "- x365xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I'm just so"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "over you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "I'm just so"
+            },
+            {
+              "chord": "E",
+              "lyrics": "over you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I hope that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you"
+            },
+            {
+              "chord": "B",
+              "lyrics": "get to see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "G#/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "what you've"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "done to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "What good does"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "patience do?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Rewards aren't"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "coming through"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "It doesn't seem"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "worth the wait"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "G#/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "for ill-gotten gains"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I could not s"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "peak for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "but i think you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "feel it too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "this instinct to"
+            },
+            {
+              "chord": "B",
+              "lyrics": "hesitate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "G#/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but then we make mistakes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "And i'll see things"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "clearer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "when"
+            },
+            {
+              "chord": "B",
+              "lyrics": "Madness stops"
+            },
+            {
+              "chord": "E",
+              "lyrics": "happening"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Is this the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "end in sight?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "G#/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Unless I change my mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "It's nothing"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "personal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "It's nothing"
+            },
+            {
+              "chord": "E",
+              "lyrics": "personal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "It's just the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "time and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "G#/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "C#m(hold)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "place To make my escape"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

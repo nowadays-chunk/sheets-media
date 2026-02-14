@@ -633,16 +633,22 @@ const ProjectFunctionalities = (props) => {
                     <SectionHeader title="Master The Guitar Store" subtitle="Exclusive merchandise, premium PDFs, custom picks, and sheet music." />
 
                     <Grid container spacing={4}>
-                        {products.slice(0, 8).map((product) => (
-                            <ProductCard
-                                key={product.id}
-                                id={product.id}
-                                title={product.title}
-                                price={product.price}
-                                type={product.type}
-                                image={product.image}
-                            />
-                        ))}
+                        {(() => {
+                            const bundles = products.filter(p => p.category === 'Guitar Sheets Bundles');
+                            const singleSheets = products.filter(p => p.category === 'Guitar Fretboard Sheets').slice(0, 4);
+                            const featured = [...bundles, ...singleSheets].slice(0, 12);
+
+                            return featured.map((product) => (
+                                <ProductCard
+                                    key={product.id}
+                                    id={product.id}
+                                    title={product.title}
+                                    price={product.price}
+                                    type={product.type}
+                                    image={product.image}
+                                />
+                            ));
+                        })()}
                     </Grid>
                     <Box sx={{ textAlign: 'center', mt: 6 }}>
                         <Button component={Link} href="/store" variant="outlined" size="large" endIcon={<ShoppingCartIcon />}>View All Products</Button>

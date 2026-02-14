@@ -1,0 +1,634 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/silbermond/229821.html",
+  "title": "Kartenhaus",
+  "artist": "Silbermond",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:35:02.653Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vorspiel: #"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A/C#",
+              "lyrics": "1.A F"
+            },
+            {
+              "chord": "C#m/B",
+              "lyrics": "#m Cdi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "m"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": ":"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2.A F#m Cdim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Ich such nach dem, was mich ve"
+            },
+            {
+              "chord": "E/B",
+              "lyrics": "rgessen l�sst,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "dass es in meinem Leben du"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "nkel ist,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "und dass die Nacht den"
+            },
+            {
+              "chord": "E/B",
+              "lyrics": "Tag besetzt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "und mir k"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "einen Funken Licht mehr l�sst."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Mir fehlt nichts und doch"
+            },
+            {
+              "chord": "E/B",
+              "lyrics": "fehlt mir viel,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "ich bin zu sc"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "hwach um noch mal a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ufzustehen"
+            },
+            {
+              "chord": "E/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und zu"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "stark um hier zu l"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "iegen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jetzt"
+            },
+            {
+              "chord": "G#m/C#",
+              "lyrics": "bin ich aufgew"
+            },
+            {
+              "chord": "E/C#",
+              "lyrics": "acht,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "halt"
+            },
+            {
+              "chord": "G#m/C#",
+              "lyrics": "das Licht in meinen"
+            },
+            {
+              "chord": "E/C#",
+              "lyrics": "H�nden,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "hab schon"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nicht mehr dran gedacht,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "dass sich das"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "Blatt noch mal"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "wendet."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Du hast mein"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Leben neu g"
+            },
+            {
+              "chord": "B",
+              "lyrics": "emacht,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "steckst mich"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "an mit deiner"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "Kraft,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "du machst alles so"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lebenswert,"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ich will mich"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "nicht dagegen weh"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ren."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Du hast eine K"
+            },
+            {
+              "chord": "A",
+              "lyrics": "erze aufgeste"
+            },
+            {
+              "chord": "B",
+              "lyrics": "llt,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und bringst das"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "Licht in meine"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "Welt,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "machst mein Leben zum"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Kartenhaus,"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cdim",
+              "lyrics": "auf dir aufgebaut."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Zwischenspiel:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Wie jedes Wort eine S"
+            },
+            {
+              "chord": "E/B",
+              "lyrics": "timme braucht,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "wie der Mond in jede"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "Nacht eintaucht,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "wie jede Wahrheit ihr"
+            },
+            {
+              "chord": "E/B",
+              "lyrics": "Angesicht,"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cdim",
+              "lyrics": "genauso brauch ich dich."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Du bist der Wind und du t"
+            },
+            {
+              "chord": "E/B",
+              "lyrics": "r�gst mich hoch,"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und ich"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "wei�, du kannst mich f"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "liegen sehen,"
+            },
+            {
+              "chord": "E/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und auch mit"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "einem Wort zum Absturz"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "zwingen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bin"
+            },
+            {
+              "chord": "G#m/C#",
+              "lyrics": "wieder aufge"
+            },
+            {
+              "chord": "E/C#",
+              "lyrics": "wacht,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "mit der"
+            },
+            {
+              "chord": "G#m/C#",
+              "lyrics": "Dunkelheit in meinen"
+            },
+            {
+              "chord": "E/C#",
+              "lyrics": "H�nden,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "das"
+            },
+            {
+              "chord": "A",
+              "lyrics": "h�tt? ich nie gedacht,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "dass sich das"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "Blatt wieder we"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "ndet."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Du hast mein L"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eben ausgema"
+            },
+            {
+              "chord": "B",
+              "lyrics": "cht,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und dir"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "nichts dabei gedac"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ht,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "du warst der Sinn und der"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Lebenswert,"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und jetzt ist"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "all das nichts mehr wert."
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Du l�scht meine"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Kerze einfach aus"
+            },
+            {
+              "chord": "B",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "weil"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "du sie nicht mehr brauchst"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "machst mein Leben zum"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Kartenhaus,"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und ziehst die"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "unterste Karte raus."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">>Orginal Spielwei�e von Silbermond"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

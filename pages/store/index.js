@@ -36,6 +36,8 @@ const StorePage = ({ products }) => {
     const [priceRange, setPriceRange] = useState('all');
     const [productType, setProductType] = useState('all');
     const [sortBy, setSortBy] = useState('featured');
+    const [musicKey, setMusicKey] = useState('all');
+    const [selectedMusicTypes, setSelectedMusicTypes] = useState([]);
 
     // Mobile drawer state
     const [mobileFiltersOpen, setMobileFiltersOpen] = useState(false);
@@ -87,8 +89,20 @@ const StorePage = ({ products }) => {
             filtered = filtered.filter((product) => product.type === productType);
         }
 
+        // Music Key filter
+        if (musicKey !== 'all') {
+            filtered = filtered.filter((product) => product.musicKey === musicKey);
+        }
+
+        // Music Type filter
+        if (selectedMusicTypes.length > 0) {
+            filtered = filtered.filter((product) =>
+                product.musicType && selectedMusicTypes.includes(product.musicType)
+            );
+        }
+
         return filtered;
-    }, [products, searchTerm, selectedCategories, priceRange, productType]);
+    }, [products, searchTerm, selectedCategories, priceRange, productType, musicKey, selectedMusicTypes]);
 
     // Sort logic
     const sortedProducts = useMemo(() => {
@@ -116,11 +130,21 @@ const StorePage = ({ products }) => {
         );
     };
 
+    const handleMusicTypeChange = (type) => {
+        setSelectedMusicTypes((prev) =>
+            prev.includes(type)
+                ? prev.filter((t) => t !== type)
+                : [...prev, type]
+        );
+    };
+
     const handleClearFilters = () => {
         setSearchTerm('');
         setSelectedCategories([]);
         setPriceRange('all');
         setProductType('all');
+        setMusicKey('all');
+        setSelectedMusicTypes([]);
     };
 
     const filterComponent = (
@@ -133,6 +157,10 @@ const StorePage = ({ products }) => {
             onPriceRangeChange={setPriceRange}
             productType={productType}
             onProductTypeChange={setProductType}
+            musicKey={musicKey}
+            onMusicKeyChange={setMusicKey}
+            selectedMusicTypes={selectedMusicTypes}
+            onMusicTypeChange={handleMusicTypeChange}
             onClearFilters={handleClearFilters}
             categoryCount={categoryCount}
             totalProducts={sortedProducts.length}
