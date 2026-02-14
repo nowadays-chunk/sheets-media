@@ -1,0 +1,618 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.allcountrytabs.com/tabs/kershaw-sammy/ive-never-been-anywhere-16280.html",
+  "title": "I've Never Been Anywhere",
+  "artist": "Sammy Kershaw",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:32:58.547Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro - A - D - A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(verse 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "He was walkin' in the parkin' lot,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When she finally caught up with him,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Said Hey, boy, you forgot your k"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eys,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Is that your car, She ran her fingers cross the hood,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "An told him I've n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ever been in one of t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hese,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(bridge)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "He said, hop"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "in an' I'll take you for a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ride,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Around the block. If you got the t"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ime,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "She said, as she t"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ook her apron off,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ust be out of my m"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ind,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(verse 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "He pushed a button an' the ragtop came down,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pushed another an' the music came on,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Pushed it to the floor an' off they w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ent,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "She asked his name he told her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He asked her name she told him,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Said, You wanna head back she said, Not y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "et,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(bridge)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "It feels good to have the s"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "un on my face,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "An' the wi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nd blowin' through my h"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "air,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "He said, W"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "here to next,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "An' s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "he said I don't ca"
+            },
+            {
+              "chord": "E",
+              "lyrics": "re,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've never been any"
+            },
+            {
+              "chord": "A",
+              "lyrics": "where, I've never done any"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "thing,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cept wait on tables"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in that bar, small talk an' sm"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all change,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've never loved an"
+            },
+            {
+              "chord": "A",
+              "lyrics": "yone, I've never had someo"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ne who care,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Boy, until you c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ame along,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I've never been anyw"
+            },
+            {
+              "chord": "A",
+              "lyrics": "here,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(verse 3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They drove around for what seemed for hours,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the sky the sun was settin,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Said, Where do you live? I'll drive you home,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He walked her up to the front porch screen door,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On her lips, she felt his kisses,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He said, Goodbye She said, So long,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(bridge)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, he got in his car an' drove away,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But then he stopped an' threw it in reverse,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "An' she came runnin' off that front proch,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "An' he put his arms 'round her."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've never been anywhere, I've never done anything,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But work in some dea"
+            },
+            {
+              "chord": "D",
+              "lyrics": "d-end job, chasin' after de"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ad-end dreams,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But, girl, you brought my l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ife to life, your smile is like a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "breath of air,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah, until you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "came along"
+            },
+            {
+              "chord": "E",
+              "lyrics": ", I've never been anyw"
+            },
+            {
+              "chord": "A",
+              "lyrics": "he"
+            },
+            {
+              "chord": "-",
+              "lyrics": "re"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ","
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've never been anyw"
+            },
+            {
+              "chord": "A",
+              "lyrics": "he"
+            },
+            {
+              "chord": "-",
+              "lyrics": "re"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ","
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(ending verse)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "He was walkin' in the parkin' lot,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When she finally caught up with him."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Said Hey, boy, you forgot your ke"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ys"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

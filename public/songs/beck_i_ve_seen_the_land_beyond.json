@@ -1,9 +1,9 @@
 {
-  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/g/gene_pitney/ive_got_five_dollars_and_its_saturday_night_crd.html",
-  "title": "I’ve Got Five Dollars and It’s Saturday Night",
-  "artist": "Gene Pitney",
+  "url": "https://www.chordie.com/chord.pere/www.xguitar.com/guitar-tabs/beck/one_foot_in_the_grave/ive_seen_the_land_beyond.txt",
+  "title": "I've Seen the Land Beyond",
+  "artist": "Beck",
   "key": null,
-  "scrapedAt": "2026-02-14T18:31:43.894Z",
+  "scrapedAt": "2026-02-14T18:33:17.576Z",
   "sections": [
     {
       "name": "Verse",
@@ -12,47 +12,63 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "I've Got Five Dollars And It's Saturday Night"
+              "lyrics": "Track: 12. I`VE SEEN THE LAND BEYOND"
             }
           ]
         },
         {
           "chunks": [
             {
-              "chord": "A",
-              "lyrics": "Well I've been working hard the"
+              "chord": null,
+              "lyrics": "tune down 1/2 step"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "From these shores where we belong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I have s"
             },
             {
-              "chord": "D",
-              "lyrics": "whole week"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "To"
+              "chord": "C",
+              "lyrics": "een the land b"
             },
             {
-              "chord": "E",
-              "lyrics": "night I'm a gonna have some wine,"
+              "chord": "F",
+              "lyrics": "eyond"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where the lord is strange and strong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I have s"
             },
             {
-              "chord": "A",
-              "lyrics": "women and song"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "I gotta workin' each week but"
+              "chord": "C",
+              "lyrics": "een the land b"
             },
             {
-              "chord": "D",
-              "lyrics": "that's alright"
+              "chord": "F",
+              "lyrics": "eyond"
             }
           ]
         },
@@ -60,55 +76,31 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "I've"
+              "lyrics": "There's no"
             },
             {
-              "chord": "E",
-              "lyrics": "got five dollars and it's"
+              "chord": "Bb",
+              "lyrics": "telling who'll be d"
             },
             {
-              "chord": "A",
-              "lyrics": "Saturday night"
+              "chord": "F",
+              "lyrics": "ead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When the p"
             },
             {
-              "chord": "A7",
-              "lyrics": ""
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/g/gene_pitney/ive_got_five_dollars_and_its_saturday_night_crd.html )"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "Chorus:"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": "D",
-              "lyrics": "Gonna have fun tonight,"
+              "chord": "C",
+              "lyrics": "ale horse is turning"
             },
             {
-              "chord": "A",
-              "lyrics": "gonna get right tonight"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": "D",
-              "lyrics": "Everything will be alright"
+              "chord": "F",
+              "lyrics": "red"
             }
           ]
         },
@@ -116,15 +108,15 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "Cause to"
+              "lyrics": "And their t"
             },
             {
-              "chord": "E",
-              "lyrics": "night is Saturday"
+              "chord": "Bb",
+              "lyrics": "ongues will burn in v"
             },
             {
-              "chord": "A",
-              "lyrics": "night (hey)"
+              "chord": "F",
+              "lyrics": "ain"
             }
           ]
         },
@@ -132,7 +124,15 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "Music and dancing pretty and fun"
+              "lyrics": "And everyt"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hing will feel the s"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ame"
             }
           ]
         },
@@ -140,7 +140,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "It's gonna go on till way past one"
+              "lyrics": "There's no patience there's no peace"
             }
           ]
         },
@@ -148,7 +148,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "I'm a gonna go where the lights're bright"
+              "lyrics": "I have seen the land beyond"
             }
           ]
         },
@@ -156,7 +156,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "I've got five dollars and it's Saturday night"
+              "lyrics": "Where the gravestones never cease"
             }
           ]
         },
@@ -164,7 +164,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "Chorus"
+              "lyrics": "I have seen the land beyond"
             }
           ]
         },
@@ -172,7 +172,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "While other folks are wonderin' what the future may bring"
+              "lyrics": "Through the troubles of the years"
             }
           ]
         },
@@ -180,7 +180,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "I'm a gonna have fun and feel no pain"
+              "lyrics": "A heavenly apparition appears"
             }
           ]
         },
@@ -188,7 +188,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "My pants are ragged but that's alright"
+              "lyrics": "And we're haunted by our own minds"
             }
           ]
         },
@@ -196,7 +196,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "I've got five dollars and it's Saturday night"
+              "lyrics": "And the spirit calls in the skies"
             }
           ]
         },
@@ -204,7 +204,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "Chorus"
+              "lyrics": "From these shores where we belong"
             }
           ]
         },
@@ -212,7 +212,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "by: Jos� Duarte"
+              "lyrics": "I have seen the land beyond"
             }
           ]
         },
@@ -220,7 +220,15 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "jtduarte1@gmail.com"
+              "lyrics": "I'll be there and I'll be gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I have seen the land beyond"
             }
           ]
         }

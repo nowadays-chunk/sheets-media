@@ -1,0 +1,578 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/t/thescript-tabs-41493/imyours-tabs-339267.html",
+  "title": "I'm Yours",
+  "artist": "The Script",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:30:06.515Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO 5th FRET"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F G (x3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You touch these"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tired eyes of"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And map my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "face out line by"
+            },
+            {
+              "chord": "F",
+              "lyrics": "line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And somehow"
+            },
+            {
+              "chord": "G",
+              "lyrics": "growing old feels"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fine"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I listen"
+            },
+            {
+              "chord": "G",
+              "lyrics": "close for I'm not"
+            },
+            {
+              "chord": "F",
+              "lyrics": "smart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You wrap your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "thoughts in works of"
+            },
+            {
+              "chord": "F",
+              "lyrics": "art"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And they're hanging"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on the walls of my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "heart"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I may not"
+            },
+            {
+              "chord": "F",
+              "lyrics": "have the softest"
+            },
+            {
+              "chord": "G",
+              "lyrics": "touch"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I may not"
+            },
+            {
+              "chord": "F",
+              "lyrics": "say the words as"
+            },
+            {
+              "chord": "G",
+              "lyrics": "such"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And though I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "may not look like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "much"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "yours"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And though my"
+            },
+            {
+              "chord": "F",
+              "lyrics": "edges may be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And never"
+            },
+            {
+              "chord": "F",
+              "lyrics": "feel I'm quite"
+            },
+            {
+              "chord": "G",
+              "lyrics": "enough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It may not"
+            },
+            {
+              "chord": "F",
+              "lyrics": "seem like very"
+            },
+            {
+              "chord": "G",
+              "lyrics": "much"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "yours"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "F",
+              "lyrics": "heeled these"
+            },
+            {
+              "chord": "G",
+              "lyrics": "scars over"
+            },
+            {
+              "chord": "F",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Embraced my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "soul"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You loved my"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're the only"
+            },
+            {
+              "chord": "G",
+              "lyrics": "angel in my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "life"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "F",
+              "lyrics": "day news"
+            },
+            {
+              "chord": "G",
+              "lyrics": "came my best friend"
+            },
+            {
+              "chord": "F",
+              "lyrics": "died"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My knees went"
+            },
+            {
+              "chord": "G",
+              "lyrics": "week and you saw me"
+            },
+            {
+              "chord": "F",
+              "lyrics": "cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Say I'm still the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "soldier in your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eyes"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I may not"
+            },
+            {
+              "chord": "F",
+              "lyrics": "have the softest"
+            },
+            {
+              "chord": "G",
+              "lyrics": "touch"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I may not"
+            },
+            {
+              "chord": "F",
+              "lyrics": "say the words as"
+            },
+            {
+              "chord": "G",
+              "lyrics": "such"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And though I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "may not look like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "much"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "yours"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And though my"
+            },
+            {
+              "chord": "F",
+              "lyrics": "edges may be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And never"
+            },
+            {
+              "chord": "F",
+              "lyrics": "feel I'm quite"
+            },
+            {
+              "chord": "G",
+              "lyrics": "enough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It may not"
+            },
+            {
+              "chord": "F",
+              "lyrics": "seem like very"
+            },
+            {
+              "chord": "G",
+              "lyrics": "much"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "yours"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am C Dm B7 E7 (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I may not"
+            },
+            {
+              "chord": "F",
+              "lyrics": "have the softest"
+            },
+            {
+              "chord": "G",
+              "lyrics": "touch"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I may not"
+            },
+            {
+              "chord": "F",
+              "lyrics": "say the words as"
+            },
+            {
+              "chord": "G",
+              "lyrics": "such"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "don't fit in that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "much"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "yours."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

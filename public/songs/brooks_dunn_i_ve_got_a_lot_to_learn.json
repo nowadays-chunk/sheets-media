@@ -1,9 +1,9 @@
 {
-  "url": "https://www.chordie.com/chord.pere/www.allcountrytabs.com/tabs/brooks-and-dunn/ive-got-a-lot-to-learn-7863.html",
-  "title": "I've Got a Lot to Learn",
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/b/brooks_and_dunn/ive_got_a_lot_to_learn_crd.html",
+  "title": "I’ve Got a Lot to Learn",
   "artist": "Brooks & Dunn",
   "key": null,
-  "scrapedAt": "2026-02-14T18:04:12.148Z",
+  "scrapedAt": "2026-02-14T18:31:29.628Z",
   "sections": [
     {
       "name": "Verse",
@@ -12,31 +12,15 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "I'VE GOT A LOT TO LEARN"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "Recorded by Brooks and Dunn"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": "G",
-              "lyrics": "These Honky-tonks and"
+              "lyrics": "These hony-tonks and"
             },
             {
               "chord": "C",
-              "lyrics": "bright lights used to"
+              "lyrics": "bright city lights used to"
             },
             {
               "chord": "D",
-              "lyrics": "thrill me"
+              "lyrics": "thrill me."
             }
           ]
         },
@@ -48,7 +32,7 @@
             },
             {
               "chord": "G",
-              "lyrics": "paint the town and"
+              "lyrics": "paint the yown and"
             },
             {
               "chord": "C",
@@ -56,7 +40,7 @@
             },
             {
               "chord": "D",
-              "lyrics": "dawn"
+              "lyrics": "dawn."
             }
           ]
         },
@@ -72,11 +56,11 @@
             },
             {
               "chord": "D",
-              "lyrics": "listenin' for my"
+              "lyrics": "listning for my"
             },
             {
               "chord": "G",
-              "lyrics": "footsteps"
+              "lyrics": "footsteps."
             }
           ]
         },
@@ -88,11 +72,11 @@
             },
             {
               "chord": "C",
-              "lyrics": "windin' down to one more night"
+              "lyrics": "why I've been down to one more night a"
             },
             {
               "chord": "D",
-              "lyrics": "alone"
+              "lyrics": "lone."
             }
           ]
         },
@@ -100,7 +84,23 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "CHORUS: I"
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/b/brooks_and_dunn/ive_got_a_lot_to_learn_crd.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
             },
             {
               "chord": "C",
@@ -112,7 +112,7 @@
             },
             {
               "chord": "G",
-              "lyrics": "finger"
+              "lyrics": "fingers."
             }
           ]
         },
@@ -128,11 +128,11 @@
             },
             {
               "chord": "D",
-              "lyrics": "bridge would ever"
+              "lyrics": "wish would ever"
             },
             {
               "chord": "G",
-              "lyrics": "burn"
+              "lyrics": "Burn."
             }
           ]
         },
@@ -140,7 +140,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "I"
+              "lyrics": "I'd"
             },
             {
               "chord": "C",
@@ -148,7 +148,7 @@
             },
             {
               "chord": "D",
-              "lyrics": "take me back"
+              "lyrics": "take me back."
             }
           ]
         },
@@ -164,7 +164,7 @@
             },
             {
               "chord": "C",
-              "lyrics": "cold, hard fact"
+              "lyrics": "cold hard facts."
             }
           ]
         },
@@ -172,7 +172,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "When it comes to love, I'v"
+              "lyrics": "When it comes to love, Ive"
             },
             {
               "chord": "D",
@@ -180,14 +180,14 @@
             },
             {
               "chord": "G",
-              "lyrics": "learn"
+              "lyrics": "learn."
             }
           ]
         },
         {
           "chunks": [
             {
-              "chord": "G",
+              "chord": null,
               "lyrics": "It never crossed my"
             },
             {
@@ -196,7 +196,7 @@
             },
             {
               "chord": "D",
-              "lyrics": "leave me"
+              "lyrics": "leave me."
             }
           ]
         },
@@ -216,7 +216,7 @@
             },
             {
               "chord": "D",
-              "lyrics": "end"
+              "lyrics": "end."
             }
           ]
         },
@@ -236,7 +236,7 @@
             },
             {
               "chord": "G",
-              "lyrics": "better"
+              "lyrics": "better."
             }
           ]
         },
@@ -248,11 +248,11 @@
             },
             {
               "chord": "C",
-              "lyrics": "wont ever get that chance"
+              "lyrics": "won't ever get that chance a"
             },
             {
               "chord": "D",
-              "lyrics": "again"
+              "lyrics": "gain."
             }
           ]
         },
@@ -260,7 +260,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "REPEAT CHORUS"
+              "lyrics": "CHORUS"
             }
           ]
         },
@@ -268,23 +268,15 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "Yeah,"
-            },
+              "lyrics": ">repeat last line<"
+            }
+          ]
+        },
+        {
+          "chunks": [
             {
-              "chord": "G7",
-              "lyrics": "when it"
-            },
-            {
-              "chord": "C",
-              "lyrics": "comes to love, I've"
-            },
-            {
-              "chord": "D",
-              "lyrics": "got a lot to"
-            },
-            {
-              "chord": "G",
-              "lyrics": "learn"
+              "chord": null,
+              "lyrics": "base57@hotmail.com"
             }
           ]
         }

@@ -1,0 +1,658 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/cat-stevens/176775.html",
+  "title": "I've Found a Love",
+  "artist": "Cat Stevens",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:31:10.271Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...I'VE FOUND A LOVE... by Cat Stevens"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*from 'Matthew & Son' (1967)*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D G, D A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Baby, I've never had a single"
+            },
+            {
+              "chord": "G",
+              "lyrics": "thing in my life,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I could call my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "own."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you were, holding a love so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "true,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now I've got a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "home,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now I've got a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "home."
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I found a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hidden in a"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "backstreet,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I found a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ba-"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "by."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I found a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hidden in a"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "backstreet,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Hidden away from the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "world, baby."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Break:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D A, D A (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Baby, you really make me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "feel like a king;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A king without a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "crown."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "D",
+              "lyrics": "darlin', promise me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "one little thing;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That you won't let me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "down,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You won't let me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "down."
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I found a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hidden in a"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "backstreet,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I found a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ba-"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "by."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I found a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hidden in a"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "backstreet,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Hidden away from the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "world, baby."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Break:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D A, D A (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Middle 8:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ever tell me"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "lies"
+            },
+            {
+              "chord": "B",
+              "lyrics": "baby,"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't"
+            },
+            {
+              "chord": "B",
+              "lyrics": "take it for a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ride"
+            },
+            {
+              "chord": "A",
+              "lyrics": "baby."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just"
+            },
+            {
+              "chord": "E",
+              "lyrics": "stay here by my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "side"
+            },
+            {
+              "chord": "D",
+              "lyrics": "baby;"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "We won't ever stop."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I found a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hidden in a"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "backstreet,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I found a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ba-"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "by."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I found a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hidden in a"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "backstreet,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Hidden away from the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "world."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat to Fade)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORD DIAGRAMS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0232"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "320003"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02220"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "133211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02223"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "022100"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "244322"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x24442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Joel from cLuMsY, Bristol, England, 2006"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(clumsyband@hotmail.com)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
