@@ -127,68 +127,83 @@ async function screenshotForKey(key, items) {
 
     const page = await browser.newPage();
 
-    const imgDir = `./screens/${key}`;
-    const pdfDir = `./pdf-pages/${key}`;
-
-    await fs.ensureDir(imgDir);
-    await fs.ensureDir(pdfDir);
-
-    const pageWidth = 595;  // A4
-    const pageHeight = 842;
-
     for (let i = 0; i < items.length; i++) {
-        const url = `https://www.sheets.media${items[i].href}`;
+        const item = items[i];
+        const url = `https://www.sheets.media${item.href}`;
         console.log(`📸 [${key}] Capturing: ${url}`);
 
-        await page.goto(url, {
-            waitUntil: "domcontentloaded",
-            timeout: 120000
-        });
+        // Extract relative path to mirror structure
+        // e.g., /spreading/scales/C/major -> scales/C/major
+        const relativePath = item.href.replace(/^\/(spreading|references)\//, '');
+        const imgPathBase = path.join("screens", relativePath);
+        const pdfPathBase = path.join("pdf-pages", relativePath);
 
-        await page.waitForSelector("canvas, svg", { timeout: 120000 });
-        await new Promise(res => setTimeout(res, 1500));
+        await fs.ensureDir(path.dirname(imgPathBase));
+        await fs.ensureDir(path.dirname(pdfPathBase));
 
-        // Full page screenshot
-        const buffer = await page.screenshot({ fullPage: true });
-        const meta = await sharp(buffer).metadata();
+        try {
+            await page.goto(url, {
+                waitUntil: "domcontentloaded",
+                timeout: 120000
+            });
 
-        // Crop 200px left/right and 80px top
-        const cropped = await sharp(buffer)
-            .extract({
-                left: 100,
-                top: 80,
-                width: meta.width - 200,
-                height: meta.height - 80
-            })
-            .png()
-            .toBuffer();
+            await page.waitForSelector("canvas, svg", { timeout: 120000 });
+            await new Promise(res => setTimeout(res, 2000));
 
-        const imgPath = path.join(imgDir, `${i}.png`);
-        await fs.writeFile(imgPath, cropped);
+            // Full page screenshot
+            const buffer = await page.screenshot({ fullPage: true });
+            const meta = await sharp(buffer).metadata();
 
-        items[i].screenshot = imgPath;
+            // Crop: 60px top, 60px bottom, 100px left, 100px right
+            const extractLeft = 100;
+            const extractTop = 60;
+            const extractWidth = meta.width - 200;
+            const extractHeight = meta.height - 120; // 60 top + 60 bottom
 
-        // Create PDF page for image
-        const pdf = await PDFDocument.create();
-        const img = await pdf.embedPng(cropped);
+            if (extractWidth <= 0 || extractHeight <= 0) {
+                console.warn(`      ⚠  Skipping ${url} - invalid crop dimensions (${extractWidth}x${extractHeight})`);
+                continue;
+            }
 
-        const { width: imgW, height: imgH } = img.scale(1);
+            const cropped = await sharp(buffer)
+                .extract({
+                    left: extractLeft,
+                    top: extractTop,
+                    width: extractWidth,
+                    height: extractHeight
+                })
+                .png()
+                .toBuffer();
 
-        const scale = Math.min(pageWidth / imgW, pageHeight / imgH);
-        const w = imgW * scale;
-        const h = imgH * scale;
+            const imgFile = `${imgPathBase}.png`;
+            const pdfFile = `${pdfPathBase}.pdf`;
 
-        const x = (pageWidth - w);
-        const y = (pageHeight - h) / 1.75;
+            await fs.writeFile(imgFile, cropped);
 
-        const pdfPage = pdf.addPage([pageWidth, pageHeight]);
-        pdfPage.drawImage(img, { x, y, width: w, height: h });
+            // Create PDF page with matching size (72 DPI assumed for sharp pixel conversion)
+            // Note: 1 pixel = 1 point in pdf-lib by default if no scaling applied
+            const pdf = await PDFDocument.create();
+            const img = await pdf.embedPng(cropped);
 
-        const pdfPath = path.join(pdfDir, `${i}.pdf`);
-        await fs.writeFile(pdfPath, await pdf.save());
+            // Set page size to match image pixels exactly
+            const pdfPage = pdf.addPage([extractWidth, extractHeight]);
+            pdfPage.drawImage(img, {
+                x: 0,
+                y: 0,
+                width: extractWidth,
+                height: extractHeight
+            });
 
-        console.log(`   ✔ Saved PNG      → ${imgPath}`);
-        console.log(`   ✔ Saved PAGE PDF → ${pdfPath}`);
+            await fs.writeFile(pdfFile, await pdf.save());
+
+            item.screenshot = imgFile;
+            item.pdfPage = pdfFile;
+
+            console.log(`   ✔  Saved PNG → ${imgFile}`);
+            console.log(`   ✔  Saved PDF → ${pdfFile}`);
+        } catch (err) {
+            console.error(`      ✘  Error capturing ${url}: ${err.message}`);
+        }
     }
 
     await browser.close();
@@ -207,9 +222,11 @@ async function mergePDF(key, items) {
     for (let i = 0; i < items.length; i++) {
         const item = items[i];
 
+        if (!item.pdfPage) continue;
+
         // Insert section page if new
         if (item.section !== lastSection) {
-            console.log(`➡️ Adding section title page: ${item.section}`);
+            console.log(`➡️  Adding section title page: ${item.section}`);
             lastSection = item.section;
 
             const sectionPDF = await createSectionPage(item.section);
@@ -220,14 +237,13 @@ async function mergePDF(key, items) {
         }
 
         // Insert actual item page
-        const filePath = path.join(pdfDir, `${i}.pdf`);
-        const bytes = await fs.readFile(filePath);
+        const bytes = await fs.readFile(item.pdfPage);
 
         const tempPDF = await PDFDocument.load(bytes);
         const [page] = await finalPDF.copyPages(tempPDF, [0]);
         finalPDF.addPage(page);
 
-        console.log(`   ➕ Added page #${i} (${item.label})`);
+        console.log(`   ➕  Added page (${item.label})`);
     }
 
     await fs.ensureDir("./pdf");
@@ -243,7 +259,8 @@ async function mergePDF(key, items) {
 (async () => {
     const grouped = buildPathsByKey();
 
-    for (const key of Object.keys(grouped)) {
+    const keys = Object.keys(grouped).slice(0, 1); // Only process 'C' for test
+    for (const key of keys) {
         console.log(`\n========================`);
         console.log(`📕 GENERATING PDF FOR ${key}`);
         console.log(`========================`);

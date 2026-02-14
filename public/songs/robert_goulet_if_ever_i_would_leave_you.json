@@ -1,0 +1,578 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/ifeveriw.htm",
+  "title": "If Ever I Would Leave You",
+  "artist": "Robert Goulet",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:40:16.674Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "If"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "ever"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "I would l"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "eave y"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ou,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it w"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ouldn't"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "be in s"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "ummer;"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Seeing"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you in"
+            },
+            {
+              "chord": "Dm7-5",
+              "lyrics": "sum - m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "er,"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "I n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ev -"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "er w"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "ould"
+            },
+            {
+              "chord": "C",
+              "lyrics": "go -"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "-"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "hair streaked with"
+            },
+            {
+              "chord": "FM7",
+              "lyrics": "sunlight,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "your"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "lips"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "red as f"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "lame,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your"
+            },
+            {
+              "chord": "F",
+              "lyrics": "face with a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "luster"
+            },
+            {
+              "chord": "Dm+7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "that puts g"
+            },
+            {
+              "chord": "F",
+              "lyrics": "old"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "to sh"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ame."
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "if I'd"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ever l"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "eave y"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ou,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "couldn'"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "t be in"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "autumn;"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "How I'd le"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ave in"
+            },
+            {
+              "chord": "Dm7-5",
+              "lyrics": "au - tu"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mn,"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "I n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ev -"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "er"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "will k"
+            },
+            {
+              "chord": "C",
+              "lyrics": "now."
+            },
+            {
+              "chord": "CM7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "seen how you s"
+            },
+            {
+              "chord": "FM7",
+              "lyrics": "parkle"
+            },
+            {
+              "chord": "G",
+              "lyrics": "when"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "fall"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "nips the"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "air;"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "know you in"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "autumn"
+            },
+            {
+              "chord": "Dm+7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "and I m"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ust"
+            },
+            {
+              "chord": "G",
+              "lyrics": "be th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ere."
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And could I l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eave you r"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "unning"
+            },
+            {
+              "chord": "A",
+              "lyrics": "merrily t"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "hrough the s"
+            },
+            {
+              "chord": "E",
+              "lyrics": "now?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or on a w"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "intry evenin"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "g when you"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "catch the fire's g"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "low?"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "If"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ever"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "I would le"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ave y"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ou,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "how c"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ould it"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "be in s"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "pringtime,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Knowing h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ow in"
+            },
+            {
+              "chord": "Dm7-5",
+              "lyrics": "spring I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'m"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "be -"
+            },
+            {
+              "chord": "G",
+              "lyrics": "witched"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "by"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "you s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "o?"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "no, not in sp"
+            },
+            {
+              "chord": "FM7",
+              "lyrics": "ringtime,"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "summer,"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "winter, or"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "fall --"
+            },
+            {
+              "chord": "Am+7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No"
+            },
+            {
+              "chord": "F",
+              "lyrics": "never could I l"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "eave you"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "at a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ll."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

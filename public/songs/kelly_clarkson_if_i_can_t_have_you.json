@@ -1,0 +1,502 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/k/kelly-clarkson/179526.html",
+  "title": "If I Can't Have You",
+  "artist": "Kelly Clarkson",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:41:16.054Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-- Kelly Clarkson ? If I can't have you --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "standard tuning EADGBE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tabbed by x-tasha-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: (E5 G5 C5 B5 x3 then A5 D5 ) x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "Hearts"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "break too f"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "ast when they're"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "sentimental"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "Won't s"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "tay won't"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "last when it's"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "love at first sight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "So"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "why are"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "my c"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "onvictions"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "blinded by your"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "spotlight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "Can't"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "breathe can't"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "sleep with some"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "medication"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "kiss good"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "bye to my"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "reservations"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "I k"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "now there's"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "other f"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "ish out"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "in the sea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Not"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "for me I want you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "If I"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "can't have"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "you t"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "hen I don't want"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "anyone,"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "I don't want"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "any"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "If I"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "can't have"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "you t"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "hen all the d"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "amage has been"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "done baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "You can"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "break these"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "rule"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "s if you wanna"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "have some fun,"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "you wanna"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "have some"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "fun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "Think of"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "all the"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "love that"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "you will"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "lose if"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "I can't have you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2(same as verse 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Heartbeat cold sweat thoughts slipping under"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can't fight no threat cause there's just no use"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "One look, no hesitation"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm slipping into you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Forgive these eyes these lips you're tasting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No time to waste on an invitation"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My shame my self control has suffered enough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Everybody wants to be loved"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "then E5 G5 C5 B5 x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "I haven't"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "seen the best that"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "love has had to"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "offer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "They say per"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "fection's always"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "right around the"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "corner"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Could be true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But if I can't have you..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "end with chorus x2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

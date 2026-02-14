@@ -1,0 +1,334 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/joe-satriani/60974.html",
+  "title": "If I Could Fly",
+  "artist": "Joe Satriani",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:41:42.985Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "STRUMS (n = downstroke, v = upstroke):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO (|Gmaj7 |Gmaj7 | and |F#m11 |F#m11 |): n n nv v vnv vnv"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|F#m11 Badd4|Badd4 |: n"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "n nv"
+            },
+            {
+              "chord": "Badd4",
+              "lyrics": "v vnv vnv"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS (|Em7 A|A | and |Dmaj7sus2 Bmadd4|Bmadd4 |):"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "n n nv"
+            },
+            {
+              "chord": "A",
+              "lyrics": "v vnv vnv"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE (|Gsus2 |Gsus2 |): n n nv v vnv vnv"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|A |A D/F# |:"
+            },
+            {
+              "chord": "A",
+              "lyrics": "n n nv v vn"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "v vnv"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO (|Gsus2 |Gsus2 |): n n v v n v"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|A |A D/F# |:"
+            },
+            {
+              "chord": "A",
+              "lyrics": "v n v v v"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "v v v"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|A |A |Gmaj7 |Gmaj7 |F#m11 |F#m11 |Gmaj7 |Gmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|F#m11 Badd4|Badd4 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Gmaj7 |Gmaj7 |F#m11 |F#m11 |Gmaj7 |Gmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|F#m11 Badd4|Badd4 | 2x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Em7 A|A |Dmaj7sus2 Bmadd4|Bmadd4 | 3x |Em7 A|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTERLUDE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Gmaj7 |Gmaj7 |F#m11 |F#m11 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Gmaj7 |Gmaj7 |F#m11 |F#m11 | 2x |Gmaj7 |Gmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|F#m11 Badd4|Badd4 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Gsus2 |Gsus2 |A |A D/F# | 4x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|Gsus2 |Gsus2 |A |A D/F# | (fade out)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gmaj7 3 ? 0 0 0 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m11 2 ? 2 2 0 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Badd4 7 9 9 8 0 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 0 2 2 0 3 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A - 0 2 2 2 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dmaj7sus2 - - 0 2 2 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bmadd4 - 2 4 4 3 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gsus2 3 ? 0 2 3 ?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/F# 2 ? 0 2 3 -"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

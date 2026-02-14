@@ -1,0 +1,818 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/j/joe_purdy/if_i_had_you_crd.html",
+  "title": "If I Had You",
+  "artist": "Joe Purdy",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:44:55.217Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "IF I HAD YOU - Joe Purdy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Eric Melton"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E-mail: chromehorsediplomat@gmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: If I Had You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: Joe Purdy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: This American (2010)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I can say I knew you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "well, as w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ell as anybody c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ould"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "say I knew you w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hen we were youn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "g"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a long time"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ago, took your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hand, pulled you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "close"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You pulled"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "away and b"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lamed the cold and the tim"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I was y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oung I would go"
+            },
+            {
+              "chord": "G",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And pick y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou up against you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r will"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Take"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you with me every"
+            },
+            {
+              "chord": "D",
+              "lyrics": "where that I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "had you I'd give"
+            },
+            {
+              "chord": "G",
+              "lyrics": "money"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And all"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the love that you c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ould hold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And ever"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y morning we'd g"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o dancing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I had"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you I would be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gold"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They"
+            },
+            {
+              "chord": "G",
+              "lyrics": "say not to d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "well on the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "things that we can't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "have"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "o leave what's bee"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n done in th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e past"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "memories come i"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "D",
+              "lyrics": "some get lef"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t behind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sun won't go"
+            },
+            {
+              "chord": "C",
+              "lyrics": "away just 'cause you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ask"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I was y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oung I would go"
+            },
+            {
+              "chord": "G",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And pick y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou up against you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r will"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Take"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you with me every"
+            },
+            {
+              "chord": "D",
+              "lyrics": "where that I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "had you I'd give"
+            },
+            {
+              "chord": "G",
+              "lyrics": "money"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And all"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the love that you c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ould hold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And ever"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y morning we'd g"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o dancing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I had"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you I would be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I had y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou I would be go"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ld"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Still some"
+            },
+            {
+              "chord": "C",
+              "lyrics": "times late at nig"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ht"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In my drea"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ms, I'll drift aw"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "To the place I left"
+            },
+            {
+              "chord": "C",
+              "lyrics": "alone for so many"
+            },
+            {
+              "chord": "D",
+              "lyrics": "years"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And there"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you are, just lik"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And here I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "am just like tod"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wake up, I'll wa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tch you off and disappe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ar"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I was y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oung I would go"
+            },
+            {
+              "chord": "G",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And pick y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou up against you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r will"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Take"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you with me every"
+            },
+            {
+              "chord": "D",
+              "lyrics": "where that I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "had you I'd give"
+            },
+            {
+              "chord": "G",
+              "lyrics": "money"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And all"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the love that you c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ould hold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And ever"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y morning we'd g"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o dancing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I had"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you I would be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I had y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou I would be go"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ld"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

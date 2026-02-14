@@ -1,0 +1,374 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.tabcountry.com/song2163/-If-A-Broken-Heart-Could-Kill",
+  "title": "If a Broken Heart Could Kill",
+  "artist": "Montgomery Gentry",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:39:46.875Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key A--Capo on 2nd--played in G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "{Everything from here is with capo on 2."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "{But chords are referenced as normal (G progression.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B-",
+              "lyrics": "G-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "A"
+            },
+            {
+              "chord": "-",
+              "lyrics": "-"
+            },
+            {
+              "chord": "3",
+              "lyrics": "2"
+            },
+            {
+              "chord": "3",
+              "lyrics": "2"
+            },
+            {
+              "chord": "3",
+              "lyrics": "2"
+            },
+            {
+              "chord": "3",
+              "lyrics": "2"
+            },
+            {
+              "chord": "3",
+              "lyrics": "0"
+            },
+            {
+              "chord": "3",
+              "lyrics": "0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D- P - 0 0 0 0 0 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A- O - 0^2 0^2 0 0 2 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Rpt PREVIOUS x2)...A...."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I've never had"
+            },
+            {
+              "chord": "A",
+              "lyrics": "a broken bone"
+            },
+            {
+              "chord": "(D)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I hardly ever"
+            },
+            {
+              "chord": "A",
+              "lyrics": "get a cold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I keep my"
+            },
+            {
+              "chord": "(Ds4)",
+              "lyrics": "self in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "pretty good"
+            },
+            {
+              "chord": "D",
+              "lyrics": "shape"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know I wouldn't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "be here t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "oday"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NC D G D (4 beats of RIFF)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If a broken heart could ki----ill, I'd be long gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Ashes to ash"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "es, du"
+            },
+            {
+              "chord": "(D)",
+              "lyrics": "st to dust by now"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Six feet und"
+            },
+            {
+              "chord": "G",
+              "lyrics": "er, a tombstone on the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hill"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Lyin' there al"
+            },
+            {
+              "chord": "G",
+              "lyrics": "one, in my new wooden"
+            },
+            {
+              "chord": "A",
+              "lyrics": "home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "If a broken heart could"
+            },
+            {
+              "chord": "D",
+              "lyrics": "kill"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I've run the rapids,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "jumped from a plane,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Been through earthquakes,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "and hurricanes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I've climbed mountains,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "been a rodeo clown,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "But after you I'm lucky"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I'm still a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "round,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RPT CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah, I'd be heaven"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bound,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or on my way"
+            },
+            {
+              "chord": "A",
+              "lyrics": "down,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NC RPT RIFF D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If a broken heart could kill."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
