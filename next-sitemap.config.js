@@ -56,35 +56,6 @@ module.exports = {
       });
     });
 
-    // 4. Matches (Limited subset to avoid 700k+ URLs)
-    // Common keys and core shapes for top-level matches
-    const mainKeys = ['C', 'G', 'D', 'A', 'E', 'F'];
-    const mainShapes = ['E', 'A', 'C'];
-    const commonScales = ['major', 'minor', 'blues-minor'];
-    const commonChords = ['M', 'min', '7', 'M7', 'min7'];
-
-    mainKeys.forEach(key1 => {
-      const key1Slug = slugify(key1);
-      mainKeys.forEach(key2 => {
-        const key2Slug = slugify(key2);
-        mainShapes.forEach(shape => {
-          const shapeSlug = shape.toLowerCase();
-
-          commonScales.forEach(sKey => {
-            const sData = guitar.scales[sKey];
-            const sSlug = slugify(sData.name);
-            commonChords.forEach(cKey => {
-              const cData = guitar.arppegios[cKey];
-              const cSlug = slugify(cData.name);
-              // Format: [type]_[name]_in_[key1]_key_matches_chord_[name]_in_[key2]_key_and_[shape]_shape
-              const matchSlug = `scale_${sSlug}_in_${key1Slug}_key_matches_chord_${cSlug}_in_${key2Slug}_key_and_${shapeSlug}_shape`;
-              result.push({ loc: `/matches/${matchSlug}` });
-            });
-          });
-        });
-      });
-    });
-
     return result;
   },
 };

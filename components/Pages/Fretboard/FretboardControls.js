@@ -32,31 +32,30 @@ const StyledPaper = styled(Paper)(({ theme }) => ({
 
 const OptionButton = styled(Button, { shouldForwardProp: (prop) => prop !== 'selected' })(
   ({ theme, selected }) => ({
-    borderRadius: "12px",
+    borderRadius: "20px",
     textTransform: "none",
     fontWeight: selected ? 600 : 500,
-    boxShadow: selected ? '0 2px 8px rgba(25, 118, 210, 0.25)' : 'none',
-    border: `1px solid ${selected ? theme.palette.primary.main : theme.palette.divider}`,
-    backgroundColor: selected ? theme.palette.primary.main : 'transparent',
-    color: selected ? theme.palette.common.white : theme.palette.text.primary,
-    '&:hover': {
-      backgroundColor: selected ? theme.palette.primary.dark : theme.palette.action.hover,
-      border: `1px solid ${selected ? theme.palette.primary.dark : theme.palette.grey[400]}`,
+    margin: "4px",
+    background: selected ? "#1976d2" : "transparent",
+    color: selected ? "#fff" : "#1976d2",
+    border: `1px solid ${selected ? "#1976d2" : theme.palette.divider}`,
+    "&:hover": {
+      background: selected ? "#11529b" : "rgba(25,118,210,0.1)",
+      border: `1px solid ${selected ? "#11529b" : theme.palette.primary.main}`,
     },
-    width: '100%',
-    justifyContent: 'flex-start',
-    padding: '8px 16px',
-    transition: 'all 0.2s ease-in-out',
+    transition: 'all 0.2s ease',
+    minWidth: '60px',
   })
 );
 
-const SectionTitle = styled(Typography)(({ theme }) => ({
-  fontSize: '0.875rem',
+const StepLabel = styled(Typography)(({ theme }) => ({
+  variant: "subtitle2",
+  color: theme.palette.text.secondary,
+  fontSize: '0.75rem',
   fontWeight: 700,
   textTransform: 'uppercase',
-  letterSpacing: '0.1em',
-  color: theme.palette.text.secondary,
-  marginBottom: theme.spacing(1.5),
+  marginBottom: theme.spacing(1),
+  letterSpacing: '1px',
 }));
 
 const slugSharp = (s) => (s || "").replace("#", "sharp");
@@ -144,6 +143,7 @@ const FretboardControls = ({
         </IconButton>
       </Box>
 
+
       {/* BOARD SWITCHER */}
       {boards && boards.length > 1 && (
         <StyledPaper elevation={0}>
@@ -164,10 +164,10 @@ const FretboardControls = ({
         </StyledPaper>
       )}
 
-      {/* CATEGORY SELECTION */}
+      {/* CATEGORY SELECTION - STEP 1 */}
       <StyledPaper elevation={0}>
-        <SectionTitle>Category</SectionTitle>
-        <Stack direction="row" spacing={1}>
+        <StepLabel>Step 1: Category</StepLabel>
+        <Stack direction="row" spacing={0} flexWrap="wrap">
           {['scale', 'chord', 'arppegio'].map((cat) => (
             <OptionButton
               key={cat}
@@ -181,17 +181,17 @@ const FretboardControls = ({
         </Stack>
       </StyledPaper>
 
-      {/* KEY SELECTION */}
+      {/* KEY SELECTION - STEP 2 */}
       {choice && (
         <StyledPaper elevation={0}>
-          <SectionTitle>Key</SectionTitle>
-          <Grid container spacing={1}>
+          <StepLabel>Step 2: Key</StepLabel>
+          <Grid container spacing={0.5}>
             {keysSharps.map((k, index) => (
-              <Grid item xs={3} sm={2} md={3} lg={2} key={index}>
+              <Grid item xs={3} key={index}>
                 <OptionButton
                   selected={selectedKey === index}
                   onClick={() => onElementChange(index, "key")}
-                  sx={{ justifyContent: 'center', minWidth: 'auto', px: 1 }}
+                  sx={{ justifyContent: 'center', minWidth: 'auto', width: '100%', px: 0 }}
                 >
                   {k}
                 </OptionButton>
@@ -201,16 +201,17 @@ const FretboardControls = ({
         </StyledPaper>
       )}
 
-      {/* TYPE SELECTION */}
+      {/* TYPE SELECTION - STEP 3 */}
       {(choice && selectedKey !== "" && selectedKey !== -1) && (
         <StyledPaper elevation={0}>
-          <SectionTitle>{choice === 'arppegio' ? 'Arpeggio' : capitalize(choice)} Type</SectionTitle>
-          <Grid container spacing={1}>
+          <StepLabel>Step 3: {choice === 'arppegio' ? 'Arpeggio' : capitalize(choice)} Type</StepLabel>
+          <Grid container spacing={0.5}>
             {choice === "scale" && Object.keys(guitar.scales).map((scaleName, i) => (
               <Grid item xs={6} key={i}>
                 <OptionButton
                   selected={selectedScale === scaleName}
                   onClick={() => onElementChange(scaleName, "scale")}
+                  sx={{ width: '100%' }}
                 >
                   {capitalize(scaleName)}
                 </OptionButton>
@@ -222,6 +223,7 @@ const FretboardControls = ({
                 <OptionButton
                   selected={selectedChord === ch}
                   onClick={() => onElementChange(ch, "chord")}
+                  sx={{ width: '100%' }}
                 >
                   {ch}
                 </OptionButton>
@@ -233,6 +235,7 @@ const FretboardControls = ({
                 <OptionButton
                   selected={selectedArppegio === arp}
                   onClick={() => onElementChange(arp, "arppegio")}
+                  sx={{ width: '100%' }}
                 >
                   {arp}
                 </OptionButton>
@@ -242,19 +245,20 @@ const FretboardControls = ({
         </StyledPaper>
       )}
 
-      {/* MODES FOR MODAL SCALES */}
+      {/* MODES - STEP 4 */}
       {choice === "scale" &&
         selectedScale &&
         guitar.scales[selectedScale]?.isModal &&
         scaleModes.length > 0 && (
           <StyledPaper elevation={0}>
-            <SectionTitle>Modes</SectionTitle>
-            <Grid container spacing={1}>
+            <StepLabel>Step 4: Modes</StepLabel>
+            <Grid container spacing={0.5}>
               {scaleModes.map((m, i) => (
                 <Grid item xs={6} key={i}>
                   <OptionButton
                     selected={Number(selectedMode) === i}
                     onClick={() => onElementChange(i, "mode")}
+                    sx={{ width: '100%' }}
                   >
                     {m.name}
                   </OptionButton>
@@ -264,16 +268,16 @@ const FretboardControls = ({
           </StyledPaper>
         )}
 
-      {/* SHAPE SELECTION */}
+      {/* SHAPE SELECTION - STEP 5/4 */}
       <StyledPaper elevation={0}>
-        <SectionTitle>Shape</SectionTitle>
-        <Grid container spacing={1}>
+        <StepLabel>Step {choice === 'scale' && selectedScale && guitar.scales[selectedScale]?.isModal ? '5' : '4'}: Shape</StepLabel>
+        <Grid container spacing={0.5}>
           {guitar.shapes.names.map((shape, i) => (
             <Grid item xs={4} key={i}>
               <OptionButton
                 selected={selectedShape === shape}
                 onClick={() => onElementChange(shape, "shape")}
-                sx={{ justifyContent: 'center' }}
+                sx={{ justifyContent: 'center', width: '100%' }}
               >
                 {shape}
               </OptionButton>

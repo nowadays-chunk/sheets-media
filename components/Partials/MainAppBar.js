@@ -59,7 +59,6 @@ const MainAppBar = ({ open, handleDrawerToggle, isHomepage = false }) => {
             <Button component={Link} href="/news" color="inherit">News</Button>
             <Button component={Link} href="/tables" color="inherit">Tables</Button>
             <Button component={Link} href="/circle" color="inherit">Circle</Button>
-            <Button component={Link} href="/references" color="inherit">References</Button>
             <Button component={Link} href="/stats" color="inherit">Statistics</Button>
             <Button component={Link} href="/store" sx={{ color: 'red', fontWeight: 'bold' }}>Store</Button>
 

@@ -1,56 +1,134 @@
-import React from 'react';
+import React, { useState } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
 import MusicApp from '../../components/Containers/MusicApp';
-
-import ArticleCard from '../../components/Listing/ArticleCard';
+import PlayWizard from '../../components/Play/PlayWizard';
 import { ScoreProvider } from "@/core/editor/ScoreContext";
+import guitar from '../../config/guitar';
+import { updateStateProperty, newFretboard, addFretboard } from '../../redux/actions';
+import { Button } from '@mui/material';
+import { useRouter } from 'next/router';
 
-const firstPage = `# Presentation
+export const getStaticProps = async (context) => {
+  const elements = guitar.notes.sharps.flatMap((key) => {
+    const chords = Object.keys(guitar.arppegios).map((chordKey) => {
+      const title = `Chord: ${guitar.arppegios[chordKey].name} in ${key}`;
+      return {
+        label: title,
+        href: `/spreading/chords/${key.replace('#', 'sharp')}/${chordKey.replace('#', 'sharp')}`,
+      };
+    });
 
-Welcome to the **Comprehensive Reference Book for Guitar Music Sheets: Chords, Arpeggios, Modes, and Scales in All Keys and Shapes**. This book is designed to be an exhaustive resource for guitarists of all levels, offering a structured and systematic approach to mastering the intricacies of guitar music theory and technique.
+    const arpeggios = Object.keys(guitar.arppegios).flatMap((arppegioKey) => {
+      const title = `Arpeggio: ${guitar.arppegios[arppegioKey].name} in ${key}`;
+      return [
+        {
+          label: title,
+          href: `/spreading/arppegios/${key.replace('#', 'sharp')}/${arppegioKey.replace('#', 'sharp')}`,
+        },
+      ];
+    });
 
-## Purpose of This Book
+    const scales = Object.keys(guitar.scales).flatMap((scaleKey) => {
+      if (guitar.scales[scaleKey].isModal === true) {
+        return [
+          ...guitar.scales[scaleKey].modes.map((mode) => {
+            const title = `Scale: ${guitar.scales[scaleKey].name} in ${key} (Mode: ${mode.name})`;
+            return {
+              label: title,
+              href: `/spreading/scales/${key.replace('#', 'sharp')}/${scaleKey}/modal/${decodeURIComponent(mode.name.toLowerCase().replace(' ', '-')).replace('#', 'sharp')}`,
+            };
+          }),
+        ];
+      } else {
+        const title = `Scale: ${guitar.scales[scaleKey].name} in ${key} (Single)`;
+        return [
+          {
+            label: title,
+            href: `/spreading/scales/${key.replace('#', 'sharp')}/${scaleKey}/single`,
+          },
+        ];
+      }
+    });
 
-The primary purpose of this book is to provide guitarists with a complete and organized collection of music sheets that encompass:
+    return [...chords, ...arpeggios, ...scales];
+  });
 
-- **Chords**: Major, minor, augmented, diminished, suspended, and extended chords in all keys.
-- **Arpeggios**: Essential arpeggio patterns for each chord type, facilitating melodic and harmonic playing.
-- **Modes**: The seven modes derived from the major scale, along with modes derived from other scales such as harmonic minor and melodic minor.
-- **Scales**: Major, minor (natural, harmonic, and melodic), pentatonic, blues, and exotic scales in all keys and positions.
-
-Whether you are a beginner seeking to build a solid foundation or an advanced player aiming to refine your skills and expand your repertoire, this book serves as an invaluable tool to enhance your musical journey.
-
-## How to Use This Book
-
-### Organization
-
-The book is structured into four main sections:
-
-1. **Chords**: Detailed charts for all chord types across all keys, with multiple voicings and positions.
-2. **Arpeggios**: Comprehensive arpeggio patterns corresponding to each chord, enabling fluid transitions and improvisation.
-3. **Modes**: In-depth coverage of modes, including fingerings, applications, and contextual usage.
-4. **Scales**: Extensive scale diagrams for a variety of scales, with emphasis on finger positioning and tonal characteristics.
-
-Each section is meticulously organized to allow for easy reference and progressive learning.`;
-
-const CoverOne = () => {
-  return (
-    <div>
-      <ArticleCard article={{
-        content: firstPage
-      }}></ArticleCard>
-    </div>
-  );
+  return {
+    props: {
+      elements,
+    },
+    revalidate: 60,
+  };
 };
 
-const PlayAndVisualize = (props) => {
+const PlayPage = (props) => {
+  const [view, setView] = useState('wizard');
+  const dispatch = useDispatch();
+  const router = useRouter();
+
+  // Find the active fretboard for this page (play)
+  const fretboards = useSelector(state => state.fretboard.components);
+  const activeFretboard = fretboards.find(b => b.generalSettings.page === 'play');
+
+  const handleSelect = (selection) => {
+    let boardId = activeFretboard?.id;
+
+    if (!boardId) {
+      // Create new board for the 'play' page
+      const newBoard = newFretboard(
+        6,
+        25,
+        [4, 7, 2, 9, 11, 4],
+        [4, 3, 3, 3, 2, 2],
+        'play',
+        selection.type
+      );
+      dispatch(addFretboard(newBoard));
+      boardId = newBoard.id;
+    }
+
+    // Dispatch selection to Redux
+    // Note: We use the same property update pattern as MusicApp's updateBoardsCallback
+    if (boardId) {
+      dispatch(updateStateProperty(boardId, "generalSettings.choice", selection.type));
+      dispatch(updateStateProperty(boardId, "keySettings." + selection.type, selection.key));
+
+      if (selection.type === 'scale') {
+        dispatch(updateStateProperty(boardId, "scaleSettings.scale", selection.value));
+        if (selection.mode !== undefined && guitar.scales[selection.value]) {
+          const modeName = guitar.scales[selection.value].modes[selection.mode].name;
+          dispatch(updateStateProperty(boardId, "modeSettings.mode", modeName));
+        }
+      } else if (selection.type === 'chord') {
+        dispatch(updateStateProperty(boardId, "chordSettings.chord", selection.value));
+      } else if (selection.type === 'arppegio') {
+        dispatch(updateStateProperty(boardId, "arppegioSettings.arppegio", selection.value));
+      }
+
+      if (selection.shape) {
+        dispatch(updateStateProperty(boardId, selection.type + "Settings.shape", selection.shape));
+      }
+    }
+
+    if (selection.href) {
+      router.push(selection.href);
+    } else {
+      setView('app');
+    }
+  };
+
+  if (view === 'wizard') {
+    return <PlayWizard elements={props.elements} onSelect={handleSelect} />;
+  }
+
   return (
     <div style={{ marginTop: '100px' }}>
       <ScoreProvider>
         <MusicApp
-          board="home"
+          board="play"
           showAddMoreFretboardsButton={true}
           showFretboardControls={true}
-          showCircleOfFifths={false}
+          showCircleOfFifths={true}
           showFretboard={true}
           showChordComposer={false}
           showProgressor={false}
@@ -62,8 +140,11 @@ const PlayAndVisualize = (props) => {
           description="Play And Visualize Chords, Scales And Arppegios In A Complete Reference Of Guitar Music Sheets."
         />
       </ScoreProvider >
+      <div style={{ textAlign: 'center', padding: '20px' }}>
+        <Button variant="outlined" onClick={() => setView('wizard')}>Back to Search</Button>
+      </div>
     </div>
   );
 };
 
-export default PlayAndVisualize;
+export default PlayPage;

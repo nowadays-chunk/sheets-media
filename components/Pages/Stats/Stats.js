@@ -11,6 +11,8 @@ import {
   Box,
   Button,
   Typography,
+  Paper,
+  Divider
 } from "@mui/material";
 
 
@@ -127,9 +129,21 @@ export default function Stats({
           content="Analyzee the Guitar Fretboard on all keys, chorsd, shapes, scales, modes, arpeggios."
         />
       </Head>
-      <Typography variant="h4" sx={{ mb: 3 }}>
-        🎸 The guitar fretboard in digits :
+      <Typography variant="h4" sx={{ mb: 1, fontWeight: 800 }}>
+        🎸 Fretboard Analytics
       </Typography>
+
+      <Paper elevation={0} sx={{ p: 2, mb: 4, bgcolor: 'rgba(25, 118, 210, 0.05)', borderRadius: 2, border: '1px solid rgba(25, 118, 210, 0.1)' }}>
+        <Typography variant="subtitle1" fontWeight="bold" color="primary" gutterBottom>
+          CURRENT ANALYSIS: {isHomepage ? "Active Session Data" : `Full ${tabs[tab]} Dataset`}
+        </Typography>
+        <Typography variant="body2" color="text.secondary">
+          {isHomepage
+            ? `You are currently analyzing the ${sourceBoards.length} fretboard(s) currently open in your play session. This data reflects your specific selections of keys, shapes, and musical structures.`
+            : `You are analyzing the comprehensive database of ${tabs[tab].toLowerCase()}. This statistical overview represents the mathematical possibilities and geometric distributions across all keys and positions on the guitar neck.`
+          }
+        </Typography>
+      </Paper>
 
       {/* TABS */}
       <Box sx={{ display: "flex", mb: 3 }}>
