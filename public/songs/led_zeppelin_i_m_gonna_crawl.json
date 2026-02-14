@@ -1,0 +1,702 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/l/led_zeppelin/im_gonna_crawl_crd.html",
+  "title": "I'm Gonna Crawl",
+  "artist": "Led Zeppelin",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:19:40.103Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Easy song, only requires six chords."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NOTICE: this is only the chords no tabs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chords extracted by elodionocesa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "any comments or doubts: rock_sera@yahoo.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G# (x4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "=Part 1="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "oh"
+            },
+            {
+              "chord": "G#",
+              "lyrics": ", shE's my baby"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Let me tell yOu why"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "he"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "y, she Drives me crazy"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "she's"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "the apple of my eye"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'cause she"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Is my girl"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and she can"
+            },
+            {
+              "chord": "F",
+              "lyrics": "never dO me wroNg"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if i"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dream tOo muCh at night"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "somEbody"
+            },
+            {
+              "chord": "F",
+              "lyrics": "pleaSe bring me down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G# x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "=Part 2="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "he"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "y, I love that little lAdy"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "i got to bE her fooL"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ain't nO"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "other than my baby"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i can"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "break the golDen rule"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'cause I get dOwN"
+            },
+            {
+              "chord": "F",
+              "lyrics": "On my knees"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "oh, i pray"
+            },
+            {
+              "chord": "F",
+              "lyrics": "that love won't die"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and if i"
+            },
+            {
+              "chord": "F",
+              "lyrics": "always try to please"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and i don't know the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "reason why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "=Part 3="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "if she would Come back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and only"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stay with mE, Oh yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "every little bit,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "every little bit,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "every little bit of"
+            },
+            {
+              "chord": "F",
+              "lyrics": "my love, i give to you girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "every little bit,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "every little bit,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "every little bit, every,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "every little bit of my love, oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Through solo play Parts 2 and 3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "i don't have to go by plane"
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "i aint gotta go"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "by car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "i don't care juSt"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "where my dArling is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "people, i just"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "don't care how far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "im gonna crawl,"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i'm"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "gonna crawl"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "don't care if i have to go back home"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i don't"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "care where i got to stand to get to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i'm gonna"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "crawl,"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i'm"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "gonna crawl"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "ah, ooh, ooh,"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i'm gonna"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "move the car, baby"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i say,"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "she give me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "good lovin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She give me"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "good lovin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She give me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "good lovin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She give me"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "good lovin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "my baby"
+            },
+            {
+              "chord": "C",
+              "lyrics": "give me good lovin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "ooh, yes I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i guess i"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "love her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "yes, i"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love her"
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i'm gonna"
+            },
+            {
+              "chord": "C",
+              "lyrics": "crawl"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/don-williams/300241.html",
+  "title": "I'm Just A Country Boy",
+  "artist": "Don Williams",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:21:57.173Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Released July 20, 1977"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Written By: Fred Hellerman & Marshall Baker"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Produced By: Don Williams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is my interpretation with a great deal of \"help\" from my teacher Joe Kuykendall."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The first verse is strummed slowly, each chord only once. The subsequent verses have a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "couple of additional chords that are left out in the first verse."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I ain't gonna marry in the fall"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ain't gonna mar"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ry in the spri"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ng"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Cause I'm in love with a pr"
+            },
+            {
+              "chord": "A",
+              "lyrics": "etty little"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who wea"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rs a diamond"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ring"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And I'm just a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "country"
+            },
+            {
+              "chord": "A",
+              "lyrics": "boy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Money have I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "none"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "But I've got"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "silver"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in the stars"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "Gold"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "in the mo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rning sun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Gold"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "in the morning s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "un"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'm never gonna kiss"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the ruby red"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lips"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Of the"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "prettiest girl in t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "Never gonna ask her if sh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e'd marry me"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "know she'd turn me d"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "'Cause I'm just a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "country"
+            },
+            {
+              "chord": "A",
+              "lyrics": "boy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Money have I no"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ne"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "But I've got"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "silver"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in the stars"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "Gold"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "in the morning s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "un"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Gold"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "in the morning s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "un"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I never could afford"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a store bough"
+            },
+            {
+              "chord": "E",
+              "lyrics": "t ring"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "With the"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "sparkling diamond"
+            },
+            {
+              "chord": "A",
+              "lyrics": "stone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "All I could afford was a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "loving heart"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "D",
+              "lyrics": "only one I"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "'Cause I'm just a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "country"
+            },
+            {
+              "chord": "A",
+              "lyrics": "boy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Money have I no"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ne"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "But I've got"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "silver"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in the stars"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "Gold"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "in the morning s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "un"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Gold"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "in the morning s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "un"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

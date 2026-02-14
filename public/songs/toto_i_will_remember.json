@@ -1,0 +1,474 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/toto/280460.html",
+  "title": "I Will Remember",
+  "artist": "Toto",
+  "key": null,
+  "scrapedAt": "2026-02-14T17:54:07.748Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Toto-I Will Remember By Max Zozzo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Gm D# F G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "born in the land of the"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "sun and the tall green gras"
+            },
+            {
+              "chord": "F",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "don't understand"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "how all this has come to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "pass"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How we've"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "come to surround our"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "selves in a sea of"
+            },
+            {
+              "chord": "F",
+              "lyrics": "thieves"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In a"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "land without learning on"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ly the fools bel"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ieve"
+            },
+            {
+              "chord": "D#",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I went d"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "riving last night"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "on a dark canyon"
+            },
+            {
+              "chord": "F",
+              "lyrics": "road"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Had the"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "sky to mysel"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "f but I wasn't a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lone"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Had the"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "pain of my lifet"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "ime for my com"
+            },
+            {
+              "chord": "F",
+              "lyrics": "pany"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Ho"
+            },
+            {
+              "chord": "#",
+              "lyrics": "w did it end up like th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "is for you and m"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "love breaks the promise the h"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "eart has to k"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eep, it l"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "eaves only truth here to fi"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When the"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "spirit is crushed and the h"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "urt is so d"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eep bet"
+            },
+            {
+              "chord": "D",
+              "lyrics": "we"
+            },
+            {
+              "chord": "#",
+              "lyrics": "en you and I"
+            },
+            {
+              "chord": "D#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "Even when l"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ove has come and g"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "one and our"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hearts have mo"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "ved along"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I will re"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "memb"
+            },
+            {
+              "chord": "F",
+              "lyrics": "er"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "There was a t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ime we had the t"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "rust, and that al"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ways was e"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "nough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I will re"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "memb"
+            },
+            {
+              "chord": "F",
+              "lyrics": "er,"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "I will reme"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mber yo"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "u"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As I o"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "pen my eyes"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "to one more"
+            },
+            {
+              "chord": "F",
+              "lyrics": "day,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "wind burns my fac"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "e as it whispers your"
+            },
+            {
+              "chord": "F",
+              "lyrics": "name"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As it's"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "pulling me forwar"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "d it tears me"
+            },
+            {
+              "chord": "F",
+              "lyrics": "free"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "only thing left is the t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ears for you and m"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,762 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/beatles/340535.html",
+  "title": "I've Got a Feeling",
+  "artist": "The Beatles",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:05:16.578Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I?VE GOT A FEELING (1970)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro : |A |D |A |D |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I've got a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "feeling, a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feeling deep ins"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eah,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "yeah. (th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "at's right.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I've got a f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eeling, a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feeling I can't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "no. no."
+            },
+            {
+              "chord": "D",
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "no! Oh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "no."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Yeah!"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Ye"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ah!"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I've got a fee"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ling"
+            },
+            {
+              "chord": "D",
+              "lyrics": ". Ye"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ah!"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Oh please be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lieve me, I'd"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hate to miss the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "train"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "yeah, yeah"
+            },
+            {
+              "chord": "D",
+              "lyrics": ", oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "yeah."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And if you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "leave me I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "won't be late ag"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "no, oh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "no, oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "no."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Yeah!"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Ye"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ah!"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I've got a fee"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ling"
+            },
+            {
+              "chord": "D",
+              "lyrics": ". Ye"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ah!"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "All these years I've been wandering around,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "Wondering how come nobody told me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All that I was looking for was somebody"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who looked like"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I've got a feeling th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "at keeps me on my toes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "yeah, yeah"
+            },
+            {
+              "chord": "D",
+              "lyrics": ", oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "yeah."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ve got a fe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eling, I thin"
+            },
+            {
+              "chord": "A",
+              "lyrics": "k that everybody"
+            },
+            {
+              "chord": "D",
+              "lyrics": "knows."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "yeah, yeah"
+            },
+            {
+              "chord": "D",
+              "lyrics": ", oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "yeah."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Yeah!"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Ye"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ah!"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I've got a fee"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ling"
+            },
+            {
+              "chord": "D",
+              "lyrics": ". Ye"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ah!"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ev'r"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ybody had a har"
+            },
+            {
+              "chord": "D",
+              "lyrics": "d year."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Ev'rybody had a go"
+            },
+            {
+              "chord": "D",
+              "lyrics": "od time."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ev'r"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ybody had a wet dr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eam."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Ev'rybody saw the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sunshine."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "yeah, yeah"
+            },
+            {
+              "chord": "D",
+              "lyrics": ", oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "yeah."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Ev'rybody had a go"
+            },
+            {
+              "chord": "D",
+              "lyrics": "od year."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ev'ry"
+            },
+            {
+              "chord": "A",
+              "lyrics": "body let their ha"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ir down."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Ev'rybody pulled th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eir socks up. (yeah.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ev'ry"
+            },
+            {
+              "chord": "A",
+              "lyrics": "body put their foo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t down."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Run up:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|A Bb |B C |Db D |Eb E |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Round singing, McCartney=?M:? Lennon=?L:?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(chords below are synchronised with McCartney?s lines)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "M:"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I've got a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "feeling, a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feeling deep ins"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "L: Ev'rybody had a good year. Everybody had a hard time."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "M: Oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "yeah,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Oh y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eah."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "L: Ev'rybody had a wet dream. Everybody saw the sun shine."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "M:"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I've got a fe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eling, a f"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eeling I can't h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "L: Everybody had a good year. Everybody let their hair down."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "M: Oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "no. no."
+            },
+            {
+              "chord": "D",
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "no! Oh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "no."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "L: Everybody pulled their socks up. Everybody put their foot down."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coda:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|A Bb |B C |A Bb |B C |Db D |Eb E |A |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(ad lib) Yeah! Yeah! I've got a feeling Yeah! (etc, etc)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ":Charted by Bustopher the Busker - bustopher@bigpond.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

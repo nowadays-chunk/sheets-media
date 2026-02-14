@@ -1,0 +1,482 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/illreme2.htm",
+  "title": "I'll Remember You",
+  "artist": "Andy Williams",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:02:40.960Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: | G - B7 | C - D7 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "'ll re -"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "mem - ber"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Long after t"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "his"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "endless s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ummer has g"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "one"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "be"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "lone -"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "ly"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "oh so"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "lonely,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Living"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "on -"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ly"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "to"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "to re -"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "mem - ber y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou."
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "I'll re -"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "mem - ber y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Your voice as"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "soft"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "as the w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "arm summer br"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "eeze"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Your"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "sweet l"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "augh -"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "ter,"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "mor - nings"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "af - ter,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "E - ver"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "af -"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ter, o"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "oo, I"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "'ll re -"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "mem - ber y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou."
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "(To your"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "arms sone - d"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ay)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "To your"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "arms somed"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ay"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": "I"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "'ll re -"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "turn to s"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "tay."
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "Till t"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "hen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fdim",
+              "lyrics": "I'll re -"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "mem - ber, t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "oo,"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ev'ry bright s"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "tar"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "we made wi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sh"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "- es up -"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Love me"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "al - ways,"
+            },
+            {
+              "chord": "Dm+7",
+              "lyrics": "prom - ise"
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": "al - ways."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "O"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ooh -"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "oooh -"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "oooh -"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "oooh - o"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ooh,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7-5",
+              "lyrics": "You'll re -"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "mem - ber, t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "oo."
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D9",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

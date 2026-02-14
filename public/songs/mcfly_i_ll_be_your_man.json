@@ -1,0 +1,686 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/m/mcfly/ill_be_your_man_crd.html",
+  "title": "I'll Be Your Man",
+  "artist": "McFly",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:09:43.931Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here's my shot at tabbing this song, I love it! Corrections welcome."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro Riff:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro Chords: E, A5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E: x22100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A5: 002200"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Been all around the world,"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've never met a girl,"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That does the things you do"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And puts me in the mood,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ove you, and treat you right,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So c"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "ome here, and close your eyes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Lie back, release your mind,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And let the"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "world fall down when I'm by your side."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "be y"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "our"
+            },
+            {
+              "chord": "A",
+              "lyrics": "man"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "through the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "fire,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I'll"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "hold"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hand t"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "hrough the flames,"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "be t"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "he o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ne"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "desire,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Honey, 'cause I want you to unders"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tand,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "be y"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "our"
+            },
+            {
+              "chord": "E",
+              "lyrics": "man."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "be y"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "our"
+            },
+            {
+              "chord": "E",
+              "lyrics": "man."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I can lay with you for days,"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And years can pass away,"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's lipstick on my face,"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I love the way you taste."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm"
+            },
+            {
+              "chord": "E",
+              "lyrics": "right here, so lock the door,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Because you"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "need me, but I need you more,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I don't care, about your mistakes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Because they"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "all went away when I found you Katie."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "be y"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "our"
+            },
+            {
+              "chord": "A",
+              "lyrics": "man"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "through the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "fire,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I'll"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "hold"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hand t"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "hrough the flames,"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "be t"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "he o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ne"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "desire,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Honey, 'cause I want you to understand,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "be y"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "our"
+            },
+            {
+              "chord": "E",
+              "lyrics": "man."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "be y"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "our"
+            },
+            {
+              "chord": "E",
+              "lyrics": "man."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Guitar solo: E, A5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Final Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "be y"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "our"
+            },
+            {
+              "chord": "A",
+              "lyrics": "man"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "through the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "fire,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I'll"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "hold"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hand t"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "hrough the flames,"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "be t"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "he o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ne"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "desire,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Honey, 'cause I want you to understand,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "be y"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "our"
+            },
+            {
+              "chord": "E",
+              "lyrics": "man."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "be y"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "our"
+            },
+            {
+              "chord": "E",
+              "lyrics": "man."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E, A5 until end."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

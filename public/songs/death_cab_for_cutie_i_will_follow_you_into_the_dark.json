@@ -1,0 +1,758 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/d/death_cab_for_cutie/i_will_follow_you_into_the_dark_tab_ver_3.html",
+  "title": "I Will Follow You Into the Dark",
+  "artist": "Death Cab for Cutie",
+  "key": null,
+  "scrapedAt": "2026-02-14T17:51:07.778Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning (from low to high) = E, A, D, G, B, E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm - xx0231"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F - xx3211 or (x33211)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb - xx3331 or (x13331)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/E - xx2010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CaddG - x32013"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C - x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bbm - xx3321 or (x13321)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A - x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm/C - x3x231"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This tab isn't 100% correct, the song has two guitars and this is meant"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "simply as a compromise between the two strummed and picked patterns."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro/Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^Play as quick down and up strum."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^Slow Strum."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse: (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Love of mine, someday"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "you will die"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I'll be"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "close behind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll follow"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you into the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dark"
+            },
+            {
+              "chord": "CaddG",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "No blinding light, or tunnels to"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "gates of white"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just our hands"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "clasped so tight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Waiting"
+            },
+            {
+              "chord": "F",
+              "lyrics": "for the hint of a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "spark"
+            },
+            {
+              "chord": "CaddG",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "heaven and hell de"
+            },
+            {
+              "chord": "F",
+              "lyrics": "cide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That they"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "both are satis"
+            },
+            {
+              "chord": "F",
+              "lyrics": "fied"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Illuminate the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nos on their"
+            },
+            {
+              "chord": "C",
+              "lyrics": "va"
+            },
+            {
+              "chord": "CaddG",
+              "lyrics": "cancy signs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "there's no one be"
+            },
+            {
+              "chord": "F",
+              "lyrics": "side you when your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "soul em"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "barks"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Then I'll follow"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "you into the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In Catholic school, as vicious as"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "Roman rule"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I got my"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "knuckles bruised"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "By a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lady in"
+            },
+            {
+              "chord": "C",
+              "lyrics": "black"
+            },
+            {
+              "chord": "CaddG",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I held my tongue, as she"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "told me \"Son,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fear is the"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "heart of love.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I never went"
+            },
+            {
+              "chord": "C",
+              "lyrics": "back"
+            },
+            {
+              "chord": "CaddG",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "heaven and hell de"
+            },
+            {
+              "chord": "F",
+              "lyrics": "cide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That they"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "both are satis"
+            },
+            {
+              "chord": "F",
+              "lyrics": "fied"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Illuminate the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nos on their"
+            },
+            {
+              "chord": "C",
+              "lyrics": "va"
+            },
+            {
+              "chord": "CaddG",
+              "lyrics": "cancy signs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "there's no one be"
+            },
+            {
+              "chord": "F",
+              "lyrics": "side you when your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "soul em"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "barks"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Then I'll follow"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "you into the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dark"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You and me we've seen every"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "thing to see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From Bangkok to"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "Calgary"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "soles of our"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shoes"
+            },
+            {
+              "chord": "CaddG",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Are"
+            },
+            {
+              "chord": "F",
+              "lyrics": "all worn down, the time for"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "sleep is now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's nothing to"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "cry about"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause we'll"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hold each other"
+            },
+            {
+              "chord": "C",
+              "lyrics": "soon"
+            },
+            {
+              "chord": "CaddG",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "blackest of"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "rooms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "heaven and hell de"
+            },
+            {
+              "chord": "F",
+              "lyrics": "cide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That they"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "both are satis"
+            },
+            {
+              "chord": "F",
+              "lyrics": "fied"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Illuminate the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nos on their"
+            },
+            {
+              "chord": "C",
+              "lyrics": "va"
+            },
+            {
+              "chord": "CaddG",
+              "lyrics": "cancy signs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "there's no one be"
+            },
+            {
+              "chord": "F",
+              "lyrics": "side you when your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "soul em"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "barks"
+            },
+            {
+              "chord": "Dm/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Then I'll follow"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "you into the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dark"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "I'll follow"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "you into the dark"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

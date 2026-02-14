@@ -6,7 +6,7 @@ import { ScoreProvider } from "@/core/editor/ScoreContext";
 const TheCircleOfFifths = () => {
 
   return (
-    <div>
+    <div style={{ marginTop: '100px' }}>
       <ScoreProvider>
         <MusicApp
           board="circle"

@@ -1,0 +1,502 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/enya/225257.html",
+  "title": "I Want Tomorrow",
+  "artist": "Enya",
+  "key": null,
+  "scrapedAt": "2026-02-14T17:43:22.589Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "+++++++++++++++++++++++++",
+              "lyrics": "| Enya- I Want Tomorrow |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"You may take my life away...\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used in this song:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E: 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F: 133211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m: 244222"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G#m: 466444"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A: x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am: x02210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D: xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Dawn breaks"
+            },
+            {
+              "chord": "G",
+              "lyrics": "there is"
+            },
+            {
+              "chord": "F",
+              "lyrics": "blue in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Your face"
+            },
+            {
+              "chord": "G",
+              "lyrics": "be"
+            },
+            {
+              "chord": "F",
+              "lyrics": "fore me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Though"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I don't know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "why"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Thoughts dis"
+            },
+            {
+              "chord": "F",
+              "lyrics": "appearing like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tears from the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Now you're here, I can"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "see yo"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ur light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "this light that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "must"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fo -"
+            },
+            {
+              "chord": "E",
+              "lyrics": "llow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You, you may"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "take my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "life away,"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "so far a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Now I know I must"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "leave you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "r spell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I want to -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mo -"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rrow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "4."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "5."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lyrics:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dawn breaks, there is blue in the sky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your face before me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Though I don't know why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Thoughts disappearing like tears from the Moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Waiting here, as I sit by the stone,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They came before me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Those men from the Sun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Signs from the heavens say I am the one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now you're here, I can see your light,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "this light that I must follow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You, you may take my life away, so far away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now I know I must leave your spell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want tomorrow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "+++++++++++++++++++++++++++++++++",
+              "lyrics": "| RaiLeff |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Underground__Dora@Hotmail.Com |"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

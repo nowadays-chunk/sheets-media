@@ -1,0 +1,894 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/s/stevie_wonder/i_was_made_to_love_her_crd.html",
+  "title": "I Was Made to Love Her",
+  "artist": "Stevie Wonder",
+  "key": "F",
+  "scrapedAt": "2026-02-14T17:46:04.505Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...I WAS MADE TO LOVE HER... by Stevie Wonder"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*from 'I Was Made To Love Her' (1967)*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*CAPO 3rd FRET*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Original Key: F)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I was born in Lil' Rock,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Had a childhood"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "sweetheart;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "We were always"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hand in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hand."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I was hightop shoes and shirt tails,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Suzy was in"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "pig tails;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "I know I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "loved her even"
+            },
+            {
+              "chord": "D",
+              "lyrics": "then."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "papa disapproved it,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "mama boo-"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "hooed it,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "But I told them"
+            },
+            {
+              "chord": "C",
+              "lyrics": "time and time a-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gain;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "\"Don't you know I was made to love her?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Built a"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "world all a-"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "round her\","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yah!"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "hey,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hey,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hey."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "been my inspiration,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Sh-owed appreci-"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "ation;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "For the love I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "gave her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Through the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "years."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sweet magnolia tree,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My love"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "blossmed tender-"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "ly,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "My life grew"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sweeter,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Through the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "years."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know that my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "baby loves me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "My baby"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "needs me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "That's why we"
+            },
+            {
+              "chord": "C",
+              "lyrics": "made it,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Through the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "years."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "made to love her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wor-"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ship and a-"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "dore her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Hey,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hey,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hey."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Breakdown:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "All through thick and thin,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Our"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love just won't end,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cos I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love my baby, love my baby."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Aah...!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "D",
+              "lyrics": "baby loves me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "baby"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "needs me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "know I ain't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "going no-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "where."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was knee"
+            },
+            {
+              "chord": "D",
+              "lyrics": "high to a chicken,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When that"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "love bug"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "bit me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "I had the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fever with,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Each pa-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ssing year."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, even"
+            },
+            {
+              "chord": "D",
+              "lyrics": "if the mountain tumbles,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If this"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "whole world"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "crumbles,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "By her side I'll,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Still be standing"
+            },
+            {
+              "chord": "D",
+              "lyrics": "there."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cos I was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "made to love her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "made to live"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "for her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Ye-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ea-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ah!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ah, I was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "made to love her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Built my"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "world all a-"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "round her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Hey,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hey,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hey."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ooh baby, I was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "made to please her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "Stevie ain't,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gonna"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "leave her, no,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Hey,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hey,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hey."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ooh wee baby, my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "baby loves me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "My baby"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "needs me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Hey,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hey,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hey."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat to Fade)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORD DIAGRAMS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0232"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "3x033x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x3233x"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x13331"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Joel from cLuMsY, Bristol, England, 2004"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(clumsyband@hotmail.com)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

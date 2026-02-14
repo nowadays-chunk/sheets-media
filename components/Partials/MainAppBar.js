@@ -52,15 +52,15 @@ const MainAppBar = ({ open, handleDrawerToggle, isHomepage = false }) => {
 
     const NavigationButtons = () => (
         <>
-            <Button component={Link} href="/play" color="inherit">Play</Button>
-            <Button component={Link} href="/compose" color="inherit">Compose</Button>
-            <Button component={Link} href="/learn" color="inherit">Learn</Button>
             <Button component={Link} href="/about" color="inherit">About</Button>
+            <Button component={Link} href={isHomepage ? "#play-wizard" : "/#play-wizard"} color="inherit">Play</Button>
+            <Button component={Link} href={isHomepage ? "#articles" : "/learn"} color="inherit">Learn</Button>
             <Button component={Link} href="/news" color="inherit">News</Button>
             <Button component={Link} href="/tables" color="inherit">Tables</Button>
             <Button component={Link} href="/circle" color="inherit">Circle</Button>
+            <Button component={Link} href={isHomepage ? "#projects" : "/compose"} color="inherit">Compose</Button>
             <Button component={Link} href="/stats" color="inherit">Statistics</Button>
-            <Button component={Link} href="/store" sx={{ color: 'red', fontWeight: 'bold' }}>Store</Button>
+            <Button component={Link} href={isHomepage ? "#store" : "/store"} sx={{ color: 'red', fontWeight: 'bold' }}>Store</Button>
 
             <IconButton color="inherit" sx={{ mr: 1 }} onClick={() => dispatch(toggleCart())}>
                 <Badge badgeContent={cartCount} color="error">
@@ -68,7 +68,7 @@ const MainAppBar = ({ open, handleDrawerToggle, isHomepage = false }) => {
                 </Badge>
             </IconButton>
 
-            <Button component={Link} href="/competition" variant="outlined" sx={{ mr: 4, color: '#2196f3', borderColor: '#2196f3', '&:hover': { borderColor: '#1976d2', bgcolor: 'rgba(33, 150, 243, 0.04)' } }}>
+            <Button component={Link} href={isHomepage ? "#competitions" : "/competition"} variant="outlined" sx={{ mr: 4, color: '#2196f3', borderColor: '#2196f3', '&:hover': { borderColor: '#1976d2', bgcolor: 'rgba(33, 150, 243, 0.04)' } }}>
                 Join Competition
             </Button>
         </>

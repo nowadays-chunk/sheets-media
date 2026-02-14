@@ -1,0 +1,614 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/k/katzenjammer/294435.html",
+  "title": "I Will Dance (When I Walk Away)",
+  "artist": "Katzenjammer",
+  "key": null,
+  "scrapedAt": "2026-02-14T17:50:16.323Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: I will dance (when I walk away)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo # 7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Still missing the interlude, if someone got it ;) carsten@jeccpot.de"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Into:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "In our cold and"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "empty house"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I lingered now for f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ar too long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I vainly held the"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "rosary"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "To pray you'd stay"
+            },
+            {
+              "chord": "G",
+              "lyrics": "with me a while"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But nothing seems to"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "keep me here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The way it used to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "do before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "This time it's me that's"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "leaving you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'll never turn"
+            },
+            {
+              "chord": "G",
+              "lyrics": "around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Bridge)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Cause when the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "laughter's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "I know I must b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e moving on"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Refrain)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And I will dance when I w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alk away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, I'm gonna"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/C#",
+              "lyrics": "I won't beg or p"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "ray"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I will dance when I w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alk away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, I'm gonna"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I won't beg or"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "pray"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm standing at the"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "crossroads now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The fields of opport"
+            },
+            {
+              "chord": "G",
+              "lyrics": "unity"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm ready to go"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "anywhere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm full of hope and f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ull of fear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And bridges back have"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "all been burned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And freedom has been d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "uly earned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'll remember why I've"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Remember where I'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "coming from"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Bridge)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Oh, when the l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aughter's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gone,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "uuhuu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "I know I must"
+            },
+            {
+              "chord": "D",
+              "lyrics": "be moving"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Refrain)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And I will dance when I w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alk away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, I'm gonna"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/C#",
+              "lyrics": "I won't beg or"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "pray"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I will dance when I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "walk away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, I'm gonna s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/C#",
+              "lyrics": "I won't beg"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "or pray"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Interlude)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bbaug"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And now I leave my mask with you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "The part I played I never knew"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Tonight you're alone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Refrain) (3x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I will dance when I walk away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, I'm gonna sing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I won't beg or pray"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I will dance when I walk away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, I'm gonna sing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I won't beg or pray"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, this is not a home for me"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

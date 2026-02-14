@@ -1,0 +1,858 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/tegan-and-sara/334467.html",
+  "title": "I'm Not Your Hero",
+  "artist": "Tegan and Sara",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:25:46.342Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tegan and Sara - I'm Not Your Hero"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: EilidhPower12"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard Tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NO CAPO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords Used"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A - 003330"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E - 033200"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "D"
+            },
+            {
+              "chord": "-",
+              "lyrics": "-"
+            },
+            {
+              "chord": "244222",
+              "lyrics": "000323"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Standing where I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "am now,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "standing up at a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ll"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I was used to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "feeling like I was never gonna"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "see myself at the finish line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Hanging on two"
+            },
+            {
+              "chord": "E",
+              "lyrics": "parts of me,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "hanging on at"
+            },
+            {
+              "chord": "D",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I was used to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "seeing no future in my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "sight line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Sometimes it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feels like they"
+            },
+            {
+              "chord": "E",
+              "lyrics": "want to rem"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ind me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Send all those"
+            },
+            {
+              "chord": "A",
+              "lyrics": "villains"
+            },
+            {
+              "chord": "E",
+              "lyrics": "after"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I?m not their"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hero"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But that doesn?t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mean that I wasn?t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "brave"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I never walked the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "party line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Doesn?t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mean that I was never af"
+            },
+            {
+              "chord": "D",
+              "lyrics": "raid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I?m not your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hero"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But that doesn?t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mean we?re not one in the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "same"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Feeling like I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "am now"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "lighting up the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I was used to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "standing in the shadow of a"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "damaged heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Learning all I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "know now"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "losing all I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "did"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I never used to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "feel like I?d be standing so"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "far ahead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Sometimes it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feels what I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "recovered you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Sending your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "peaceful"
+            },
+            {
+              "chord": "E",
+              "lyrics": "loss to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I?m not their"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hero"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But that doesn?t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mean that I wasn?t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "brave"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I never walked the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "party line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Doesn?t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mean that I was never af"
+            },
+            {
+              "chord": "D",
+              "lyrics": "raid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I?m not your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hero"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But that doesn?t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mean we?re not one in the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "same"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Sometimes it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feels like the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "side that I?m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Plays the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "toughest"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hand, holds the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "longest"
+            },
+            {
+              "chord": "A",
+              "lyrics": "stand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Sometimes it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feels like I?m"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all that they?ve"
+            },
+            {
+              "chord": "A",
+              "lyrics": "got"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It?s so"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hard to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know I?m"
+            },
+            {
+              "chord": "E",
+              "lyrics": "not what they"
+            },
+            {
+              "chord": "A",
+              "lyrics": "want"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Sometimes it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feels like the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "side that I?m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Plays the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "toughest"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hand, holds the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "longest"
+            },
+            {
+              "chord": "A",
+              "lyrics": "stand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Sometimes it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feels like I?m"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all that they?ve"
+            },
+            {
+              "chord": "A",
+              "lyrics": "got"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It?s so"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hard to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know I?m"
+            },
+            {
+              "chord": "E",
+              "lyrics": "not what they"
+            },
+            {
+              "chord": "A",
+              "lyrics": "want"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I?m not their"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hero"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But that doesn?t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mean that I wasn?t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "brave"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I never walked the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "party line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Doesn?t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mean that I was never af"
+            },
+            {
+              "chord": "D",
+              "lyrics": "raid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I?m not your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hero"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But that doesn?t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mean we?re not one in the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "same"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I do my best to walk the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "finest line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Til I?ve"
+            },
+            {
+              "chord": "A",
+              "lyrics": "had all that I can"
+            },
+            {
+              "chord": "D",
+              "lyrics": "take"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D, E, A, D x3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

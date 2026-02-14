@@ -1,5 +1,7 @@
-import React from 'react';
-import { useDispatch } from 'react-redux';
+"use client";
+
+import React, { useState, useEffect } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
 import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -31,12 +33,76 @@ import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 import EmojiEventsIcon from '@mui/icons-material/EmojiEvents';
 import StarIcon from '@mui/icons-material/Star';
 import MovieIcon from '@mui/icons-material/Movie';
+import AppRegistrationIcon from '@mui/icons-material/AppRegistration';
+import TableChartIcon from '@mui/icons-material/TableChart';
+import ChangeHistoryIcon from '@mui/icons-material/ChangeHistory';
+import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 import MainAppBar from '../components/Partials/MainAppBar';
 import globalTheme from '../ui/theme'; // Use the newly created theme
 import products from '../data/products.json';
 import { addToCart } from '../redux/actions/cartActions';
 import { toggleCart } from '../redux/actions/cartActions';
 import { DEFAULT_KEYWORDS } from '../data/seo';
+import { aboutArticles } from '../data/aboutArticles';
+import PlayWizard from '../components/Play/PlayWizard';
+import guitar from '../config/guitar';
+import { updateStateProperty, newFretboard, addFretboard } from '../redux/actions';
+import { useRouter } from 'next/router';
+
+export const getStaticProps = async (context) => {
+    // Logic from /play page to generate elements
+    const elements = guitar.notes.sharps.flatMap((key) => {
+        const chords = Object.keys(guitar.arppegios).map((chordKey) => {
+            const title = `Chord: ${guitar.arppegios[chordKey].name} in ${key}`;
+            return {
+                label: title,
+                href: `/spreading/chords/${key.replace('#', 'sharp')}/${chordKey.replace('#', 'sharp')}`,
+            };
+        });
+
+        const arpeggios = Object.keys(guitar.arppegios).flatMap((arppegioKey) => {
+            const title = `Arpeggio: ${guitar.arppegios[arppegioKey].name} in ${key}`;
+            return [
+                {
+                    label: title,
+                    href: `/spreading/arppegios/${key.replace('#', 'sharp')}/${arppegioKey.replace('#', 'sharp')}`,
+                },
+            ];
+        });
+
+        const scales = Object.keys(guitar.scales).flatMap((scaleKey) => {
+            if (guitar.scales[scaleKey].isModal === true) {
+                return [
+                    ...guitar.scales[scaleKey].modes.map((mode) => {
+                        const title = `Scale: ${guitar.scales[scaleKey].name} in ${key} (Mode: ${mode.name})`;
+                        return {
+                            label: title,
+                            href: `/spreading/scales/${key.replace('#', 'sharp')}/${scaleKey}/modal/${decodeURIComponent(mode.name.toLowerCase().replace(' ', '-')).replace('#', 'sharp')}`,
+                        };
+                    }),
+                ];
+            } else {
+                const title = `Scale: ${guitar.scales[scaleKey].name} in ${key} (Single)`;
+                return [
+                    {
+                        label: title,
+                        href: `/spreading/scales/${key.replace('#', 'sharp')}/${scaleKey}/single`,
+                    },
+                ];
+            }
+        });
+
+        return [...chords, ...arpeggios, ...scales];
+    });
+
+    return {
+        props: {
+            elements,
+            articles: aboutArticles,
+        },
+        revalidate: 60,
+    };
+};
 
 // --- Reusable Components ---
 
@@ -197,7 +263,73 @@ const TestimonialCard = ({ name, role, text, rating }) => (
 
 // --- Main Page Component ---
 
-const ProjectFunctionalities = () => {
+const ProjectFunctionalities = (props) => {
+    const dispatch = useDispatch();
+    const router = useRouter();
+    const [view, setView] = useState('wizard');
+    const [randomizedArticles, setRandomizedArticles] = useState([]);
+    const [featuredArticle, setFeaturedArticle] = useState(null);
+
+    // Find the active fretboard for this page (play)
+    const fretboards = useSelector(state => state.fretboard.components);
+    const activeFretboard = fretboards.find(b => b.generalSettings.page === 'play');
+
+    useEffect(() => {
+        if (props.articles && props.articles.length > 0) {
+            const shuffled = [...props.articles].sort(() => 0.5 - Math.random());
+            setFeaturedArticle(shuffled[0]);
+            // Limit to 4 additional randomized articles for the grid
+            setRandomizedArticles(shuffled.slice(1, 5));
+        }
+    }, [props.articles]);
+
+    const handleSelect = (selection) => {
+        let boardId = activeFretboard?.id;
+
+        if (!boardId) {
+            // Create new board for the 'play' page (logic from original /play)
+            const newBoard = newFretboard(
+                6,
+                25,
+                [4, 7, 2, 9, 11, 4],
+                [4, 3, 3, 3, 2, 2],
+                'play',
+                selection.type
+            );
+            dispatch(addFretboard(newBoard));
+            boardId = newBoard.id;
+        }
+
+        // Dispatch selection to Redux
+        if (boardId) {
+            dispatch(updateStateProperty(boardId, "generalSettings.choice", selection.type));
+            dispatch(updateStateProperty(boardId, "keySettings." + selection.type, selection.key));
+
+            if (selection.type === 'scale') {
+                dispatch(updateStateProperty(boardId, "scaleSettings.scale", selection.value));
+                if (selection.mode !== undefined && guitar.scales[selection.value]) {
+                    const modeName = guitar.scales[selection.value].modes[selection.mode].name;
+                    dispatch(updateStateProperty(boardId, "modeSettings.mode", modeName));
+                }
+            } else if (selection.type === 'chord') {
+                dispatch(updateStateProperty(boardId, "chordSettings.chord", selection.value));
+            } else if (selection.type === 'arppegio') {
+                dispatch(updateStateProperty(boardId, "arppegioSettings.arppegio", selection.value));
+            }
+
+            if (selection.shape) {
+                dispatch(updateStateProperty(boardId, selection.type + "Settings.shape", selection.shape));
+            }
+        }
+
+        if (selection.href) {
+            router.push(selection.href);
+        } else {
+            // Scroll to the top or to the app visualization section if integrated
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+    };
+
     return (
         <ThemeProvider theme={globalTheme}>
             <CssBaseline />
@@ -255,54 +387,243 @@ const ProjectFunctionalities = () => {
                         The definitive platform for modern guitarists. Visualize theory, compose masterpieces, and verify your skills with our advanced tools.
                     </Typography>
                     <Stack direction={{ xs: 'column', sm: 'row' }} spacing={2} justifyContent="center">
-                        <Button component={Link} href="/play" variant="contained" size="large" color="primary" startIcon={<PlayCircleOutlineIcon />} sx={{ px: 4, py: 1.5, fontSize: '1.1rem' }}>
-                            Launch Player
+                        <Button component="a" href="#play-wizard" variant="contained" size="large" color="primary" startIcon={<PlayCircleOutlineIcon />} sx={{ px: 4, py: 1.5, fontSize: '1.1rem' }}>
+                            Interactive Player
                         </Button>
-                        <Button component={Link} href="/compose" variant="outlined" size="large" color="secondary" startIcon={<LibraryMusicIcon />} sx={{ px: 4, py: 1.5, fontSize: '1.1rem' }}>
-                            Compose Music
+                        <Button component="a" href="#projects" variant="outlined" size="large" color="secondary" startIcon={<LibraryMusicIcon />} sx={{ px: 4, py: 1.5, fontSize: '1.1rem' }}>
+                            Explore Tools
                         </Button>
                     </Stack>
                 </Container>
             </Box>
 
-            {/* Core Features */}
-            <Box sx={{ bgcolor: '#fafafa', py: 10 }}>
+            {/* Play Wizard Section */}
+            <Box id="play-wizard" sx={{ bgcolor: '#fafafa', py: 10 }}>
                 <Container maxWidth="xl">
-                    <SectionHeader title="Your Creative Toolkit" subtitle="Everything needed to transform ideas into music." />
-                    <Grid container spacing={3}>
+                    <SectionHeader title="Play & Master" subtitle="Select a scale, chord, or arpeggio to visualize it on the interactive fretboard." />
+                    <PlayWizard elements={props.elements} onSelect={handleSelect} />
+                </Container>
+            </Box>
+
+            {/* Project Portfolio Showcase */}
+            <Box id="projects" sx={{ bgcolor: 'white', py: 12 }}>
+                <Container maxWidth="xl">
+                    <SectionHeader title="Our Ecosystem" subtitle="A comprehensive suite of tools for the modern musician." />
+                    <Grid container spacing={4}>
                         <FeatureCard
-                            title="Interactive Player"
-                            description="Visualize scales and chords on the fretboard in real-time. Choose your key, mode, and get instant feedback."
-                            icon={<PlayCircleOutlineIcon sx={{ fontSize: 48 }} />}
-                            link="/play"
-                            buttonText="Launch Player"
-                            color="#2196f3"
-                        />
-                        <FeatureCard
-                            title="Compose & Share"
-                            description="Create your own progressions and songs using our powerful composition tools. Share your creations with the world."
+                            title="Composer"
+                            description="Craft soulful arrangements with our advanced chord and progression tools."
                             icon={<LibraryMusicIcon sx={{ fontSize: 48 }} />}
                             link="/compose"
-                            buttonText="Start Composing"
+                            buttonText="Go to Composer"
                             color="#f44336"
                         />
                         <FeatureCard
-                            title="Theory Reference"
-                            description="Deep dive into music theory. Understand the 'why' behind the notes with comprehensive articles."
+                            title="Learning Lab"
+                            description="Master theory through structured paths and interactive song lessons."
                             icon={<SchoolIcon sx={{ fontSize: 48 }} />}
                             link="/learn"
                             buttonText="Start Learning"
-                            color="#000000"
+                            color="#2196f3"
                         />
                         <FeatureCard
-                            title="Progress Stats"
-                            description="Track your practice sessions and see your improvement over time with detailed statistics."
+                            title="Latest News"
+                            description="Stay updated with industry trends, tutorials, and community spotlights."
+                            icon={<AppRegistrationIcon sx={{ fontSize: 48 }} />}
+                            link="/news"
+                            buttonText="Read News"
+                            color="#4caf50"
+                        />
+                        <FeatureCard
+                            title="Theory Tables"
+                            description="Quick reference for scales and chords across all keys and modes."
+                            icon={<TableChartIcon sx={{ fontSize: 48 }} />}
+                            link="/tables"
+                            buttonText="View Tables"
+                            color="#ff9800"
+                        />
+                        <FeatureCard
+                            title="Circle of Fifths"
+                            description="Visualize harmonic relationships and key signatures instantly."
+                            icon={<ChangeHistoryIcon sx={{ fontSize: 48 }} />}
+                            link="/circle"
+                            buttonText="Launch Circle"
+                            color="#9c27b0"
+                        />
+                        <FeatureCard
+                            title="Performance Stats"
+                            description="Track your growth and analyze your playing patterns with deep analytics."
                             icon={<ShowChartIcon sx={{ fontSize: 48 }} />}
                             link="/stats"
-                            buttonText="View Stats"
-                            color="#424242"
+                            buttonText="View Statistics"
+                            color="#607d8b"
+                        />
+                        <FeatureCard
+                            title="Music Store"
+                            description="Premium gear, exclusive sheet music, and custom merchandise."
+                            icon={<ShoppingCartIcon sx={{ fontSize: 48 }} />}
+                            link="/store"
+                            buttonText="Visit Store"
+                            color="#ff5722"
+                        />
+                        <FeatureCard
+                            title="Competitions"
+                            description="Test your skills against the world and win exclusive rewards."
+                            icon={<EmojiEventsIcon sx={{ fontSize: 48 }} />}
+                            link="/competition"
+                            buttonText="Join Challenges"
+                            color="#ffc107"
                         />
                     </Grid>
+                </Container>
+            </Box>
+
+            {/* Featured Articles Section */}
+            <Box id="articles" sx={{ bgcolor: '#fafafa', py: 12 }}>
+                <Container maxWidth="xl">
+                    <SectionHeader title="Insights & Inspiration" subtitle="Deep dives into the world of guitar and music theory." />
+
+                    <Grid container spacing={4}>
+                        {/* Randomized Featured Large Card */}
+                        {featuredArticle && (
+                            <Grid item xs={12}>
+                                <Card sx={{
+                                    display: 'flex',
+                                    flexDirection: { xs: 'column', md: 'row' },
+                                    borderRadius: 4,
+                                    overflow: 'hidden',
+                                    boxShadow: 8,
+                                    bgcolor: 'white'
+                                }}>
+                                    <Box sx={{ width: { xs: '100%', md: '50%' }, height: 400, position: 'relative' }}>
+                                        {featuredArticle.image ? (
+                                            <Image
+                                                src={featuredArticle.image}
+                                                alt={featuredArticle.title}
+                                                fill
+                                                style={{ objectFit: 'cover' }}
+                                            />
+                                        ) : (
+                                            <Box sx={{ height: '100%', bgcolor: 'primary.main', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                                                <Typography variant="h3" color="white" fontWeight="bold">ARTICLE</Typography>
+                                            </Box>
+                                        )}
+                                    </Box>
+                                    <CardContent sx={{ p: { xs: 4, md: 8 }, width: { xs: '100%', md: '50%' }, display: 'flex', flexDirection: 'column', justifyContent: 'center' }}>
+                                        <Typography variant="overline" color="primary" fontWeight="bold" gutterBottom>FEATURED ARTICLE</Typography>
+                                        <Typography variant="h3" component="h2" gutterBottom fontWeight="black" sx={{ mb: 3 }}>
+                                            {featuredArticle.title}
+                                        </Typography>
+                                        <Typography variant="body1" color="text.secondary" paragraph sx={{ fontSize: '1.2rem', mb: 4 }}>
+                                            {featuredArticle.excerpt}
+                                        </Typography>
+                                        <Box>
+                                            <Button component={Link} href={`/learn/${featuredArticle.slug}`} variant="contained" size="large" color="primary" sx={{ px: 6 }}>
+                                                Read Full Story
+                                            </Button>
+                                        </Box>
+                                    </CardContent>
+                                </Card>
+                            </Grid>
+                        )}
+
+                        {/* Randomized Order for remaining articles with varied sizes */}
+                        {randomizedArticles.map((article, index) => {
+                            // Varied sizes: 1st and 4th are larger (md=8), 2nd and 3rd are smaller (md=4)
+                            // This creates a nice asymmetrical grid
+                            const isLarge = index === 0 || index === 3;
+                            return (
+                                <Grid item xs={12} md={isLarge ? 8 : 4} key={article.slug}>
+                                    <Card sx={{
+                                        height: '100%',
+                                        display: 'flex',
+                                        flexDirection: isLarge ? { xs: 'column', sm: 'row' } : 'column',
+                                        borderRadius: 4,
+                                        transition: 'all 0.3s ease',
+                                        overflow: 'hidden',
+                                        border: '1px solid #eee',
+                                        '&:hover': {
+                                            transform: 'translateY(-10px)',
+                                            boxShadow: 6,
+                                            borderColor: 'primary.main'
+                                        }
+                                    }}>
+                                        <Box sx={{
+                                            width: isLarge ? { xs: '100%', sm: '40%' } : '100%',
+                                            height: isLarge ? { xs: 200, sm: '100%' } : 200,
+                                            position: 'relative'
+                                        }}>
+                                            {article.image ? (
+                                                <Image
+                                                    src={article.image}
+                                                    alt={article.title}
+                                                    fill
+                                                    style={{ objectFit: 'cover' }}
+                                                />
+                                            ) : (
+                                                <Box sx={{ height: '100%', bgcolor: '#f5f5f5', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+                                                    <LibraryMusicIcon sx={{ fontSize: 40, color: '#ccc' }} />
+                                                </Box>
+                                            )}
+                                        </Box>
+                                        <Box sx={{
+                                            display: 'flex',
+                                            flexDirection: 'column',
+                                            width: isLarge ? { xs: '100%', sm: '60%' } : '100%',
+                                            p: 3
+                                        }}>
+                                            <CardContent sx={{ p: 0, flexGrow: 1 }}>
+                                                <Typography variant="overline" color="text.secondary" fontWeight="bold">
+                                                    {article.category || 'Music Theory'}
+                                                </Typography>
+                                                <Typography variant="h5" gutterBottom fontWeight="bold" sx={{ mt: 1 }}>
+                                                    {article.title}
+                                                </Typography>
+                                                <Typography variant="body2" color="text.secondary" sx={{
+                                                    mb: 2,
+                                                    display: '-webkit-box',
+                                                    WebkitLineClamp: isLarge ? 4 : 2,
+                                                    WebkitBoxOrient: 'vertical',
+                                                    overflow: 'hidden'
+                                                }}>
+                                                    {article.excerpt}
+                                                </Typography>
+                                            </CardContent>
+                                            <CardActions sx={{ p: 0, mt: 'auto' }}>
+                                                <Button
+                                                    component={Link}
+                                                    href={`/learn/${article.slug}`}
+                                                    color="primary"
+                                                    endIcon={<ArrowForwardIcon />}
+                                                    sx={{ fontWeight: 'bold' }}
+                                                >
+                                                    Read Article
+                                                </Button>
+                                            </CardActions>
+                                        </Box>
+                                    </Card>
+                                </Grid>
+                            );
+                        })}
+                    </Grid>
+
+                    <Box sx={{ textAlign: 'center', mt: 8 }}>
+                        <Button
+                            component={Link}
+                            href="/about"
+                            variant="outlined"
+                            size="large"
+                            sx={{
+                                borderRadius: 10,
+                                px: 5,
+                                py: 1.5,
+                                borderWidth: 2,
+                                '&:hover': { borderWidth: 2 }
+                            }}
+                        >
+                            Explore All Articles & Vision
+                        </Button>
+                    </Box>
                 </Container>
             </Box>
 
@@ -312,7 +633,7 @@ const ProjectFunctionalities = () => {
                     <SectionHeader title="Master The Guitar Store" subtitle="Exclusive merchandise, premium PDFs, custom picks, and sheet music." />
 
                     <Grid container spacing={4}>
-                        {products.map((product) => (
+                        {products.slice(0, 8).map((product) => (
                             <ProductCard
                                 key={product.id}
                                 id={product.id}
@@ -426,7 +747,7 @@ const ProjectFunctionalities = () => {
                         <Grid item xs={6} sm={2}>
                             <Typography variant="subtitle2" gutterBottom fontWeight="bold">Product</Typography>
                             <Box component="ul" sx={{ listStyle: 'none', p: 0, m: 0 }}>
-                                <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/play" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Player</Typography></Box>
+                                <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="#play-wizard" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Interactive Player</Typography></Box>
                                 <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/compose" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Composer</Typography></Box>
                                 <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/store" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>Store</Typography></Box>
                                 <Box component="li" sx={{ mb: 1 }}><Typography component={Link} href="/about" variant="body2" color="text.secondary" sx={{ textDecoration: 'none', '&:hover': { color: 'primary.main' } }}>About</Typography></Box>

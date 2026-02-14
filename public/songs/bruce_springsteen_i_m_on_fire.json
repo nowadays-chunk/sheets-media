@@ -1,0 +1,130 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/b/bruce_springsteen/im_on_fire_crd_ver_5.html",
+  "title": "I'm on Fire",
+  "artist": "Bruce Springsteen",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:26:04.502Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm On Fire Tempo: 177 / Tonart: E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Bruce Springsteen)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hey,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "little girl, is your daddy home, did he"
+            },
+            {
+              "chord": "E",
+              "lyrics": "go and leave you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tell"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me now baby, is he good to you, and can he"
+            },
+            {
+              "chord": "E",
+              "lyrics": "do to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the things, that I do, oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "no. I can take you"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "higher,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sometimes it's like"
+            },
+            {
+              "chord": "A",
+              "lyrics": "someone took a knife, baby, edgy and dull,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and cut a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "six inch valley through the"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "middle of my skull."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At night"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I wake up with the sheets soaking wet,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "freight train running through the middle of my head,"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

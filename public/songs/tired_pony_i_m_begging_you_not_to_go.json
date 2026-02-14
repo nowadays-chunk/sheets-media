@@ -1,0 +1,510 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/tired-pony/377481.html",
+  "title": "I'm Begging You Not to Go",
+  "artist": "Tired Pony",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:17:21.649Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO 7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "***************SUMMARY********************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 32001x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F 13321x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em 02201x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro, Verse & Outro: C G F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus & Bridge: Em F G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "******************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pattern for INTRO and some parts of the VERSE and OUTRO (Realtive to capo)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G F x6"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I am begging you not to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I am begging you not to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If there's an"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "other way it is hi"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ding from us dar"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause the wo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rld outside doesn't n"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eed our help ton"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Our sh"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "oes kicked off side by si"
+            },
+            {
+              "chord": "F",
+              "lyrics": "de like they are da"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ncing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The da"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rk wood floor feels so co"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ld under our fee"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I am begging you not to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I am begging you not to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We're the l"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ast to fall all aro"
+            },
+            {
+              "chord": "F",
+              "lyrics": "und us sleeping b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "odies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Drunken s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "atellites in the o"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rbit of our"
+            },
+            {
+              "chord": "G",
+              "lyrics": "earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the g"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "entle night little wh"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ispers draw us cl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oser"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So cl"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ose to touch in the fr"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ayed collapsing l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Ohhh..."
+            },
+            {
+              "chord": "F",
+              "lyrics": "."
+            },
+            {
+              "chord": "G",
+              "lyrics": "x4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I am begging you not to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I am begging you not to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh, I'm begging you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "not to go"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(I'm begging you not to go)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh, I'm begging you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "not to go"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(I'm begging you not to go)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh, I'm begging you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "not to go"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(I'm begging you not to go)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh, I'm begging you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "not to go"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(I'm begging you not to go)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "By Mig-El"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

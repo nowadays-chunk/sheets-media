@@ -1,0 +1,482 @@
+{
+  "url": "https://www.chordie.com/chord.pere/chordiearchive.chordie.com/chord.pere/www.allcountrytabs.com/tabs/judy-garland/im-nobodys-baby-9916.html",
+  "title": "I'm Nobody's Baby",
+  "artist": "Judy Garland",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:03:41.648Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I woke up this morning and the"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "sun was shining"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "but I didn't s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ee it;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "think I drank my orange juice but"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "I don't know, I"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "wouldn't guarant"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ee i"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "t."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Wore my yellow dress or was it"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "blue, oh what's the"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "use, I don't rem"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ember."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gdim",
+              "lyrics": "Is it Monday, is it Tuesday"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "is it June or is it still, De"
+            },
+            {
+              "chord": "E7/6",
+              "lyrics": "cember?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Sat beside my window, watch the"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "couples strolling by,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m7-5",
+              "lyrics": "Felt so sorry for myself, I c"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "ouldn't even cry;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Finally I"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "pulled the shade -- I c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ouldn't stand the g"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "aff"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I sat down and w"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "rote my ep - i - t"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "aph."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Each"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "night"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "and"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "day I pray the L"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ord up ab"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ove,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Please send me down some -"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "bod - y to"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "love."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "A",
+              "lyrics": "no -"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "bod -"
+            },
+            {
+              "chord": "A",
+              "lyrics": "y"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "wants"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "me --"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "I'm bl"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ue s"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ome -"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "how."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Won't"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "some -"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "one h"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ear my"
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": "plea and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "take a c"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "hance with"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "me?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "no -"
+            },
+            {
+              "chord": "Bm7/E",
+              "lyrics": "bod - y's"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "ba -"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "by n"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ow."
+            },
+            {
+              "chord": "Edim",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Instrumental Interlude: first three lines of verse)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "No -"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "bod -"
+            },
+            {
+              "chord": "A",
+              "lyrics": "y"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "wants"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "me --"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "I'm bl"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ue s"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ome -"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "how."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Won't"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "some -"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "one h"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ear my"
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": "plea and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "take a c"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "hance with"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "me?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's no de -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ny - in', I'm"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "cry - in',"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "one - some"
+            },
+            {
+              "chord": "G#7",
+              "lyrics": "on my"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "own - some --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on't mean"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "may -"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "be, I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "'m no -"
+            },
+            {
+              "chord": "E7/6",
+              "lyrics": "bod -"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "y's"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "ba - by"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

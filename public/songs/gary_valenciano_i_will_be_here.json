@@ -1,0 +1,630 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/g/gary_valenciano/i_will_be_here_crd.html",
+  "title": "I Will Be Here",
+  "artist": "Gary Valenciano",
+  "key": null,
+  "scrapedAt": "2026-02-14T17:48:30.562Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Title: I Will Be Here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: Gary Valenciano"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed By: CHARLIE EDSEL VALERA"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For Comment/suggestion email us @ charlieedsel_valera@yahoo.com.ph"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "or you can also add as tru friendster or txt 09214896664,,,that's all ASEEG!!!!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Tomorrow morning if y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ou wake"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "up and the s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "un does n"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ot app"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ear,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "..."
+            },
+            {
+              "chord": "A",
+              "lyrics": "..I will be h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ere."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "If in the dark we lose s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ight of l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ove hold my ha"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nd and h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ave no f"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ear,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'cause"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "..."
+            },
+            {
+              "chord": "A",
+              "lyrics": "..I will be h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ere."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I will be h"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ere , when you f"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eel like being q"
+            },
+            {
+              "chord": "A",
+              "lyrics": "uiet, when you n"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "eed to speak"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "your m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I will li"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sten, and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I will be"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "here , when the la"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ughter turns to c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ", through the w"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "innin', losin', and tr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "yin', w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e'll be tog"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ether,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'cause , I will be h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ere ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Tomorrow morning if y"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ou wake"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "up and the f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "uture"
+            },
+            {
+              "chord": "A",
+              "lyrics": "is un"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "clear,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "..."
+            },
+            {
+              "chord": "A",
+              "lyrics": "..I will be he"
+            },
+            {
+              "chord": "D",
+              "lyrics": "re."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "As sure as seasons are m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ade for ch"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ange, our life"
+            },
+            {
+              "chord": "D",
+              "lyrics": "times are m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ade for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "y"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so ,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I."
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "..."
+            },
+            {
+              "chord": "A",
+              "lyrics": "...I will be h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ere."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I will be h"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ere , you can cr"
+            },
+            {
+              "chord": "E",
+              "lyrics": "y on my shou"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lder, when the m"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "irror tells us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we're ol"
+            },
+            {
+              "chord": "G",
+              "lyrics": "der"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I will h"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "old you, and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I will be h"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ere , to wa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "tch you grow in b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eauty and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tell you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "all the things you are"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to me, w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e'll be tog"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ether,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'cause , I will be h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ere ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I will be t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rue to the pr"
+            },
+            {
+              "chord": "A",
+              "lyrics": "omise , I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "have"
+            },
+            {
+              "chord": "G",
+              "lyrics": "made, to y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou and to the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "one who"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "gave you to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "TAG"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just as su"
+            },
+            {
+              "chord": "D",
+              "lyrics": "re as seasons are m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ade for c"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "hange, our life"
+            },
+            {
+              "chord": "D",
+              "lyrics": "times are m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ade for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "y"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ears,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I"
+            },
+            {
+              "chord": "G",
+              "lyrics": ".."
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "..."
+            },
+            {
+              "chord": "A",
+              "lyrics": "..I will be h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ere , We"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "'ll be to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "gether . I will be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "here ."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

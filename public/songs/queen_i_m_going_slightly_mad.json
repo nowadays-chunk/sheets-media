@@ -1,0 +1,338 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.xguitar.com/guitar-tabs/queen/innuendo/im_going_slightly_mad.txt",
+  "title": "I'm Going Slightly Mad",
+  "artist": "Queen",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:19:15.234Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Words and music by Queen (Freddie)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed by: Mat Hubbard (mjh32@eng.cam.ac.uk)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Corrected by: Dmitry Ivanov <dmitry@rockmagic.net>"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Silly chords listed at the bottom,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Second verse and chorus are very similar."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sounds best with a 'flowing picky' style."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "When the outside temperature rises"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7dim5",
+              "lyrics": "and the meaning is oh so cl"
+            },
+            {
+              "chord": "C#dim/E",
+              "lyrics": "ear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "One thousand and one yellow daffodils"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7dom C#dim/E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "begin to dance in front of you, oh dear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#7",
+              "lyrics": "Are they trying to tell you something?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You're missing that one final screw,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#7",
+              "lyrics": "You're simply not in the pink my dear,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "to be honest you haven't got a clue."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm going"
+            },
+            {
+              "chord": "Dmdim5",
+              "lyrics": "slightly"
+            },
+            {
+              "chord": "Em7dim5",
+              "lyrics": "mad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm going"
+            },
+            {
+              "chord": "Dmdim5",
+              "lyrics": "slightly"
+            },
+            {
+              "chord": "Em7dim5",
+              "lyrics": "mad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "It finally happene"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "d, it finally happened,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?????"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm slightly mad."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Last re-chorus and chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'm going"
+            },
+            {
+              "chord": "Emdim5",
+              "lyrics": "slightly"
+            },
+            {
+              "chord": "F#m7dim5",
+              "lyrics": "mad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'm going"
+            },
+            {
+              "chord": "Emdim5",
+              "lyrics": "slightly"
+            },
+            {
+              "chord": "F#m7dim5",
+              "lyrics": "mad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "It finally happene"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "d, it finally happened,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?????"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm slightly mad."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7dim5 xx2333"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#dim/E 0x2323"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#7 xx4320"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A9 x05600"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A7 x05650"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dmdim5 xx0131"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m7dim5 xx4555"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,890 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/s/something_corporate/i_woke_up_in_a_car_crd.html",
+  "title": "I Woke Up in a Car",
+  "artist": "Something Corporate",
+  "key": null,
+  "scrapedAt": "2026-02-14T17:58:06.934Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is my first tab, but I'll try and make it as good as possible. A few notes before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "begin. You will see that I have Eb5 for a chord, I believe it is an Eb chord but I'm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sure the exact progression so if you have any input on that let me know. Secondly,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "is an Ab chord but that can also be played, during the verse, as Absus or Ab4, play"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you feel sounds better. And the Db in parenthesis is in parenthesis because it's not"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "used as a full chord just as a passing tone between the other two. So play it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "lightly and quickly."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gb Eb5 Ab x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "I woke up"
+            },
+            {
+              "chord": "Eb5",
+              "lyrics": "in N"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ew York"
+            },
+            {
+              "chord": "(Db)",
+              "lyrics": "City"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "from my s"
+            },
+            {
+              "chord": "Eb5",
+              "lyrics": "leep"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "behind t"
+            },
+            {
+              "chord": "(Db)",
+              "lyrics": "he wheel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "Caught a"
+            },
+            {
+              "chord": "Eb5",
+              "lyrics": "train"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "to Poug"
+            },
+            {
+              "chord": "(Db)",
+              "lyrics": "hkeepsie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "and time"
+            },
+            {
+              "chord": "Eb5",
+              "lyrics": "stood"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "still"
+            },
+            {
+              "chord": "(Db)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "She wrote"
+            },
+            {
+              "chord": "Eb5",
+              "lyrics": "me a"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "letter"
+            },
+            {
+              "chord": "(Db)",
+              "lyrics": "from San Diego"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "To qualif"
+            },
+            {
+              "chord": "Eb5",
+              "lyrics": "y her"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "luck"
+            },
+            {
+              "chord": "(Db)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "These fli"
+            },
+            {
+              "chord": "Eb5",
+              "lyrics": "ghts c"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "onnect"
+            },
+            {
+              "chord": "(Db)",
+              "lyrics": "through arizona"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "but I thi"
+            },
+            {
+              "chord": "Eb5",
+              "lyrics": "nk I'l"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "l stay"
+            },
+            {
+              "chord": "(Db)",
+              "lyrics": "stuck."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PreChorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gb Eb5 Ab (Db) x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "Well I woke up in a"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I c"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "hased away the"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "fog"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "so i could"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "see the mississ"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "ippi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "on her"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "knees"
+            },
+            {
+              "chord": "Db",
+              "lyrics": ""
+            },
+            {
+              "chord": "Ab",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "never been so l"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "ost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "never felt so"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "muc"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "h at home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "please"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "write my folks and"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "throw away my k"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "eys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I w"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "oke"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "up in a car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "I wo"
+            },
+            {
+              "chord": "Eb5",
+              "lyrics": "ke up"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "in a car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2 (same chord progression as first verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I met a girl who kept tattoos for homes that she had loved"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I were her I'd paint my body til all my skin was gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "she wrote me a letter as we passed through Rockford"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "she said she wont forget"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And maybe I do, maybe I don't,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I know I haven't yet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so here i am, well here i am wooo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "Well I woke up in a"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I c"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "hased away the"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "fog"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "so i could"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "see the mississ"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "ippi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "on her"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "knees"
+            },
+            {
+              "chord": "Db",
+              "lyrics": ""
+            },
+            {
+              "chord": "Ab",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "never been so l"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "ost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "never felt so"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "muc"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "h at home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "please"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "write my folks and"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "throw away my k"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "eys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I w"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "oke"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "up in a car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "I wo"
+            },
+            {
+              "chord": "Eb5",
+              "lyrics": "ke up"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "in a car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And maybe"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I could live for"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If not"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "ever I h"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "ad k"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That you'd be"
+            },
+            {
+              "chord": "E",
+              "lyrics": "waiting there whe"
+            },
+            {
+              "chord": "B",
+              "lyrics": "never"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am all alone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "but h"
+            },
+            {
+              "chord": "Eb5",
+              "lyrics": "ere I"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "am wooo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "Well I woke up in a"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I c"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "hased away the"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "fog"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "so i could"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gb",
+              "lyrics": "see the mississ"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "ippi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "on her"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "knees"
+            },
+            {
+              "chord": "Db",
+              "lyrics": ""
+            },
+            {
+              "chord": "Ab",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "never been so l"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "ost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "never felt so"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "muc"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "h at home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "please"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "write my folks and"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "throw away my k"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "eys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(th"
+            },
+            {
+              "chord": "Db",
+              "lyrics": "is p"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "art links back into beginning of chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(After second chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fade out on Gb Eb5 Ab"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

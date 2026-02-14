@@ -1,0 +1,674 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/cat-stevens/265816.html",
+  "title": "I Wish, I Wish",
+  "artist": "Cat Stevens",
+  "key": null,
+  "scrapedAt": "2026-02-14T17:58:00.661Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I Wish, I Wish - Cat Stevens"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: maguri"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cat Stevens"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I Wish, I Wish (1970)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Cat Stevens)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: \"Mona Bone Jakon\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C | Dm D | G | G F |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C | Dm D | G | G F |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I wish I"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "knew, I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wish I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "knew"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What makes me,"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "me, and what"
+            },
+            {
+              "chord": "D",
+              "lyrics": "makes you,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "It's just a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "nother"
+            },
+            {
+              "chord": "D",
+              "lyrics": "point of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "view,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ooo."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "A state of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mind I'm going"
+            },
+            {
+              "chord": "D",
+              "lyrics": "through,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "yes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "So what I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "see is never"
+            },
+            {
+              "chord": "D",
+              "lyrics": "true,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ahhh."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I wish I could"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "tell, I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wish I could"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tell"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What makes a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "heaven what"
+            },
+            {
+              "chord": "D",
+              "lyrics": "makes a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hell."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And do I"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "get to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ring my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bell,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ooo."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Or land up"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in some dusty"
+            },
+            {
+              "chord": "D",
+              "lyrics": "cell,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "no."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "While others"
+            },
+            {
+              "chord": "A",
+              "lyrics": "reach the big"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hotel,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "yeah."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SOLO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C | Dm D | G | G F |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C | Dm D | G | G F |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C | Dm D | G | G F |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C | Dm D | G | G F |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C (break) G G F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wish I had, I wish I had"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "The secret of"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "good, and the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "secret of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bad."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Why does this"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "question"
+            },
+            {
+              "chord": "D",
+              "lyrics": "drive me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mad?"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ahhh."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "'Cause I was"
+            },
+            {
+              "chord": "A",
+              "lyrics": "taught when but a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lad,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "yes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "That bad was"
+            },
+            {
+              "chord": "A",
+              "lyrics": "good and good was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bad,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ahhh."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I wish I"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "knew the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mystery"
+            },
+            {
+              "chord": "G",
+              "lyrics": "of"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "That thing called"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "hate, and that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thing called"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What makes the"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "in-be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tween so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rough?"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ahhh."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Why is it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "always push and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "shove?"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ahhh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I guess I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just don't know e"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nough,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "yes."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SOLO (vocals ad lib and fade)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C | Dm D | G | G F |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C | Dm D | G | G F |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C | Dm D | G | G F |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C | Dm D | G | G F |"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

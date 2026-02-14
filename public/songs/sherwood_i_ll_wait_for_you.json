@@ -1,0 +1,622 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/s/sherwood/ill_wait_for_you_crd.html",
+  "title": "I'll Wait for You",
+  "artist": "Sherwood",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:14:41.176Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My take on Sherwood's fantastic song. I'm not positive the chords for the bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "are right, if you have suggestions as to what they should be, leave them in the comments please."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Listen to the strumming from the song, it helps a lot."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Intro",
+              "lyrics": "D D D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All in a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "day,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "See it for your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "self,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll make no change,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you are somewhere else,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'll write for you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every chance I get,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tell me you'll listen,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And say you won't forget,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cborus",
+              "lyrics": "(use barre G here"
+            },
+            {
+              "chord": "355433",
+              "lyrics": ", as its an easier transition into Gm"
+            },
+            {
+              "chord": "355333",
+              "lyrics": ")"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'll never"
+            },
+            {
+              "chord": "G",
+              "lyrics": "say I"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "don't have"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time, when you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "need me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "with you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "stand in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "line, if you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "want me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to, and I'll"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "wait for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wait for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you,"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeat intro, and lead into the verse)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every"
+            },
+            {
+              "chord": "D",
+              "lyrics": "day,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "See it for your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "self,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll make no plans,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you are somewhere else,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'll sing for you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Songs that no one hears,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But tell me you'll listen,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And say I'll have your ears,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'll never"
+            },
+            {
+              "chord": "G",
+              "lyrics": "say I"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "don't have"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time, when you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "need me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "with you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "stand in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "line, if you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "want me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to, and I'll"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "wait for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wait for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you,"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And if"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you have"
+            },
+            {
+              "chord": "D",
+              "lyrics": "something to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "say,"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Know"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I won't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "look away,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G A G(barre) Gm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No, I won't look away,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cborus",
+              "lyrics": "Let each note ring during this chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'll never"
+            },
+            {
+              "chord": "G",
+              "lyrics": "say I"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "don't have"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time, when you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "need me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "with you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "stand in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "line, if you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "want me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to, and I'll"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "wait for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wait for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you,"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Outro",
+              "lyrics": "Keep repeating chords and lyrics as you fade out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'll keep on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "waiting for you,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'd wait for"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me, whoa,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll keep on waiting for you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'd wait for me (yeah) whoa,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll keep on waiting for you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'd wait for me, whoa,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll keep on waiting for you (I'll keep on waiting)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'd wait for me, whoa,"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/ivetolde.htm",
+  "title": "I've Told Every Little Star (failed - reindex)",
+  "artist": "Linda Scott",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:04:24.894Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I've"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "told e"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "very little s"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "tar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7-5",
+              "lyrics": "Just how s"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "weet I"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "think you"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "are --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Why h"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "aven't"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "I t"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "old y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou?"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I've"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "told"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ripples in a br"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ook,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7-5",
+              "lyrics": "Made my h"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "eart an"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "open b"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "ook --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Why"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "haven't"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "I t"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "old y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou?"
+            },
+            {
+              "chord": "GM7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Friends"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "ask"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "me"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "\"Am"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "I in l"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ove?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "l -"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "ways"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "ans -"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "wer \""
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "Yes.\""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7-5",
+              "lyrics": "Might as well conf"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ess --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "If I"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "don't, they gu"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ess."
+            },
+            {
+              "chord": "D7+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Maybe"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "you may"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "know it, t"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "oo;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7-5",
+              "lyrics": "Oh, my d"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "arling,"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "if you"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "do,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Why"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "haven't"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "you t"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "old"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "me?"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G G/F# Am7 D7 G Gdim Am7 alt G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Why haven't you told me?"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

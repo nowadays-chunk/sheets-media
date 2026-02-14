@@ -1,0 +1,370 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/illbearo.htm",
+  "title": "I'll Be Around",
+  "artist": "The Mills Brothers",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:07:48.923Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "be ar"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ound,"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No matter"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "how"
+            },
+            {
+              "chord": "Dm+7",
+              "lyrics": "you t"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "reat me n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ow --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "CM7",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "be"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "a - r"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ound f"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "rom now"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on."
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Your"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "la - test"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "love"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can never"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "last"
+            },
+            {
+              "chord": "Dm+7",
+              "lyrics": ", and w"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "hen its p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ast,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "CM7",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "be"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "a - r"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ound w"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "hen he's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "gone."
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "CM7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Good-"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "bye"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "a - g"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "ain,"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "if you"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "find a l"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "ove"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "like m"
+            },
+            {
+              "chord": "FM7",
+              "lyrics": "ine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just"
+            },
+            {
+              "chord": "G#7",
+              "lyrics": "now a"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "nd"
+            },
+            {
+              "chord": "G7/6",
+              "lyrics": "then,"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rop a"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "line to say you're"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "feeling"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "fine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hen t"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "hings go"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "wrong"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Perhaps you'll"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "see"
+            },
+            {
+              "chord": "Dm+7",
+              "lyrics": "you're"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "meant for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "be"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "a - r"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ound w"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "hen he's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "gone."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

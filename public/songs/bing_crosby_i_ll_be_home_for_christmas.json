@@ -1,0 +1,310 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/bing-crosby/377154.html",
+  "title": "I'll Be Home for Christmas",
+  "artist": "Bing Crosby",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:08:22.425Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "CM7",
+              "lyrics": "I'll be ho"
+            },
+            {
+              "chord": "Ebdim",
+              "lyrics": "me for Christm"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "as"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "CM7",
+              "lyrics": "You can c"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ount"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "on"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pl"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ease have s"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "now and mi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "stl"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "etoe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "presents under t"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "he tr"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "ee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "hristmas"
+            },
+            {
+              "chord": "Ebdim",
+              "lyrics": "Eve will fin"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "d me"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "here the lo"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ve li"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ght be"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "'ll be hom"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "e for Christm"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "as"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "f only"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "in my d"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "reams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Two Verse Instrumental"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "CM7",
+              "lyrics": "Christmas"
+            },
+            {
+              "chord": "Ebdim",
+              "lyrics": "Eve will find"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "me"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "CM7",
+              "lyrics": "Where the"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "love"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "li"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ght beams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "I'll be ho"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "me for Christ"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "mas"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "f onl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "y in my"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "dream"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "s"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "If on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ly in m"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "y dreams"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

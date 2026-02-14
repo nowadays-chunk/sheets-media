@@ -1,0 +1,566 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/0-9/2pm/ill_be_back_crd.html",
+  "title": "I'll Be Back",
+  "artist": "2PM",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:07:52.871Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll be back"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "nuhn dashi"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "nareur chajeul guya"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Geuddae dashi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "naega ool guya"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Geu nugudo"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "nureur"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "naboda s"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "arang uhbtgee-e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "h."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Gabjagi eerum uhdduhga"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "e nan uhdduhgae"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "haran marya nega dodaecha"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Uhdduhgae"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "eerae n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "an nega na"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "r yungwunhee sarang"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "halguran mar midutdan mary"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yaksuhkhaetjanh"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "a yungwonhi"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "byunhaji marjago"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "oorineun"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bunmyun"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "g maejuji"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n jjagirago"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Boonmyunghee matdag"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "o. Naega"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "geuruhgeh yaegihaetjanh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#m",
+              "lyrics": "I'll be back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "nuhn dashi nareur chajeul guy"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "a."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Geuddae"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "dashi naega ool gu"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "ya."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Geu nugudo nureur naboda sar"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "ang uhbtgee-eh"
+            },
+            {
+              "chord": "Dm-A#",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'll be ba"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "ck"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "nuhneun dashi dora ol guya"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "geuraesu"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "h nuhr"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "bonaeneun guy"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Naneun ara nega"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "na uhbshin mossandan guse"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "ul"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll be back"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Nuhn nan oorin he-uhj"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "il"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "soo ga uhbsuh"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "nega"
+            },
+            {
+              "chord": "G",
+              "lyrics": "chakk"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "ageul hana bwa"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eeguhn nuguna"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "hanbuhnjjeum gyuhkneun g"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "obi-eel bbuniya jungshincharyu"
+            },
+            {
+              "chord": "G",
+              "lyrics": "h."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dashi saenggak"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "hae"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "amuri"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "mareur hae jwuhbwad"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "o eemee nuhn"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "M"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "areur"
+            },
+            {
+              "chord": "C",
+              "lyrics": "deudji"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "anha"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "me-ariro dora-oja"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "nha"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Listen baby girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ge"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "urae dorasuhjoolgeh"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "mutjigeh namjadabgeh nohajool"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "geh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Geurigo nuhr gwichangeh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "haji anhgeh maruhbshi juh dwi"
+            },
+            {
+              "chord": "A#-C",
+              "lyrics": "-esuh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ajoo ma"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "nhi dduhrujyusuh na-eui jo"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "njaereur nega wanjunhi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eejuhbuhrigeh UH~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But you better know that I?m not giving you away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will I ever stop waiting no way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It?ll be the same in my world I?m your boy You?re my Girl."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jamggan geudaer bonaeman nan nega dashi dora-ool guhran"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Guhl ara geuruhni guhkjung mara nega sseuruhjil ddae I'll be back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
