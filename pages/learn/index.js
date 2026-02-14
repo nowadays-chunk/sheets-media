@@ -72,11 +72,30 @@ export async function getStaticProps() {
     const songsFirst = JSON.parse(fs.readFileSync(firstPath, 'utf8'));
     const songsSecond = JSON.parse(fs.readFileSync(secondPath, 'utf8'));
 
-    const allSongs = [...songsFirst, ...songsSecond];
+    // Combine and limit to avoid oversized props (Vercel limit is ~19MB)
+    // Extracting only fields needed by SongsSelector.js
+    const mapSong = (s) => ({
+      song_name: s.song_name,
+      artist_name: s.artist_name,
+      tab_url: s.tab_url,
+      song_id: s.song_id || s.id, // Normalizing id
+      source: s.source || 'chorider', // Defaulting if missing
+      key: s.key || null,
+      difficulty: s.difficulty || null,
+    });
+
+    const allSongs = [
+      ...songsFirst.map(mapSong),
+      ...songsSecond.map(mapSong)
+    ];
+
+    // Optional: Further limit if still too large, but mapper should reduce 50MB significantly
+    // A 48MB file of ~100k songs with many fields usually drops to < 10MB with just 6-7 fields.
+    const limitedSongs = allSongs.slice(0, 30000);
 
     return {
       props: {
-        songs: allSongs,
+        songs: limitedSongs,
       },
       revalidate: 60,
     };
