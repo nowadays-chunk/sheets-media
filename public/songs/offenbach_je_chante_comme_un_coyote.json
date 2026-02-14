@@ -1,0 +1,346 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/o/offenbach/209842.html",
+  "title": "Je chante comme un coyote",
+  "artist": "Offenbach",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:44:26.618Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je chante comme un Coyote"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Offenbach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D (XX0232) D5- (XX0132)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G (320033) Dsus4 (XX0233)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verses"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Je chante comme un co"
+            },
+            {
+              "chord": "D5-",
+              "lyrics": "yote"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Debout entre deux"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dunes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dans le d�sert des vi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lles"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Devant une sorte de"
+            },
+            {
+              "chord": "D5-",
+              "lyrics": "lune"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Qui me fa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "scine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Autant qu'elle me r�pu"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gne"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Un disque en or � cinquante"
+            },
+            {
+              "chord": "D5-",
+              "lyrics": "mille"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Qu'on va m'donner Si j'chante moins"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fort"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Et si j'me tiens tranq"
+            },
+            {
+              "chord": "D",
+              "lyrics": "uille"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Mais j'ai pas l'go�t d'me laisser"
+            },
+            {
+              "chord": "D5-",
+              "lyrics": "faire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "De joindre les rangs nombreux de c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eux"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pour qui chanter veut dire se"
+            },
+            {
+              "chord": "D",
+              "lyrics": "taire"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Je commence enfin � comprend"
+            },
+            {
+              "chord": "D",
+              "lyrics": "re"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "C'qu'on voulait dire par \"le si"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lence est d'or\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Les limousines et les disqu"
+            },
+            {
+              "chord": "D",
+              "lyrics": "es platines"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pour les a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "voir faut faire le m"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ort"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mo� j'veux"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "hurler, me faire en"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tendre ben haut"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jam"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ais r'descendre pour"
+            },
+            {
+              "chord": "A",
+              "lyrics": "faire le beau"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo: D D5- G D Dsus4 (2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do the verses again !"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

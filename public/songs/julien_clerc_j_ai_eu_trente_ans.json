@@ -1,0 +1,706 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/julien-clerc/366717.html",
+  "title": "J'ai eu trente ans",
+  "artist": "Julien Clerc",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:44:07.765Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: J'ai eu trente ans"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: DJ"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "29th Aug 2013"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO: 1st fret (Sounds in key of Db)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(For Maxime Le Forestier's own version - no capo)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chord names & fret positions are relative to the capo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C = x32010 Em7 = 022030 Gm7 = 353333"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7 = x21202 Em#5 = 022010 Bbm6 = x13023"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m11 = 2x220x D/F# = 20023x D9 = x5455x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am/C = x32210 G7sus4 = 3x0011 Cdim = x3424x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am6 = x04320 Cadd9 = x32030 G/B = x30033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em = 022000 F = 133211 Cmaj7 = x32000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7(type2)= x24242 F#m7 = 242222"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "**********************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "C",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "C",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "/ / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ors ma ville aux"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "pluies d'automne,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "O - d"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "eurs de craie qu'en -"
+            },
+            {
+              "chord": "Am/C",
+              "lyrics": "fant griffonne,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Trot - t"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "oirs mouill�s, les marr"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "onniers, bon - s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "oir!"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ors, ma nuit au"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "go�t amer, de c"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "es �t�s des"
+            },
+            {
+              "chord": "Am/C",
+              "lyrics": "bords de mer,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pa - r"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "ents couch�s, r� -"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ves �veill�s, bon -"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "soir!"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ous mes souve -"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "nirs s'enfument, aux"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "trente bougies"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "qui s'al - lu"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ment,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je so"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "ufflerai, j'ar - r�"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "terai, plus t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ard!"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F B7(type2) Gm7 Bbm6"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tous mes souve - nirs s'�cartent, un peu semblables au jeu de cartes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Aux mains.."
+            },
+            {
+              "chord": "D9",
+              "lyrics": "."
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "du joueur----,"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "q"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "uand il n'y aura p"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lus de"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "donne,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m7 B7(type2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "M�me s'il y a maldonne!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Au caf� des ce"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "rtitudes, aux v"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ieux flippers de l'"
+            },
+            {
+              "chord": "Am/C",
+              "lyrics": "habitude,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Aux j"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "eux gratuits, des lo"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "teries, bon - s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "oir!"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "� l'idole qui"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "finit mal, a -"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "vec Blondie, dans"
+            },
+            {
+              "chord": "Am/C",
+              "lyrics": "un journal,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ma� -"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "tres � penser, ma� -"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "tres � chanter, bon - s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "oir!"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em+",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C'"
+            },
+            {
+              "chord": "C",
+              "lyrics": "est le temps de"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "plus d'excuse, au"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "vieil � - colier"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "qui s'a - m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "use,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ce"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "qui n'est pas, ne s"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "era pas, plus t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ard!"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F B7(type2) Gm7 Bbm6"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dans l'emploi du temps qui reste, y a plus de nuits, y a plus de siestes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m7 B7(type2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ne voient que de la poussi�re!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh! Ma ville aux"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "pluies d'automne, un j"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "our, si ton par -"
+            },
+            {
+              "chord": "Am/C",
+              "lyrics": "fum m'�tonne,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Che - v"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "eux mouill�s, Gorge se"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "rr�e, du s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "oir!"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pro"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mets-moi de"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "faire silence, a -"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "vec mes souve -"
+            },
+            {
+              "chord": "Am/C",
+              "lyrics": "nirs d'enfance,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "J'ai"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "eu trente ans, je s"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "uis content, bon - s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "oir!"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em#5",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

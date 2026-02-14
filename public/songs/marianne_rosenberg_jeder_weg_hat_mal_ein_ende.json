@@ -1,0 +1,770 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/marianne-rosenberg/182449.html",
+  "title": "Jeder Weg hat mal ein Ende",
+  "artist": "Marianne Rosenberg",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:47:07.764Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jeder"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Weg hat"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "mal ein"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Ende,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jedes"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Glas bricht"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "mal ent"
+            },
+            {
+              "chord": "D",
+              "lyrics": "zwei."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Doch die"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Liebe,"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "die uns"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "beide"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bindet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ist un"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "endlich, sie geht nie vor"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bei."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ja, wenn du"
+            },
+            {
+              "chord": "A",
+              "lyrics": "gehst, dann"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "bin ich"
+            },
+            {
+              "chord": "D",
+              "lyrics": "traurig,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "doch auch"
+            },
+            {
+              "chord": "A",
+              "lyrics": "das hat"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "seinen"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Sinn."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Denn ich"
+            },
+            {
+              "chord": "A",
+              "lyrics": "weiss erst"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "dann, wenn"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "du nicht"
+            },
+            {
+              "chord": "D",
+              "lyrics": "da bist,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "wie"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "einsam ich"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ohne dich"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bin."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Ich geh durch kahle R�ume,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "tr�um unerf�llte Tr�ume,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "der Platz an dem dein Mantel hing bleibt"
+            },
+            {
+              "chord": "D",
+              "lyrics": "leer."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Die Uhr l�uft viel zu langsam,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "ich denke nur noch daran,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "du kommst bald zur�ck und gehst nie"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mehr."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jeder"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Weg hat"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "mal ein"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Ende,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jedes"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Rad bleibt"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "einmal"
+            },
+            {
+              "chord": "D",
+              "lyrics": "steh'n,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "aber"
+            },
+            {
+              "chord": "A",
+              "lyrics": "die Ge"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "schichte"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "uns'rer"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Liebe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "wird"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "immer wieder weiter"
+            },
+            {
+              "chord": "A",
+              "lyrics": "geh'n."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A, A7, D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A, A7, D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A, A7, F#m,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D, Em, A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh ho ..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jeder"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Weg hat"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "mal ein"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Ende,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jedem"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Licht folgt"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "Dunkel"
+            },
+            {
+              "chord": "D",
+              "lyrics": "heit,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "aber"
+            },
+            {
+              "chord": "A",
+              "lyrics": "das was"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ich f�r"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "dich em"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pfinde"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "�ber"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "windet den"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Raum und die"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Zeit."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Ich nehm deine H�nde,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "ich halt dich fest und denke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "endlich sind wir beide ganz a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "llein."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Die Sonne strahlt gleich heller,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "die Erde dreht sich schneller,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "es ist so sch�n bei dir zu"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sein."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jeder"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Weg hat"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "mal ein"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Ende,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jedes"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Glas bricht"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "mal ent"
+            },
+            {
+              "chord": "D",
+              "lyrics": "zwei."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Doch die"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Liebe,"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "die uns"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "beide"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bindet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ist un"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "endlich, sie geht nie vor"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bei."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 5:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ja, wenn du"
+            },
+            {
+              "chord": "A",
+              "lyrics": "gehst, dann"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "bin ich"
+            },
+            {
+              "chord": "D",
+              "lyrics": "traurig,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "doch auch"
+            },
+            {
+              "chord": "A",
+              "lyrics": "das hat"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "seinen"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Sinn."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "denn wenn"
+            },
+            {
+              "chord": "A",
+              "lyrics": "du nicht"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "da bist"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "wei� ich"
+            },
+            {
+              "chord": "D",
+              "lyrics": "erst"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "wie"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gl�cklich ich mit dir"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bin,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ich mit dir"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bin."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G,D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "fade out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "by Ohrblind"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

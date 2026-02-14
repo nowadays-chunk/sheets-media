@@ -1,0 +1,762 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/gavin-degraw/132123.html",
+  "title": "Just Friends",
+  "artist": "Gavin DeGraw",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:19:49.761Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Found a few chords in the first version that's wrong so i'll correct them here.."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Any corrections are welcome, leave a comment or send a message to evulrox@hotmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro | F#m Ab A | Bm C#m D | E | D A |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I saw you there last"
+            },
+            {
+              "chord": "D",
+              "lyrics": "night"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standing in the d"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ark"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You were acting so in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With your hand upon his he"
+            },
+            {
+              "chord": "E",
+              "lyrics": "art"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But you were just"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "frie"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "nds"
+            },
+            {
+              "chord": "A",
+              "lyrics": "at le"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ast that's what"
+            },
+            {
+              "chord": "(C#m)",
+              "lyrics": "you sa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "id"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now I know"
+            },
+            {
+              "chord": "E",
+              "lyrics": "better from his"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fingers in your h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll for"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "give"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "yo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "u for what you've d"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "one"
+            },
+            {
+              "chord": "(C#m)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "f you"
+            },
+            {
+              "chord": "(E)",
+              "lyrics": "say that I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'m the one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse two"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've had other options"
+            },
+            {
+              "chord": "D",
+              "lyrics": "too"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But all I want is y"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ou"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Girl, your body fits me like"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a glove"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And you showered me with words of l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ove"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "While you were just"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "frie"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "nds"
+            },
+            {
+              "chord": "A",
+              "lyrics": "at l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "east that's what"
+            },
+            {
+              "chord": "(C#m)",
+              "lyrics": "you s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now I know b"
+            },
+            {
+              "chord": "E",
+              "lyrics": "etter from his f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ingers in your h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll for"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "give"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "yo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "u for what you've d"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "one"
+            },
+            {
+              "chord": "(C#m)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "f you"
+            },
+            {
+              "chord": "(E)",
+              "lyrics": "say that I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'m the one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "A",
+              "lyrics": "not my"
+            },
+            {
+              "chord": "E",
+              "lyrics": "style to lay it on the line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "But y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ou don't l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eave me with a choice this time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Why w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eren't you t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You know I, I tr"
+            },
+            {
+              "chord": "E",
+              "lyrics": "usted you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you were just"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "frie"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "nds"
+            },
+            {
+              "chord": "A",
+              "lyrics": "at l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "east that's what"
+            },
+            {
+              "chord": "(C#m)",
+              "lyrics": "you s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now I know b"
+            },
+            {
+              "chord": "E",
+              "lyrics": "etter from his f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ingers in your h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll for"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "give"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "yo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "u for what you've d"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "one"
+            },
+            {
+              "chord": "(C#m)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "f you"
+            },
+            {
+              "chord": "(E)",
+              "lyrics": "say that I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'m the one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You were just"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "frie"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "nds"
+            },
+            {
+              "chord": "A",
+              "lyrics": "at l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "east that's what"
+            },
+            {
+              "chord": "(C#m)",
+              "lyrics": "you s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now I know b"
+            },
+            {
+              "chord": "E",
+              "lyrics": "etter from his f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ingers in your h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll for"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "give"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "yo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "u for what you've d"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "one"
+            },
+            {
+              "chord": "(C#m)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "f you"
+            },
+            {
+              "chord": "(E)",
+              "lyrics": "say that I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "'m the one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll for"
+            },
+            {
+              "chord": "B#m",
+              "lyrics": "give you for"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "what you've d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "If you say that"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I'm the one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll for"
+            },
+            {
+              "chord": "B#m",
+              "lyrics": "give you for"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "what you've d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "If you say that I'm the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "one"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "D",
+              "lyrics": "forgive y"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ou"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

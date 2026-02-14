@@ -1,0 +1,518 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/justin-rutledge/294250.html",
+  "title": "Jack of Diamonds",
+  "artist": "Justin Rutledge",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:35:34.646Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Justin Rutledge - Jack of Diamonds"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tabbed by Dave"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: E C#m E B C#m x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yellow"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bird, yellow"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You've arr"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ived while the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "spring is out of"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "tune"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "River"
+            },
+            {
+              "chord": "E",
+              "lyrics": "run, river"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "slow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Grand Coulee"
+            },
+            {
+              "chord": "B",
+              "lyrics": "Dam to Jeri"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "cho"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "island where the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "wounded echoes"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Over that horizon,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "over that horizon,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "past the streets of Evange"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "line"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "boy among the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "redwood and the"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "pine"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jack of"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Diamonds you're"
+            },
+            {
+              "chord": "B",
+              "lyrics": "no friend of"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Seven"
+            },
+            {
+              "chord": "E",
+              "lyrics": "teen, seven"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "sins"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can we"
+            },
+            {
+              "chord": "E",
+              "lyrics": "just hide here be"
+            },
+            {
+              "chord": "B",
+              "lyrics": "fore the war beg"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ins"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "River"
+            },
+            {
+              "chord": "E",
+              "lyrics": "run, river"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "rage"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "beak of a yellow"
+            },
+            {
+              "chord": "B",
+              "lyrics": "bird beside a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "cage"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "field of broken"
+            },
+            {
+              "chord": "B",
+              "lyrics": "drums upon a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "stage"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Over that horizon,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "over that horizon,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "past the streets of Evange"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "line"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Past the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bedrooms where the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "wounded girls rec"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "line"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jack of"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Diamonds you're"
+            },
+            {
+              "chord": "B",
+              "lyrics": "no friend of"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E C#m E B C#m x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Where do you go dear?"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Who do you know dear?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Who do you rage for to"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "night?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Who do you lie beside?"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Who do you sigh beside?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Who do you look to for a"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "sign?"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "boy among the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "redwood and the"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "pine"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hear the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "sirens out"
+            },
+            {
+              "chord": "B",
+              "lyrics": "on the county"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "line"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jack of"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Diamonds you're"
+            },
+            {
+              "chord": "B",
+              "lyrics": "no friend of"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "mine"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jack of"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Diamonds you're"
+            },
+            {
+              "chord": "B",
+              "lyrics": "no friend of"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

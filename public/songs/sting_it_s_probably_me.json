@@ -1,0 +1,734 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/s/sting/its_probably_me_crd.html",
+  "title": "It's Probably Me",
+  "artist": "Sting",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:30:59.535Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To: jamesb@nevada.edu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: CRD: It's Probably Me - Sting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">From sd021@diana.di.fc.ul.pt (SDII-Grupo_sd021)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: CRD: Sting: It's Probably Me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: 8 Mar 1994 04:04:33 -0600"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's Probably Me - Sting from \"Ten Summoner's Tales\" album"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcription: Luis Ferreira"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Emmaj9 Em6add9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If the night turned"
+            },
+            {
+              "chord": "Emmaj9",
+              "lyrics": "cold and the stars looked"
+            },
+            {
+              "chord": "Em6add9",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And you hugh your"
+            },
+            {
+              "chord": "Em7add9",
+              "lyrics": "self on the cold"
+            },
+            {
+              "chord": "Em6add9",
+              "lyrics": "cold ground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You wake the m"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "orning in a stranger's c"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "oat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No one would you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "see"
+            },
+            {
+              "chord": "Emadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You ask your"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "self, who'd watch for"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My only f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riend, who could it"
+            },
+            {
+              "chord": "Em/C#",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's hard to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "say it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hate to"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "say it, but it's probably m"
+            },
+            {
+              "chord": "Emmaj7",
+              "lyrics": "e"
+            },
+            {
+              "chord": "Em6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When your belly's empty and the hunger's so real"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And you're too proud to beg and too dumb to steal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You search the city for your only friend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No one would you see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You ask yourself, who could it be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A solitary voice to speak out and set you free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hate to say it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hate to say it, but it's probably me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "not the easiest person I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ever got to know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "hard for us both to let our f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eelings"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "show"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Some would say I s"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "hould let you go your way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'll only"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "make me cry"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If there's one"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "guy, ju"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "st one"
+            },
+            {
+              "chord": "Gmaj9",
+              "lyrics": "guy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who'd"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lay down his life for you and"
+            },
+            {
+              "chord": "Em/C#",
+              "lyrics": "die"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's hard to s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ay it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's hard to"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "say it, but it's probably"
+            },
+            {
+              "chord": "Emmaj7",
+              "lyrics": "me"
+            },
+            {
+              "chord": "Em6",
+              "lyrics": ""
+            },
+            {
+              "chord": "Emmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When the world's gone crazy and it makes no sense"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's only one voice that comes to your defense"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The jury's out and your eyes search the room"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And one friendly face is all you need to see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If there's one"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "guy, ju"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "st one"
+            },
+            {
+              "chord": "Gmaj9",
+              "lyrics": "guy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who'd"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lay down his life for you and"
+            },
+            {
+              "chord": "Em/C#",
+              "lyrics": "die"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's hard to s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ay it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hate to s"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ay it, but it's probably"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "me"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hate to s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ay it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hate to s"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ay it, but it's probably"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "me"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Emmaj9 021002"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em6add9 022022"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7add9 020002"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7 002010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "Em"
+            },
+            {
+              "chord": "224232",
+              "lyrics": "022000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Emadd9 022002"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em/C# 042000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C 032010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Emmaj7"
+            },
+            {
+              "chord": "224242",
+              "lyrics": "021000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em6 022020"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D x00232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gadd9 x05435"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gmaj9 x24233"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A7 002020"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| | \"You see a city in the desert lies |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Luis Ferreira | The vanity of an ancient king |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| | But the city lies on broken pieces |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| sd021@diana.fc.ul.pt | Where the wind howls and the vultures sing\" |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| | Sting - The Soul Cages |"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

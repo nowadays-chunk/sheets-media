@@ -1,0 +1,466 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/itsallri.htm",
+  "title": "It's All Right With Me",
+  "artist": "Peggy Lee",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:24:48.207Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "It's the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wrong time"
+            },
+            {
+              "chord": "Am+7",
+              "lyrics": "and the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "wrong place;"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Though your"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "face is ch"
+            },
+            {
+              "chord": "Am+7",
+              "lyrics": "arming it's the w"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "rong face."
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's not"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "his f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ace, but"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "such a c"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "harming f"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That it's"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "all right"
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": "w"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "ith"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "me."
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "It's the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wrong song"
+            },
+            {
+              "chord": "Am+7",
+              "lyrics": "in the w"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "rong style;"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Though your"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "smile is l"
+            },
+            {
+              "chord": "Am+7",
+              "lyrics": "ovely it's the w"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "rong smile."
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's not"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "his s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mile, but"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "such a"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "lovely sm"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That it's"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "all right"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "with"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You c"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "an't know how h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "appy I"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "am that we"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "met;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm st"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "rangely at"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "tracted to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you."
+            },
+            {
+              "chord": "CM7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            },
+            {
+              "chord": "CM7/6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "someone I'm t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rying so"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "hard to for"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "get --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "you want to"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "forget someone,"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "too?"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "It's the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wrong game"
+            },
+            {
+              "chord": "Am+7",
+              "lyrics": ", with the w"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "rong chips;"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Though you l"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ips are te"
+            },
+            {
+              "chord": "Am+7",
+              "lyrics": "mpting they're the"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "wrong lips."
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They're not"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "his l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ips but t"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "hey're such"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "tempting"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "lips"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That if s"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ome night"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "you're f"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ree,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well it's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all r"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "ight,"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "yes it's"
+            },
+            {
+              "chord": "F",
+              "lyrics": "all right,"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "w"
+            },
+            {
+              "chord": "Bb9",
+              "lyrics": "ith"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/itsyouor.htm",
+  "title": "It's You or No-One",
+  "artist": "Bobby Darin",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:33:02.691Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "How"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "did I"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "know know"
+            },
+            {
+              "chord": "Bm7/E",
+              "lyrics": "that the w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "armth"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "of the g"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "low"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "would l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ast,"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D F#m Bm7 Bm7/E G G/F# Em7 Edim Dalt D9 D7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And how did I guess that the long lone - li - ness was past?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "erely l"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ooked at"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "you,"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "and I k"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "new, t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hen"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "and t"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "here"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "I kn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ew."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Refrain:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "you or"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "no one"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "sure of t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "his"
+            },
+            {
+              "chord": "D",
+              "lyrics": "each t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ime we k"
+            },
+            {
+              "chord": "D",
+              "lyrics": "iss;"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ow"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "and for -"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ev - er"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "and w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hen fo"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "rever's don"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "e,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ou'll"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "find that y"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ou are"
+            },
+            {
+              "chord": "E7/6",
+              "lyrics": "still the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "one."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "So pl"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ease"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "don't say \""
+            },
+            {
+              "chord": "A7",
+              "lyrics": "no\""
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "to my pl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ea,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "'Cause"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "if you"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "do,"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "en I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'m all t"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "hrough."
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ere's"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "this ab"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "out you:"
+            },
+            {
+              "chord": "D",
+              "lyrics": "my w"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "orld's an"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "empty w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "orld w"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ith - o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ut"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "you;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "you or"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "no one"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "t's a m"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "atter of"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "now and f"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "orever, when f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "orever"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "is all d"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "one,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You'll"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "find that"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "you are"
+            },
+            {
+              "chord": "E7/6",
+              "lyrics": "still the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "one."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "So pl"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ease"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "don't say \""
+            },
+            {
+              "chord": "A7",
+              "lyrics": "no\""
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "to my pl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ea,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "'Cause"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "if you"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "do,"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "en I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'m all t"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "hrough."
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ere's"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "this ab"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "out you:"
+            },
+            {
+              "chord": "D",
+              "lyrics": "my w"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "orld's an"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "empty w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "orld w"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ith - o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ut"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "you;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "you or"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "no one"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

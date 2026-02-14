@@ -1,0 +1,610 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/a/amy_winehouse/just_friends_crd.html",
+  "title": "Just Friends",
+  "artist": "Amy Winehouse",
+  "key": "A",
+  "scrapedAt": "2026-02-14T21:19:48.318Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...JUST FRIENDS... by Amy Winehouse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*from 'Back To Black (2006)*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*CAPO 4th FRET*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Original Key: A)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj7 Gm7 (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When will we get,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "The time to be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Just friends?"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "It's never safe for us,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C7",
+              "lyrics": "Not even in the"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "evening,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cos"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "I?ve been drinking."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Not in the morning,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When your shit"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "works."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "It's always dangerous,"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When everybody?s"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "sleeping,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "I've been thinking."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Can we be alone?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can we"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "be alone?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When will we get,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbdim",
+              "lyrics": "The time to be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Just friends?"
+            },
+            {
+              "chord": "Bbdim",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When will we get,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbdim",
+              "lyrics": "The time to be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Just friends?"
+            },
+            {
+              "chord": "Bbdim",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "And no I'm not ashamed,"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But the guilt will kill you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "If she don't"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "first."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "I'll never love you"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "like her."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "Though we need,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To find the"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "time,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To just do this shit to-"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "gether,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "it gets worse."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "I wanna touch you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But that just"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "hurts."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When will we get,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbdim",
+              "lyrics": "The time to be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Just, just"
+            },
+            {
+              "chord": "Bbdim",
+              "lyrics": "friends?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When will we get,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbdim",
+              "lyrics": "The time to be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Just friends, just"
+            },
+            {
+              "chord": "Bbdim",
+              "lyrics": "friends?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gm7 C7,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj7 Bbmaj7,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When will we get,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbdim",
+              "lyrics": "The time to be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Just friends, just"
+            },
+            {
+              "chord": "Bbdim",
+              "lyrics": "friends?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "When will we get,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbdim",
+              "lyrics": "The time to be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Just friends, just"
+            },
+            {
+              "chord": "Bbdim",
+              "lyrics": "friends,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "friends?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORD DIAGRAMS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02210"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "320003"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "133211"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "020100"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "230000"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Joel from cLuMsY, Bristol, England, 2007"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(clumsyband@hotmail.com)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

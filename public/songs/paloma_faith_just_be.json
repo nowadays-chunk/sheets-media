@@ -1,0 +1,974 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/p/paloma-faith/317188.html",
+  "title": "Just Be",
+  "artist": "Paloma Faith",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:17:48.778Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed from the premiere of this wonderful song on Jools Holland's Later programme"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "on BBC2, May 2012"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That performance was accompanied by piano - no guitar -"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so I hope the following represents a good arrangement for solo guitar."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning, capo 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All chords relative to open tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i.e. for Asus2 play x02200 which is in fact A#sus2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus2 x02200"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bsus4 x24400"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m x46650"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B/G# 4x4400"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Let's get"
+            },
+            {
+              "chord": "E",
+              "lyrics": "old to-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "gether"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Let's be un-"
+            },
+            {
+              "chord": "E",
+              "lyrics": "happy for-"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "ever"
+            },
+            {
+              "chord": "B/G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cos there's"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "no-one else in"
+            },
+            {
+              "chord": "E",
+              "lyrics": "this world"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "I'd rather"
+            },
+            {
+              "chord": "E",
+              "lyrics": "be unhappy"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "with"
+            },
+            {
+              "chord": "B/G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Let's be ex-"
+            },
+            {
+              "chord": "E",
+              "lyrics": "posed and unpro-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "tected"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Let's see one a-"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nother when we're"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "weak"
+            },
+            {
+              "chord": "B/G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Let's go our"
+            },
+            {
+              "chord": "E",
+              "lyrics": "separate ways in the"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "night like to"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "Mars"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "know that you're"
+            },
+            {
+              "chord": "E",
+              "lyrics": "flying home to"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-chorus 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "/G#",
+              "lyrics": "I was"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "born thinking it would"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all be dreaming"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "know that I wouldn't be"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "happy that way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "wear me out with frustration and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "heartache and anger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But we"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "wait for the wave just to"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "wash it a-"
+            },
+            {
+              "chord": "/C",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Don't say"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Just sit"
+            },
+            {
+              "chord": "/B",
+              "lyrics": "next"
+            },
+            {
+              "chord": "/A",
+              "lyrics": "to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Don't say"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "nothing ssshhh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "be just"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "be just be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Let's let"
+            },
+            {
+              "chord": "E",
+              "lyrics": "go to-"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "gether"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Let us un-f"
+            },
+            {
+              "chord": "E",
+              "lyrics": "old one an-"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "other"
+            },
+            {
+              "chord": "B/G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "watch all the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "little things that"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "once drew me to"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "Eventually"
+            },
+            {
+              "chord": "E",
+              "lyrics": "get on my"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "nerves"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "wear you out with frustration and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "heartache and anger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But we"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "wait for the wave just to"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "wash it a-"
+            },
+            {
+              "chord": "/C",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Don't say"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Just sit"
+            },
+            {
+              "chord": "/B",
+              "lyrics": "next"
+            },
+            {
+              "chord": "/A",
+              "lyrics": "to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Don't say"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nothing ssshhh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "be just"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "be just"
+            },
+            {
+              "chord": "E",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "/F#",
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "/G#",
+              "lyrics": "woh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "When you're"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "sick of me every"
+            },
+            {
+              "chord": "E",
+              "lyrics": "day"
+            },
+            {
+              "chord": "/F#",
+              "lyrics": "ohh"
+            },
+            {
+              "chord": "/G",
+              "lyrics": "oh"
+            },
+            {
+              "chord": "/G#",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "When you're"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "tired of my voice"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "/G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus2",
+              "lyrics": "When you tell"
+            },
+            {
+              "chord": "Bsus4",
+              "lyrics": "me you'll"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "walk out that door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That's when I"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "know that you'll"
+            },
+            {
+              "chord": "Asus2/A#",
+              "lyrics": "stay woh"
+            },
+            {
+              "chord": "/B",
+              "lyrics": "oh"
+            },
+            {
+              "chord": "/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Don't say"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Just sit"
+            },
+            {
+              "chord": "/B",
+              "lyrics": "next"
+            },
+            {
+              "chord": "/A",
+              "lyrics": "to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Don't say"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "be just"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "be just"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Don't say"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Just sit"
+            },
+            {
+              "chord": "/B",
+              "lyrics": "next"
+            },
+            {
+              "chord": "/A",
+              "lyrics": "to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Don't say"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "be just"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "be just"
+            },
+            {
+              "chord": "E",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Don't say"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "nothing ssshhh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hope I've done it justice!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kevin O'Brien"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Watford"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "England"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "May 2012"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "watfordkev@gmail.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

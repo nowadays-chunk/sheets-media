@@ -1,0 +1,534 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/toby-keith/275633.html",
+  "title": "It Works for Me",
+  "artist": "Toby Keith",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:20:50.490Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It Works For Me - Toby Keith"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Unleashed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Writers: Scotty Emerick/Toby Keith"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "**CAPO 2**"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the brackets ie(D-A-Bm) are little walkdowns in between lines,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "one quick strum on each chord then go into next line."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: D D9 D (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Never"
+            },
+            {
+              "chord": "D",
+              "lyrics": "owned a brand new car never"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "worked in a white"
+            },
+            {
+              "chord": "D",
+              "lyrics": "collar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Never"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "held a woman longer than I held one single dollar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Never"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "went out chasin' rainbows cause there can't be that much to it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Even"
+            },
+            {
+              "chord": "A",
+              "lyrics": "if I found my"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "pot of gold I'd"
+            },
+            {
+              "chord": "A",
+              "lyrics": "probably piss right through it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can't re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "member ever"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "wanting for one"
+            },
+            {
+              "chord": "D",
+              "lyrics": "second of my l"
+            },
+            {
+              "chord": "(D-A-Bm)",
+              "lyrics": "ife"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Even"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "if I did it cost too much to ever pay the pr"
+            },
+            {
+              "chord": "(Bm-A-G)",
+              "lyrics": "ice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dance out on the dark side ain't no secrets I can"
+            },
+            {
+              "chord": "(G-D/F#-Em)",
+              "lyrics": "tell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you don't have to say a prayer for"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "me, I just said one for my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "self"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm livin' my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "li-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "-fe under"
+            },
+            {
+              "chord": "D",
+              "lyrics": "my terms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm callin' the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "shots as"
+            },
+            {
+              "chord": "A",
+              "lyrics": "far as I can"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "owe nobody"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nothin' I don't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "answe"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "r to a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "soul"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "Might not w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ork for you,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "but it w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "orks for me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D D9 D (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've been"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bent and bruised and broken and flat"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "busted once or"
+            },
+            {
+              "chord": "D",
+              "lyrics": "twice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I brought"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "most of it upon myself but I never compromised"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "pride's too hard to swallow so I've chewed a lot of it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mild"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mannered and soft"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "hearted and hard"
+            },
+            {
+              "chord": "A",
+              "lyrics": "headed as you get"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "live out on the"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "backroads where I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "walk my country mi"
+            },
+            {
+              "chord": "(D-A-Bm)",
+              "lyrics": "le"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And if it's"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "so good in the city why don't anybody sm"
+            },
+            {
+              "chord": "(Bm-A-G)",
+              "lyrics": "ile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "raffic's always heavy and the air ain't fit to brea"
+            },
+            {
+              "chord": "(G-D/F#-Em)",
+              "lyrics": "the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ain't saying that it's wrong for you"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "it just don't make sense to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "REPEAT CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A = x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus= x02230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm = x24432(bar chord) or xx4432"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D = xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D9 = xx0230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/F#= 200232 (hold down bottom string with thumb)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em = 022000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 320003"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

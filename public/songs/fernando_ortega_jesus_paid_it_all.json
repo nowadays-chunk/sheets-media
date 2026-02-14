@@ -1,0 +1,682 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/f/fernando-ortega/302994.html",
+  "title": "Jesus Paid It All",
+  "artist": "Fernando Ortega",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:54:09.989Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This version takes into account the chord changes from chorus to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chorus, as well as some of the nuances of chords within the verses."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Note: His piano recording is a half step lower.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: D/B A G G2 D/B A G G2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I hear the Savior say,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"thy str"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "ength indeed is s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mall,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Child of weakness, watch and pray."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Find in"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "Me thine a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ll in a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ll\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Jesus paid it"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "all,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/A",
+              "lyrics": "All to Him I"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "owe"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Si"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "n had"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "left a c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rimson stain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He w"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "ashed it w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hite as s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Lord, now indeed I find"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Thy"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "pow'r and thine al"
+            },
+            {
+              "chord": "D",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can c"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "hange the leper's s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pots"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "melt the"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "heart of st"
+            },
+            {
+              "chord": "D",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Jesus paid it"
+            },
+            {
+              "chord": "Bmsus",
+              "lyrics": "all,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/A",
+              "lyrics": "All to Him I"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "owe"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Si"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "n had"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "left a c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rimson stain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He w"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "ashed it w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hite as s"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "now"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For n"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "othing good have I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "wher"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "eby Thy grace to cl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "wash my garments w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hite"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in the b"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "lood of C"
+            },
+            {
+              "chord": "A",
+              "lyrics": "alvary's L"
+            },
+            {
+              "chord": "D",
+              "lyrics": "amb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/B",
+              "lyrics": "Jesus paid it a"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "ll,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/A",
+              "lyrics": "All to Him I"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "owe"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Si"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "n had"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "left a c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rimson stain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He w"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "ashed it w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hite as s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hen before the t"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "hrone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I s"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "tand in Him comp"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lete"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Jesus d"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "ied my soul to s"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "ave,\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "my l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ips shall"
+            },
+            {
+              "chord": "Dsus/A",
+              "lyrics": "still rep"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2/C#",
+              "lyrics": "Jesus paid it"
+            },
+            {
+              "chord": "Bmsus",
+              "lyrics": "all,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/A",
+              "lyrics": "All to Him I"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "owe"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Si"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "n had"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "left a c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rimson stain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He w"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "ashed it wh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ite as s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "now"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/B",
+              "lyrics": "Jesus paid it"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "all,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/A",
+              "lyrics": "All to him I"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "owe"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Si"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "n had"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "left a c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rimson stain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He w"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "ashed it w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hite as s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "no"
+            },
+            {
+              "chord": "A",
+              "lyrics": "w"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G2",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

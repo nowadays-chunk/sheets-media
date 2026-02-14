@@ -1,0 +1,574 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/brenda-lee/351155.html",
+  "title": "Johnny One Time",
+  "artist": "Brenda Lee",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:02:54.125Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO: F# C#7 (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "So, he told you that you're the"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "dream, that he's"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "been"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "searching for?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And he"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "told you he's never"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "met anyone like"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "before."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I can"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "hear him telling"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "you your lips taste"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "just like cherry"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "wine."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But did he"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "tell you that's he's"
+            },
+            {
+              "chord": "B",
+              "lyrics": "known as Johnny"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "One Time?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Did he tell you that your heart would soon be"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "come"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "another trinket on his"
+            },
+            {
+              "chord": "B",
+              "lyrics": "bracelet of broken"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "hearts?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Did he tell you that the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "morning sun would"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "find"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you patching"
+            },
+            {
+              "chord": "B",
+              "lyrics": "up your shattered"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "pride and searching"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "for the missing"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "parts?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Did he tell you that the special love you're"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "saving"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "will disappear in"
+            },
+            {
+              "chord": "B",
+              "lyrics": "flames shaped like"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "mine?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Did he"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "tell you that he's"
+            },
+            {
+              "chord": "B",
+              "lyrics": "known as Johnny"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "One Time?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(NTERLUDE:) F# C#7 (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "So, he told you that he'd"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "never lead your"
+            },
+            {
+              "chord": "B",
+              "lyrics": "heart astray"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And he"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "told you that he'd"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "love you for"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ever and a day"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I can"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "hear him telling"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "you that he's a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "shy and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bashful"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "kind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But did he"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "tell you that he's"
+            },
+            {
+              "chord": "B",
+              "lyrics": "known as Johnny"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "One Time?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Did he tell you that your heart would soon be"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "come"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "another trinket on his"
+            },
+            {
+              "chord": "B",
+              "lyrics": "bracelet of broken"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "hearts?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Did he tell you that the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "morning sun would"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "find"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you patching"
+            },
+            {
+              "chord": "B",
+              "lyrics": "up your shattered"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "pride and searching"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "for the missing"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "parts?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Did he tell you that the special love you're"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "saving"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "will disappear in"
+            },
+            {
+              "chord": "B",
+              "lyrics": "flames shaped like"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "mine?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Did he"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "tell you that he's"
+            },
+            {
+              "chord": "B",
+              "lyrics": "known as Johnny"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "One Time?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Did he tell you that your heart would soon be"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "come"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "another trinket on his"
+            },
+            {
+              "chord": "B",
+              "lyrics": "bracelet of broken"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "hearts?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Did he tell you that the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "morning sun would"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "find"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you patching"
+            },
+            {
+              "chord": "B",
+              "lyrics": "up your shattered"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "pride and searching"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "for the missing"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "parts?..(Fade.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A sixties smash from Kraziekhat."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,934 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/elvis-perkins/357234.html",
+  "title": "It's Only Me",
+  "artist": "Elvis Perkins",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:29:58.527Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Elvis Perkins - It's Only Me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Standard Tuning, No Capo)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Chords: |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Am x02210 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| G 320003 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Fmaj xx3210 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| C 032010 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| F 133211 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E 022100 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Esus4 022200 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro (with harmonica):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am G Am G Am - Fmaj C G Am x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I heard a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sound"
+            },
+            {
+              "chord": "G",
+              "lyrics": "when I was a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "child"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj",
+              "lyrics": "someone was"
+            },
+            {
+              "chord": "C",
+              "lyrics": "walking through the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pillow that"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "snow"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "muted the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pitch of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj",
+              "lyrics": "a shadow"
+            },
+            {
+              "chord": "C",
+              "lyrics": "approached across the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "field in"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "white"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "it's only"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it's only"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and the"
+            },
+            {
+              "chord": "Fmaj",
+              "lyrics": "sound of my own"
+            },
+            {
+              "chord": "C",
+              "lyrics": "heart it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "startled"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "as I d"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "rifted from the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dark"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "room"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj",
+              "lyrics": "face"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lifted from the p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aper"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "reflected"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "orbit"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "bath"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj",
+              "lyrics": "he manages to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "say before he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "starts to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "laugh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "you can't always"
+            },
+            {
+              "chord": "F",
+              "lyrics": "trust the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "darkness and the"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "dust"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Esus4",
+              "lyrics": "but me I'm j"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ust a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "man it's more"
+            },
+            {
+              "chord": "G",
+              "lyrics": "than I can und"
+            },
+            {
+              "chord": "C",
+              "lyrics": "erstand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "only"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "its only"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "("
+            },
+            {
+              "chord": "Fmaj",
+              "lyrics": "Harmonica)"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The white"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "noise"
+            },
+            {
+              "chord": "G",
+              "lyrics": "falls"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj",
+              "lyrics": "to revea"
+            },
+            {
+              "chord": "C",
+              "lyrics": "l the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "perfect"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "where roses"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "bloomed out o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "f thin"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj",
+              "lyrics": "and music ro"
+            },
+            {
+              "chord": "C",
+              "lyrics": "se from down the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "buried"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "stairs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "it's only"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "mine"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it's only"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj",
+              "lyrics": "I grew it in the s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hade when the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sun couldn't"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "shine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "now there's always"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "someone"
+            },
+            {
+              "chord": "G",
+              "lyrics": "waiting at the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "mirror"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj",
+              "lyrics": "she stares like she"
+            },
+            {
+              "chord": "C",
+              "lyrics": "knows me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "like a headlights"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "deer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "and there's a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "twin in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "other"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "room"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj",
+              "lyrics": "she's always"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sowing and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "singing her songs of"
+            },
+            {
+              "chord": "F",
+              "lyrics": "doom"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "and at times I do"
+            },
+            {
+              "chord": "F",
+              "lyrics": "n't know w"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hy tears come to my"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Esus4",
+              "lyrics": "and what if"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I go"
+            },
+            {
+              "chord": "F",
+              "lyrics": "blind as they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "flow out of my"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "it worries"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it worries"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj",
+              "lyrics": "that there's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "someone on my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mind that I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "don't see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I close my eyes to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "disappear into the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "fields of stars"
+            },
+            {
+              "chord": "C",
+              "lyrics": "between my ears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "the dark as they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "overlap we"
+            },
+            {
+              "chord": "F",
+              "lyrics": "follow one a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nother as we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fade to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "black"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "it's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "only"
+            },
+            {
+              "chord": "C",
+              "lyrics": "night"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it's only"
+            },
+            {
+              "chord": "C",
+              "lyrics": "night"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "An ultraso"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "und wh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en I was aliv"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj",
+              "lyrics": "the shadows"
+            },
+            {
+              "chord": "C",
+              "lyrics": "go spying on the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ones in the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wild"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "they dip their"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "arrows"
+            },
+            {
+              "chord": "G",
+              "lyrics": "into the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj",
+              "lyrics": "they wash"
+            },
+            {
+              "chord": "C",
+              "lyrics": "their arms as the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "y wait fo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "r me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "they wait for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "me they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wait for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "hey wait for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "me hey"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wait for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Thanks to Elvis Perkins"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And a shout out to Prathepa because I told you so ;)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

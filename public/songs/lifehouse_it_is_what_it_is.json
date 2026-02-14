@@ -1,0 +1,642 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/l/lifehouse/237980.html",
+  "title": "It Is What It Is",
+  "artist": "Lifehouse",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:16:58.090Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Smoke & Mirrors Album"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO 4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em | C | G-D | G-D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I was only looking for a s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hortcut home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ut it's complica"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ted"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "So complicat"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Somewhere in this city is a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "road I know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Where we could make"
+            },
+            {
+              "chord": "D",
+              "lyrics": "it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "G",
+              "lyrics": "maybe there's no making"
+            },
+            {
+              "chord": "D",
+              "lyrics": "it"
+            },
+            {
+              "chord": "C",
+              "lyrics": "now"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": "Ohh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Too long we've been denying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Now we're both tired of trying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We hit a wall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And we can't get over it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing to relive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "water under the bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "said it, I get it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I guess it"
+            },
+            {
+              "chord": "C",
+              "lyrics": "is what it is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I was only trying to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bury the pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I made you cry a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I can't stop the cry"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Was only trying to save me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lost you again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now"
+            },
+            {
+              "chord": "G",
+              "lyrics": "there's only lyi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ng"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ish I could say"
+            },
+            {
+              "chord": "D",
+              "lyrics": "it's only"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hhh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Too long we've been denying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Now we're both tired of trying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We hit a wall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And we can't get over it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing to relive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "water under the bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "said it, I get it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I guess it"
+            },
+            {
+              "chord": "C",
+              "lyrics": "is what it is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Here it comes ready or not"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We"
+            },
+            {
+              "chord": "D",
+              "lyrics": "both found out it's not how we thought"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "it would be, how"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "it would be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "If the time could turn us around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "What once was lost may be found"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you and me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you and me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em | C | G-D | G-D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Too long we've been denying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Now we're both tired of trying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We hit a wall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And we can't get over it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Nothing to relive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "water under the bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "said it, I get it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I guess it"
+            },
+            {
+              "chord": "C",
+              "lyrics": "is what it is"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I was only looking for a s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hortcut home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ut it's complica"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ted"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "So complicat"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pls. comment if something's wrong :)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ENJOY!!!!!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

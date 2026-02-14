@@ -94,17 +94,17 @@ export default {
       ],
       "add2": [
         { "start": 0, "end": 3 },
-        { "start": 0, "end": 2 },
-        { "start": 0, "end": 3 },
-        { "start": 0, "end": 2 },
-        { "start": 0, "end": 3 }
+        { "start": 3, "end": 6 },
+        { "start": 5, "end": 8 },
+        { "start": 8, "end": 12 },
+        { "start": 10, "end": 14 }
       ],
       "add4": [
         { "start": 0, "end": 3 },
-        { "start": 0, "end": 3 },
-        { "start": 0, "end": 3 },     // corrected
-        { "start": 0, "end": 2 },
-        { "start": 0, "end": 3 }
+        { "start": 3, "end": 6 },
+        { "start": 5, "end": 8 },
+        { "start": 8, "end": 11 },
+        { "start": 9, "end": 13 }
       ],
       "6": [
         { "start": 0, "end": 3 },
@@ -142,18 +142,18 @@ export default {
         { "start": 10, "end": 12 }
       ],
       "min7b5": [
-        { "start": 3, "end": 4 },
-        { "start": 0, "end": 1 },
-        { "start": 2, "end": 3 },
-        { "start": 0, "end": 1 },
-        { "start": 0, "end": 1 }
+        { "start": 0, "end": 4 },
+        { "start": 3, "end": 7 },
+        { "start": 5, "end": 9 },
+        { "start": 8, "end": 11 },
+        { "start": 10, "end": 14 }
       ],
       "dim7": [
-        { "start": 1, "end": 3 },
-        { "start": 0, "end": 1 },
-        { "start": 0, "end": 3 },
-        { "start": 0, "end": 2 },
-        { "start": 0, "end": 3 }
+        { "start": 0, "end": 4 },
+        { "start": 3, "end": 7 },
+        { "start": 5, "end": 8 },
+        { "start": 8, "end": 11 },
+        { "start": 10, "end": 14 }
       ],
       "9": [
         { "start": 2, "end": 3 },
@@ -177,11 +177,11 @@ export default {
         { "start": 10, "end": 12 }
       ],
       "minMaj7": [
-        { "start": 0, "end": 5 },
-        { "start": 0, "end": 2 },
-        { "start": 0, "end": 5 },
-        { "start": 0, "end": 2 },
-        { "start": 0, "end": 2 }
+        { "start": 0, "end": 4 },
+        { "start": 2, "end": 6 },
+        { "start": 4, "end": 8 },
+        { "start": 7, "end": 11 },
+        { "start": 9, "end": 13 }
       ],
       "7#5": [
         { "start": 2, "end": 3 },
@@ -1285,47 +1285,13 @@ export default {
       "degree": "Major",
 
       "cagedShapes": {
-        "C": [
-          null,
-          3,
-          2,
-          0,
-          3,
-          0
-        ],
-        "A": [
-          null,
-          0,
-          2,
-          2,
-          2,
-          0
-        ],
-        "G": [
-          3,
-          0,
-          0,
-          0,
-          0,
-          3
-        ],
-        "E": [
-          0,
-          2,
-          2,
-          1,
-          2,
-          0
-        ],
-        "D": [
-          null,
-          null,
-          0,
-          2,
-          3,
-          2
-        ]
+        "C": [null, 3, 2, 0, 3, 0],
+        "A": [3, 3, 2, 0, 3, 0],
+        "G": [3, 5, 5, 4, 3, 3],
+        "E": [8, 10, 10, 9, 8, 8],
+        "D": [null, null, 10, 9, 8, 10]
       },
+
       "matchingScales": [
         "Ionian",
         "Lydian",
@@ -1374,46 +1340,11 @@ export default {
       "degree": "Major",
 
       "cagedShapes": {
-        "C": [
-          null,
-          3,
-          2,
-          0,
-          1,
-          3
-        ],
-        "A": [
-          null,
-          0,
-          2,
-          2,
-          2,
-          3
-        ],
-        "G": [
-          3,
-          2,
-          0,
-          0,
-          3,
-          3
-        ],
-        "E": [
-          0,
-          2,
-          1,
-          2,
-          0,
-          0
-        ],
-        "D": [
-          null,
-          null,
-          0,
-          2,
-          3,
-          3
-        ]
+        "C": [null, 3, 2, 0, 1, 3],
+        "A": [3, 3, 2, 0, 1, 3],
+        "G": [3, 5, 5, 5, 3, 3],
+        "E": [8, 10, 10, 10, 8, 8],
+        "D": [null, null, 10, 9, 11, 8]
       },
       "matchingScales": [
         "Ionian",

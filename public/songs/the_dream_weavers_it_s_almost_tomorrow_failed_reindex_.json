@@ -1,0 +1,382 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/itsalmos.htm",
+  "title": "It's Almost Tomorrow (failed - reindex)",
+  "artist": "The Dream Weavers",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:21:47.569Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "My d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "earest my d"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "arling tom"
+            },
+            {
+              "chord": "D",
+              "lyrics": "orrow i"
+            },
+            {
+              "chord": "A",
+              "lyrics": "s near;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "sun will bring s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "howers of"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "sadness, I f"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ear."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ips won't be s"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "miling, your e"
+            },
+            {
+              "chord": "D",
+              "lyrics": "yes will not s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hine,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "I know to - m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "or - row that your l"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ove won't"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "be m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "It's"
+            },
+            {
+              "chord": "A",
+              "lyrics": "almost to"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "morrow, but w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hat ca"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "n I d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "o?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your k"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "isses"
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": "all t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ell me that"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "your"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "love is"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "un - t"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "rue."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ove you fo"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "rever till s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tars cease to s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hine,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "hope some -"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "day,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Darling,"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "you'll"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "al -"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "way"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "s be"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mine."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Your h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eart was so"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "warm dear, it n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow has"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "turned c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "old;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "no lon"
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": "ger l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ove me,"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "for your"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "mem' - ries"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "grow o"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ld."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "It's a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lmost to -"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "mor - row, for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "here"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "comes"
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": "the s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "un"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "still I"
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": "am"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ho - ping"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "that"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "to - m"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "or -"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "row"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "won't c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ome."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

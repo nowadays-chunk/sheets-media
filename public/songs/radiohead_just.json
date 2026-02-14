@@ -1,0 +1,442 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/r/radiohead/389002.html",
+  "title": "Just",
+  "artist": "Radiohead",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:14:06.024Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: C Eb D F (rpt.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am Ab (Eb/F-Riff)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can't get the stink off, he's been hanging round for days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am Ab (Eb/Bb-Riff)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Comes like a comet, suckered you but not your friends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "One day he'll get to you,"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "and teach you how to be a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ho"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ly"
+            },
+            {
+              "chord": "F",
+              "lyrics": "cow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You do it to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rself, you"
+            },
+            {
+              "chord": "F#7sus4",
+              "lyrics": "do and"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "that's what really hurts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is that you do it to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rself, jus"
+            },
+            {
+              "chord": "F#7sus4",
+              "lyrics": "t you..."
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "you and no-one else"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You do it to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rself"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "..."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "you do it to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rself"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am Ab (Eb/F-Riff)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't get my sympathy, hanging out the 15th floor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am Ab (Eb/Bb-Riff)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You've changed the locks three times, he still comes reeling through the door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "One day I'll get you and"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "teach you how to get to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pu"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "rest"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You do it to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rself, you"
+            },
+            {
+              "chord": "F#7sus4",
+              "lyrics": "do and"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "that's what really hurts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is that you do it to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rself, jus"
+            },
+            {
+              "chord": "F#7sus4",
+              "lyrics": "t you..."
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "you and no-one else"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You do it to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rself"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "..."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "you do it to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rself"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo: E5 D5 C#5 - (2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am Ab (ch)Eb/F(/ch)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You do it to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rself, you"
+            },
+            {
+              "chord": "F#7sus4",
+              "lyrics": "do and"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "that's what really hurts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is that you do it to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rself, jus"
+            },
+            {
+              "chord": "F#7sus4",
+              "lyrics": "t you..."
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "you and no-one else"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You do it to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r____"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "____"
+            },
+            {
+              "chord": "D",
+              "lyrics": "_se"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lf... you do it to you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r____"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "____"
+            },
+            {
+              "chord": "D",
+              "lyrics": "_se"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lf"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "you"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "r___"
+            },
+            {
+              "chord": "D",
+              "lyrics": "___"
+            },
+            {
+              "chord": "F",
+              "lyrics": "sel"
+            },
+            {
+              "chord": "C",
+              "lyrics": "f__"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "____"
+            },
+            {
+              "chord": "D",
+              "lyrics": "___"
+            },
+            {
+              "chord": "F",
+              "lyrics": "___"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Out-Solo: C Bb5 A5 Eb5 (7x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eb/F-Riff: Eb/Bb-Riff:"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

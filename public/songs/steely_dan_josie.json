@@ -1,0 +1,598 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/s/steely_dan/josie_crd.html",
+  "title": "Josie",
+  "artist": "Steely Dan",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:06:08.679Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(this is nicked from a tab-tagged version of this very song - ver. 3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: Thu, 14 Nov 1996 14:50:36 -0500"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: Andrew Rogers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: ./s/steely_dan/josie.tab"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Josie\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(W. Becker - D. Fagen)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "v v v v v v v v v v v v v v v v"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "v v v v"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~~~3~~~ ~~~3~~~ (1/4-note triplets)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We're gonna"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "break out the hats and hooters when Josie comes home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We're gonna rev up the motorscooters"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When Josie comes"
+            },
+            {
+              "chord": "A/D",
+              "lyrics": "home to"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "stay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We're gonna"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "park in the"
+            },
+            {
+              "chord": "C/F",
+              "lyrics": "street"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Sleep on the beach and make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Throw down the jam 'til the"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "girls"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "say"
+            },
+            {
+              "chord": "C/F",
+              "lyrics": "when"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Lay down the law and"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "break it when"
+            },
+            {
+              "chord": "E/A",
+              "lyrics": "Josie comes"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When"
+            },
+            {
+              "chord": "C/F",
+              "lyrics": "Josie comes"
+            },
+            {
+              "chord": "F#7#9",
+              "lyrics": "home"
+            },
+            {
+              "chord": "B7#9#5",
+              "lyrics": "so"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "good"
+            },
+            {
+              "chord": "C/F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's the"
+            },
+            {
+              "chord": "F#7#9",
+              "lyrics": "pride of the"
+            },
+            {
+              "chord": "B7#9#5",
+              "lyrics": "neighborhood"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "raw f"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "lame, the"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "live"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "wire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She"
+            },
+            {
+              "chord": "F#7#9",
+              "lyrics": "prays like a Roman with her"
+            },
+            {
+              "chord": "B7#9#5",
+              "lyrics": "eyes on fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jo who'd you love to scrapple, she'll never say no"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Shine up the battle apple"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We'll shake 'em all down tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We're gonna mix in the street"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Strike at the stroke of midnight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dance on the bones 'til the girls say when"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pick up what's left by daylight when Josie comes home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When Josie comes home, so bad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's the best friend we never had"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's the raw flame, the live wire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She prays like a Roman with her eyes on fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Instrumental break (2:15 - 2:31):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Play 3X (guitar is doubled by bass):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "v v v v v v v v"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^^^ 2nd time only"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(guitar solo over verse chords)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeat chorus 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeat intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "guitar solo over Em7 to fade"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chord fingerings:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G#maj7/6: xx6563"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A/D: x57655"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7#9#5: x21233"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/F: xx3553"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/G: xx5775"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E/A: xx7997"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#7#9: 242355"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/C: x35433"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(On the record, those X/Y chords are almost certainly played as a standard X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chord on guitar, with the bass covering the Y note; the fingerings suggested"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "above are for anyone who wants to replicate the overall sound of those chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "on a single guitar. And, incidentally, Laura Nyro was using major triads"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with the fourth in the bass when Don and Walt were still playing frat parties"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "at Bard.)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

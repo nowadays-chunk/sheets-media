@@ -1,0 +1,566 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/joe-purdy/246000.html",
+  "title": "Just Another Old Love Song",
+  "artist": "Joe Purdy",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:16:58.720Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So this is my first shot at writing tabs/chords for a song. Please feel free to blow up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "comments section with whatever. I must give credit where tis due: my friend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Leaf helped me out with this and by help I mean he did it. I am just posting his work."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~CAPO 2~ (all chords are actual chords and fingering is in relation to capo)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song is in the key of D maj. Listen to it and you can determine the fingering and how"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "plays it. I add some flare to it myself."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm: 002210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#: x2000x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D: 032010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 133211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A: 320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Come on in"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "out"
+            },
+            {
+              "chord": "D",
+              "lyrics": "of the col"
+            },
+            {
+              "chord": "G",
+              "lyrics": "d"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Lay your c"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "ares on m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Cause when you're h"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "ere, th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eres nothing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "You're as"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "far as I can"
+            },
+            {
+              "chord": "G",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "You're as"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "far as I can"
+            },
+            {
+              "chord": "G",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~Chorus~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Just a"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "nother o"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ld love"
+            },
+            {
+              "chord": "A",
+              "lyrics": "song comi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ng down"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And I've been tr"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "ying to m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ake you unders"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "That my lo"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "ve for yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u is real"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And I can feel i"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "t, when y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou take my han"
+            },
+            {
+              "chord": "G",
+              "lyrics": "d"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And when I"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "'m holdin"
+            },
+            {
+              "chord": "G",
+              "lyrics": "g you near"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Let me h"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "old you near"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ju"
+            },
+            {
+              "chord": "D",
+              "lyrics": "st ano"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "ther o"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ld love s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ong coming"
+            },
+            {
+              "chord": "G",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "J"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ust an"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "other"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "old love"
+            },
+            {
+              "chord": "A",
+              "lyrics": "song comin"
+            },
+            {
+              "chord": "G",
+              "lyrics": "g down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "J"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ust an"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "other"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "old love"
+            },
+            {
+              "chord": "A",
+              "lyrics": "song comin"
+            },
+            {
+              "chord": "G",
+              "lyrics": "g down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "So if you"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "feel"
+            },
+            {
+              "chord": "D",
+              "lyrics": "that sun s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "inking in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Just call"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "out my na"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Cause I woul"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "d make this w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hole world spin ar"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Just to se"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "e you aga"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Just to se"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "e you aga"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Just to se"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "e you aga"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Just an"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "other old l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ove song c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "oming down"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

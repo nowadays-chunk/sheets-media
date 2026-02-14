@@ -1,0 +1,666 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/jeff-buckley/168190.html",
+  "title": "Just Like a Woman",
+  "artist": "Jeff Buckley",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:21:00.292Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Written by Bob Dylan. This is former legend, Jeff Buckley's version."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 4th:Intro: C F G C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Nobody f"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eels a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ny pa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tonight as I st"
+            },
+            {
+              "chord": "F",
+              "lyrics": "and i"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nside the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Ev'rybody k"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nows"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That B"
+            },
+            {
+              "chord": "F",
+              "lyrics": "aby's got new c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lothes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "F",
+              "lyrics": "latel"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "y I"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "see"
+            },
+            {
+              "chord": "C",
+              "lyrics": "her r"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ibbons and her bows"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Have"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "fallen"
+            },
+            {
+              "chord": "C",
+              "lyrics": "from"
+            },
+            {
+              "chord": "F",
+              "lyrics": "her cu"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "rls"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7sus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "akes j"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ust l"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ike a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "woman, yes she does"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She"
+            },
+            {
+              "chord": "C",
+              "lyrics": "makes"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "love l"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ike a wom"
+            },
+            {
+              "chord": "F",
+              "lyrics": "an, yes she does"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And then she a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ches"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "just l"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ike a w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oman"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But she"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "breaks just"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "like a l"
+            },
+            {
+              "chord": "G7sus2",
+              "lyrics": "ittle g"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "irl"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Q"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ueen Ma"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ry, she"
+            },
+            {
+              "chord": "C",
+              "lyrics": "'s my fri"
+            },
+            {
+              "chord": "G",
+              "lyrics": "end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Yes, I believe I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "'ll go s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ee her ag"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Nobody has to gu"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ess"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hat Baby can't be bles"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ill she se"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "es finall"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "y that sh"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e's like all the r"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "est"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "Wit"
+            },
+            {
+              "chord": "G7sus2",
+              "lyrics": "h her f"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "og, with her amphetamine and her pearls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It was r"
+            },
+            {
+              "chord": "E",
+              "lyrics": "aining from the first"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I was dying there of thirst"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I c"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ame in here"
+            },
+            {
+              "chord": "Csus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And your long-"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time curse hurts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But what's worse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is this pai"
+            },
+            {
+              "chord": "F",
+              "lyrics": "n in here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7sus4",
+              "lyrics": "I can't s"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "tay in here"
+            },
+            {
+              "chord": "G7sus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7sus4",
+              "lyrics": "Ain't it"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "cle"
+            },
+            {
+              "chord": "G7sus2",
+              "lyrics": "ar that"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I just don't fit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yes, I believe it's time for us to quit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And when we meet again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Introduced as friends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please don't let on that you knew me when"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was hungry and it was your world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ake j"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ust l"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ike a wo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou ta"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ke ju"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "st like a wo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "man, yes you do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And you make lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ve lik"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e a wo"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "man, yes you d"
+            },
+            {
+              "chord": "F",
+              "lyrics": "o"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And then you a"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "che just like"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "a woman"
+            },
+            {
+              "chord": "Gsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But you break just like a little girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Enjoy!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,814 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/j/jimmy_eat_world/jen_crd.html",
+  "title": "Jen",
+  "artist": "Jimmy Eat World",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:48:18.622Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Jen\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jimmy Eat World"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribbed by ViviEatWorld"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: C D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't be sc"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ared, no, don't be shy,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We use to d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "o this all the ti"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know it, J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en"
+            },
+            {
+              "chord": "D",
+              "lyrics": "."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We could be h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "appy now,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So j"
+            },
+            {
+              "chord": "C",
+              "lyrics": "et across the c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "oast and country, J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And sometimes J"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ennifer,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "L"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ive for too long and t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hen your chance is g"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "one."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The choice we're me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ant to make,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is one we'll ne"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ver take"
+            },
+            {
+              "chord": "D",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All you ha"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ve to do is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "say..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't be sc"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ared, no, don't be shy,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We use to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "do this all the t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ime,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ya-ya-you know it, J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's you and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me, what could that mean?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can't pret"
+            },
+            {
+              "chord": "C",
+              "lyrics": "end we're only fr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "iends, then walk aw"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay"
+            },
+            {
+              "chord": "D",
+              "lyrics": "."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I think you tried just a li"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ttle hard,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Acting like somet"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hing that you're not, J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wanna make you f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eel the way you should,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ave to let things"
+            },
+            {
+              "chord": "D",
+              "lyrics": "go to keep them cl"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ose."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What we d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "o today"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Already h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "as a name"
+            },
+            {
+              "chord": "D",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is anyth"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ing but a mis"
+            },
+            {
+              "chord": "D",
+              "lyrics": "take..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't be sc"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ared, no, don't be shy,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We use to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "do this all the t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ime,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ya-ya-you know it, J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's you and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me, what could that mean?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can't pret"
+            },
+            {
+              "chord": "C",
+              "lyrics": "end we're only fr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "iends, then walk aw"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oooooh,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "oooooh."
+            },
+            {
+              "chord": "C",
+              "lyrics": ".."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "No one's l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ooking now,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Take a ch"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ance, come on,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Could do a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nything you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "want..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Put your arms"
+            },
+            {
+              "chord": "D",
+              "lyrics": "around so"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "meone soft,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Take it as"
+            },
+            {
+              "chord": "D",
+              "lyrics": "it comes, tr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ust your heart,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Trust"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know it, J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Put your arms"
+            },
+            {
+              "chord": "D",
+              "lyrics": "around so"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "meone soft,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Take it as i"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t comes, tr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ust your heart,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Trust"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know it, J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Put your arms"
+            },
+            {
+              "chord": "D",
+              "lyrics": "around so"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "meone soft,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Take it as i"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t comes, tr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ust your heart,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Trust"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ust your heart, trust"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know it, J"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Enjoy!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ViviEatWorld."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

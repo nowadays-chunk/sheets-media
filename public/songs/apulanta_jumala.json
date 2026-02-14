@@ -1,0 +1,646 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/a/apulanta/63601.html",
+  "title": "jumala",
+  "artist": "Apulanta",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:11:12.977Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "JUMALA - Apulanta"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: neeaneiti"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(*The song starts without guitar, but these are the chords taht there would be)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(sliding)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(*Em D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kultaiset hunnut peitt��"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sis��ns� m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eid�t syvem"
+            },
+            {
+              "chord": "D",
+              "lyrics": "p��n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Niin j�i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mme vangeiksi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Likaiseen kaune"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ut"
+            },
+            {
+              "chord": ")",
+              "lyrics": "een"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kun makeimman"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "viinin an"
+            },
+            {
+              "chord": "D",
+              "lyrics": "taa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Meid�t juovu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ttaa uudes"
+            },
+            {
+              "chord": "D",
+              "lyrics": "taan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "L�yd�mmek�"
+            },
+            {
+              "chord": "G",
+              "lyrics": "unten alta"
+            },
+            {
+              "chord": "D",
+              "lyrics": "kadonneen"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tien?"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Miss� taivas"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Miss� jumala o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n, kun lauma po"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lkee paikall"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "aan?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Miss� kuningas"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", joka meid�t vap"
+            },
+            {
+              "chord": "D",
+              "lyrics": "autta"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Riivaajat"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ohjaa mei"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t�"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "P�in suloi"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "simpia estei"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t�"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Joihin ei o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "llenkaan tee t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "uskaa j��d�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "kii"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pime�t t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "unnit n�yt"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t��"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Totuuden h"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "etket pidem"
+            },
+            {
+              "chord": "D",
+              "lyrics": "p��n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Itse"
+            },
+            {
+              "chord": "G",
+              "lyrics": "k� me itse"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mme n�in kiro"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ttiin?"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Miss� taivas"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Miss� jumala o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n, kun lauma po"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lkee paikall"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "aan?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Miss� kuningas"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", joka meid�t vap"
+            },
+            {
+              "chord": "D",
+              "lyrics": "autta"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SOLO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(little bit sliding)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Kun makeimman v"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "iinin ant"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Meid�t taas ju"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ovuttaa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Niin me l�yd�mm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e kadonneen"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tien"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Miss� taivas"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Miss� jumala o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n, kun lauma po"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lkee paikall"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "aan?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Miss� kuningas"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", joka meid�t vap"
+            },
+            {
+              "chord": "D",
+              "lyrics": "autta"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Miss� taivas"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Miss� jumala o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "n, kun lauma po"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lkee haudall"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "aan?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Miss� kuningas"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", joka meid�t vap"
+            },
+            {
+              "chord": "D",
+              "lyrics": "autta"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(sliding)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

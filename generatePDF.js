@@ -12,11 +12,20 @@ function buildPathsByKey() {
     const keys = guitar.notes.sharps;
     const result = {};
 
+    // Temporary filter for arpeggios/chords
+    const filteredArps = {
+        "dim7": guitar.arppegios.dim7,
+        "minMaj7": guitar.arppegios.minMaj7,
+        "min7b5": guitar.arppegios.min7b5,
+        "add2": guitar.arppegios.add2,
+        "add4": guitar.arppegios.add4
+    };
+
     keys.forEach((key) => {
         result[key] = [];
 
         // 1. Chords (spreading)
-        Object.keys(guitar.arppegios).forEach((ch) => {
+        Object.keys(filteredArps).forEach((ch) => {
             result[key].push({
                 label: `Chord: ${guitar.arppegios[ch].name} in ${key}`,
                 section: "Chords",
@@ -24,50 +33,50 @@ function buildPathsByKey() {
             });
         });
 
-        // 2. Scales (references)
-        Object.keys(guitar.scales).forEach((scale) => {
-            const sc = guitar.scales[scale];
+        // // 2. Scales (references)
+        // Object.keys(guitar.scales).forEach((scale) => {
+        //     const sc = guitar.scales[scale];
 
-            if (sc.isModal) {
-                sc.modes.forEach((m) => {
-                    result[key].push({
-                        label: `Scale: ${sc.name} in ${key} (Mode: ${m.name})`,
-                        section: "Scales",
-                        href: `/spreading/scales/${key.replace('#', 'sharp')}/${scale}/modal/${m.name.toLowerCase().replace(/ /g, '-').replace('#', 'sharp')}`
-                    });
-                });
-            } else {
-                result[key].push({
-                    label: `Scale: ${sc.name} in ${key} (Single)`,
-                    section: "Scales",
-                    href: `/spreading/scales/${key.replace('#', 'sharp')}/${scale}/single`
-                });
-            }
-        });
+        //     if (sc.isModal) {
+        //         sc.modes.forEach((m) => {
+        //             result[key].push({
+        //                 label: `Scale: ${sc.name} in ${key} (Mode: ${m.name})`,
+        //                 section: "Scales",
+        //                 href: `/spreading/scales/${key.replace('#', 'sharp')}/${scale}/modal/${m.name.toLowerCase().replace(/ /g, '-').replace('#', 'sharp')}`
+        //             });
+        //         });
+        //     } else {
+        //         result[key].push({
+        //             label: `Scale: ${sc.name} in ${key} (Single)`,
+        //             section: "Scales",
+        //             href: `/spreading/scales/${key.replace('#', 'sharp')}/${scale}/single`
+        //         });
+        //     }
+        // });
 
-        // 3. Scales (spreading)
-        Object.keys(guitar.scales).forEach((scale) => {
-            const sc = guitar.scales[scale];
+        // // 3. Scales (spreading)
+        // Object.keys(guitar.scales).forEach((scale) => {
+        //     const sc = guitar.scales[scale];
 
-            if (sc.isModal) {
-                sc.modes.forEach((m) => {
-                    result[key].push({
-                        label: `Scale Spread: ${sc.name} in ${key}`,
-                        section: "Scales",
-                        href: `/spreading/scales/${key.replace('#', 'sharp')}/${scale}/modal/${m.name.toLowerCase().replace(/ /g, '-').replace('#', 'sharp')}`
-                    });
-                });
-            } else {
-                result[key].push({
-                    label: `Scale Spread: ${sc.name} in ${key}`,
-                    section: "Scales",
-                    href: `/spreading/scales/${key.replace('#', 'sharp')}/${scale}/single`
-                });
-            }
-        });
+        //     if (sc.isModal) {
+        //         sc.modes.forEach((m) => {
+        //             result[key].push({
+        //                 label: `Scale Spread: ${sc.name} in ${key}`,
+        //                 section: "Scales",
+        //                 href: `/spreading/scales/${key.replace('#', 'sharp')}/${scale}/modal/${m.name.toLowerCase().replace(/ /g, '-').replace('#', 'sharp')}`
+        //             });
+        //         });
+        //     } else {
+        //         result[key].push({
+        //             label: `Scale Spread: ${sc.name} in ${key}`,
+        //             section: "Scales",
+        //             href: `/spreading/scales/${key.replace('#', 'sharp')}/${scale}/single`
+        //         });
+        //     }
+        // });
 
         // 5. Arpeggios (spreading)
-        Object.keys(guitar.arppegios).forEach((arp) => {
+        Object.keys(filteredArps).forEach((arp) => {
             result[key].push({
                 label: `Arpeggio Spread: ${guitar.arppegios[arp].name} in ${key}`,
                 section: "Arpeggios",
@@ -259,7 +268,7 @@ async function mergePDF(key, items) {
 (async () => {
     const grouped = buildPathsByKey();
 
-    const keys = Object.keys(grouped).slice(1); // Only process 'C' for test
+    const keys = Object.keys(grouped); // Only process 'C' for test
     for (const key of keys) {
         console.log(`\n========================`);
         console.log(`📕 GENERATING PDF FOR ${key}`);

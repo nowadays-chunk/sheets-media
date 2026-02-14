@@ -1,0 +1,602 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/j/judds-tabs-5255/johndeeretractor-tabs-579460.html",
+  "title": "John Deere Tractor",
+  "artist": "The Judds",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:01:01.809Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "John Deere Tractor - The Judds"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "**Capo 5th fret**"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A = x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A7 = x02020"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus = x02230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B = x24442(bar chord) or xx4442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7 = x24242(bar chord) or x21202"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C = x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C9 = x32030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#7 = x46464(bar chord)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D = xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/C# = x40232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D9/B = x20230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D9/C = x30230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E = 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E7 = 020100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F# = 244322(bar chord)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#7 = 242322(bar chord)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/F# = 200030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: D D/C# D9/B Asus (x2) D C9-D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dear M"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "ama,"
+            },
+            {
+              "chord": "D9/C",
+              "lyrics": "well here's a letter from your g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "irl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/F#",
+              "lyrics": "Well I t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hink my city days are d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "one gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it a"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "in't been three w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eeks since I c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ame"
+            },
+            {
+              "chord": "C9-D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And M"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "ama,"
+            },
+            {
+              "chord": "D9/C",
+              "lyrics": "I do remember what you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/F#",
+              "lyrics": "Say your p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rayers before you go to b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ed child"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And rem"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "ember city bo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ys ain't the sa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Unlike a J"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "ohn Deere Tractor in a h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alf acre field"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Tryin' to plow a furrow where the s"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oil is made of st"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "eel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How I w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ish I was h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ome mom where the b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lue grass is g"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rowin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "weet country b"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oys don't compl"
+            },
+            {
+              "chord": "A",
+              "lyrics": "a--"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeat intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": "mama,"
+            },
+            {
+              "chord": "D9/C",
+              "lyrics": "so much perfume I thought I'd dr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/F#",
+              "lyrics": "And the L"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ord didn't seem to be nowh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ere around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hey, I f"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "elt just like a f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lower from the v"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Unlike a J"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "ohn Deere Tractor in a h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alf acre field"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Tryin' to plow a furrow where the s"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oil is made of st"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "eel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How I'd l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ike to be h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ome mom where the b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lue grass is g"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rowin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3: (key change then fades out)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'd like a J"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ohn Deere Tractor in a h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "alf acre field"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#7",
+              "lyrics": "Tryin' to plow a furrow where the s"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "oil is made of st"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "eel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How I w"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ish I was h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ome mom where the b"
+            },
+            {
+              "chord": "B",
+              "lyrics": "lue grass is g"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rowin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "weet country b"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "oys don't compl"
+            },
+            {
+              "chord": "B",
+              "lyrics": "a--"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "in"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

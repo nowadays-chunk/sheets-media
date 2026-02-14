@@ -1,0 +1,930 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/s/sergegainsbourg-tabs-41182/jetaimemoinonplus1-tabs-830017.html",
+  "title": "Je t'aime�?� moi non plus",
+  "artist": "Serge Gainsbourg",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:45:33.790Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "C",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "F",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "F",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "C",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "F",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Je t?aime..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "...Je t?aime,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oh, oui je t?"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aime!"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "(Moi non p"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lus!)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "mon a - m"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "our!"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "(Comme la va"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gue"
+            },
+            {
+              "chord": "F",
+              "lyrics": "...irréso -"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lue!)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "Je v"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "ais,"
+            },
+            {
+              "chord": "G7/F",
+              "lyrics": "je va"
+            },
+            {
+              "chord": "C",
+              "lyrics": "is et je viens,"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G11",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "En"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tre tes reins,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G11",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je va"
+            },
+            {
+              "chord": "C",
+              "lyrics": "is et je v"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "iens, en"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tre tes r"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "eins ..."
+            },
+            {
+              "chord": "Em",
+              "lyrics": "et je ..."
+            },
+            {
+              "chord": "F",
+              "lyrics": "me..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...re - t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "iens! Je t?aime..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Je t?aime,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oh, oui je t?a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ime!"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "(Moi"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "non plus!)"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "mon a -"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "mour!"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "Tu es la vague,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "...m"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oi ...l?île"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nue!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "Tu"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "vas,"
+            },
+            {
+              "chord": "G7/F",
+              "lyrics": "tu v"
+            },
+            {
+              "chord": "C",
+              "lyrics": "as et tu viens,"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G11",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ntre mes reins,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G11",
+              "lyrics": "tu v"
+            },
+            {
+              "chord": "C",
+              "lyrics": "as et tu v"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "iens,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "En"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tre mes r"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "eins ..."
+            },
+            {
+              "chord": "Em",
+              "lyrics": "et je ..."
+            },
+            {
+              "chord": "F",
+              "lyrics": "te..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...re - j"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oins! Je t?aime..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Je t?aime,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oh, oui je t?a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ime!"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "(Moi"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "non plus!)"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "mon a -"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "mour!"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "(Comme la vague"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "...irréso -"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lue!)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "Je v"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "ais,"
+            },
+            {
+              "chord": "G7/F",
+              "lyrics": "je va"
+            },
+            {
+              "chord": "C",
+              "lyrics": "is et je viens,"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G11",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "En"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tre tes reins,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G11",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je va"
+            },
+            {
+              "chord": "C",
+              "lyrics": "is et je v"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "iens, en"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tre tes r"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "eins ..."
+            },
+            {
+              "chord": "Em",
+              "lyrics": "et je ..."
+            },
+            {
+              "chord": "F",
+              "lyrics": "me..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...re - t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "iens!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "C",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "F",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "/ / / / | / /"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "C",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "F",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "F",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "/ / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "Tu"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "vas,"
+            },
+            {
+              "chord": "G7/F",
+              "lyrics": "tu v"
+            },
+            {
+              "chord": "C",
+              "lyrics": "as et tu viens,"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G11",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ntre mes reins,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": "tu v"
+            },
+            {
+              "chord": "C",
+              "lyrics": "as et tu v"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "iens,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "En"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tre mes r"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "eins ..."
+            },
+            {
+              "chord": "Em",
+              "lyrics": "et je ..."
+            },
+            {
+              "chord": "F",
+              "lyrics": "te..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...re - j"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oins! Je t?aime..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Je t?aime,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oh, oui je t?a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ime!"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "(Moi"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "non plus!)"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "mon"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "a - mo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ur!"
+            },
+            {
+              "chord": "F",
+              "lyrics": "(L?amour phy - siq"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ue .."
+            },
+            {
+              "chord": "F",
+              "lyrics": ".est sans is - s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ue!)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "Je v"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "ais,"
+            },
+            {
+              "chord": "G7/F",
+              "lyrics": "je va"
+            },
+            {
+              "chord": "C",
+              "lyrics": "is et je viens,"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G11",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "En"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tre tes reins,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je va"
+            },
+            {
+              "chord": "C",
+              "lyrics": "is et je v"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "iens,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "je me re - ti"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ens!"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Non, ...mai"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ntenant..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...vi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ens!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "C",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "F",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "/ / / / | / /"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "/ / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "C",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "F",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "F",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "G",
+              "lyrics": "/ /"
+            },
+            {
+              "chord": "G11",
+              "lyrics": "/ / |"
+            },
+            {
+              "chord": "C",
+              "lyrics": "/ ||"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

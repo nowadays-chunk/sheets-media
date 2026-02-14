@@ -1,0 +1,982 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/a/army-of-freshmen/306170.html",
+  "title": "Juliet",
+  "artist": "Army of Freshmen",
+  "key": "D",
+  "scrapedAt": "2026-02-14T21:10:40.136Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Under The Radar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2006"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Submitted by: paramore_fans@yahoo.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key: D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D - xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A - x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm - x24432"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G - 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em - 022000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/F# - 2x023x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A/C# - x476xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb - x13331"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: D(hold)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "She's an"
+            },
+            {
+              "chord": "D",
+              "lyrics": "angel in the hallway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in the s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tands and at the mall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "see her everywhere I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "go she"
+            },
+            {
+              "chord": "A",
+              "lyrics": "don't see me at all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "erenade her cell phone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "never hit send"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'd"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ask for some a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "dvice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't have any"
+            },
+            {
+              "chord": "A",
+              "lyrics": "friends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I am the one on IM with the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "37 names"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Tonight its Captain Elvis"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lately"
+            },
+            {
+              "chord": "A",
+              "lyrics": "he's been on his game"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "taking up karate and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "saving for a tat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "anyone who's"
+            },
+            {
+              "chord": "A",
+              "lyrics": "anyone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "knows"
+            },
+            {
+              "chord": "G",
+              "lyrics": "girls are into"
+            },
+            {
+              "chord": "A",
+              "lyrics": "that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SHE'S"
+            },
+            {
+              "chord": "D",
+              "lyrics": "SO"
+            },
+            {
+              "chord": "G",
+              "lyrics": "COLD"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "FREEZING LIKE"
+            },
+            {
+              "chord": "G",
+              "lyrics": "DISCO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "OUTLOOK IS"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "SO SO"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ROME"
+            },
+            {
+              "chord": "A",
+              "lyrics": "O"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'M"
+            },
+            {
+              "chord": "D",
+              "lyrics": "BUR"
+            },
+            {
+              "chord": "G",
+              "lyrics": "NING"
+            },
+            {
+              "chord": "D",
+              "lyrics": "COVERED"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "IN"
+            },
+            {
+              "chord": "G",
+              "lyrics": "BLISTERS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "WISH I COULD"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "KISS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "HER"
+            },
+            {
+              "chord": "G",
+              "lyrics": "JULI"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ET JULIET"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "She's the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "picture of perfection"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "legend in my mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "say that only fools"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "rush in Well"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I'm the first in line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "working on my battle"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "plan and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wishing on a star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "doubt that she'd go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "out with me cause"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I don't have a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That I can"
+            },
+            {
+              "chord": "D",
+              "lyrics": "drive around in circles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Does she"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love me does she not?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Either"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "way it doesn't matter"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "cause I'm"
+            },
+            {
+              "chord": "A",
+              "lyrics": "giving it a shot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "not like if she shoots me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "down it's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "headline breaking news"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "I may be a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "loser but"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't have much to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Refrain:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Wide eyed tongue-tied"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb(hold)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "drama like Shakespeare"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "know who she is and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know who I'm not"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "know what it takes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and it's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "not what I got"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But if you s"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tart from the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "heart and you"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "end with a smile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Miracles happen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "every once and while"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cold"
+            },
+            {
+              "chord": "D",
+              "lyrics": "freezing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "disco"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Outlook is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "so-"
+            },
+            {
+              "chord": "D--",
+              "lyrics": "so"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's an"
+            },
+            {
+              "chord": "D",
+              "lyrics": "angel in the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "hallway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "in the s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tands and at the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mall"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "picture of per"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "fection"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "legend in my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mind"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Wide eyed tongue-tied"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb(hold) D(hold)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "drama like Shakespeare"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

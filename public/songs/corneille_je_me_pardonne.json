@@ -1,0 +1,810 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/corneille/221512.html",
+  "title": "Je me pardonne",
+  "artist": "Corneille",
+  "key": null,
+  "scrapedAt": "2026-02-14T20:44:39.286Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "JE ME PARDONNE - Corneille"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Kengus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm7 = xx0211 F = 133211 Dm11/C = x32031 Bb = x13331"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am = x02210 C = x32010 Asus2 = x02200"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 320033 Cadd9 = x32030 E7 = 020100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mille pardons"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ", � quoi bon,"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": "quand on ne pe"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ut plus s"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "e regarder?"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Mille raisons"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ", � quoi bon,"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": "quand on en"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "tous les deux assez, as"
+            },
+            {
+              "chord": "F",
+              "lyrics": "sez"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Je me rends fou, �tre p�"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nalis�"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "Et je confonds tout, �"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "essayer, de d�laisser, me"
+            },
+            {
+              "chord": "F",
+              "lyrics": "consoler"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Je me par"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ne, yea"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": "h"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Je te par"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "donne de n'avoir pas su, com"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ment m'aimer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je me par"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ne, ooo"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": "h,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "je me par"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "donne, de t'avoir laisser"
+            },
+            {
+              "chord": "F",
+              "lyrics": "entrer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je me par"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "donne tout ce qu'on"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "a jamais p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u s'avou"
+            },
+            {
+              "chord": "F",
+              "lyrics": "er, oooh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je me par"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ne,"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "je me par"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "donne"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Cent ans d'ex"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "cuses ne re"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": "fermeront"
+            },
+            {
+              "chord": "C",
+              "lyrics": "pas me"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "s blessures,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oooh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Et"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sans mon a"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "rmure,"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": "sur vivre s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "emble"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "trop dur, tr"
+            },
+            {
+              "chord": "F",
+              "lyrics": "op dur"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "J'ai essay� de nous"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oublier pour mieux recommencer"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "Mais la v�rit� me hante et de"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "mande � t'effac"
+            },
+            {
+              "chord": "F",
+              "lyrics": "er"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(profile.ultimate-guitar.com/Kengus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Je me par"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ne, ooo"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": "h"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Je te par"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "donne de n'avoir pas su, com"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ment m'aimer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je me par"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ne,"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "je me pard"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "onne, de t'avoir laisser"
+            },
+            {
+              "chord": "F",
+              "lyrics": "entrer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je nous par"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "donne, tout ce qu'on"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "a jamais p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u s'avou"
+            },
+            {
+              "chord": "F",
+              "lyrics": "er, oooh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "J'ai tant voulu me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r�concili"
+            },
+            {
+              "chord": "C",
+              "lyrics": "er av"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ec l'amour, avec l'amour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Et j'ai tant bav�, pour"
+            },
+            {
+              "chord": "G",
+              "lyrics": "�chapper,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "� mes vau"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mais le"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "mal est fait, le mal est fait"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je te"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "laisse aller, je te"
+            },
+            {
+              "chord": "G",
+              "lyrics": "laisse aller, e"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nfin, enfin, en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je me par"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ne"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "je te par"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "donne, de n'avoir pas su com"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ment m'aimer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je me par"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ne,"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "je me par"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "donne, de t'avoir laisser"
+            },
+            {
+              "chord": "F",
+              "lyrics": "entrer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je nous par"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "donne tout ce qu'on"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "a jamais p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u s'avou"
+            },
+            {
+              "chord": "F",
+              "lyrics": "er"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je te laisse aller, s'avouer, je me par"
+            },
+            {
+              "chord": "C",
+              "lyrics": "donne"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je te"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "laisse aller, je te"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": "laisse aller,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "je me par"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "donne,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oooh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Je me pa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rdo"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "nne,"
+            },
+            {
+              "chord": "Dm11/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "je me"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "pardonne."
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "========================================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Comment, rate, appreciate!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

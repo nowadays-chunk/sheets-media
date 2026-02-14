@@ -1,0 +1,422 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/dusty-springfield/216478.html",
+  "title": "Just a Little Lovin'",
+  "artist": "Dusty Springfield",
+  "key": null,
+  "scrapedAt": "2026-02-14T21:15:20.092Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just a Little Loving (Barry Mann and Cynthia Weill)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is my attempt at the arrangement on Dusty in Memphis, and is in the correct"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "key. I am surprised there was not already a tab available on the net."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Strings: Cm7 Fm7 Cm7 Fm7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm7",
+              "lyrics": "Just a little"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "loving ,"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "early in th"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "e morning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm7",
+              "lyrics": "beats a cup of cof"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "fee for start"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "ing off the day"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abmaj7",
+              "lyrics": "just a litt"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "le loving whe"
+            },
+            {
+              "chord": "Abmaj7",
+              "lyrics": "n the world is d"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "awning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abmaj7",
+              "lyrics": "makes you wake up feeling"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "happy ,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "a good day i"
+            },
+            {
+              "chord": "Fm7/Bb",
+              "lyrics": "s coming your w"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "his whole world"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "would not b"
+            },
+            {
+              "chord": "Cbmaj7",
+              "lyrics": "e half as bad,"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it wou"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "ld not be"
+            },
+            {
+              "chord": "Ab7",
+              "lyrics": "half as sad if each and"
+            },
+            {
+              "chord": "Dbm7",
+              "lyrics": "everybody in it had."
+            },
+            {
+              "chord": "Bb7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "just a little loving, early in the morning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "then a little something extra"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to kinda see them through"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "nothing turns a day on, really gets it dawning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "like a little bit of loving from someone from someone like you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude (Strings)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "This whole world"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "wouldn?t b"
+            },
+            {
+              "chord": "Cbmaj7",
+              "lyrics": "e half as bad,"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "would not"
+            },
+            {
+              "chord": "Ab7",
+              "lyrics": "be half as sad"
+            },
+            {
+              "chord": "Dbm7",
+              "lyrics": "if each and everybody"
+            },
+            {
+              "chord": "Bb7sus4",
+              "lyrics": "in it had."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2 again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "This whole world"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "would not"
+            },
+            {
+              "chord": "Cbmaj7",
+              "lyrics": "be half as bad,"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb7 Ebm7 Ab7 Dbm7 Bb11 Eb11 (key change)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it would not be half as sad if each and everybody in it had."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm7",
+              "lyrics": "Sing"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "lyri"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "cs to"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "2nd"
+            },
+            {
+              "chord": "11",
+              "lyrics": "Verse over the Outro chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords Cbmaj7 = Bmaj7 Gb= F# Bb11 = Fm7/Bb Bass Eb11 = Bm7/Eb Bass"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Abmaj7(Notes Ab C Eb G) Cbmaj7 (notes Cb Eb Gb Bb)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
