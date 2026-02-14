@@ -1,0 +1,626 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/a/alicecooper-tabs-163/goinghome-tabs-903730.html",
+  "title": "Going Home",
+  "artist": "Alice Cooper",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:59:06.599Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "I'm going home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "There I am there in my b"
+            },
+            {
+              "chord": "E",
+              "lyrics": "edrrom"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "afe and I'm sn"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ug and sh"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "oring"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And so glad to b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "I'm going home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "None of this ever h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "appened"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But G"
+            },
+            {
+              "chord": "G",
+              "lyrics": "od, I r"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "elly did it"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Still nothing has ch"
+            },
+            {
+              "chord": "D",
+              "lyrics": "anged"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "I'm going home"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "I'm going home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To my own ro"
+            },
+            {
+              "chord": "A",
+              "lyrics": "om to all the m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ess"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To all the d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "irty l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aund"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "It looks so good I don't c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm just so gl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ad to b"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e back h"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ome"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Sweet home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I wonder if anyone m"
+            },
+            {
+              "chord": "E",
+              "lyrics": "issed me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ave I been g"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "one so l"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They thought that I'd d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ied"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "How many said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I w"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "onder what happened to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Alice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ow many shr"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ugged or l"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "aughed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How many cr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ied (But I don't give a damn)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "'Cuz I'm going ho"
+            },
+            {
+              "chord": "B",
+              "lyrics": "me"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "I'm going home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To my own ro"
+            },
+            {
+              "chord": "A",
+              "lyrics": "om to all the m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ess"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To all the d"
+            },
+            {
+              "chord": "A",
+              "lyrics": "irty l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aund"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "It looks so good I don't c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm just so gl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ad to b"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e back h"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ome"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sweet h"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ome"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm going home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Nothing can stop me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm going home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Nothing can stop me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm going home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Nothing can st"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "op me n"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "ow"
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oing h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ome"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Nothing can st"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "op me n"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "ow"
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oing h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ome"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Nothing can st"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "op me n"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "ow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "st"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "op m"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "e n"
+            },
+            {
+              "chord": "D#",
+              "lyrics": "ow"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

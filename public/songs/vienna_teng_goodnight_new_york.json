@@ -1,0 +1,598 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/v/vienna-teng/380568.html",
+  "title": "Goodnight New York",
+  "artist": "Vienna Teng",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:26:22.651Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(This is the piano version on the album. The guitar version she recorded as a demo that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "was released as a bonus track is up a half-step.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: B E B F# G#m C#m"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Goodnight, New York New"
+            },
+            {
+              "chord": "E",
+              "lyrics": "York"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodnight, good"
+            },
+            {
+              "chord": "B",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "I'll see you all on the"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "other side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "After I am a differ"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "ent man with differ"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ent eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Goodnight, you canyons"
+            },
+            {
+              "chord": "E",
+              "lyrics": "of steel and"
+            },
+            {
+              "chord": "B",
+              "lyrics": "light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Twist and turn where your alley"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "ways hide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Swayin"
+            },
+            {
+              "chord": "E",
+              "lyrics": "g trains sheltering dreams and little white lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodnight,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "goodnight"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "May you be always heartbreaking"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Take a little more than you"
+            },
+            {
+              "chord": "B",
+              "lyrics": "give"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah but when you give, oh my"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodnight,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "goodnight"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I walk away to remember"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "who I am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Somewhere in the woodland"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Somewhere in"
+            },
+            {
+              "chord": "B",
+              "lyrics": "streams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Little life shuffles into"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "the day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Folded wings into flatten"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "ing veins and flutter"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ing eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Somewhere my lifeline"
+            },
+            {
+              "chord": "E",
+              "lyrics": "still hums and"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sings"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "mess of all I have thrown a"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Hungry now, I am gather"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "ing seeds to"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "throw wide"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodnight,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "goodnight"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "May you be always breathtaking"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cold winter,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sink your teeth in me"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "June sun, beat me blind"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodnight,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "goodnight"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm on my way to remembering"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "who I am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "E",
+              "lyrics": "in your way"
+            },
+            {
+              "chord": "B",
+              "lyrics": "you remain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "You will claim"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "all this space"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "In my way"
+            },
+            {
+              "chord": "B",
+              "lyrics": "I'll remain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Even as it"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "takes my place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "In your life,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "at your side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "You were right"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "say goodnight but it's never"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "goodbye"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodnight,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "goodnight"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodnight,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "goodnight"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodnight,"
+            },
+            {
+              "chord": "B",
+              "lyrics": "goodnight"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "May you always start breaking"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "my heart again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Good morning, lover"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Give me your"
+            },
+            {
+              "chord": "B",
+              "lyrics": "hand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Today begins and it's all that"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "we have"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,642 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/dear-reader/381810.html",
+  "title": "Fox (Take Your Chances)",
+  "artist": "Dear Reader",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:37:06.832Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo on 6th fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "night my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "body ac"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "for your w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "armth un"
+            },
+            {
+              "chord": "D",
+              "lyrics": "der the sh"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ached my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "self aw"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ake"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "opened the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wind"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I got a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "bucket-full"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in the fa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ce"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "snow came"
+            },
+            {
+              "chord": "D",
+              "lyrics": "down in s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "heets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "had to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "have a t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "aste"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "of some that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gathered"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on the s"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do what you"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "wil"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "l"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to make you"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "fee"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "l"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'cos life is"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "dull"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "as s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ost of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "take your"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "chances"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "horizons"
+            },
+            {
+              "chord": "G",
+              "lyrics": "black with"
+            },
+            {
+              "chord": "C",
+              "lyrics": "smoke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "say there"
+            },
+            {
+              "chord": "D",
+              "lyrics": "is no"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hope"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "this is the c"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "oming"
+            },
+            {
+              "chord": "G",
+              "lyrics": "of the l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but he's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "not got"
+            },
+            {
+              "chord": "D",
+              "lyrics": "to us y"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "et"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so maybe"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I should"
+            },
+            {
+              "chord": "G",
+              "lyrics": "read a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "book"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "or"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cover my f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ace with s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "oot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "or I could k"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "iss you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mouth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've always"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wanted"
+            },
+            {
+              "chord": "D",
+              "lyrics": "to do"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do what you"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "wil"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "l"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to make you"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "fee"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "l"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'cos life is d"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ull"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "as s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ost of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "take your"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "chances n"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do what you"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "wil"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "l"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to make you"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "fee"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "l"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'cos life is d"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ull"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "as s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "most of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "take your"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "chances"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

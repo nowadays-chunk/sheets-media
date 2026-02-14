@@ -1,0 +1,466 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/t/the_city_and_horses/i_miss_it_all_crd.html",
+  "title": "I Miss It All",
+  "artist": "The City and Horses",
+  "key": null,
+  "scrapedAt": "2026-02-14T16:23:55.901Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://www.bigvisual.net/thecityandhorses/"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I Miss it All - The City and Horses"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I miss your mom"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I miss your dad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I miss the d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eaf brother"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That I never"
+            },
+            {
+              "chord": "C",
+              "lyrics": "had"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I miss your s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "teps"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the h"
+            },
+            {
+              "chord": "B",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I miss our p"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lans"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For the f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I miss it a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll"
+            },
+            {
+              "chord": "D",
+              "lyrics": ".."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I miss it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I missed the boat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I missed the tr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I missed the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "car"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That took you to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "plane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I missed the s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "igns"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Even when I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "saw"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You change the pi"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ctures"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On the wa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ll"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I missed i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I missed it a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I found a pi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "cture from last y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "That your fri"
+            },
+            {
+              "chord": "D",
+              "lyrics": "end took over he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "re"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "When our lips pr"
+            },
+            {
+              "chord": "A",
+              "lyrics": "essed into one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We couldnt t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ell where you e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nded"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "We couldnt t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ell where you en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ded"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "egun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I miss the good times"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "That youve forgotten"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I miss Turkheim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I miss Groton"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I miss the fight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "In the mall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I miss the whole"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Debacle"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "miss it all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I miss it all"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

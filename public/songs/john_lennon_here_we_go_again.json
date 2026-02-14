@@ -1,0 +1,566 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/john-lennon/348432.html",
+  "title": "Here We Go Again",
+  "artist": "John Lennon",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:10:03.112Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here We Go Again chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "John Lennon 1986 (Menlove Ave. album, posthumous release)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo II"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here we go a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gain"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here we go again and a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gain"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wondering"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "how it"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "all began"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wondering will it"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ever end"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Round and round we"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "go"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where it's going,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "nobody knows"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Though I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "know we've been this"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "place before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Someone keeps on"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "moving the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "door"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or the chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G Em G 2x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D G D 2x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Here we"
+            },
+            {
+              "chord": "C",
+              "lyrics": "go agai-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ai-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here we go agai-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here we"
+            },
+            {
+              "chord": "C",
+              "lyrics": "go agai-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ai-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here we go agai-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "So I say hel"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lo again"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And nobody"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gives a damn"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And no"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "body wants to"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hold your hand"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Everyone is an"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "also-ran"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Round and round we"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "go"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where it's going,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "nobody knows"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Though I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "know we've been this"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "place before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Someone keeps on"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "moving the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "door"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or the chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G Em G 2x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D G D 2x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Here we"
+            },
+            {
+              "chord": "C",
+              "lyrics": "go agai-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ai-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here we go agai-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here we"
+            },
+            {
+              "chord": "C",
+              "lyrics": "go agai-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ai-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here we go agai-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Round and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "round we"
+            },
+            {
+              "chord": "D",
+              "lyrics": "go-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oh-oh-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Round and round we"
+            },
+            {
+              "chord": "C",
+              "lyrics": "go-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh . . ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Set8"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

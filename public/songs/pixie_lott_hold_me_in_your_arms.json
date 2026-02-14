@@ -1,0 +1,658 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/p/pixielott-tabs-32207/holdmeinyourarms1-tabs-839095.html",
+  "title": "Hold Me in Your Arms",
+  "artist": "Pixie Lott",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:38:02.614Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard Tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D, E, G, D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Watching the world float on by"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can say"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I'm alright"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Watching the sun light the moo"
+            },
+            {
+              "chord": "E",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the day"
+            },
+            {
+              "chord": "G",
+              "lyrics": "turns to night"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And he says"
+            },
+            {
+              "chord": "D",
+              "lyrics": "don't you know I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "love you?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Don't you know you're"
+            },
+            {
+              "chord": "D",
+              "lyrics": "beautiful?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He"
+            },
+            {
+              "chord": "D",
+              "lyrics": "says everyday is"
+            },
+            {
+              "chord": "E",
+              "lyrics": "special"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You have made me believe"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms 'cause I'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "falling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms while we're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sleeping"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dreaming of soft cotton"
+            },
+            {
+              "chord": "E",
+              "lyrics": "clouds"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I feel"
+            },
+            {
+              "chord": "G",
+              "lyrics": "close to you no"
+            },
+            {
+              "chord": "D",
+              "lyrics": "w"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Dreaming of candy and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "chocolate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bad girls not all"
+            },
+            {
+              "chord": "D",
+              "lyrics": "owed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And he say"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s as he thinks I'm"
+            },
+            {
+              "chord": "E",
+              "lyrics": "sleeping"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "He whispers girl, you a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "re the one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Never thought I could"
+            },
+            {
+              "chord": "E",
+              "lyrics": "feel this way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Girl, you made me bel"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ieve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms 'cause I'm f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms while we're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sleeping"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge: (No actual chord progression in this part according to the song,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "only the bass and piano had some sort of riff going on. So I matched"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "up the chords with what I felt corresponded with the riff the best)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Though I'm a little scared"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "that all the times we shared"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Almost too perfect to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ever"
+            },
+            {
+              "chord": "A",
+              "lyrics": "last"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And when I'm lying here"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "and you are holding me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I know the fear in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me will pass"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(no chord)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hold me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus: (Lyrics not accurate, altered to keep tempo of chord changes)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Pixie's vocals)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms 'cause I'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "falling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms while we're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sleeping"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Backup vocals)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms ("
+            },
+            {
+              "chord": "G",
+              "lyrics": "tonight)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms while we're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sleeping"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Pixie's vocals)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hold"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arms"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

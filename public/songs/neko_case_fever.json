@@ -1,0 +1,486 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/n/nekocase-tabs-30392/fever-tabs-258125.html",
+  "title": "Fever",
+  "artist": "Neko Case",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:37:26.133Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo at 4th fret (all chords relative to capo)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For the G* chord, play it with the \"e\" string open."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(something like this)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "IN AN OPEN FIELD AT DUSK"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "TO FOOTFALLS I AWOKE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "MARCHING ANTS ACROSS MY TEMPLES, OH"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "THEIR FEET HAD NO INTENTION"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "THEY FOLLOWED SOME MAGNETIC DRUM"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "PRISONERS OF THEIR"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "DESTINA"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "TION"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "WHERE ONCE THEY DID MAKE RAILS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OLD DEATH'S PECULIAR SONGS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "HE DIDN'T"
+            },
+            {
+              "chord": "C",
+              "lyrics": "KNOW I WAS"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "LISTENING"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "SO HE CROWED OUT NICE AND LONG"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am G*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "TO THE SPIDERS AND THE LUMBER AND THE DUST"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OF HIS"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "CONQUESTS AND HIS"
+            },
+            {
+              "chord": "D",
+              "lyrics": "HUNGER, HIS"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "LUST"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I HEARD HIS FEET REJOICE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I HEARD HIM TAP HIS CANE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "AS"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "IF HE HAD HIS OWN REVIEW"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ON STAGE AT THE"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ATHENAEUM"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em G*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I CAUGHT HIS WORDS WITH MY OPEN MOUTH"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em G*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I GAGGED AND CHOKED AND SPIT THEM OUT"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em G*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I HEARD HIM TURN AS HE DID HEAR"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "MY"
+            },
+            {
+              "chord": "C",
+              "lyrics": "TINY HEARTBEAT"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "IN HIS EAR"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I WAS ALREADY RUNNING"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I HEARD HIM COMING"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 5:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em G*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SHRAPNEL SPITTING FROM HIS WHEELS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em G*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "HIS SCYTHING ARMS RAKE FOR MY HEELS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em G*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I DOVE AND ROLLED AND HID MY FACE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "AND I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "SAID THESE MAGIC"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "WORDS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "\"MY DOVE IS HOME, HER"
+            },
+            {
+              "chord": "C",
+              "lyrics": "BREAST IS WARM, MY"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "DOVE IS HOME\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I SAID THESE MAGIC WORDS AND"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "FELL"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "DOWN, DOWN, THE ANTHILL"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "FOR DAYS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "\"MY DOVE IS HOME, HER"
+            },
+            {
+              "chord": "C",
+              "lyrics": "BREAST IS WARM, MY"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "DOVE IS HOME\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "\"MY DOVE IS HOME, HER"
+            },
+            {
+              "chord": "C",
+              "lyrics": "BREAST IS WARM, MY"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "DOVE IS HOME\""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

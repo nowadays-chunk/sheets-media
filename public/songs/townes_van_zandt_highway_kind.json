@@ -1,0 +1,438 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/t/townes_van_zandt/highway_kind_crd_ver_2.html",
+  "title": "Highway Kind",
+  "artist": "Townes Van Zandt",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:29:18.367Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "HIGHWAY KIND - Townes Van Zandt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Miller"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Em Em9 C D Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "My days they are the h"
+            },
+            {
+              "chord": "Em9",
+              "lyrics": "ighway kind, they o"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nly co"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me to le"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ave."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The leaving I don't m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ind, it's the comi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ng tha"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t I crav"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Pour the sun u"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "pon the ground,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "stand to throw a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sha"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "dow."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Watch it grow"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "into the night and f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eel the s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pinning s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ky."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Time among the"
+            },
+            {
+              "chord": "Em9",
+              "lyrics": "pine trees, it felt"
+            },
+            {
+              "chord": "C",
+              "lyrics": "like"
+            },
+            {
+              "chord": "D",
+              "lyrics": "breath o"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "f air."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Usually I just"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "walk this streets"
+            },
+            {
+              "chord": "C",
+              "lyrics": "and t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ell myse"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lf to care."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Sometimes I be"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lieve me;"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sometimes"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I don't"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "hear."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Sometimes the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "shape I'm in,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "won't l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "et me go"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I don't know too"
+            },
+            {
+              "chord": "Em9",
+              "lyrics": "much for true but my he"
+            },
+            {
+              "chord": "C",
+              "lyrics": "art knows h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow to po"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "und."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "My legs know how to l"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ove someone; my vo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ice knows ho"
+            },
+            {
+              "chord": "D",
+              "lyrics": "w to sou"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nd."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Shame that it's not"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "enough; s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hame that"
+            },
+            {
+              "chord": "C",
+              "lyrics": "it is a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "shame."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Follow the cir"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "cle down, wher"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e would"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you be?"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "You're the only o"
+            },
+            {
+              "chord": "Em9",
+              "lyrics": "ne I want and I've neve"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r hear"
+            },
+            {
+              "chord": "D",
+              "lyrics": "d your n"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ame."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Let's hope we meet"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "someday, if"
+            },
+            {
+              "chord": "C",
+              "lyrics": "we don't it'"
+            },
+            {
+              "chord": "D",
+              "lyrics": "s all th"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e same."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'll meet the ones"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "between us"
+            },
+            {
+              "chord": "D",
+              "lyrics": ", and be t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hinking"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "about you;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "and all the places"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "I have seen and w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hy you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "were not"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "there."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS:"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

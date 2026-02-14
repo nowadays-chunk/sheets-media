@@ -1,0 +1,786 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/j/jameskeelaghan-tabs-48432/houseofcards1-tabs-848695.html",
+  "title": "House Of Cards",
+  "artist": "James Keelaghan",
+  "key": null,
+  "scrapedAt": "2026-02-14T11:10:35.374Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO: 3rd Fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO: F C G Am (4x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Easy"
+            },
+            {
+              "chord": "C",
+              "lyrics": "credit,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "no money"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "That's the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "way that we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "built this"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "town"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "F",
+              "lyrics": "banker's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ledger, we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "watched it"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "rise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "house of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cards and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pack of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "house of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cards and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pack of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lies"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Rung by"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rung they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "raised the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "stakes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "F",
+              "lyrics": "bend the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rules and the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "batter"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "breaks"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We"
+            },
+            {
+              "chord": "F",
+              "lyrics": "all get"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wealthy, but will we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ever get"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "house of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cards and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pack of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "house of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cards and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pack of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lies"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They"
+            },
+            {
+              "chord": "F",
+              "lyrics": "sold you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "plastic and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "took your"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "F",
+              "lyrics": "suits and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ties and the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "joker's"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "F",
+              "lyrics": "now there's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nowhere"
+            },
+            {
+              "chord": "G",
+              "lyrics": "left to"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Than a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "house of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cards and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pack of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "house of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cards and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pack of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INSTRUMENTAL: C G Am F C G Am F C G Am F C G Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "F",
+              "lyrics": "times were"
+            },
+            {
+              "chord": "C",
+              "lyrics": "easy, we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "did the d"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We"
+            },
+            {
+              "chord": "F",
+              "lyrics": "placed out"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bets, but they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "spun the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wheel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And we"
+            },
+            {
+              "chord": "F",
+              "lyrics": "should have"
+            },
+            {
+              "chord": "C",
+              "lyrics": "known there"
+            },
+            {
+              "chord": "G",
+              "lyrics": "was no"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "prize"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "house of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cards and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pack of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "house of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cards and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pack of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTERLUDE: F C G Am F C G Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Smoke and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mirrors, the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "market"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "crash"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We"
+            },
+            {
+              "chord": "F",
+              "lyrics": "burnt it"
+            },
+            {
+              "chord": "C",
+              "lyrics": "down to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stone and"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ash"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lit the f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ires of our"
+            },
+            {
+              "chord": "G",
+              "lyrics": "own de"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "mise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "house of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cards and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pack of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "house of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cards and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pack of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTERLUDE: F C G Am F C G Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "We bought that"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dream and we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sold it"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ain't worth"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nothing, now the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "money's"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "F",
+              "lyrics": "only"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shelter that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "grati"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "fies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "house of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cards and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pack of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "house of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cards and a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pack of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lies"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

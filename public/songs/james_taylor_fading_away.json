@@ -1,0 +1,850 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/james-taylor/75686.html",
+  "title": "Fading Away",
+  "artist": "James Taylor",
+  "key": null,
+  "scrapedAt": "2026-02-14T04:56:20.432Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "First effort."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tab by Chris Darrouzet-Nardi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I got"
+            },
+            {
+              "chord": "G",
+              "lyrics": "something to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "say"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don?t I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "always let you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So that"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "you and I can"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go my way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Forev ?"
+            },
+            {
+              "chord": "D",
+              "lyrics": "?ver"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And if I get"
+            },
+            {
+              "chord": "G",
+              "lyrics": "carried"
+            },
+            {
+              "chord": "A",
+              "lyrics": "away"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I could"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sailing on a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "maybe we could"
+            },
+            {
+              "chord": "G",
+              "lyrics": "carry on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Forev ?"
+            },
+            {
+              "chord": "D",
+              "lyrics": "? ver"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lately"
+            },
+            {
+              "chord": "A",
+              "lyrics": "this old dog"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Has been cha ?"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "- sing his tail"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Round and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "round and round"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "circles"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They have been"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "winding"
+            },
+            {
+              "chord": "D",
+              "lyrics": "slowly"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Down"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Everybody?s bree -"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "? zing up,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I?m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "seizing up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I?m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "freezing up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I?m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fading,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "fading a ?"
+            },
+            {
+              "chord": "D",
+              "lyrics": "? way."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, I got a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "night in June"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I got"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "room for you and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I got"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "moonlight up in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "trees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I got"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sixty-eight de ?"
+            },
+            {
+              "chord": "D",
+              "lyrics": "? grees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I got"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nothing on"
+            },
+            {
+              "chord": "A",
+              "lyrics": "my mind"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I got"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "loving in my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I got"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "something out in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "garden"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "show"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Well, it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "doesn?t really"
+            },
+            {
+              "chord": "D",
+              "lyrics": "matter after ?"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "? all"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "quit this"
+            },
+            {
+              "chord": "A",
+              "lyrics": "round ?"
+            },
+            {
+              "chord": "D",
+              "lyrics": "? about"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?Cause"
+            },
+            {
+              "chord": "G",
+              "lyrics": "no one will"
+            },
+            {
+              "chord": "A",
+              "lyrics": "really no ?"
+            },
+            {
+              "chord": "D",
+              "lyrics": "? tice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If we just"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sit this"
+            },
+            {
+              "chord": "D",
+              "lyrics": "next one out"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, you can"
+            },
+            {
+              "chord": "G",
+              "lyrics": "strike up the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "band with ?"
+            },
+            {
+              "chord": "D",
+              "lyrics": "? out me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You may"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "have your doubts"
+            },
+            {
+              "chord": "G",
+              "lyrics": "about me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I?m just"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "fading a ?"
+            },
+            {
+              "chord": "D",
+              "lyrics": "? way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "hardly even"
+            },
+            {
+              "chord": "G",
+              "lyrics": "see me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?Cause I?m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "fading away."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "solo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, it?s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hard to"
+            },
+            {
+              "chord": "B",
+              "lyrics": "find a la ?"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bel,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For this"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "feeling in my"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bones."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If this is"
+            },
+            {
+              "chord": "A",
+              "lyrics": "all a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "make be ?"
+            },
+            {
+              "chord": "E",
+              "lyrics": "? lieve,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But my"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "cards are"
+            },
+            {
+              "chord": "E",
+              "lyrics": "on the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "table"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And there ain?t"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "nothing up"
+            },
+            {
+              "chord": "E",
+              "lyrics": "my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sleeve"
+            },
+            {
+              "chord": "E",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And here I thought I was a"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "thinking man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I?m a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "shrinking man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I?m"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "sinking man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I?m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "fading, I?m"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fading away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, it?s"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "really not so"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bad to be"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "fading a ?"
+            },
+            {
+              "chord": "E",
+              "lyrics": "? way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "C?mon along with"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me and we?ll go"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "fading away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "hardly even"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hear me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?Cause I?m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "fading"
+            },
+            {
+              "chord": "E",
+              "lyrics": "away"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

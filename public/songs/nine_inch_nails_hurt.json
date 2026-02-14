@@ -1,0 +1,582 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/n/nine_inch_nails/hurt_crd_ver_2.html",
+  "title": "Hurt",
+  "artist": "Nine Inch Nails",
+  "key": null,
+  "scrapedAt": "2026-02-14T12:26:28.863Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "THE DOWNWARD SPIRAL"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Versions of Chords Used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can also substitue Bm for the B5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here is the main riff:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "I"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "Hurt m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "yself tod"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "see if I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "still f"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "eel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "I"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "focus"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "on the"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "the only"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "thing thats"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "real"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The needle tears a hole"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The old familiar sting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Try to kill it all away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I remember every..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "thi"
+            },
+            {
+              "chord": "/",
+              "lyrics": "ng"
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "G5",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": "Wha"
+            },
+            {
+              "chord": "/",
+              "lyrics": "t h"
+            },
+            {
+              "chord": "/",
+              "lyrics": "ave"
+            },
+            {
+              "chord": "/",
+              "lyrics": "I b"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "eco"
+            },
+            {
+              "chord": "/",
+              "lyrics": "me"
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": "My"
+            },
+            {
+              "chord": "/",
+              "lyrics": "swe"
+            },
+            {
+              "chord": "/",
+              "lyrics": "etest friend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": "Eve"
+            },
+            {
+              "chord": "/",
+              "lyrics": "ryo"
+            },
+            {
+              "chord": "/",
+              "lyrics": "ne"
+            },
+            {
+              "chord": "/",
+              "lyrics": "I Kn"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "ow"
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": "goe"
+            },
+            {
+              "chord": "/",
+              "lyrics": "s away"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "i"
+            },
+            {
+              "chord": "/",
+              "lyrics": "n t"
+            },
+            {
+              "chord": "/",
+              "lyrics": "he"
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "You could have it"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "My Empire of"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "Dirt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "I will let you"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "I will make"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "you..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Hurt"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wear this crown of shit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Upon my liars chair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Full of broken thoughts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I cannot repair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Beneath the stains of time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The feelings disappear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You are someone else"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am still right here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "If I could start"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "A million miles"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "I would keep"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "myself"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "I would find a..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Heavy Distortion, Let Ring)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "way"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

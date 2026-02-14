@@ -1,0 +1,618 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.xguitar.com/guitar-tabs/elton_john/dont_shoot_me_im_only_the_piano_player/high_flying_bird.txt",
+  "title": "High Flying Bird",
+  "artist": "Elton John",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:24:58.038Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "High-Flying Bird"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "by Elton John & Bernie Taupin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Taken from \"Don't Shoot Me, I'm Only the Piano Player\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Note: This song was originally played in Ab. I have shifted it down one key to make it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "easier to play and sing. If you want it back in its original key, you can always use a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "capo or transpose back up."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(G Fma7 C Fma7 C) x 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You wore a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "little cross of gold around your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "neck,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "saw it as you flew between my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "reasons,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "raven in the night time when you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "left."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wear a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "chain upon my wrist that bears no"
+            },
+            {
+              "chord": "C",
+              "lyrics": "name,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You touched it and you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wore it,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "kept it in your pillow all the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "same."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My high-flying"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bird has flown from out my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "arms,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I thought myself her"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "keeper,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She thought I meant her"
+            },
+            {
+              "chord": "D",
+              "lyrics": "harm,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She thought I was the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "archer,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A weather man of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "words,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I could never"
+            },
+            {
+              "chord": "Fma7",
+              "lyrics": "shoot down,"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My high-flying"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bird."
+            },
+            {
+              "chord": "Fma7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fma7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G",
+              "lyrics": "white walls of your dressing room are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "stained in scarlet red."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bled upon the cold stone like a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "young man,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "In the foreign field of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "death."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Wouldn't it be wonderful is"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all I heard you say,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You never"
+            },
+            {
+              "chord": "G",
+              "lyrics": "closed your eyes at night and learned to love"
+            },
+            {
+              "chord": "D",
+              "lyrics": "daylight,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Instead you moved"
+            },
+            {
+              "chord": "C",
+              "lyrics": "away."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My high-flying"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bird has flown from out my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "arms,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I thought myself her"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "keeper,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She thought I meant her"
+            },
+            {
+              "chord": "D",
+              "lyrics": "harm,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She thought I was the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "archer,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A weather man of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "words,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I could never"
+            },
+            {
+              "chord": "Fma7",
+              "lyrics": "shoot down,"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My high-flying"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bird has flown from out my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "arms,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I thought myself her"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "keeper,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She thought I meant her"
+            },
+            {
+              "chord": "D",
+              "lyrics": "harm,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She thought I was the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "archer,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A weather man of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "words,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I could never"
+            },
+            {
+              "chord": "Fma7",
+              "lyrics": "shoot down,"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My high-flying"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bird."
+            },
+            {
+              "chord": "Fma7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fma7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "G",
+              "lyrics": "high-flying, high-flying"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bird."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "G",
+              "lyrics": "high-flying, high-flying"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bird."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "G",
+              "lyrics": "high-flying, high-flying"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bird."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is probably my favorite song on the \"Don't Shoot Me\" album."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hope you enjoyed it as much as I did."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by He-Man Dan, the proud founder of the Anti-Cat Society and He-Man's Cat Exterminators."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

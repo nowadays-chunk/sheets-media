@@ -1,0 +1,342 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/alanis-morissette/head-over-feet",
+  "title": "Head Over Feet",
+  "artist": "Alanis Morissette",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:32:49.920Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Head over feet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "DISTORTED GUITAR"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verses: Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C: 335553 D: 557775"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 355433 Bm: 224432"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am: 577555 A: 577655 or 002220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F: 133211 Bb: 113331"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Notation legend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^ --> upstroke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "v --> downstroke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ --> slide up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\\ --> slide down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "!*! --> turn your guitar from distorted to clean (in verse 6))"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "$#$ --> turn your guitar from clean to distorted (after verse 6)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "+ . +"
+            },
+            {
+              "chord": "G",
+              "lyrics": ". + . + ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": "+ . +"
+            },
+            {
+              "chord": "F",
+              "lyrics": ". + . + ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "v ^ v ^ v ^ v ^"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I had no choice but to hear you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "+ . +"
+            },
+            {
+              "chord": "G",
+              "lyrics": ". + . + ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": "+ . +"
+            },
+            {
+              "chord": "F",
+              "lyrics": ". + . + ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "v ^ v ^ v ^ v v ^"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "+ . +"
+            },
+            {
+              "chord": "G",
+              "lyrics": ". + . + ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": "+ . +"
+            },
+            {
+              "chord": "F",
+              "lyrics": ". + . + ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "v ^ v ^ v ^ v ^"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I thought a---bout it."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "+ . +"
+            },
+            {
+              "chord": "G",
+              "lyrics": ". + . + ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": "+ . +"
+            },
+            {
+              "chord": "F",
+              "lyrics": ". + . + ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "v ^ v v ^ v ^ v v ^"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You treat me like I'm a princess"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "+ . +"
+            },
+            {
+              "chord": "G",
+              "lyrics": ". + . + ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": "+ . +"
+            },
+            {
+              "chord": "F",
+              "lyrics": ". + . + ."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "v ^ v v ^ v ^ v"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm not used to liking that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "+ . +"
+            },
+            {
+              "chord": "G",
+              "lyrics": ". + . + ."
+            },
+            {
+              "chord": "Am",
+              "lyrics": "+ . +"
+            },
+            {
+              "chord": "F",
+              "lyrics": ". + . + ."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

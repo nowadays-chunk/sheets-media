@@ -50,3 +50,49 @@ export const checkMatch = (chordNotes, targetNotes) => {
     if (!chordNotes?.length || !targetNotes?.length) return false;
     return chordNotes.every(note => targetNotes.includes(note));
 };
+
+/**
+ * Gets the note name for a given index.
+ * @param {number} index - 0-11
+ * @returns {string}
+ */
+export const getNoteName = (index) => guitar.notes.sharps[index % 12];
+
+/**
+ * Maps semitone distance to interval notation (1, b3, 3, etc.)
+ */
+const semitoneToInterval = {
+    0: "1", 1: "b2", 2: "2", 3: "b3", 4: "3", 5: "4", 6: "b5", 7: "5", 8: "b6", 9: "6", 10: "b7", 11: "7"
+};
+
+export const getIntervalName = (semitones) => semitoneToInterval[semitones % 12];
+
+/**
+ * Compares two sets of notes and returns common and differing notes.
+ */
+export const getAnalysis = (notes1, notes2, root1, root2) => {
+    const set1 = new Set(notes1);
+    const set2 = new Set(notes2);
+
+    const common = notes1.filter(n => set2.has(n));
+    const only1 = notes1.filter(n => !set2.has(n));
+    const only2 = notes2.filter(n => !set1.has(n));
+
+    // Calculate intervals relative to their respective roots
+    const intervals1 = notes1.map(n => (n - root1 + 12) % 12);
+    const intervals2 = notes2.map(n => (n - root2 + 12) % 12);
+
+    // Relative to root1 (the main pivot)
+    const commonIntervals = common.map(n => getIntervalName((n - root1 + 12) % 12));
+    const only1Intervals = only1.map(n => getIntervalName((n - root1 + 12) % 12));
+    const only2Intervals = only2.map(n => getIntervalName((n - root1 + 12) % 12));
+
+    return {
+        commonNotes: common.map(getNoteName),
+        only1Notes: only1.map(getNoteName),
+        only2Notes: only2.map(getNoteName),
+        commonIntervals,
+        only1Intervals,
+        only2Intervals
+    };
+};

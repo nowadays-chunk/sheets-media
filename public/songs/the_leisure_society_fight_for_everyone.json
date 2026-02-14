@@ -1,0 +1,586 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/the-leisure-society/377868.html",
+  "title": "Fight for Everyone",
+  "artist": "The Leisure Society",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:40:16.037Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Sam de Brunner"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo: 5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords relative to capo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F C Am G (X3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F C G Am C (one strum of C)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "F"
+            },
+            {
+              "chord": "C",
+              "lyrics": "C"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "G A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "m C (one strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you're"
+            },
+            {
+              "chord": "F",
+              "lyrics": "saved by the ring of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is it"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hard to relax when you're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "told that you can never fail?"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Has the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "spit that you spit from your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "teeth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Been"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "replaced by a taste that has"
+            },
+            {
+              "chord": "G",
+              "lyrics": "all but lost its novelty"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You don't need to"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "change"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You just need"
+            },
+            {
+              "chord": "F",
+              "lyrics": "fire and a little"
+            },
+            {
+              "chord": "G",
+              "lyrics": "faith"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "In order to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "get what you want done"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", you must"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fight for everyone"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "In order to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "get to what you needed"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", you spend"
+            },
+            {
+              "chord": "G",
+              "lyrics": "time and nothing much"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "moral is you live and learn"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "barb in your heart in a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "world on which we turn"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it"
+            },
+            {
+              "chord": "F",
+              "lyrics": "seems you see what you mean"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "say last train and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sold and rolling over me"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You don't need to"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "change"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You just need"
+            },
+            {
+              "chord": "F",
+              "lyrics": "fire and a little"
+            },
+            {
+              "chord": "G",
+              "lyrics": "faith"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "In order to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "get what you want done"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", you must"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fight for everyone"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "In order to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "get to what you needed"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", you spend"
+            },
+            {
+              "chord": "G",
+              "lyrics": "time and nothing much"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "F"
+            },
+            {
+              "chord": "C",
+              "lyrics": "C"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Am"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "G"
+            },
+            {
+              "chord": "C",
+              "lyrics": "(X3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F C G Am C (one strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "F"
+            },
+            {
+              "chord": "C",
+              "lyrics": "C"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "G A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "m C (one strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "In order to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "get what you want done"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", you must"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fight for everyone"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "In order to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "get to what you needed"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ", you spend"
+            },
+            {
+              "chord": "G",
+              "lyrics": "time and nothing much"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "moral is you live and learn"
+            },
+            {
+              "chord": "C",
+              "lyrics": "."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

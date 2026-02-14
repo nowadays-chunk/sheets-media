@@ -1,0 +1,638 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/miles-kane/350221.html",
+  "title": "First of My Kind",
+  "artist": "Miles Kane",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:54:08.939Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "First Of My Kind EP"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "First Of My Kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard (EADGBE)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 3rd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em| 022000 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Emaj7| 021000 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7| 020000 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A| X02220 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm| X24432 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G| 32003X |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C| X3203X |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro - Em Emaj7 Em7 Emaj7 Em x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "True Ro"
+            },
+            {
+              "chord": "Emaj7",
+              "lyrics": "mance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "is what Im af"
+            },
+            {
+              "chord": "Emaj7",
+              "lyrics": "ter darling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "As it"
+            },
+            {
+              "chord": "Emaj7",
+              "lyrics": "stands"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "pursuit Im cruising"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Crawling through like midnight panthers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "growling at the mo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Im on higher g"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "round"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "youre the l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ast of your k"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "all in good"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "time youll f"
+            },
+            {
+              "chord": "Emaj7",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "that Im the first of m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "my kind m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "y kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "yeah Im the first of m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "my kind my k"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "sub-zer"
+            },
+            {
+              "chord": "Emaj7",
+              "lyrics": "o"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I know youre as co"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ld as ice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "kiss gives me frost bite"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it seems like you cant get e"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Im on higher g"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "round"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "youre the l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ast of your k"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "all in good"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "time youll f"
+            },
+            {
+              "chord": "Emaj7",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "that im the first of m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "my kind m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "y kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "yeah im the first of m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "my kind my k"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "those exploding r"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tinted specta"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "cles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in the back of my m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Chinese whispers floa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ting round"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "heaven"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "knows"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Im the first of my k"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Im on higher g"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "round"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "your the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "last of your"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "all in good"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "time youll f"
+            },
+            {
+              "chord": "Emaj7",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "that im the first of m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "my kind m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "y kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "yeah im the first of m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "my kind m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "y kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "yeah im the first of m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "my kind my kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "my kind my kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "yeah im the first of m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "my kind my kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "my kind my kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

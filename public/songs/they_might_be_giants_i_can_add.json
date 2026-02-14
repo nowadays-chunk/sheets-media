@@ -1,0 +1,386 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/they-might-be-giants/232566.html",
+  "title": "I Can Add",
+  "artist": "They Might Be Giants",
+  "key": null,
+  "scrapedAt": "2026-02-14T12:59:50.848Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Paper"
+            },
+            {
+              "chord": "D",
+              "lyrics": "out,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "pencils"
+            },
+            {
+              "chord": "D",
+              "lyrics": "raised."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "One plus one is"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "two,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Two plus two is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "four,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Four plus four is"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eight,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eight plus eight is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sixteen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can"
+            },
+            {
+              "chord": "G",
+              "lyrics": "add,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "I can"
+            },
+            {
+              "chord": "C",
+              "lyrics": "add,"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can"
+            },
+            {
+              "chord": "G",
+              "lyrics": "add,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "I can"
+            },
+            {
+              "chord": "C",
+              "lyrics": "add."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't even know Spanish, but I'm gonna sing it in Spanish now!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Uno mas uno es"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "dos,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Dos mas dos son"
+            },
+            {
+              "chord": "D",
+              "lyrics": "cuatro,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Cuatro mas cuatro son"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ocho,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Ocho mas ocho son di"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eciseis."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can"
+            },
+            {
+              "chord": "G",
+              "lyrics": "add,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "I can"
+            },
+            {
+              "chord": "C",
+              "lyrics": "add,"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can"
+            },
+            {
+              "chord": "G",
+              "lyrics": "add,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "I can"
+            },
+            {
+              "chord": "C",
+              "lyrics": "add."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Two kids counting plus one kid counting,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "Equals three kids counting."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Three kids counting plus one kid counting,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Equals four kids counting."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "One plus one is"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "two,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Two plus two is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "four,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Four plus four is"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eight,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eight plus eight is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sixteen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can"
+            },
+            {
+              "chord": "G",
+              "lyrics": "add,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "I can"
+            },
+            {
+              "chord": "C",
+              "lyrics": "add,"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can"
+            },
+            {
+              "chord": "G",
+              "lyrics": "add,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "I can"
+            },
+            {
+              "chord": "C",
+              "lyrics": "add."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All right. Two plus one is three. Three plus one is four. And four plus one is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "five. I'm getting it, I'm getting good at this!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/guildo-horn/302393.html",
+  "title": "Guildo hat Euch lieb",
+  "artist": "Guildo Horn",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:48:06.970Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Guildo hat euch"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "lieb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "und wenn es auch mal Tr"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

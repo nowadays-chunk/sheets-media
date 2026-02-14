@@ -1,0 +1,610 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/f/flaming-lips/33638.html",
+  "title": "Fight Test",
+  "artist": "The Flaming Lips",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:40:50.275Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: Fight Test"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Yoshimi Battles the Pink Robots"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed By: Daniel Paul"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Tabbed for Acoustic Guitar)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Based on the A Major Scale"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "/ \\ / \\ /"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "/ \\ / \\ /"
+            },
+            {
+              "chord": "D/F",
+              "lyrics": "/ \\ / \\ /"
+            },
+            {
+              "chord": "E",
+              "lyrics": "/ \\ / \\ /"
+            },
+            {
+              "chord": "A",
+              "lyrics": "/ \\ / \\ /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m E FILL I: FILL II:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ \\ /\\ / / \\ /\\ / / \\ /\\ / / \\ /\\ / / \\ /\\ /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "/ \\ /\\ /"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "/ \\ /\\ /"
+            },
+            {
+              "chord": "D",
+              "lyrics": "/ \\ /\\ /"
+            },
+            {
+              "chord": "E",
+              "lyrics": "/ \\ /\\ /"
+            },
+            {
+              "chord": "A",
+              "lyrics": "/ \\ /\\ /"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "/ \\ /\\ /"
+            },
+            {
+              "chord": "E",
+              "lyrics": "FILL I:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "/ \\ /\\ /"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "/ \\ /\\ /"
+            },
+            {
+              "chord": "D",
+              "lyrics": "/ \\ /\\ /"
+            },
+            {
+              "chord": "E",
+              "lyrics": "/ \\ /\\ /"
+            },
+            {
+              "chord": "A",
+              "lyrics": "/ \\ /\\ /"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "/ \\ /\\ /"
+            },
+            {
+              "chord": "E",
+              "lyrics": "FILL I&II:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "/ \\/\\/\\/\\"
+            },
+            {
+              "chord": "E",
+              "lyrics": "/ \\/\\/\\/\\"
+            },
+            {
+              "chord": "D",
+              "lyrics": "/ \\/\\/\\/\\"
+            },
+            {
+              "chord": "E",
+              "lyrics": "/FILL I&II:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHRONOLOGY:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO: (CHORUS)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE I:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I thought I was"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "smart I thought I was"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I thought it"
+            },
+            {
+              "chord": "D",
+              "lyrics": "better not to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I thought there was a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "virtue in"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "always being"
+            },
+            {
+              "chord": "E",
+              "lyrics": "cool"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so when it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "came time to"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "fight I thought"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I'll just step a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A F#m E (FILL I&II)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and that time would prove you wrong and you would be the fool"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know where the"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "sun beams end and the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "star lights b"
+            },
+            {
+              "chord": "E",
+              "lyrics": "egin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's all a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "myster"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "y"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE II:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh to"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "fight is to"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "defend if it's not"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Now than tell me"
+            },
+            {
+              "chord": "E",
+              "lyrics": "when would be the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "time that you would"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "stand up and be a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "for to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lose I could"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "accept but to surr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ender I just"
+            },
+            {
+              "chord": "E",
+              "lyrics": "wet and regretted"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A F#m E (FILL I&II)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This moment, oh that I, I was a fool"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE III:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I?m a"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "man, not a"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "boy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and there are"
+            },
+            {
+              "chord": "D",
+              "lyrics": "things you can?t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "avoid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you have to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "face them when you are"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "not prepared to fa"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ce them"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "would if I"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "could, but your with"
+            },
+            {
+              "chord": "D",
+              "lyrics": "him now it?d do no"
+            },
+            {
+              "chord": "E",
+              "lyrics": "good"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A F#m E (FILL I&II)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I should have fought him but instead I let him...take me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE: D E D E (FILL I&II)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "END: Aadd9"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

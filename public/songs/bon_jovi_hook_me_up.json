@@ -1,0 +1,86 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/b/bon_jovi/hook_me_up_tab_ver_2.html",
+  "title": "Hook Me Up",
+  "artist": "Bon Jovi",
+  "key": null,
+  "scrapedAt": "2026-02-14T11:01:13.979Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-02 X 25"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A--2",
+              "lyrics": "E--0 X 5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A--5",
+              "lyrics": "E--3 X 5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D--7",
+              "lyrics": "A--5 X 5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A--7",
+              "lyrics": "E--5 X 5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat this 2 times"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat this for verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SOLO:"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

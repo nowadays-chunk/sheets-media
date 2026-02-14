@@ -1,0 +1,38 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/t/thejohnbarryseven-tabs-62890/hitandmiss1-tabs-864916.html",
+  "title": "Hit And Miss (failed - reindex)",
+  "artist": "The John Barry Seven",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:33:59.546Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO ( strings )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Guitarline"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bassline ( falls in : A-chord above 6th measure)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/shearwater/307280.html",
+  "title": "Hail, Mary",
+  "artist": "Shearwater",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:56:04.437Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh h"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ail Mary, full of de"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ath"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Sing me a bitter song"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As d"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ark as the day is"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lo"
+            },
+            {
+              "chord": "C4",
+              "lyrics": "ng"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And as bl"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "ack as your e"
+            },
+            {
+              "chord": "F",
+              "lyrics": "yes are w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ild"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "While the"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "hail from the blackened cl"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "oud is rak"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "ing the firmament"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Destr"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "oying our argument"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "About the t"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "emperature a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nd the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Wild and unb"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "roken"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We l"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ay like a wounded l"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "amb,"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "facing a billygoat"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bowed d"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "own in our heavy coats"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Under the"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "force and the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "threat of his ey"
+            },
+            {
+              "chord": "C",
+              "lyrics": "es"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And we m"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "arch in our rows and ro"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "ws"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Under a burning hand"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Past the scars of the wounded land"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Into a co"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "untry of thor"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "ns and spines"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Wild and unb"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "roken"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "God save the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "chamberlain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "God save his ap"
+            },
+            {
+              "chord": "C",
+              "lyrics": "pointed successor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "God saved his h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ardest"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "face for"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you and all your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "kind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "That's what's troubling me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Hail Mary, sick and"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "proud"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "holding aloft the light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That would"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "burn through a heaving night"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And then"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "leave us"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "upon the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rocks"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "And the child who is nearly bor"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Waits just to do you harm"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb",
+              "lyrics": "Like the shock of a broken arm"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or a"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "love that would"
+            },
+            {
+              "chord": "F",
+              "lyrics": "burn you blind"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Wild and unbroken"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

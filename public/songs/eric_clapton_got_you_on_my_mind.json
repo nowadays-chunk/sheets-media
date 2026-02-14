@@ -1,0 +1,82 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/eric-clapton/got-you-on-my-mind",
+  "title": "Got You on My Mind",
+  "artist": "Eric Clapton",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:29:30.300Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vers I:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "E",
+              "lyrics": "got you on my mind,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feeling kinda sad and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "low."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "A",
+              "lyrics": "got you on my mind, feeling kinda sad and"
+            },
+            {
+              "chord": "E",
+              "lyrics": "low."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "B",
+              "lyrics": "wondering where you are, wondering why you had t"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

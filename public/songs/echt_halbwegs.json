@@ -1,0 +1,690 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/echt/28415.html",
+  "title": "Halbwegs",
+  "artist": "Echt",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:57:00.173Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "titel: Halbwegs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "interpret: Echt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "album: Freischwimmer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "by Henrik Hertel henland@nexgo.de"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "standard-tuning: EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fism7: -2 4 2 2 2 2-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Aadd9 -x 0 2 2 0 0-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cism7: -x 4 6 4 5 4-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E: -0 2 2 1 0 0-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D: -x x 0 2 3 2-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7sus4: -x 2 4 2 5 2-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Die ga"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nze Zeit dr�ber nachgedacht"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Die S"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "achen auf den P"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "unkt gebracht"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cism7",
+              "lyrics": "Frag� ich mich ob d"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "as genau so is"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "t"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Auf der S"
+            },
+            {
+              "chord": "E",
+              "lyrics": "uche nach Entschuldigungen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fism7",
+              "lyrics": "Wei� ich nicht ob ich w"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "eiterkomm�"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wenn"
+            },
+            {
+              "chord": "Cism7",
+              "lyrics": "du die ganze Z"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "eit daneben b"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "ist"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Daneben b"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "ist"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "E",
+              "lyrics": "albwegs abgefangen, e"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "ingesperrt und aufgehangen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "E",
+              "lyrics": "albwegs unterw"
+            },
+            {
+              "chord": "Cism7",
+              "lyrics": "egs zum gro�en G"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "l�ck"
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "E",
+              "lyrics": "albwegs angehalten um"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "alles and�re auszuschalten"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "War es d"
+            },
+            {
+              "chord": "Cism7",
+              "lyrics": "och nur no"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "ch...."
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": ".......ein kleines St�ck"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ged"
+            },
+            {
+              "chord": "E",
+              "lyrics": "anken die sich aneinander binden"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "O"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "ft versucht etwas"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "Zeit zu schinden"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cism7",
+              "lyrics": "Nie gefragt wie"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "weit es wirklich i"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "st"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Immer w"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ieder durch mich selbst geflogen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "rag ich mich wie weit ich w"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "irklich komm�"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cism7",
+              "lyrics": "Wenn die ganze Ze"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "it daneben i"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "st"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Daneben"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "ist"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7sus4b",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "E",
+              "lyrics": "albwegs abgefangen, e"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "ingesperrt und aufgehangen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "E",
+              "lyrics": "albwegs unterw"
+            },
+            {
+              "chord": "Cism7",
+              "lyrics": "egs zum gro�en G"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "l�ck"
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "E",
+              "lyrics": "albwegs angehalten um"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "alles and�re auszuschalten"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "War es d"
+            },
+            {
+              "chord": "Cism7",
+              "lyrics": "och nur no"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "ch...."
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": ".....ein kleines St�ck"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Daneben b"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "ist"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "E",
+              "lyrics": "albwegs abgefangen, e"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "ingesperrt und aufgehangen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "E",
+              "lyrics": "albwegs unter"
+            },
+            {
+              "chord": "Cism",
+              "lyrics": "wegs zum gro�en Gl"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "�ck"
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "E",
+              "lyrics": "albwegs angehalten um"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "alles and�re auszuschalten"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "War es do"
+            },
+            {
+              "chord": "Cism7",
+              "lyrics": "ch nur noch"
+            },
+            {
+              "chord": "Fism7",
+              "lyrics": "......"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "......ein kleines St�ck"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Corrections, questions comments or just talk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "about Echt or John Lennon or the Beatles or......"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "than E-mail me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "henland@nexgo.de"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

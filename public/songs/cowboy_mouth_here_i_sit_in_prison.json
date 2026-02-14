@@ -1,0 +1,122 @@
+{
+  "url": "https://www.chordie.com/chord.pere/chordiearchive.chordie.com/chord.pere/www.guitaretab.com/c/cowboy-mouth/4183.html",
+  "title": "Here I Sit in Prison",
+  "artist": "Cowboy Mouth",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:07:44.579Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Here I sit in prison,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "guilty of a"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "crime"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Yes, it's true I killed a man, but"
+            },
+            {
+              "chord": "E",
+              "lyrics": "it was justi"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "fied"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All verses are just this F#m-E-F#m pattern repeated."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yipee-I-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Yay, Yipee-I-"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "Yo,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "damn these"
+            },
+            {
+              "chord": "E",
+              "lyrics": "iron bars are"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "cold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yipee-I-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Yay, Yipee-I-"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "Yo,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "here"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in"
+            },
+            {
+              "chord": "E",
+              "lyrics": "prison I'll grow"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "old"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

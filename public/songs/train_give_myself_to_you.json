@@ -1,0 +1,674 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/train/263302.html",
+  "title": "Give Myself to You",
+  "artist": "Train",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:39:06.163Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Title: Give Myself To You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: Train"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tab by: KP"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard Tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dsus2 x00230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D2/G 300230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D2/F# 200230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/C 030030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Em"
+            },
+            {
+              "chord": "244222",
+              "lyrics": "022000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm x24432"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A 002220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "When I"
+            },
+            {
+              "chord": "D2/G",
+              "lyrics": "find out who I"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": "am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna k"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "now just what to"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I p"
+            },
+            {
+              "chord": "D2/G",
+              "lyrics": "ull myself together a"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna g"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "ive myself to you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is this forev"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "er?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This feelin' I g"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Not enough and t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "oo much"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So free and so ca"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ught up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In somethin' and no"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "thin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Both at the same ti"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm either out of my he"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or I'm out of my mi"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I f"
+            },
+            {
+              "chord": "D2/G",
+              "lyrics": "ind out who I a"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": "m"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna k"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "now just what to"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I pull m"
+            },
+            {
+              "chord": "D2/G",
+              "lyrics": "yself together ag"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna g"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "ive myself to you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is this for"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ever?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This feelin' that I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "'m not"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Movin' at"
+            },
+            {
+              "chord": "A",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I just can't s"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "top it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Its like I'm dre"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "amin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm wide awake"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will you remember"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I won't forget y"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I f"
+            },
+            {
+              "chord": "D2/G",
+              "lyrics": "ind out who I a"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": "m"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna k"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "now just what to"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I p"
+            },
+            {
+              "chord": "D2/G",
+              "lyrics": "ull myself together a"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna g"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "ive myself to you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I guess I was"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "savin' my lif"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "e for later"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "maybe I should've been"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "givin' myself to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Now I will, but I"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "got to find out who I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "am bef"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ore I"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "do..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2/G",
+              "lyrics": "Before I d"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": "o"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I f"
+            },
+            {
+              "chord": "D2/G",
+              "lyrics": "ind out who I a"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": "m"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna k"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "now just what to"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I pull mys"
+            },
+            {
+              "chord": "D2/G",
+              "lyrics": "elf together ag"
+            },
+            {
+              "chord": "D2/F#",
+              "lyrics": "ain I know,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna g"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "ive myself to y"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna g"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "ive myself to y"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna g"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "ive myself to y"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "ou"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

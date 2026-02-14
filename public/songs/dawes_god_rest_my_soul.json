@@ -1,0 +1,774 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/dawes/376880.html",
+  "title": "God Rest My Soul",
+  "artist": "Dawes",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:54:22.560Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "GOD REST MY SOUL - Dawes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: jvwald"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D7 x00212"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D#dim xx1212"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em 022000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D x00232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/B x20030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm x00231"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Dm6/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "x30201"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Take a l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ast look ar"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Take the f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all that is d"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ue."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "D#dim",
+              "lyrics": "take your ti"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and I'll take m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ine."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's the l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ast thing that's l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eft for"
+            },
+            {
+              "chord": "C",
+              "lyrics": "us to d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You have t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ried to define r"
+            },
+            {
+              "chord": "G",
+              "lyrics": "omance,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And all the t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hings that it is n"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your"
+            },
+            {
+              "chord": "D#dim",
+              "lyrics": "time beca"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "me some old man's ca"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ne"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "While he da"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nces to a so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ng that h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "got."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, you c"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "an't throw something o"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ut there without wa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tching it fall."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Only thing that's"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "scarier than d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ying is not dy"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing at all."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So when I have"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lost all"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "my contr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ol"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "God will r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "est my so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ul."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I guess your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mind can leave your h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eart."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I guess that's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "what you're doing n"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ow."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it doesn't"
+            },
+            {
+              "chord": "D#dim",
+              "lyrics": "make us fr"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "iends or better m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It is n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ot something that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ould al"
+            },
+            {
+              "chord": "G",
+              "lyrics": "low."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, you c"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "an't throw something"
+            },
+            {
+              "chord": "C",
+              "lyrics": "out there without w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "atching it fall."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Only thing that's"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "scarier than"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dying is not d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ying at all."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So when I have l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ost all m"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "y contr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ol"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "God will r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "est my so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ul."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Dm6/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "C G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And just like how I'll drink myself through my seventh relapse,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Dm6/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "C G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like a captain of his sinking ship clutches to his maps."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What the"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "figure on the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cross thinks with his"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "one final ga"
+            },
+            {
+              "chord": "F",
+              "lyrics": "sp-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "This too shall p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ass."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "can't throw something"
+            },
+            {
+              "chord": "C",
+              "lyrics": "out there without w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "atching it fall."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Only thing that's sc"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "arier than d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ying is not dy"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing at all."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So when I have"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lost all"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "my contr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ol"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "God will r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "est my s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oul."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| / slide up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| \\ slide down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| h hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| p pull-off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| ~ vibrato"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| + harmonic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| x Mute note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| b Bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| pb Pre-bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| br Bend release"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| pbr Pre-bend release"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| brb Bend release bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "************************************"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

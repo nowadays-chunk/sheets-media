@@ -1,0 +1,618 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/damien-rice/80489.html",
+  "title": "Grey Room",
+  "artist": "Damien Rice",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:43:23.609Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?Grey Room? by Damien Rice off the Album ?9?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No capo, standard tuning."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G: 332010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F: 133211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em: 022000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 355433"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Notes on strumming:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There are lots of hammer-ons and pull-offs in this song. In general:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When he plays the C/G chord, he does the hammer-ons and pull-offs with the open D string"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the E note on the second fret."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When he plays the F chord, he does the hammer-ons and pull-offs with the open G string"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the A note on the second fret."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "During the verse, right before you change from the F chord back to the C/G, he does a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "pull-off with the F chord like it's described above."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you want to keep the F bass note on that F chord, you could play it with your thumb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I like to do to keep a nice, full sound (plus it's cool to play with your thumb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So it goes like this:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G chord hammer-on:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G chord pull-off:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F chord hammer-on:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F chord pull-off:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I tried to get the chord placements right with the lyrics, but they might be off a bit,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you know how it goes..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: C/G F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well I've be"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "en here before, I've sat on the floor, in a grey grey"
+            },
+            {
+              "chord": "F",
+              "lyrics": "room,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where I st"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ay in all day, I don't eat, but I play, with this grey grey food,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "Desole, If someone is prayin', then I mi"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ght break out,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "Desole, Even if I scream, I can't scream t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hat loud,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I'm all"
+            },
+            {
+              "chord": "F",
+              "lyrics": "alone again,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "crawling back"
+            },
+            {
+              "chord": "F",
+              "lyrics": "home agai"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "n, just stuck by the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "phone again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Right around 1:28 he sneaks in a G note on the third fret, first string)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah, well I've"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "been here before, sat on a floor, in a grey grey"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mood,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where I"
+            },
+            {
+              "chord": "G/C",
+              "lyrics": "stay up all night, And all that I write, is a grey grey tune,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "pray for me child, Just for a while, And I might"
+            },
+            {
+              "chord": "F",
+              "lyrics": "break out yeah,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/G",
+              "lyrics": "Pray for me child, even a smile, would do for now"
+            },
+            {
+              "chord": "F",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Crank up the speakers because Lisa kicks in here ? go Lisa!)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "So I'm all"
+            },
+            {
+              "chord": "F",
+              "lyrics": "alone again"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ", crawling back"
+            },
+            {
+              "chord": "F",
+              "lyrics": "home again"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ", just stuck by the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "phone again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Have I still got you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to be my ope"
+            },
+            {
+              "chord": "F",
+              "lyrics": "n door,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Have I still got you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to be my san"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dy shore,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Have I still got you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to cross my brid"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ge in this storm,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Have I still got you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to keep me wa"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rm,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coz if I squeeze my g"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "rape, And I drink my wine yeah,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coz if I squeeze my g"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "rape, And I drink my wine"
+            },
+            {
+              "chord": "F",
+              "lyrics": "yeah,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah, Oh coz noth"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "ing is lost, This is frozen in frost,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's op"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ening time, And there's no-one in line,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I've still got me to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "be your open"
+            },
+            {
+              "chord": "F",
+              "lyrics": "door,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've still got me t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o be your san"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dy shore,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've still got me t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o cross your bri"
+            },
+            {
+              "chord": "F",
+              "lyrics": "dge in this storm,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I've still got"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me to keep you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "warm,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Warmer than"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "warm yeah, Warmer than"
+            },
+            {
+              "chord": "F",
+              "lyrics": "warm yeah,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Warmer than wa"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "rm yeah, Warmer than wa"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rm yeah"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

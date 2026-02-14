@@ -1,0 +1,870 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/p/paramore/350795.html",
+  "title": "Fast in My Car",
+  "artist": "Paramore",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:23:47.455Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hey, this is my first tab so...just saying for no particular reason. Constructive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "feedback is welcome! Oh, and sorry if the lyrics aren't 100% right...listen to the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "song for the strumming...it's pretty straight forward. Don't rely too heavily on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the chord placement for timing either. Enjoy! ~daydreamin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G5 B5 E5 x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Be"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "en throu"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "gh the ring a"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "h-a cou"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "ple times-"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I came u"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "p calouse"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "d and cruel,"
+            },
+            {
+              "chord": "G5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And my my two friend"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "s know thi"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "s very well"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Because they we"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "nt throu"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "gh it too."
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The three of us"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "were ini"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "tiates-"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We had to lear"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "n how"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "to deal"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And when we spotte"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "d a secon"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "d chance-"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We had to lear"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "n how to"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "steal."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NC"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hollowed, out, and filled up, with hate,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NC"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All we, want is, you to give us a break."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "We're drivin'"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "fast in my"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "car-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "We got our ri"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "ot gear o"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "n, but we just want to have fun."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "No we're not l"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "ookin' for v"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "iolence, no-uh-whoa,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Tonight we"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "wanna have"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "fun-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No one's the same"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "as they u"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "sed to be-"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Much as we try"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "to prete"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "nd,"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No one's as in"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "nocent as"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "could be-"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We all fa"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "ll short"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "we all si"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "n."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But now we are"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "lookin'"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "backward-"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We won't start rai"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "sin' the"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "dead,"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We only see w"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "hat's in"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "front of us-"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We only see"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "straight ahe"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "ad."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NC"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hollowed, out, and filled up, with hate-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NC"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All we, wanted, you to give us a break."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "We're drivin'"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "fast in my"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "car-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "We got our ri"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "ot gear"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "on, but we just want to have fun."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "No we're not l"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "ookin' for v"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "iolence, no-uh-whoa,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Tonight we"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "wanna have"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "fun-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A5 G5 F5 F flat 5 x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 G5 E5 G5 x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get in the car and we'll drive around-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We'll make believe we are"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "free,"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Already proved we could"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "tough it out-"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G5 B5..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And we get along so sweetly!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "We're drivin'"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "fast in my"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "car-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "We got our ri"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "ot gear"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "on, but we just want to have fun."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "No we're not l"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "ookin' for v"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "iolence, no-uh-whoa,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Tonight we"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "wanna have"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "fun- (Oh, ah, ahh oh...)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "We're drivin'"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "fast in my"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "car-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "We're drivin'"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "fast in my"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "car-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "And we're not"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "lookin' for"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "violence, no-uh-whoa,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "We're drivin'"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "fast in my"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "car-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "And we jus"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "t want to h"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "ave fun."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G5 B5 (slide down till fade.)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

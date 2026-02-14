@@ -1,0 +1,522 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/i/indecent_obsession/fixing_a_broken_heart_crd.html",
+  "title": "Fixing a Broken Heart",
+  "artist": "Indecent Obsession",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:58:39.178Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: Thu, 4 Jun 1998 15:26:08 +0800"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: theP}ant"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: i/indecent_obsession/fixing_a_broken_heart.crd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-=-Fixing A Broken Heart-=-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-=- Indecent Obsession -=-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed By Adrian Lee (airbag@cybertech.com.sg)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords Used :-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A (x02220)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus4 (x02230)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm (x24432)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/F# (2x0232)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E (022100)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Esus4 (022200)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em (022000)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro : A/Asus4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "there was nothing"
+            },
+            {
+              "chord": "A",
+              "lyrics": "say the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "day you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "left"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i just filled a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "suitcase"
+            },
+            {
+              "chord": "A",
+              "lyrics": "full of"
+            },
+            {
+              "chord": "E/Esus4",
+              "lyrics": "regrets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i hailed a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "taxi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "looking for"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "some place to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ease the"
+            },
+            {
+              "chord": "E/Esus4",
+              "lyrics": "pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-Chorus :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Then like an"
+            },
+            {
+              "chord": "E",
+              "lyrics": "answered"
+            },
+            {
+              "chord": "A",
+              "lyrics": "prayer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i turned"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "around and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "found you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You really where"
+            },
+            {
+              "chord": "A",
+              "lyrics": "start (you really"
+            },
+            {
+              "chord": "E",
+              "lyrics": "know where to start)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "fixing a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "broken"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "heart"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you really"
+            },
+            {
+              "chord": "E",
+              "lyrics": "know what to do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "emotional"
+            },
+            {
+              "chord": "E",
+              "lyrics": "tools"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "cure any fool"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "whose"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "dreams have"
+            },
+            {
+              "chord": "A",
+              "lyrics": "fallen"
+            },
+            {
+              "chord": "E",
+              "lyrics": "apart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "fixing a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "broken heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I never could understand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What you're going to thru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There must be a plan that led me to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coz' all the heart just dissapears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every moment you are near"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-Chorus :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just like an answered prayer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You make the lonliness easy to bear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Soon the rain will stop"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "falling baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "lets forget the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "past"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "coz"
+            },
+            {
+              "chord": "D",
+              "lyrics": "here we are at"
+            },
+            {
+              "chord": "E",
+              "lyrics": "last"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat Chorus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

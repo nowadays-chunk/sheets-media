@@ -1,0 +1,706 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/q/quietdrive/210555.html",
+  "title": "I Lie Awake",
+  "artist": "Quietdrive",
+  "key": null,
+  "scrapedAt": "2026-02-14T14:02:27.537Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SONG NAME - Band Name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by:Joseph"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email:joe286we@hotmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning:EADGBE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you hear me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "screaming"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coming to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "find you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's not that"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I want to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Make it a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nother ni"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ght alone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This feeling is l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "onely"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sending me sl"
+            },
+            {
+              "chord": "F",
+              "lyrics": "owly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hits me so de"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ep"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It cuts"
+            },
+            {
+              "chord": "G",
+              "lyrics": "my bone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Fills my h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B"
+            },
+            {
+              "chord": "C",
+              "lyrics": "urns me up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For way to"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "o long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For way too"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here's my h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pull me up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "lie a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wake b"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ecause I'm scared"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "not as f"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ake as y"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ou once heard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "But we'll lay do"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wn n"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ow making sure we"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Put thes"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "e w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ords be"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tween us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you hear us f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "alling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We're falling f"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "aster"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's hard to re"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "member"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where we were a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "t a y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ear before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I thought we were r"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "eady"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I thought we were s"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "teady"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Till the em"
+            },
+            {
+              "chord": "F",
+              "lyrics": "otion"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hit the floor"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fills"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "my h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Burns me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For way too l"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "ong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For w"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ay too long (where did you go)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Here's my h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To pull me up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "lie a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wake b"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ecause I'm scared"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "not as f"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ake as y"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ou once heard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "But we'll lay do"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wn n"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ow making sure we"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Put thes"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "e w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ords be"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tween us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Put thes"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "e w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ords be"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tween us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "lie a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wake b"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ecause I'm scared"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "not as f"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ake as y"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ou once heard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "But we'll lay do"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wn n"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ow making sure we"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Put these words"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "betw"
+            },
+            {
+              "chord": "F",
+              "lyrics": "een us"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I lie awake because I'm scared"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm not as fake as you once heard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And we'll lay these words"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And we'll put them down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On the floor beneath us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't put these words between us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't put these words between us"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

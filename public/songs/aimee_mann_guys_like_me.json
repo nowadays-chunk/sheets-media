@@ -1,0 +1,490 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/a/aimee-mann/50449.html",
+  "title": "Guys Like Me",
+  "artist": "Aimee Mann",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:51:53.904Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "X02010 0"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "20000 022"
+            },
+            {
+              "chord": "Em6",
+              "lyrics": "020 X422"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "2X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am-maj7",
+              "lyrics": "X0211X"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "X02010 0"
+            },
+            {
+              "chord": "E",
+              "lyrics": "22100 022"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "200"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Guys like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me we don't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "know how it f"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "eels"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Absentee even closing the deal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But e"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "very player there's a"
+            },
+            {
+              "chord": "Em7/D",
+              "lyrics": "payoff in the fina"
+            },
+            {
+              "chord": "Em6/C#",
+              "lyrics": "l reel"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But never with"
+            },
+            {
+              "chord": "C",
+              "lyrics": "guys like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "guys like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me we look"
+            },
+            {
+              "chord": "D",
+              "lyrics": "good at the g"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But yo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "u'll agre"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e with the odds on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the slate"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "put your money on a"
+            },
+            {
+              "chord": "Em7/D",
+              "lyrics": "bonafide heavyw"
+            },
+            {
+              "chord": "Em6/C#",
+              "lyrics": "eight"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and take it off guys"
+            },
+            {
+              "chord": "C",
+              "lyrics": "like me"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "take it off"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "guys"
+            },
+            {
+              "chord": "C",
+              "lyrics": "like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "pull you"
+            },
+            {
+              "chord": "Em7/D",
+              "lyrics": "close but"
+            },
+            {
+              "chord": "Em6/C#",
+              "lyrics": "never r"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eally"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "looking warm but feeling chilly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "you'll"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "des"
+            },
+            {
+              "chord": "maj7/G#",
+              "lyrics": "cribe us"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "as im"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": "passio"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "when it"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "'s"
+            },
+            {
+              "chord": "maj7/G#",
+              "lyrics": "just a"
+            },
+            {
+              "chord": "Am7/G",
+              "lyrics": "front we've"
+            },
+            {
+              "chord": "F",
+              "lyrics": "fa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shioned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(solo) C G D Am 2x Em Em7/D Em6/C# A C G C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "guys like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me we all"
+            },
+            {
+              "chord": "D",
+              "lyrics": "vow to bec"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ome"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "clear and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "free of the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fife and the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "drum"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and b"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lock the circulation"
+            },
+            {
+              "chord": "Em7/D",
+              "lyrics": "til we're all comp"
+            },
+            {
+              "chord": "Em6/C#",
+              "lyrics": "letely"
+            },
+            {
+              "chord": "A",
+              "lyrics": "numb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "let's hear it for guy"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "let's hear it for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "guys like"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "me"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "let's hear it for"
+            },
+            {
+              "chord": "A",
+              "lyrics": "guys"
+            },
+            {
+              "chord": "C",
+              "lyrics": ","
+            },
+            {
+              "chord": "A",
+              "lyrics": "guys"
+            },
+            {
+              "chord": "C",
+              "lyrics": "like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://docweasel.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "doc@docweasel.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

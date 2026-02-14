@@ -1,0 +1,826 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/r/randy_crawford/he_reminds_me_crd.html",
+  "title": "He Reminds Me",
+  "artist": "Randy Crawford",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:30:25.629Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Randy Crawford - He reminds me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Kim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Take a look at the chord inversions!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B6/G#: xx6444"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em6 : 022020"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A#dim: 012120"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D#7 : xx1323"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D# : x65343"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#9 : 443444"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bmaj7: 224342"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G#sus4:466644"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B6 : 224444"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: B, B6/G#, Em6, B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "He Reminds me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Of someone I once knew long a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He reminds me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I don't know just how far I should"
+            },
+            {
+              "chord": "A#dim",
+              "lyrics": "go"
+            },
+            {
+              "chord": "D#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Should I keep my distance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#",
+              "lyrics": "And haul myself away?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Or try and get a little closer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#9",
+              "lyrics": "And blow my chance away?"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He"
+            },
+            {
+              "chord": "B",
+              "lyrics": "reminds me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Just a simple smile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He re"
+            },
+            {
+              "chord": "B",
+              "lyrics": "minds me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "My thoughts look back in time for a"
+            },
+            {
+              "chord": "A#dim",
+              "lyrics": "while"
+            },
+            {
+              "chord": "D#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Am I being foolish"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#",
+              "lyrics": "Just clinging to the past?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Or could it be that finally"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C#9",
+              "lyrics": "found my love at last?"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Whoa"
+            },
+            {
+              "chord": "Bmaj7",
+              "lyrics": "all I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is my"
+            },
+            {
+              "chord": "G#sus4",
+              "lyrics": "heart says"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "so"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm inclined to"
+            },
+            {
+              "chord": "F#sus4",
+              "lyrics": "believe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "All I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is my"
+            },
+            {
+              "chord": "G#sus4",
+              "lyrics": "heart says"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "so"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I find I be"
+            },
+            {
+              "chord": "F#sus4",
+              "lyrics": "lieve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He re"
+            },
+            {
+              "chord": "B",
+              "lyrics": "minds me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Of all the things I dreamed of since"
+            },
+            {
+              "chord": "B",
+              "lyrics": "then"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He reminds me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Of all the pain we've had"
+            },
+            {
+              "chord": "A#dim",
+              "lyrics": "way back then"
+            },
+            {
+              "chord": "D#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Surely now it's different"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#",
+              "lyrics": "I'm older than before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B6",
+              "lyrics": "Could it be that time has healed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "C#9",
+              "lyrics": "how can I be sure?"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "All I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is my"
+            },
+            {
+              "chord": "G#sus4",
+              "lyrics": "heart says"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "so"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm inclined to be"
+            },
+            {
+              "chord": "F#sus4",
+              "lyrics": "lieve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "All I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is my"
+            },
+            {
+              "chord": "G#sus4",
+              "lyrics": "heart says"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "so"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I find that I be"
+            },
+            {
+              "chord": "F#sus4",
+              "lyrics": "lieve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He Re"
+            },
+            {
+              "chord": "B",
+              "lyrics": "minds me"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "A#dim",
+              "lyrics": ""
+            },
+            {
+              "chord": "D#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Should I keep my distance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D#",
+              "lyrics": "And haul myself away?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B6",
+              "lyrics": "Try and get a little closer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#9",
+              "lyrics": "And blow my chance away?"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Whoa"
+            },
+            {
+              "chord": "Bmaj7",
+              "lyrics": "all I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is my"
+            },
+            {
+              "chord": "G#sus4",
+              "lyrics": "heart says"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "so"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm inclined to"
+            },
+            {
+              "chord": "F#sus4",
+              "lyrics": "believe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "All I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is my"
+            },
+            {
+              "chord": "G#sus4",
+              "lyrics": "heart says"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "so"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm inclined to"
+            },
+            {
+              "chord": "F#sus4",
+              "lyrics": "believe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He re"
+            },
+            {
+              "chord": "Bmaj7",
+              "lyrics": "minds me"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, he reminds me"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I find"
+            },
+            {
+              "chord": "F#sus4",
+              "lyrics": "I believe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He"
+            },
+            {
+              "chord": "Bmaj7",
+              "lyrics": "reminds me."
+            },
+            {
+              "chord": "B",
+              "lyrics": ".."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Fade)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

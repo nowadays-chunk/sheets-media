@@ -1,0 +1,74 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/bliss-n-eso/364012.html",
+  "title": "Field of Dreams",
+  "artist": "Bliss n Eso",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:38:41.063Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Flying Colours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Easier if you have a capo on the second fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "A"
+            },
+            {
+              "chord": "244222",
+              "lyrics": "x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Play them in time with the base notes"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

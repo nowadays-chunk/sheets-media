@@ -6,6 +6,7 @@ const theme = createTheme({
         mode: 'light',
         primary: {
             main: '#2196f3', // Material Blue
+            success: '#66bb6a', // Material Blue
         },
         secondary: {
             main: '#f44336', // Material Red

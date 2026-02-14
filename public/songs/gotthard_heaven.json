@@ -1,0 +1,470 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/gotthard/144016.html",
+  "title": "Heaven",
+  "artist": "Gotthard",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:46:58.370Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Show me the way to your h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am se"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "arching"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I?m dr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ifting ap"
+            },
+            {
+              "chord": "D",
+              "lyrics": "art"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Everything?s gone far a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here were st"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "anding now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With no wo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rds left to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Gave you power"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Fell on the floor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Silence, never thought you hurt so b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "In darkest hours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Slept at your door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Wishing all would be just like bef"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Let me find my piece of He"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aven"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Let me f"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ind my way back h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ome"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want this l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ove to last fo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And back together, r"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ise once again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "From the ashes to the S"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "From the ashes to the S"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Has someone taken my pl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am I f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "alling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Was it our l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ast em"
+            },
+            {
+              "chord": "D",
+              "lyrics": "brace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Now you?re asking me for some m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ore time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I am trying to s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "urv"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Victim of my desire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I keep on running"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I?m up all night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Times, I never thought they hurt so bad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "In darkest hours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Stand by your door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Wishing all would be just like b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "efore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Let me find my piece of He"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aven"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Let me f"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ind my way back h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ome"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want this l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ove to last fo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And back together, r"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ise once again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "From the ashes to the S"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "From the ashes to the S"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ky"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

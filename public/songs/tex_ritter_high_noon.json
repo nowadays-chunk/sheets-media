@@ -1,0 +1,782 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/tex-ritter/245683.html",
+  "title": "High Noon",
+  "artist": "Tex Ritter",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:25:41.891Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "High Noon ? Tex Ritter"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: maguri"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tex Ritter"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "High Noon (1952)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Dimitri Tiomkin/Ned Washington)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now on: \"My Rifle, My Pony and Me - Movie and TV Soundtracks \""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A great Western song. The arrangement is special, too: sparse in an unusual"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "way. Tex Ritter's voice is very dominant while a dampened drum beats out a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "haunting rhythm pattern throughout (see below: \"perc\"). An accordion plays"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "accompanying chords or tracks the vocal line and sometimes there are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "strummed guitar chords. As the chords are not always made explicit I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sometimes \"reconstructed\" them from the vocal line or the chords that go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "before and follow afterwards."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(no chord) C C C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| (no chord) | (no chord) | C | C |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Do not forsake me, oh my darling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C *F C/E Dm *F 1-1-2-3-x-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C Am Dm 1-3-2-0-x-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do not forsake me, oh my darling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Wait, wait"
+            },
+            {
+              "chord": "G",
+              "lyrics": "along"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I do not know what fate awaits me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I only know I must be"
+            },
+            {
+              "chord": "F",
+              "lyrics": "brave"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "(Dm)",
+              "lyrics": "And I must face a man who"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hates me"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Or lie a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "coward,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "a craven"
+            },
+            {
+              "chord": "C",
+              "lyrics": "coward"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Or lie a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cow"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ard"
+            },
+            {
+              "chord": "F",
+              "lyrics": "in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "grave"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Oh, to be torn twixt love and duty"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "S'pposin' I lose my fair haired beauty"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Look at that big hand move along"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Nearin' high"
+            },
+            {
+              "chord": "G",
+              "lyrics": "noon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "He made a vow while in state's prison"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Said it would be my life or hisn'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm",
+              "lyrics": "I'm not afraid of death but oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "What will I do if you"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "leave m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Do not forsake me, oh my darling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You made that promise as a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "bride"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "(Dm)",
+              "lyrics": "Do not forsake me, oh my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "darling"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Although you're"
+            },
+            {
+              "chord": "C",
+              "lyrics": "grievin',"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I can't be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "leavin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Now that I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "need"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "by"
+            },
+            {
+              "chord": "G",
+              "lyrics": "my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wait"
+            },
+            {
+              "chord": "F",
+              "lyrics": "along, wait"
+            },
+            {
+              "chord": "C",
+              "lyrics": "along"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wait"
+            },
+            {
+              "chord": "F",
+              "lyrics": "along, wait"
+            },
+            {
+              "chord": "C",
+              "lyrics": "along"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Movie version"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The version played over the opening credits of the movie is in a different"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "key (capo 1 st fret: C# instead of C) and there are slightly different"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chords in the middle 8 as well as in the final verse. The lyrics are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "different, too. In order to make the song more accessible to people who"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "didn't watch the movie, the version released as a single is stripped of any"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "direct reference to the character \"Frank Miller\" and the explicit statement"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "that the singer has to \"kill\" someone is replaced by the confession that the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "singer needs his wife to stand by him."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 1st fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chords as above except as indicated)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do not forsake me, oh my darling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On this our wedd'n' day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do not forsake me, oh my darling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wait, wait along"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The noon day (?) train will bring Frank Miller"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I'm a man I must be brave"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I must face that deadly killer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or lie a coward, a craven coward"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or lie a coward in my grave"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, to be torn twixt love and duty"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S'pposin' I lose my fair haired beauty"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Look at that big hand move along"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Nearin' high"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "noon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He made a vow while in state's prison"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Said it would be my life or hisn'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm not afraid of death but oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What will I do if you leave me?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do not forsake me, oh my darling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You made that promise when we wed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do not forsake me, oh my darling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Although you're"
+            },
+            {
+              "chord": "C",
+              "lyrics": "grievin',"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I can't be"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "leavin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Until I shoot Frank Miller dead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wait along, wait along"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wait along, wait along"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

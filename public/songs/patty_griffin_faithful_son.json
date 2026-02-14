@@ -1,0 +1,494 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/p/patty-griffin/355777.html",
+  "title": "Faithful Son",
+  "artist": "Patty Griffin",
+  "key": null,
+  "scrapedAt": "2026-02-14T04:59:22.608Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Faithful Son by Patty Griffin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: American Kid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Track 6"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2013"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard Tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo on the 6th fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em: x22000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C: x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D: xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 320003 or 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Em C Em C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Oh my god, I cry in fear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Afra"
+            },
+            {
+              "chord": "C",
+              "lyrics": "id you have forgot me here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Afra"
+            },
+            {
+              "chord": "D",
+              "lyrics": "id you have forgotten one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your qu"
+            },
+            {
+              "chord": "C",
+              "lyrics": "iet, dull and f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "aithful son"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ent to work, I worked all day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I wa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nted to run, I stayed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I kept the pr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "omises I made"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I kept the pr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "omises I m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ade"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Little children came and grew"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "M"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oved away and never knew"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ho I was or who I am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, they n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ever knew this"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lonely man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And those m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ornings came st"
+            },
+            {
+              "chord": "G",
+              "lyrics": "iff with rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I thought th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e sun would never"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shine again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sleeves of my old ra"
+            },
+            {
+              "chord": "G",
+              "lyrics": "incoat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stained with the s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "alt of my own t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ever would t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ell you then"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "never will t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ell you now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All the th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ings that break an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "old man down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The r"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eal truth is, I d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on't know how"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Oh my god, I cry in fear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Afra"
+            },
+            {
+              "chord": "C",
+              "lyrics": "id you have forgot me here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Afra"
+            },
+            {
+              "chord": "D",
+              "lyrics": "id you have forgotten one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your qu"
+            },
+            {
+              "chord": "C",
+              "lyrics": "iet, dull and faithful son"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who's se"
+            },
+            {
+              "chord": "D",
+              "lyrics": "en the loneliest of days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And fo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ught the dirtiest of ways"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With the m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "an inside who would have run away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the pr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "omises I m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ade"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "End on Em"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

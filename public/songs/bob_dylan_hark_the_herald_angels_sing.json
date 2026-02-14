@@ -1,0 +1,574 @@
+{
+  "url": "https://www.chordie.com/chord.pere/dylanchords.info/48_cith/04_hark_the_herald_angels_sing.html",
+  "title": "Hark the Herald Angels Sing",
+  "artist": "Bob Dylan",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:19:26.004Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F . Bbm6/F . | F . . . |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F/C . Bbadd9/D . | Fsus4 F-Fsus2 F . |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Hark! the her"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ald"
+            },
+            {
+              "chord": "F/A",
+              "lyrics": "ange"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": "ls sin"
+            },
+            {
+              "chord": "C",
+              "lyrics": "g"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F/A",
+              "lyrics": "Glory"
+            },
+            {
+              "chord": "Bbsus2",
+              "lyrics": "to the"
+            },
+            {
+              "chord": "C6",
+              "lyrics": "newb"
+            },
+            {
+              "chord": "C",
+              "lyrics": "orn"
+            },
+            {
+              "chord": "F",
+              "lyrics": "King"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Peace on earth"
+            },
+            {
+              "chord": "C",
+              "lyrics": "and"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "mer"
+            },
+            {
+              "chord": "/C",
+              "lyrics": "cy"
+            },
+            {
+              "chord": "Gadd9/B",
+              "lyrics": "mild,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "God"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sinners"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "rec"
+            },
+            {
+              "chord": "G",
+              "lyrics": "onc"
+            },
+            {
+              "chord": "C",
+              "lyrics": "iled"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F/A",
+              "lyrics": "Joyful, all ye"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "nati"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ons,"
+            },
+            {
+              "chord": "C6",
+              "lyrics": "ris"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F/A",
+              "lyrics": "Join the triumph"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "of t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "he"
+            },
+            {
+              "chord": "C6",
+              "lyrics": "ski"
+            },
+            {
+              "chord": "C",
+              "lyrics": "es;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "With th' ange"
+            },
+            {
+              "chord": "Fmaj7/A",
+              "lyrics": "lic"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "host"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "proc"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "laim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C7/Bb",
+              "lyrics": "Christ is"
+            },
+            {
+              "chord": "F/A",
+              "lyrics": "born in"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": "Beth"
+            },
+            {
+              "chord": "C",
+              "lyrics": "le"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hem."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Hark! the"
+            },
+            {
+              "chord": "Bbm6/Db",
+              "lyrics": "herald a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ngels"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": "sing"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Glory"
+            },
+            {
+              "chord": "Bbsus2",
+              "lyrics": "to the"
+            },
+            {
+              "chord": "F/C",
+              "lyrics": "newb"
+            },
+            {
+              "chord": "C",
+              "lyrics": "orn"
+            },
+            {
+              "chord": "F",
+              "lyrics": "King"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Peace on earth"
+            },
+            {
+              "chord": "C",
+              "lyrics": "and"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mercy"
+            },
+            {
+              "chord": "G11",
+              "lyrics": "mild"
+            },
+            {
+              "chord": "G",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "God and sinners re"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "con"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ciled"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Joyful, all ye nations, rise,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Join the triumph of the skies;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With th' angelic host proclaim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Christ is born in Bethlehem."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F . Bbm6/Db . | F . F/C C |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F . Bbsus2 . | F/C C F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verses not sung by Dylan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Christ, by highest heaven adored;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Christ, the everlasting Lord;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Late in time behold him come,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Offspring of the Virgin's womb."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Veiled in flesh the Godhead see;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hail the incarnate Deity,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pleased as man with man to dwell;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jesus, our Emmanuel."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mild he lays his glory by,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Born that man no more may die,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Born to raise the sons of earth,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Born to give them second birth."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Risen with healing in his wings,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Light and life to all he brings,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hail, the Sun of Righteousness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hail, the heaven-born Prince of Peace."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come, Desire of nations come,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fix in us Thy humble home;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Rise, the Woman's conquering Seed,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bruise in us the Serpent's head."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Adam's likeness now efface:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stamp Thine image in its place;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Second Adam, from above,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Reinstate us in thy love."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Eyolf Østrem - dylanchords.info"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

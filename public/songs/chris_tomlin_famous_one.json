@@ -1,0 +1,786 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/chris-tomlin/221425.html",
+  "title": "Famous One",
+  "artist": "Chris Tomlin",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:17:47.009Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "time 2/4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro (2 bars)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus ()"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You are the"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "Lord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C",
+              "lyrics": "famous one,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "famous one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Great is Your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "name in all the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The heavens de-"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "clare"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're"
+            },
+            {
+              "chord": "C",
+              "lyrics": "glorious,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "glorious"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Great is Your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fame beyond the ..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Break ()"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| G | | | | C | | | ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(quarter note rest at end of this one)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do this in the verse starting on the Em then on the G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse (0:49)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "all You've done and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "yet to do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With"
+            },
+            {
+              "chord": "C",
+              "lyrics": "every breath I'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "praising You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "De-"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "sire of the nations and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "every heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You a-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lone are God"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You a-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lone are God"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus (1:19)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You are the"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "Lord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C",
+              "lyrics": "famous one,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "famous one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Great is Your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "name in all the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The heavens de-"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "clare"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're"
+            },
+            {
+              "chord": "C",
+              "lyrics": "glorious,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "glorious"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Great is Your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fame beyond the ..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| G | | | | C | | | ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(quarter note rest at end of this one)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse (1:59)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "morning star is shin"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ing through"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And e"
+            },
+            {
+              "chord": "C",
+              "lyrics": "very eye is watch"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Rev"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ealed by nature and mira"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "cles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You ar"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e beautiful"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You ar"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e beautiful (one beat stop at end of this one; band pauses)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus (2:29)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You are the"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "Lord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C",
+              "lyrics": "famous one,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "famous one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Great is Your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "name in all the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The heavens de-"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "clare"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're"
+            },
+            {
+              "chord": "C",
+              "lyrics": "glorious,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "glorious"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Great is Your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fame beyond the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus (3:00)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You are the"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "Lord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C",
+              "lyrics": "famous one,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "famous one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Great is Your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "name in all the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The heavens de-"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "clare"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're"
+            },
+            {
+              "chord": "C",
+              "lyrics": "glorious,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "glorious"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Great is Your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fame beyond the ..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| G | | | | C | | | |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(NO REST on END of this one)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus (3:40)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You are the"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "Lord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C",
+              "lyrics": "famous one,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "famous one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Great is Your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "name in all the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The heavens de-"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "clare"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're"
+            },
+            {
+              "chord": "C",
+              "lyrics": "glorious,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "glorious"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Great is Your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fame beyond the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*****"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Enhanced Chorus Chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I like how the last C with the G on top implies the G chord we'll return to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in a moment on the second pass"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

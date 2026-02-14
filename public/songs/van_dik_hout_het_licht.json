@@ -1,0 +1,110 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/van-dik-hout/het-licht",
+  "title": "Het licht",
+  "artist": "Van Dik Hout",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:14:44.188Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">Dm F Bb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Laten we gaan, weg van morgen,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "zonder een woor"
+            },
+            {
+              "chord": "F",
+              "lyrics": "d zodat niemand het we"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "et."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Laten we gaa"
+            },
+            {
+              "chord": "F",
+              "lyrics": "n in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "de avond,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "weg van het gevoe"
+            },
+            {
+              "chord": "C",
+              "lyrics": "l dat me niet loslaat"
+            },
+            {
+              "chord": "G",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Laten we gaa"
+            },
+            {
+              "chord": "F",
+              "lyrics": "n, zon"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "der twijfel,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "zonder een spoo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "r zodat niemand verge"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "et,"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

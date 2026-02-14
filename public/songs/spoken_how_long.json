@@ -1,0 +1,62 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.christianguitar.org/csong12918/-How-Long",
+  "title": "How Long",
+  "artist": "Spoken",
+  "key": null,
+  "scrapedAt": "2026-02-14T11:28:04.505Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a moment of imperfect clarity"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E-1/5",
+              "lyrics": "X2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A-7-3-5",
+              "lyrics": "E-5-0-3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

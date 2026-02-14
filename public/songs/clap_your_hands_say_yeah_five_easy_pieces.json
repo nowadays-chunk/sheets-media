@@ -1,0 +1,82 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/clap-your-hands-say-yeah/91589.html",
+  "title": "Five Easy Pieces",
+  "artist": "Clap Your Hands Say Yeah",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:57:09.575Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E Asus2 C#m A B G#m E (alt for 2nd set)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "____"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "____"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "_____"
+            },
+            {
+              "chord": "A",
+              "lyrics": "____"
+            },
+            {
+              "chord": "A",
+              "lyrics": "____"
+            },
+            {
+              "chord": "A",
+              "lyrics": "___"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords between 1:21 and 2:02, again between 2:44 and 3:03"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

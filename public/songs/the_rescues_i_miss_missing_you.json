@@ -1,0 +1,550 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/the-rescues/284093.html",
+  "title": "I Miss Missing You",
+  "artist": "The Rescues",
+  "key": null,
+  "scrapedAt": "2026-02-14T16:24:04.623Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?I Miss Missing You?- The Rescues"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Robin Young"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For extra help, look out for a cover of this song on my YouTube channel, under"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the username likeROCKSTAR."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: DADGAD, Capo 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*All chords are relative to capo and are written out in the key of D. For the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "real notes, transpose up by 3 half-steps to the key of F."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus4: 770700 (AEDDAD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A(add11): 770600 (AEDC#AD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B-7: 990700 (BF#DDAD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Csus2(add13): 10.10.0000 (CGDGAD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D5: 000200 (DADAAD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/F#: 400200 (F#ADAAD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E-7sus4 220000 (EBDGAD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G(add9): 550400 (GDDBAD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G-(add9): 550300 (GDDBbAD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gsus2: 550000 (GDDGAD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gsus2(#11): 550600 (GDDC#AD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E-7sus4 D/F# Gsus2 (2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus2(#11)",
+              "lyrics": "I used to wish away your"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "memory every"
+            },
+            {
+              "chord": "A(add11)",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus2(#11)",
+              "lyrics": "Trying to erase the lines you?ve"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "drawn"
+            },
+            {
+              "chord": "A(add11)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gsus2(#11)",
+              "lyrics": "But suddenly, you?ve faded"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "almost out of"
+            },
+            {
+              "chord": "A(add11)",
+              "lyrics": "sight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now you?re"
+            },
+            {
+              "chord": "B-7",
+              "lyrics": "going,"
+            },
+            {
+              "chord": "Csus2(add13)",
+              "lyrics": "going,"
+            },
+            {
+              "chord": "G(add9)",
+              "lyrics": "gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "Why"
+            },
+            {
+              "chord": "E-7sus4",
+              "lyrics": "did I"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "try"
+            },
+            {
+              "chord": "G(add9)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "B-7",
+              "lyrics": "hard to let you"
+            },
+            {
+              "chord": "A(add11)",
+              "lyrics": "go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well,"
+            },
+            {
+              "chord": "G(add9)",
+              "lyrics": "deep down, I don?t know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "I"
+            },
+            {
+              "chord": "E-7sus4",
+              "lyrics": "am really"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ready to say good"
+            },
+            {
+              "chord": "G(add9)",
+              "lyrics": "bye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now"
+            },
+            {
+              "chord": "B-7",
+              "lyrics": "what am I"
+            },
+            {
+              "chord": "A(add11)",
+              "lyrics": "gonna hold on"
+            },
+            {
+              "chord": "G(add9)",
+              "lyrics": "to?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E-7sus4",
+              "lyrics": "I"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "miss"
+            },
+            {
+              "chord": "G-",
+              "lyrics": "missing"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I always felt some comfort in my loneliness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If nothing else, it filled the space"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now that I?m over you, I?m left with emptiness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And nothing to take its place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(CHORUS)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E-7sus4",
+              "lyrics": "I"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "miss"
+            },
+            {
+              "chord": "G-",
+              "lyrics": "missing?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B-7",
+              "lyrics": "Your smile on"
+            },
+            {
+              "chord": "A(add11)",
+              "lyrics": "every stranger?s"
+            },
+            {
+              "chord": "G(add9)",
+              "lyrics": "face I saw"
+            },
+            {
+              "chord": "D5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A(add11)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B-7",
+              "lyrics": "Now I have to"
+            },
+            {
+              "chord": "A(add11)",
+              "lyrics": "concentrate to re"
+            },
+            {
+              "chord": "G(add9)",
+              "lyrics": "member you at"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "all"
+            },
+            {
+              "chord": "A(add11)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(CHORUS/OUTRO)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E-7sus4",
+              "lyrics": "I"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "miss"
+            },
+            {
+              "chord": "G-",
+              "lyrics": "missing"
+            },
+            {
+              "chord": "B-7",
+              "lyrics": "you, yes, I"
+            },
+            {
+              "chord": "A(add11)",
+              "lyrics": "do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E-7sus4",
+              "lyrics": "I"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "miss"
+            },
+            {
+              "chord": "G-",
+              "lyrics": "missing"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "you"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

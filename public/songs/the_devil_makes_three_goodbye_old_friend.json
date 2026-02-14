@@ -1,0 +1,546 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/the-devil-makes-three/386171.html",
+  "title": "Goodbye Old Friend",
+  "artist": "The Devil Makes Three",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:22:42.239Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The Devil Makes Three - Goodbye Old Friend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please rate! This is my first tab."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo II"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM",
+              "lyrics": "I need you and I"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "want you 'cause I"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "know you from befor"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM",
+              "lyrics": "I hate you and"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "I fear you but I hol"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "d open the door"
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM",
+              "lyrics": "I see you and"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "you see me and we k"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "now what must be don"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM",
+              "lyrics": "So we draw knives a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "nd lock eyes 'cause i"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "t does no good to ru"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodbye old fri"
+            },
+            {
+              "chord": "C",
+              "lyrics": "end, farewell it see"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We'll dance ag"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ain in my dr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ea"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodbye old fri"
+            },
+            {
+              "chord": "C",
+              "lyrics": "end, farewell it se"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ems"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We'll dance ag"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ain in my dre"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM",
+              "lyrics": "I've missed you, y"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ou know that's true an"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "d I've retraced every sca"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "r"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM",
+              "lyrics": "My head sings a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "nd the steel rings 'ca"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "use we've traveled, oh so"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM",
+              "lyrics": "I chased you"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "to embrace you li"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "ke the sun chases the moo"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM",
+              "lyrics": "I burn you"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "and you burn me"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "but I know I'll see you s"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "oon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodbye old fr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "iend, farewell it se"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ems"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We'll dance ag"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ain in my dr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ea"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodbye old fri"
+            },
+            {
+              "chord": "C",
+              "lyrics": "end, farewell it se"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ems"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We'll dance ag"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ain in my dre"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM",
+              "lyrics": "I've watched you a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "nd I've seen you a"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "nd known that you were th"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM",
+              "lyrics": "I've held you a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "nd you've loved me"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "but our lives cannot be s"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "pared"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM",
+              "lyrics": "I trust you and"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "despised you, shad"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "owed your every mov"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM",
+              "lyrics": "Scorned you a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "nd warned you, bef"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "riended everyone you've u"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "sed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodbye old fri"
+            },
+            {
+              "chord": "C",
+              "lyrics": "end, farewell it se"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ems"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We'll dance ag"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ain in my d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "re"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodbye old fr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "iend, farewell it se"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ems"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We'll dance a"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "gain in my dreams"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

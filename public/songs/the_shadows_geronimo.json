@@ -1,0 +1,38 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/shadows/24830.html",
+  "title": "Geronimo",
+  "artist": "The Shadows",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:14:57.169Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO Am G Am G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "GERONIMO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO Am G Am A Am A Am A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

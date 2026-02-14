@@ -1,0 +1,86 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/l/lads/i_give_it_all_crd.html",
+  "title": "I Give It All",
+  "artist": "The Lads",
+  "key": null,
+  "scrapedAt": "2026-02-14T13:46:17.688Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I give it a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ll"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I give it a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ll"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/l/lads/i_give_it_all_crd.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Everythi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ng and I lay"
+            },
+            {
+              "chord": "B",
+              "lyrics": "it at Your fee"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "t"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "A",
+              "lyrics": "King."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Very slow and intimate."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

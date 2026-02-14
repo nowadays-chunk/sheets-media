@@ -1,0 +1,350 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/colin-hay/72594.html",
+  "title": "Freedom Calling",
+  "artist": "Colin Hay",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:44:22.707Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the Transcendental Highway album."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 1st fret."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used, relative to capo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G - 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D - XX0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9 - X32033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/B - X20033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/A - X02033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 - 022033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am - X02210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If you hear a voice call"
+            },
+            {
+              "chord": "D",
+              "lyrics": "out your n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Say you can stop"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "yours"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "elf"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "from"
+            },
+            {
+              "chord": "G",
+              "lyrics": "falling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And if he strikes you in his"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fear and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "shame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can l"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "eave h"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "im t"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "o his"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ruin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If your dreams they wake"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "heart"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "it i"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "s a p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ounding"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If you cry out as you wak"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e in your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "wind"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "it i"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "s a h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "owling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Maybe its time to find"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "another pl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Where nobody even"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "knows your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "There is no need to be"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "afraid"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For its"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "only"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "free"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "dom c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Same chords throughout. Comments welcome."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

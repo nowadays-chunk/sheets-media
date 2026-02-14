@@ -1,0 +1,742 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/moddi/384170.html",
+  "title": "House by the Sea",
+  "artist": "Moddi",
+  "key": null,
+  "scrapedAt": "2026-02-14T11:09:59.558Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Moddi - House by the sea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO: 5 (or 8)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em/B: 0 2 2 0 0 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G2: 0 5 4 3 0 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/F#: 2 0 0 2 3 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/B: 0 2 0 0 0 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fingerstyle:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's kind of like John Mayers style of playing in \"Stop this train\" and \"Heart of life\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C-chord to G2-chord (example):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "They say"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "home is the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "place where your"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "heart is"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "then I am home now"
+            },
+            {
+              "chord": "C",
+              "lyrics": "but I am"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "far awa"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "y"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "for so"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "long I?ve let"
+            },
+            {
+              "chord": "C",
+              "lyrics": "deep forests"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "guard it"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "(D/F#)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "and now it?s begging"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me to"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "stay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and I?m"
+            },
+            {
+              "chord": "Em/B",
+              "lyrics": "trying my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "best to be"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "tough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to"
+            },
+            {
+              "chord": "Em/B",
+              "lyrics": "pretend I am"
+            },
+            {
+              "chord": "C",
+              "lyrics": "strong and can"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "siphon it off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I?m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not who I wanted to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "heart I"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "belong in a"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "house by the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "They say"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "home is a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "place where"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "you?re needed"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "then I am home now"
+            },
+            {
+              "chord": "C",
+              "lyrics": "but I"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "am"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "leaving"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "to feel"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "my feet being"
+            },
+            {
+              "chord": "C",
+              "lyrics": "kissed by the"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "seaweed"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "(D/F#)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "and I?ll be silent an"
+            },
+            {
+              "chord": "C",
+              "lyrics": "d kiss it"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "this is"
+            },
+            {
+              "chord": "Em/B",
+              "lyrics": "not who I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "want you to"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it?s"
+            },
+            {
+              "chord": "Em/B",
+              "lyrics": "just adding"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on weight to the"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "darkness in me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and from"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "the little I have"
+            },
+            {
+              "chord": "A",
+              "lyrics": "understood"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I beli"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eve that a"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "house by the"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "sea would do"
+            },
+            {
+              "chord": "G",
+              "lyrics": "good"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "They say"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "home is a pl"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ace you can choos"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "e to be"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "and I?ve decided to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "carry home"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "inside me"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "so it?s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not really as"
+            },
+            {
+              "chord": "C",
+              "lyrics": "if I am"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "leaving"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "(D/F#)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "it?s more like some"
+            },
+            {
+              "chord": "C",
+              "lyrics": "thing"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "pulling me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?cause"
+            },
+            {
+              "chord": "Em/B",
+              "lyrics": "behind every"
+            },
+            {
+              "chord": "C",
+              "lyrics": "thing that I"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Em/B",
+              "lyrics": "just want to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "forget, want to"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "carry this through"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "fill my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lungs with the s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "weet summer air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "heart in my"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "mind I am"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "already ther"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "yeah be"
+            },
+            {
+              "chord": "Em/B",
+              "lyrics": "hind every"
+            },
+            {
+              "chord": "C",
+              "lyrics": "thing that"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "I do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I j"
+            },
+            {
+              "chord": "Em/B",
+              "lyrics": "ust want to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "come home and"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "lay down beside you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and then"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "I?ll be who I wan"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ted to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "in my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "heart I"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "belong in a"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "house by the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's my first tab/chord so sorry for any mistakes!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

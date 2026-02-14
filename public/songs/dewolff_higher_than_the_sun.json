@@ -1,0 +1,114 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/dewolff/higher-than-the-sun",
+  "title": "Higher Than the Sun",
+  "artist": "DeWolff",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:28:11.540Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">G = 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G6 = 320000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em G Am (X 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Take me on your m"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "agic ship"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "To find my way and"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "use my ....."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "All the planets"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I can touch"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My w"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "histle far a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "All the words t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hat you speak"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "All"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

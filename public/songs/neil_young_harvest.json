@@ -1,0 +1,658 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.xguitar.com/guitar-tabs/neil_young/harvest/harvest.txt",
+  "title": "Harvest",
+  "artist": "Neil Young",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:21:07.802Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "TITLE: HARVEST"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ALBUM: HARVEST"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SUBMITTED BY: Malc Brookes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(via HyperRust)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dmaj7add9/A x00220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Did I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "see you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "down in a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "young girl's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "town"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With your"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "mother in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "so much"
+            },
+            {
+              "chord": "A",
+              "lyrics": "pain?"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was"
+            },
+            {
+              "chord": "G",
+              "lyrics": "almost"
+            },
+            {
+              "chord": "A",
+              "lyrics": "there at the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "top of the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "stairs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With her"
+            },
+            {
+              "chord": "D",
+              "lyrics": "screamin' in the"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "rain."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Did she"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wake you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tell you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It was"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "only a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "change of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "plan?"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dream"
+            },
+            {
+              "chord": "G",
+              "lyrics": "up, dream"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up, let me"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "fill your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "cup"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "promise of a"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "man."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Did I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "see you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "walking"
+            },
+            {
+              "chord": "G",
+              "lyrics": "with the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "boys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Though it"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "was not"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hand in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hand?"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And was"
+            },
+            {
+              "chord": "G",
+              "lyrics": "some black"
+            },
+            {
+              "chord": "A",
+              "lyrics": "face in a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "lonely"
+            },
+            {
+              "chord": "E",
+              "lyrics": "place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you could under"
+            },
+            {
+              "chord": "Dmaj7add9/A",
+              "lyrics": "stand?"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dmaj7add9/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Did she"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wake you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tell you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It was"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "only a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "change of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "plan?"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dream"
+            },
+            {
+              "chord": "G",
+              "lyrics": "up, dream"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up, let me"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "fill your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "cup"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With"
+            },
+            {
+              "chord": "D",
+              "lyrics": "the promise of a"
+            },
+            {
+              "chord": "Dmaj7add9/A",
+              "lyrics": "man."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dmaj7add9/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INSTRUMENTAL:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will I see you give more than I can take?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will I only harvest some?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the days fly past will we lose our grasp"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or fuse it in the sun?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Did she"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wake you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tell you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It was"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "only a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "change of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "plan?"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dream"
+            },
+            {
+              "chord": "G",
+              "lyrics": "up, dream"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up, let me"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "fill your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "cup"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "promise of a"
+            },
+            {
+              "chord": "Dmaj7add9/A",
+              "lyrics": "man."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dream"
+            },
+            {
+              "chord": "G",
+              "lyrics": "up, dream"
+            },
+            {
+              "chord": "A",
+              "lyrics": "up, let me"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "fill your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "cup"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "promise of a"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "man."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

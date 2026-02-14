@@ -1,0 +1,118 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/those-dancing-days/290649.html",
+  "title": "Hitten",
+  "artist": "Those Dancing Days",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:35:24.036Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Other versions seem incorrect so here goes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C: C': Cadd9: C7: Dm F: Fadd9: G: Am:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro, Verse and Solo-sequence (Remember to listen closely to the rythm)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C Cadd9 C C' C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fadd9",
+              "lyrics": "I wanna know what I'm"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "thinking, what I am feeling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What I want my life to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "be"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fadd9",
+              "lyrics": "I wanna know how I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "plan to make things easier"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fadd9",
+              "lyrics": "For everyone but"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

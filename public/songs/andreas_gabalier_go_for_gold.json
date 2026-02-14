@@ -1,0 +1,482 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/a/andreas-gabalier/345939.html",
+  "title": "Go for Gold",
+  "artist": "Andreas Gabalier",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:48:08.752Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Info: Each chord stands for 1 measure!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Em - C - D - Em x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Du stehst da"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oben"
+            },
+            {
+              "chord": "D",
+              "lyrics": "- im Sieges"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sinn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Pochende"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Venen"
+            },
+            {
+              "chord": "D",
+              "lyrics": "- Adrenalinma"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "schin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Die Wadel bei�en"
+            },
+            {
+              "chord": "C",
+              "lyrics": "- hart wie Eisen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Slalomstaungan"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "- niederrei�en"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Die Zeitn rennan"
+            },
+            {
+              "chord": "C",
+              "lyrics": "- die Schenkel brennan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D D D (single down strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gwinnen und - verlieren kennan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Go go go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G"
+            },
+            {
+              "chord": "C",
+              "lyrics": "o for gold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mountain high where the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eagles fly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Reach for number"
+            },
+            {
+              "chord": "C",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fight for the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nation you be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Go for"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gold"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H7 H7 (single down strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Go for gold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Instrumental: Em - C - D - Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Du stehst da"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oben"
+            },
+            {
+              "chord": "D",
+              "lyrics": "- wie a Kroftsym"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "bol"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "F�r ewige"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Zeiten"
+            },
+            {
+              "chord": "D",
+              "lyrics": "- Nationsi"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "dol"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Trib�hnen beben"
+            },
+            {
+              "chord": "C",
+              "lyrics": "- im Sportlerleben"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Adler die durch"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "- L�fte schweben"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Leistung bringen"
+            },
+            {
+              "chord": "C",
+              "lyrics": "- Schanzenspringen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D D (single down strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fahnen schwingen - und alle singen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Die letzten Se"
+            },
+            {
+              "chord": "C",
+              "lyrics": "kunden"
+            },
+            {
+              "chord": "D",
+              "lyrics": "- vorm unsterblich"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sein"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Steht dei Land hinter"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dir -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Go and make it"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "shine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Die Wadel bei�en"
+            },
+            {
+              "chord": "C",
+              "lyrics": "- hart wie Eisen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Slalomstaungan"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "- niederrei�en"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Die Zeitn rennan"
+            },
+            {
+              "chord": "C",
+              "lyrics": "- die Schenkel brennan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D D D (single down strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gwinnen und - verlieren kennan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Final chord: Em (single down strum)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For questions, please contact me: briongloid.dream@gmail.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

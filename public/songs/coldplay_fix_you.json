@@ -1,0 +1,546 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/c/coldplay/fix_you_acoustic_crd_ver_4.html",
+  "title": "Fix You",
+  "artist": "Coldplay",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:58:26.346Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "try your best but you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "don't succeed"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "get what you want but"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not what you need"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "feel so tired but"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you can't sleep"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stuck in re"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ve"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rse"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tears come streaming"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "down your face"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lose something you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "can't replace"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love someone but it"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "goes to waste"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Could it be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rse"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Lights"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "will"
+            },
+            {
+              "chord": "G",
+              "lyrics": "guide you home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "And"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ig--"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nite your bones"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "And I"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "will"
+            },
+            {
+              "chord": "G",
+              "lyrics": "try to fix you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C",
+              "lyrics": "high up above or"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "down below"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you're"
+            },
+            {
+              "chord": "C",
+              "lyrics": "too in love to"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "let it go"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But if you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never try you'll"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "never know"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just what you're"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rth"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Lights"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "will"
+            },
+            {
+              "chord": "G",
+              "lyrics": "guide you home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "And"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ig--"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nite your bones"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "And I"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "will"
+            },
+            {
+              "chord": "G",
+              "lyrics": "try to fix you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tears stream"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ", down your face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "When you lose something"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "you cannot replace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Tears stream"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ", down your face and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I."
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ".."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Tears stream"
+            },
+            {
+              "chord": "Famj7",
+              "lyrics": ", down your face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I promise you I will"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "learn from my mistakes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Tears stream"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ", down your face and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I."
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ".."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "Lights"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "will"
+            },
+            {
+              "chord": "G",
+              "lyrics": "guide you home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "And"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ig--"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nite your bones"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fmaj7",
+              "lyrics": "And I"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "will"
+            },
+            {
+              "chord": "G",
+              "lyrics": "try to fix you."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

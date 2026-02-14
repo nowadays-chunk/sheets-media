@@ -1,0 +1,638 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/bruce-springsteen/96948.html",
+  "title": "Girls in Their Summer Clothes",
+  "artist": "Bruce Springsteen",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:34:25.854Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "- Capo on 5th fret makes this Springsteen song easy to play and gives a great sounding intro."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Use Courier font for correct chord placement)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "capo 5th (G = C)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C* 0.3.2.0.1.3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(2nd time) Well, the street lights..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well the street lights s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Down on B"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lessing Aven"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ue"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Lovers they walk"
+            },
+            {
+              "chord": "G",
+              "lyrics": "by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oldin' hands two by t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "A breeze crosses the p"
+            },
+            {
+              "chord": "G",
+              "lyrics": "orch"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B"
+            },
+            {
+              "chord": "C",
+              "lyrics": "icycle spokes spin"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'round"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Jacket's on, I'm out the d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ton"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ight I'm gonna burn this town"
+            },
+            {
+              "chord": "D",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C* G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the girls in their summer clothes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C* G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the cool of the evening light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C* G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The girls in their summer clothes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pass me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kid's rubber ball smacks"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Off the gutter 'neath the lamp light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Big bank clock chimes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Off go the sleepy front porch lights"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Downtown the store's alive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As the evening's underway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Things been a little tight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I know they're gonna turn my way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D C*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Frankie's Diner's"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Over on the edge of t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Neon sign spinnin' r"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D7 G C*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like a cross over the Lost and Found"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C* F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fluorescent lights"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Flicker above Bob's G"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Shaniqua"
+            },
+            {
+              "chord": "F",
+              "lyrics": "brings a coffee and asks \""
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Fill?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And says \"P"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "enny for your thoughts now,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "my po"
+            },
+            {
+              "chord": "C",
+              "lyrics": "or Bi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ll\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She went away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She cut me like a knife"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Had a beautiful thing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Maybe you just saved my life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "In j"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ust"
+            },
+            {
+              "chord": "B",
+              "lyrics": "a g"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Down here on Magic St"
+            },
+            {
+              "chord": "G",
+              "lyrics": "reet"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Love's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a f"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ool's d"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I ain't got much"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sense but I st"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ill g"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ot"
+            },
+            {
+              "chord": "G",
+              "lyrics": "my f"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C* G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the girls in their summer clothes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C* G B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the cool of the evening light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The g"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "irls in their summer cl"
+            },
+            {
+              "chord": "C",
+              "lyrics": "othes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pass me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "La-La-La-La (fade...)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

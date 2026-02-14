@@ -1,0 +1,406 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/p/phil-wickham/348305.html",
+  "title": "Heaven Song",
+  "artist": "Phil Wickham",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:50:16.851Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Heaven Song, by Phil Wickham"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G - 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9 - x32033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dsus4 - xx0233"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 - x22033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/F# - 200233"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "hammer on 1st finger for all except Em7."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Em | D/F# | G |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em | D/F# | G | C |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You w"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "rote a letter and You"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "signed Your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I read every"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "word Read it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "page by"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "page"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You s"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "aid that You?d be coming"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coming"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "for me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "soon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Oh my"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "God I?ll be"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ready for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?Cause I want to ru"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "n on greener pa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stures"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "dance on higher"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "hills"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "drink from sweeter"
+            },
+            {
+              "chord": "G",
+              "lyrics": "waters"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "misty morning"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "chill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And my"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "soul is getting"
+            },
+            {
+              "chord": "G",
+              "lyrics": "restless"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For the"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "place where I"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "belong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can?t"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "wait to join the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "angels and"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "sing my heaven song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "hear Your voice and I"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "catch my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "breath"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Well done my"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "child, ente"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r in an"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "d rest"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "tears of"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "joy roll down my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cheek"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh it?s"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "beautiful"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "beyond my"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "wildest"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dreams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus x2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

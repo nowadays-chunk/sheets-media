@@ -1,0 +1,106 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.christianguitar.org/csong9043/-Hello-Lord",
+  "title": "Hello Lord",
+  "artist": "Sara Groves",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:59:11.443Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intro: G2 Cmaj7 G2 C6add9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verse 1: G2 Cmaj7 G2 C6add9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chorus: am7 em9 C G/B D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "am7 em9 C G/B D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verse 2:same chords as verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bridge: Cm6/Eb G2/D C2/E D/F#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G2",
+              "lyrics": "(am7"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "em9"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "C"
+            },
+            {
+              "chord": "C6add9",
+              "lyrics": "G/B D)x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "repeat chords for verse minus the D (basically switching from G to C)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

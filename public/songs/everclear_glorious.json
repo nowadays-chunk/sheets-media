@@ -1,0 +1,762 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/everclear/134499.html",
+  "title": "Glorious",
+  "artist": "Everclear",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:44:19.868Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lyrics By Art Alexakis"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Music By Everclear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by JR (Soggypeaches@yahoo.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuned Down Whole Step"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You Shining In A White"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like A Fairytale Movie"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Never Really Thought I'd"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Find Snow White"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Drinking In A Downtown"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Bar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You Were Underneath The White Light"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like A Vision In A Deep Dark"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Never Really Thought I'd"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Fall For A Country Girl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With An Angels"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Aw"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Everything Fades"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The World"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Changes Every"
+            },
+            {
+              "chord": "C",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I Think About You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Makes Me Want To Say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Glor"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ious"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Glor"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ious"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You Are Glorious"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I was walkin in the white son"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "growing up and throwning down"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "loud"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There was silver in our eyes and we"
+            },
+            {
+              "chord": "C",
+              "lyrics": "didnt know why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the power in the north so proud"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "we were lost inside a long dark"
+            },
+            {
+              "chord": "G",
+              "lyrics": "summer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we were headed down a no where"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "road"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we were looking for a light in the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "middle of the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a place that felt like home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i know"
+            },
+            {
+              "chord": "C",
+              "lyrics": "everything fades"
+            },
+            {
+              "chord": "D",
+              "lyrics": "away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the world"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "changes"
+            },
+            {
+              "chord": "C",
+              "lyrics": "everyday"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "when i think about"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you and what we had"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it makes me want to say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "glo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "glo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "yeah you are to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "glo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "well this glorious life has never been what it"
+            },
+            {
+              "chord": "C",
+              "lyrics": "seems"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i was asleep when i was living the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "living the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i know i was living the dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "woah woah woah woah woah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "yeah when i think about the time in the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "city"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we were running away trying to live"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i could"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never believe that you wanted to be with me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "we'd wait in the cold for the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "last bus home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sleeping with your arms"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "around me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "this world is"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never what it seems to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "living the life when i should have been living the dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Glo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "should've been living the dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Glo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "should've been living the dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Glo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "glorious life is never what it seems to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i was asleep when i was living the dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Glo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know i was living the dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Glo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know I Know I was living the dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Glo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well This"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Glorious Life Has Never Been What It"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Seems"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was as"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "leep to long instead of living the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dream"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

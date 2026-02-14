@@ -1,0 +1,654 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/dionne-farris/347294.html",
+  "title": "I Know",
+  "artist": "Dionne Farris",
+  "key": null,
+  "scrapedAt": "2026-02-14T13:58:35.004Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://www.dionnefarris.com/"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: I Konw"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: Dionne Farris"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Wild Seed - Wild Flower"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Year: 1995"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OPEN CHORDS BARRE CHORDS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A : X02220 A : 577655"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m: 20X222 F#m: 244222"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G : 320033 G : 355433"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D : XX0232 D : X5777X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C : X32010 C : X3555X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know what you're"
+            },
+            {
+              "chord": "A",
+              "lyrics": "doing yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know why you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "dialed my number"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know what you're"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "doing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know why you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know what you're"
+            },
+            {
+              "chord": "A",
+              "lyrics": "doing yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know why you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "say you love me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know what you're"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "doing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I don't think it's"
+            },
+            {
+              "chord": "A",
+              "lyrics": "fair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know why you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "dialed my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "number"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know why you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "say you're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know what you're"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "doing,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "t's not, gonna work, this"
+            },
+            {
+              "chord": "A",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "not gonna work, t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "his time, yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know what you're"
+            },
+            {
+              "chord": "A",
+              "lyrics": "doing yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can never"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sing in that key"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know what you're"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "doing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And you're the one to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "blame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know what you're"
+            },
+            {
+              "chord": "A",
+              "lyrics": "doing yeah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know why you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "can't forgive me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know why you're"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "singing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lost love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The lyrics haven't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "changed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can recog"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "nize the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "symptoms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You should know I've"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "changed my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know what you're"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "doing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it's not, gonna work this"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hey"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hey hey, said it's"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "not gonna work this"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time..."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "not gonna work this"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time..."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "not gonna work this"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time..."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know what you're"
+            },
+            {
+              "chord": "A",
+              "lyrics": "doing, baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know why you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "call my name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know why you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "say you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I can't say the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "same"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can recogn"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ize the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "symptoms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You should know I've"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "changed my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know what you're"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "doing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it's not, gonna work this"
+            },
+            {
+              "chord": "A",
+              "lyrics": "time"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

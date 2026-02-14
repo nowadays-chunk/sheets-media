@@ -1,0 +1,814 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/j/jeffbuckley-tabs-1995/hallelujah1-tabs-19723.html",
+  "title": "Hallelujah",
+  "artist": "Jeff Buckley",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:00:41.309Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hallelujah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Written by Leonard Cohen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C: x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am: x02210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F: 133211 or xx3211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 320033 or 355433"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E7: 020100 or 022130"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well I've"
+            },
+            {
+              "chord": "C",
+              "lyrics": "heard there was a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "secreat chord,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That"
+            },
+            {
+              "chord": "C",
+              "lyrics": "David played and it"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "pleased the Lord,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you don't really care for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "music,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "do ya?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It"
+            },
+            {
+              "chord": "C",
+              "lyrics": "goes like this, the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "4th, the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "5th,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "minor fall and the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "major lift,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G",
+              "lyrics": "baffled king com"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "posing halle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lujah,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "faith was strong but you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "needed proof,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "C",
+              "lyrics": "saw her bathing"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "on the roof,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Her"
+            },
+            {
+              "chord": "F",
+              "lyrics": "beauty and the moonlight"
+            },
+            {
+              "chord": "G",
+              "lyrics": "overt"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hrew ya,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tied yo to her"
+            },
+            {
+              "chord": "F",
+              "lyrics": "kitchen chair"
+            },
+            {
+              "chord": "G",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "broke your throne and she"
+            },
+            {
+              "chord": "F",
+              "lyrics": "cut your hair,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "from your lips she"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "drew the halle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lujah,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well"
+            },
+            {
+              "chord": "C",
+              "lyrics": "baby I've been"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "here before,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "know this room and I've"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "walked this floor,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "used to live alone bef"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ore I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "knew ya."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I've"
+            },
+            {
+              "chord": "C",
+              "lyrics": "seen your flag on the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "marble"
+            },
+            {
+              "chord": "G",
+              "lyrics": "arch,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "love is not a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "victory march,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cold and it's a"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "broken halle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lujah,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There"
+            },
+            {
+              "chord": "C",
+              "lyrics": "was a time when you"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "let me know,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "really going"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "on below,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "F",
+              "lyrics": "now you never show it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "do ya."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well"
+            },
+            {
+              "chord": "C",
+              "lyrics": "remember when I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "moved in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "holy dove was"
+            },
+            {
+              "chord": "F",
+              "lyrics": "moving too,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "every breath we"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "drew was halle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lujah,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Maybe there is a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "God above,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "C",
+              "lyrics": "all I ever"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "learned from love,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Was"
+            },
+            {
+              "chord": "F",
+              "lyrics": "how to shoot at someone"
+            },
+            {
+              "chord": "G",
+              "lyrics": "who outd"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rew ya."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "not a cry you can"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hear and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "night,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "not somebody who's"
+            },
+            {
+              "chord": "F",
+              "lyrics": "seen the light,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cold and it's a"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "broken halle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lujah,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Halle"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lujah, halle"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lujah, halle"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lujah, halle"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lu-j"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ah"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "**********************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That's it. But I've heard a cool version of the song by Jeff Buckley"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "where it is just him and an electric guitar and it goes something like this."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It isn't perfect by far because he has a nice long intro, a little bit of"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a solo, and a lot of cool licks in it, but this is the basic idea."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You need a capo on the 5th fret and everything is written relative to the capo."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-----I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You don't-- care-- do ya?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lu-- Jah Ha Le lu Jah Ha le"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G D *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lu Jah Ha le lu--"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jah!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This version by Jeff Buckley is awsome!! I've wanted to learn this song since I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "heard it on Shrek and when I found it on his old CD \"Grace\" that I bought in a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bargain bin a long time ago but just never listened to, I was estatic. It's just"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a solo of him and an electric guitar and it is so cool!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hope you enjoy it and I know it ain't even near perfect but you can play with it."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

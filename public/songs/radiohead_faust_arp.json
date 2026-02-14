@@ -1,0 +1,578 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/r/radiohead/203563.html",
+  "title": "Faust Arp",
+  "artist": "Radiohead",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:26:40.784Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Music and Lyrics by Radiohead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the album \"In Rainbows\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard Tuning, no capo, key of G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords Used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Abbr. - Finger - Written name - Position"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm - x2443x - B minor - III"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm7 - x0443x - B minor 7th - III"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm6 - 3x443x - B minor 6th - III"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B - 2x444x - B major - III"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A#dim - x1x310 - A# diminished - bIII"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G# - 466544 - G# major - bII"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C# - x46664 - C# major - bV"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G - 3xx003 - G major - Root"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G7 - 3x300x - G dominant 7th - Root"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G6 - 3x100x - G w/ minor 6th - Root"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A# - x1x331 - A# major - bIII"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7 - x0x213 - A minor 7th - II"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE ONE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Wakey wakey rise and shine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's on again"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "off again"
+            },
+            {
+              "chord": "Bm6",
+              "lyrics": "on again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Watch me fall like dominoes in pretty patterns"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Fingers in the blackbird pie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm tingling"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "tingling"
+            },
+            {
+              "chord": "Bm6",
+              "lyrics": "tingling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "It's what you feel not what you ought to, what you ought to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#dim",
+              "lyrics": "Reasonable and sensible"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Dead from the neck up"
+            },
+            {
+              "chord": "C#",
+              "lyrics": ", I guess I'm stuff"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stuffe"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "d, stuffe"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "d"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We thought you had it in you, but not"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "t, no"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "t"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "For no real reason"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE TWO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Squeeze the tubes and empty bottles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I take a bow"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "take a bow"
+            },
+            {
+              "chord": "Bm6",
+              "lyrics": "take a bow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "It's what you feel not what you ought to, what you ought to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "The elephant that's in the room"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is tumbling"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "tumbling"
+            },
+            {
+              "chord": "Bm6",
+              "lyrics": "tumbling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "In duplicate and triplicate, and plastic bags"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#dim",
+              "lyrics": "In duplicate and triplicate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Dead from the neck up"
+            },
+            {
+              "chord": "C#",
+              "lyrics": ", I guess I'm stuff"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stuffed"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ", stuffe"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "d, we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "thought you had it in you, but not"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "t, no"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "t, ex"
+            },
+            {
+              "chord": "G",
+              "lyrics": "actly where do you get off?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "enough, it's e"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "nough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ove you but enough is enough,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Enou"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "gh of that"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "stuff"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "no real reason"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A# | Am7 | G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You've got a h"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "ead"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "full of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "feathers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're gonna m"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "elt"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "into"
+            },
+            {
+              "chord": "G",
+              "lyrics": "butter"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G6",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G | G7 | G6 | G"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

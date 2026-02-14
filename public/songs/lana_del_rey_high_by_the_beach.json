@@ -1,0 +1,782 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/l/lanadelrey-tabs-47386/highbythebeach-tabs-859304.html",
+  "title": "High by the Beach",
+  "artist": "Lana Del Rey",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:24:38.961Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am - F - Dm - E (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Boy, look at"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you, looking at"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "know how I f"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Loving you is h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ard, being here is"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "harder"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You take the wh"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't wanna"
+            },
+            {
+              "chord": "F",
+              "lyrics": "do this anym"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "It's so sur"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "real"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "can't sur"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "vive if th"
+            },
+            {
+              "chord": "E",
+              "lyrics": "is is all that's real"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All I wanna do is get"
+            },
+            {
+              "chord": "F",
+              "lyrics": "high by the beach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "high by the beach, get"
+            },
+            {
+              "chord": "E",
+              "lyrics": "high"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All I wanna do is get"
+            },
+            {
+              "chord": "F",
+              "lyrics": "by by the beach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "by baby, baby, bye,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "truth is I never boug"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ht into your bullsh*t"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "you would pay tribute to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me cause I know that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All I wanted to do was get"
+            },
+            {
+              "chord": "F",
+              "lyrics": "high by the beach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "high baby, baby, bye,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Boy look at"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you, looking at"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "know you don't unders"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You could be a b"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ad motherf"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "**ker"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hat don't make you a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now you're just an"
+            },
+            {
+              "chord": "F",
+              "lyrics": "other one of my pro"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "blems"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bec"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ause you got out of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We"
+            },
+            {
+              "chord": "F",
+              "lyrics": "won't surv"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ive, we're"
+            },
+            {
+              "chord": "E",
+              "lyrics": "sinking into the sand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All I wanna do is get"
+            },
+            {
+              "chord": "F",
+              "lyrics": "high by the beach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "high by the beach, get"
+            },
+            {
+              "chord": "E",
+              "lyrics": "high"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All I wanna do is get"
+            },
+            {
+              "chord": "F",
+              "lyrics": "by by the beach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "by baby, baby, bye,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "truth is I never boug"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ht into your bullsh*t"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "you would pay tribute to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me cause I know that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All I wanted to do was get"
+            },
+            {
+              "chord": "F",
+              "lyrics": "high by the beach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "high baby, baby, bye,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Bridge)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Lights, camera, accion,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I'll do it on my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't need your money, money, to"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "get me what I want"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": "Lights, camera, accion,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I'll do it on my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't need your money, money, to"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "get me what I want"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All I wanna do is get"
+            },
+            {
+              "chord": "F",
+              "lyrics": "high by the beach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "high by the beach, get"
+            },
+            {
+              "chord": "E",
+              "lyrics": "high"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All I wanna do is get"
+            },
+            {
+              "chord": "F",
+              "lyrics": "by by the beach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "by baby, baby, bye,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "truth is I never boug"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ht into your bullsh*t"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "you would pay tribute to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "me cause I know that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All I wanted to do was get"
+            },
+            {
+              "chord": "F",
+              "lyrics": "high by the beach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "high baby, baby, bye,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Interlude)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am - F - Dm - E (x4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Outro: Spoken)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Everyone can"
+            },
+            {
+              "chord": "F",
+              "lyrics": "start again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Not through love but"
+            },
+            {
+              "chord": "E",
+              "lyrics": "through revenge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Through the fire, we're"
+            },
+            {
+              "chord": "F",
+              "lyrics": "born again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Peace by vengeance"
+            },
+            {
+              "chord": "E",
+              "lyrics": "brings the end"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,502 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.xguitar.com/guitar-tabs/levellers/green_blade_rising/four_winds.txt",
+  "title": "Four Winds",
+  "artist": "Levellers",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:36:42.495Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "artist - Levellers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "song - Four Winds"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "album - Green Blade Rising"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "singer - Mark Chadwick"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tab by - Marc Smith ( marc_wolves@yahoo.com )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "summer came around early this y"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "and winter swung around soon a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fter"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "the scent of spring was high with f"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "the autmn crows call di"
+            },
+            {
+              "chord": "G",
+              "lyrics": "saster"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "because the no"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rth wind b"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lows so c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "old"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chilling the wa"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rmth of m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y des"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and the wh"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ispered wo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rds we kn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tell of a fu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ture bur"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ned with f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verse 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the music that now fills the street"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "falls to the rhythm of marching"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "feet i find no comfort here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "no not in this or any other year"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "because the no"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rth wind b"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lows so c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "old"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chilling the wa"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rmth of m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y des"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and the wh"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ispered wo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rds we kn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tell of a fu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ture bur"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ned with f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tell of a f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "uture bu"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rned with"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verse 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a stranger asked me what do you know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and just where are you going"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i told the truth i just don't know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if you don't mind i'll keep on going"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "because the no"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rth wind b"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lows so c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "old"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chilling the wa"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rmth of m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y des"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and the wh"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ispered wo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rds we kn"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tell of a fu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ture bur"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ned with f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tell of a fu"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ture bur"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ned with f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ire"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

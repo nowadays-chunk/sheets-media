@@ -1,0 +1,426 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/w/will-hoge/146067.html",
+  "title": "Hey Tonight",
+  "artist": "Will Hoge",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:20:20.035Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "TITLE: Hey Tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ARTIST: WILL HOGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ALBUM: BLACKBIRD ON A LONELY WIRE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO Em Bm C Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I know"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "it's late"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "It's the lonely"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "But I've"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "seen your window"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I've knocked on your"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "There's no need to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "hide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm a love lost"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "disaster"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And sooner or"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "later you're gonna"
+            },
+            {
+              "chord": "C",
+              "lyrics": "find out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just"
+            },
+            {
+              "chord": "D",
+              "lyrics": "what I'm here after"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hey"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tonight"
+            },
+            {
+              "chord": "C",
+              "lyrics": "say that you still"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love me"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The way that"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you always di"
+            },
+            {
+              "chord": "D",
+              "lyrics": "d before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hey"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tonight s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ay the fire is still"
+            },
+            {
+              "chord": "G",
+              "lyrics": "burning"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And in the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "morning pretend"
+            },
+            {
+              "chord": "C",
+              "lyrics": "we don't see the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ashes on the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "floor"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's blood on these streets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know that I'm losing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My heart's been left open"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm falling away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know that I could"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I could change if I have to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I've been here so long I think I've learned to like it this way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Into the ocean and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "with no"
+            },
+            {
+              "chord": "G",
+              "lyrics": "light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I'm sinking this"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ship ton"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I'm going down fast"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Won't you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hold on"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't turn on the lights"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't look out from inside"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Because I know how this ends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I just can't stand it this way"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

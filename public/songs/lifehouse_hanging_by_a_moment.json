@@ -1,0 +1,594 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/l/lifehouse/hanging_by_a_moment_crd_ver_5.html",
+  "title": "Hanging by a Moment",
+  "artist": "Lifehouse",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:08:07.700Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo on 4th"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tab based on Asus2, A, Asus4, A, Asus2 in that order."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Desperate for"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "chang -"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ing,"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "starving"
+            },
+            {
+              "chord": "A",
+              "lyrics": "for"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "truth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "A",
+              "lyrics": "closer to where I"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "star -"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ted,"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "chasing after"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm falling even"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "more in love with"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Letting go of"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "all I've held on"
+            },
+            {
+              "chord": "A",
+              "lyrics": "to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm standing here un"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "til you make me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "move"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm hanging by a"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "moment here with"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "orgetting all I'm lack -ing, completely incomplete"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "A",
+              "lyrics": "take your invi"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "ta -"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tion,"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "you take all of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm falling even"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "more in love with"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Letting go of"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "all I've held on"
+            },
+            {
+              "chord": "A",
+              "lyrics": "to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm standing here"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "until you make me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "move"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm hanging by a"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "moment here with"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm living for the"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "only thing I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm running and not"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "quite sure where to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I don't know what"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "I'm diving in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just hanging by a"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "moment here with"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's nothing else to"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "lose, there's nothing else to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "find"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's nothing in the"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "world that can change my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There is nothing"
+            },
+            {
+              "chord": "D",
+              "lyrics": "else"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There is nothing"
+            },
+            {
+              "chord": "D",
+              "lyrics": "else"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There is nothing"
+            },
+            {
+              "chord": "D",
+              "lyrics": "else"
+            },
+            {
+              "chord": "Esus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Desperate for"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "chang -"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ing,"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "starving"
+            },
+            {
+              "chord": "A",
+              "lyrics": "for"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "truth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm"
+            },
+            {
+              "chord": "A",
+              "lyrics": "closer to where I"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "star -"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ted,"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "chasing after"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just hanging by a"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "moment"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hanging by a"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "moment"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hanging by a"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "moment"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hanging by a"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "moment here with"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

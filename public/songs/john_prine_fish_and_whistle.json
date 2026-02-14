@@ -1,0 +1,558 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/john-prine/91503.html",
+  "title": "Fish And Whistle",
+  "artist": "John Prine",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:55:29.806Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G C G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G C G D G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I been thinking lately about the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "people I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "meet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C",
+              "lyrics": "carwash on the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "corner and the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hole in the street"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way my ankles hurt with"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shoes on my feet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wondering if I'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gonna see tom"
+            },
+            {
+              "chord": "G",
+              "lyrics": "orrow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Father forgive us for"
+            },
+            {
+              "chord": "C",
+              "lyrics": "what we must"
+            },
+            {
+              "chord": "G",
+              "lyrics": "do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You forgive"
+            },
+            {
+              "chord": "G",
+              "lyrics": "us we'll"
+            },
+            {
+              "chord": "D",
+              "lyrics": "forget you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We'll forgive each other till we"
+            },
+            {
+              "chord": "C",
+              "lyrics": "both turn blue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then we'll"
+            },
+            {
+              "chord": "G",
+              "lyrics": "whistle and go"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fishing in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Heaven"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G C G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G C G D G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I was in the army but I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never dug a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "trench"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I used to bust my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "knuckles on a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "monkey wrench"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then I'd"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go to town and drink and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "give the girls a pinch"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't think they"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ever even"
+            },
+            {
+              "chord": "G",
+              "lyrics": "noticed me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus:)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Fish and whistle, Whistle and fish"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Eat every thing that they put on your dish"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C",
+              "lyrics": "when we get through we'll"
+            },
+            {
+              "chord": "G",
+              "lyrics": "make a big wish"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That we"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "never have to do this"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "again, Again?, Again???"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "On my very first job I said"
+            },
+            {
+              "chord": "C",
+              "lyrics": "\"thank you\" and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "\"please\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They"
+            },
+            {
+              "chord": "C",
+              "lyrics": "made me scrub a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "parking lot"
+            },
+            {
+              "chord": "D",
+              "lyrics": "down on my knees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Then I got fired for"
+            },
+            {
+              "chord": "C",
+              "lyrics": "being scared of bees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "only give me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fifty cents and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus:)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G C G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G C G D G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Fish and whistle, Whistle and fish"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Eat every thing that they put on your dish"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C",
+              "lyrics": "when we get through we'll"
+            },
+            {
+              "chord": "G",
+              "lyrics": "make a big wish"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That we"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "never have to do this"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "again, Again?, Again???"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus:)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ending:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We'll whistle and go"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fishing in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Heaven"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We'll whistle and go"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fishing in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Heaven"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat and fade:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G C G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G C G D G"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

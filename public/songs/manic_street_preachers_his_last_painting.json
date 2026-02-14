@@ -1,0 +1,70 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/manic-street-preachers/41346.html",
+  "title": "His Last Painting",
+  "artist": "Manic Street Preachers",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:32:52.983Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by David Thompson (bring_it_on53@hotmail.com)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro and Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can't see r"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ight from my wr"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ong,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've loved so m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "uch that I can't go"
+            },
+            {
+              "chord": "F",
+              "lyrics": "on."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

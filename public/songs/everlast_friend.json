@@ -1,0 +1,554 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/everlast/368300.html",
+  "title": "Friend",
+  "artist": "Everlast",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:47:59.088Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "capo 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intro: G C Em D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There's a sickness in my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "soul"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "and i don't know"
+            },
+            {
+              "chord": "C",
+              "lyrics": "what i've been told, it's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "uncurable."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There's a darkness in my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "slowly tearin' me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "apart it's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "unbearable"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "A drop of blood,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a lake of tears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "but baby after all these"
+            },
+            {
+              "chord": "C",
+              "lyrics": "years your still"
+            },
+            {
+              "chord": "G",
+              "lyrics": "beautiful."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And i've been loved,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "and i've been used"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "cut wide open,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "scarred and bruised i'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "unbreakable"
+            },
+            {
+              "chord": "C",
+              "lyrics": "."
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Flesh it heals i know,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Hearts they never mend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "lovers come and go"
+            },
+            {
+              "chord": "D",
+              "lyrics": "girl right now i need a friend."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Walk for miles,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "talk for days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And i keep tryin' to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "change my ways it's so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "difficult."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You kick and scream,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you curse and yell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "you tell me i should"
+            },
+            {
+              "chord": "C",
+              "lyrics": "go to hell it's so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "typical."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Touch my heart,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "feel my pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "let me know i'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "not insane your so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "merciful"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Break your heart,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "i cheat, i lie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "honestly i don't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "know why i'm so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pitiful."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Flesh it heals i know,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Hearts they never mend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "lovers come and go"
+            },
+            {
+              "chord": "D",
+              "lyrics": "girl right now i need a friend."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There's a sickness"
+            },
+            {
+              "chord": "C",
+              "lyrics": "in my soul"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "and i don't know what"
+            },
+            {
+              "chord": "C",
+              "lyrics": "i been told its"
+            },
+            {
+              "chord": "G",
+              "lyrics": "uncurable"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There's a darkness"
+            },
+            {
+              "chord": "C",
+              "lyrics": "in my heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Slowly tearin' me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "apart it's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "unbearable."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Flesh it heals i know,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Hearts they never mend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "lovers come and go"
+            },
+            {
+              "chord": "D",
+              "lyrics": "girl right now i need a friend."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "There's a sickness"
+            },
+            {
+              "chord": "C",
+              "lyrics": "in my soul"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "and i don't know"
+            },
+            {
+              "chord": "C",
+              "lyrics": "what i been told its"
+            },
+            {
+              "chord": "G",
+              "lyrics": "uncurable"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

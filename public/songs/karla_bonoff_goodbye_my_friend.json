@@ -1,0 +1,586 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/k/karla-bonoff/314628.html",
+  "title": "Goodbye My Friend",
+  "artist": "Karla Bonoff",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:22:35.049Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "By Karla Bonoff"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Cadd2"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "////Am7add4////Fadd2////Dm7/ Em7/ Fmaj7/ G7sus4/ G7/"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Cadd2"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Csus4 C Csus4 C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh we never know where life will take us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Fadd2",
+              "lyrics": "know it's just a ride on the"
+            },
+            {
+              "chord": "Fadd2/G",
+              "lyrics": "wheel"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Cadd2"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Csus4 C Csus4 C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And we never know when death will shake us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fadd2",
+              "lyrics": "And we wonder how it will"
+            },
+            {
+              "chord": "Fadd2/G",
+              "lyrics": "feel"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "So goo"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "dbye my fr"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "iend"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "know I'll n"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ever see you ag"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ut the ti"
+            },
+            {
+              "chord": "F",
+              "lyrics": "me toge"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ther through"
+            },
+            {
+              "chord": "Gm7/C",
+              "lyrics": "all the years"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will ta"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ke aw"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "ay these te"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ars"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's O"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ".K. now"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Cadd2"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Am7 Fmaj7 Dm7 Em7 Fmaj9 Gsus4 G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodbye my friend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Cadd2"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Csus4 C Csus4 C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'd see a lot of things that made me crazy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "Fadd2",
+              "lyrics": "nd I guess I held on to"
+            },
+            {
+              "chord": "Fadd2/G",
+              "lyrics": "you"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Cadd2"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Csus4 C Csus4 C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You could've run away and left, well maybe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fadd2",
+              "lyrics": "But it wasn't time and we"
+            },
+            {
+              "chord": "Fadd2/G",
+              "lyrics": "both kne"
+            },
+            {
+              "chord": "G",
+              "lyrics": "w"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "So goo"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "dbye my fr"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "iend"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "know I'll n"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ever see you ag"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ut the ti"
+            },
+            {
+              "chord": "F",
+              "lyrics": "me toge"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ther through"
+            },
+            {
+              "chord": "Gm7/C",
+              "lyrics": "all the years"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will ta"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ke aw"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "ay these te"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ars"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's O"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ".K. now"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "F/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Cadd2"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodbye my friend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A li"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "fe so fragile, a lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ve so pure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We ca"
+            },
+            {
+              "chord": "F",
+              "lyrics": "n't hold on but we try"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We wa"
+            },
+            {
+              "chord": "C/E",
+              "lyrics": "tch how quickly it disa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ppears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "nd we'll never know why"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I'm O."
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "K. no"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": "w"
+            },
+            {
+              "chord": "Em/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F/G"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Cadd2"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodbye my friend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "You can g"
+            },
+            {
+              "chord": "Em/G",
+              "lyrics": "o now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F/G"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "Cadd2"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "F/G C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Goodbye my friend"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

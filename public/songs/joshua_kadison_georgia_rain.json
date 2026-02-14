@@ -1,0 +1,598 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/joshua-kadison/67366.html",
+  "title": "Georgia Rain",
+  "artist": "Joshua Kadison",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:14:14.657Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Title: Georgia Rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: Joshua Kadison"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Stuart Lowe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords, in order of appearance:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*** Capo 1st Fret ***"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F 0 2 2 1 0 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eb x x 0 2 3 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb2 x 0 2 2 0 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bbsus2b5 x 0 2 4 4 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "C2"
+            },
+            {
+              "chord": "2",
+              "lyrics": "x"
+            },
+            {
+              "chord": "4",
+              "lyrics": "2"
+            },
+            {
+              "chord": "2",
+              "lyrics": "4"
+            },
+            {
+              "chord": "2",
+              "lyrics": "4"
+            },
+            {
+              "chord": "2",
+              "lyrics": "2"
+            },
+            {
+              "chord": "2",
+              "lyrics": "2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C9 x 2 4 2 2 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Bb"
+            },
+            {
+              "chord": "4",
+              "lyrics": "x"
+            },
+            {
+              "chord": "6",
+              "lyrics": "0"
+            },
+            {
+              "chord": "4",
+              "lyrics": "2"
+            },
+            {
+              "chord": "4",
+              "lyrics": "2"
+            },
+            {
+              "chord": "4",
+              "lyrics": "2"
+            },
+            {
+              "chord": "4",
+              "lyrics": "0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm7 x 4 6 4 5 4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eb6sus2 x x 0 2 0 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "When all my dreams are fallin' on"
+            },
+            {
+              "chord": "Bbsus2b5",
+              "lyrics": "stony"
+            },
+            {
+              "chord": "Bb2",
+              "lyrics": "ground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "and I start wonderin' why I'm"
+            },
+            {
+              "chord": "Bbsus2b5",
+              "lyrics": "even"
+            },
+            {
+              "chord": "Bb2",
+              "lyrics": "around,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "can't find the"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "sunshine any"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "where,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jessie"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "puts her arms a"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "round me and runs her"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "fingers through my"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "hair."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And Jessie"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "sings soft as the"
+            },
+            {
+              "chord": "Bb2",
+              "lyrics": "Georgia"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "coming down"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "easy on a"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "window"
+            },
+            {
+              "chord": "F",
+              "lyrics": "pane."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And Jessie"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "sings warm as a"
+            },
+            {
+              "chord": "Bb2",
+              "lyrics": "late night"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "summer"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "breeze"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "hummin' some"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "faraway tune to the"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "willow"
+            },
+            {
+              "chord": "F",
+              "lyrics": "trees."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "And life is everything God"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "meant it to"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "when Jessie's"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "singing soft as the"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "Georgia rain to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She calls me angel and says, Let me dry your eyes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You mean by now you still don't realise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "that everything I want is what I got,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so angel stop your thinkin' 'bout all the things you?re not."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's a"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "trailer by the"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "sea down in"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "Mexi"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "co."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "dreamt a lot a"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "bout it but we"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "never did"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "go."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Some dreams are"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "better from a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "far, that's just"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "how"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "things"
+            },
+            {
+              "chord": "Bb2",
+              "lyrics": "are."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And everything's all"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "right 'cause"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "Jessie's singing"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "me to sleep to"
+            },
+            {
+              "chord": "Eb6sus2",
+              "lyrics": "night."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Eb6sus2",
+              "lyrics": "Jessie's singing"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "me to sleep"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tonight."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "when Jessie's"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "singing soft as the"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "Georgia rain to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "me."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

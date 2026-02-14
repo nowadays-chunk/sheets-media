@@ -1,0 +1,114 @@
+{
+  "url": "https://www.chordie.com/chord.pere/chordiearchive.chordie.com/chord.pere/www.lindesign.se/uwp/guitar/d/dodgy/grassman.crd",
+  "title": "Grassman",
+  "artist": "Dodgy",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:34:51.115Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "("
+            },
+            {
+              "chord": "1",
+              "lyrics": "...)"
+            },
+            {
+              "chord": "3",
+              "lyrics": ""
+            },
+            {
+              "chord": "5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "my"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "darling you'r"
+            },
+            {
+              "chord": "C#dim7",
+              "lyrics": "e my heroin, the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "everything i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "need"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "come to my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "arms, don't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "make me bleed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am the"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "grassm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "an, put me where you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "choose,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am the"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "grassm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "an, i would burn for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

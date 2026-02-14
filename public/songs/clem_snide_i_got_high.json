@@ -1,0 +1,70 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/clem-snide/224610.html",
+  "title": "I Got High",
+  "artist": "Clem Snide",
+  "key": null,
+  "scrapedAt": "2026-02-14T13:47:28.976Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The entire song has the same chord progression. It is very simple and as follows:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "I got high, with Sufjan Stevens f"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ans"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "In normal Illinoi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "se"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "And this song goes out, to all you beautiful"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "American girls and boys"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

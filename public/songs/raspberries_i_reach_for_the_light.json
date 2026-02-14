@@ -1,0 +1,494 @@
+{
+  "url": "https://www.chordie.com/chord.pere/tabfu.thudspace.net/r/raspberries/i_reach_for_the_light.crd",
+  "title": "I Reach for the Light",
+  "artist": "Raspberries",
+  "key": null,
+  "scrapedAt": "2026-02-14T16:35:15.530Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"I Reach For The Light\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Eric Carmen)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro (solo piano):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am G6 Fmaj7 Bm7-5 E Am/E Dm/E E7"
+            },
+            {
+              "chord": "arpeggiate",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I can't be"
+            },
+            {
+              "chord": "/B",
+              "lyrics": "gin to c"
+            },
+            {
+              "chord": "/A",
+              "lyrics": "ount the time"
+            },
+            {
+              "chord": "D7/F#",
+              "lyrics": "s I have be"
+            },
+            {
+              "chord": "FaddG/G",
+              "lyrics": "en by mys"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "elf"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "piano arr. for guitar:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "FaddG/G",
+              "lyrics": "v v"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "v v"
+            },
+            {
+              "chord": "(C)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bass:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I lie aw"
+            },
+            {
+              "chord": "/B",
+              "lyrics": "ake, my l"
+            },
+            {
+              "chord": "/A",
+              "lyrics": "onely room"
+            },
+            {
+              "chord": "D7/F#",
+              "lyrics": "tells me there"
+            },
+            {
+              "chord": "FaddG/G",
+              "lyrics": "'s no one e"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "lse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7-5",
+              "lyrics": "No one e"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "lse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I reach for the l"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ight, it sh"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "ines"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "above my head"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Re"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "veals the bed that yo"
+            },
+            {
+              "chord": "E",
+              "lyrics": "u're not in"
+            },
+            {
+              "chord": "Am/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I reach for the l"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ight, it sh"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "ines a"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "cross the room"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "brings to mind what mi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ght have been"
+            },
+            {
+              "chord": "Am/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I tell myself I'm better off no one can hurt me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I see your crumpled photograph it makes me laugh out loud"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Laugh out loud"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ish I c"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ould for"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "get how g"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ood you lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oked"
+            },
+            {
+              "chord": "/B",
+              "lyrics": "ton"
+            },
+            {
+              "chord": "/A",
+              "lyrics": "ight"
+            },
+            {
+              "chord": "/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you sm"
+            },
+            {
+              "chord": "F",
+              "lyrics": "iled at"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "me and wa"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lked a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "way with h"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "im (oh... oh, no!)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coda:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I reach for the light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "(I r"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "each"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "for"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "the li"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ght)"
+            },
+            {
+              "chord": "Am/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I tell myself I'm better off, no one can hurt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(I reach for the light)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I see your crumbled photograph, it makes me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "laugh out loud"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(I reach for the light)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I lie awake, my lonely room tells me there's"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "no one else"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-- another ace 70's tab from Andrew Rogers"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

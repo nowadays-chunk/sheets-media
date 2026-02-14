@@ -1,0 +1,922 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/t/the_view/face_for_the_radio_crd.html",
+  "title": "Face for the Radio",
+  "artist": "The View",
+  "key": null,
+  "scrapedAt": "2026-02-14T04:52:39.718Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The View"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Face for the radio"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tab by scott blythe sblythe@gmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "had a couple of emails saying the F#m is meant to be F#m11"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so ive added it in but cant really be fucked changin the whole song."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so just add that in instead of the F#m, also some of the words are wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and i really cant be fucked changin them so dont bother complaining that theyre wrong i already know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m11 (044200)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A (x02220)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Amaj7 (x02120)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A7 (x02020)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dsus2 (xx0230)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "E"
+            },
+            {
+              "chord": "(244222)",
+              "lyrics": "(022100)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A, Amaj7, A7, Amaj7 x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You have"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "a face for the r"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "adio"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "But I kn"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "ow you'd like to"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "see it in a s"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "how"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Claiming"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "to be the next b"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "est everythin"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "g"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Which"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "way will you"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "go?"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You're litt"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "le smarter than most"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "of us"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You run"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "so fast sometimes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It'"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "s hard to see you for"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "dust"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Finding so"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "me time for you, it tor"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "tures me"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hich wa"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "y will you g"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "o?"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Wages on a Friday"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "(Spent on Saturday)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m11",
+              "lyrics": "Lend me a fiver"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "(Won't do that again)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Oh your tru"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "st's not too strong"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You're arrogance in a bag"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "(Won't spare you a fag)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m11",
+              "lyrics": "Superstar wannabee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "(Says it comes naturally)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Cemented"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "in your own feeb"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "le way"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "He watches"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "Trainspotting"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "15 times a week"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Thinking it"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "s making him,"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "oh so unique"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "PC on su"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "mmer nights"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "nd football in th"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "e rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Doesn't matt"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "er how far he is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m11",
+              "lyrics": "He's always money"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "for the train"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Which"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "way will you"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "go?"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "MIDDLE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Its nothing against you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "Love in my heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "You're really a nice guy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I've known it from the start"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "But conscience is eager"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "To know where you lie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Pushing your limit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "give it up and remember"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "****"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "*****"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "******SOLO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You can cry"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m11",
+              "lyrics": "Remember you can cry"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And i know & i know & i"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "know that you can cry"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Wages on a Friday"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "(Spent on Saturday)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m11",
+              "lyrics": "Lend me a tenner"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "(Won't do that again)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Oh your"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "trust's not too"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "strong"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You're arrogance in a bag"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "(Won't spare you a fag)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m11",
+              "lyrics": "Superstar wannabe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dsus2",
+              "lyrics": "(Says it comes naturally)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Cemented"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "in your own feeb"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "le way"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You have"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "a face for the"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "radio"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "But i kno"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "w you'd like to"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "see it in a"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "show"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bu bu then r"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bu half and hold (13)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bu = Bend Up (whole step unless stated above)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^ = \""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "r = Release"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "h = Hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "p = Pull-off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ = Slide up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\\ = Slide down"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

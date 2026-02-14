@@ -1,0 +1,574 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/debbie-gibson/387593.html",
+  "title": "Foolish Beat",
+  "artist": "Debbie Gibson",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:14:32.658Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: Foolish Beat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: Debbie Gibson"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Jaypee Resada"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I just want to share the chords of this song...wla kasi talaga ako may nakita na"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "nag tab ng chords kantang ito."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I thought it could help a little for those who are searching for this song...hope you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "like it guys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: (Piano Part) Bbm-G#-F#-"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C#/F"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm-C#-G#-F",
+              "lyrics": ".....oh oh..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Sax Part) Bbm-G#-F#,G#-(2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "There was a time when"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Broken hearts and broken dreams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "Were ove"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "r."
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "There was a place where"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "All you could do was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "Wish on a four l"
+            },
+            {
+              "chord": "Fsus",
+              "lyrics": "eaf clov"
+            },
+            {
+              "chord": "F",
+              "lyrics": "er."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "But now is a new time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "There is a new place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "Where dreams just can't"
+            },
+            {
+              "chord": "Fsus",
+              "lyrics": "come tru"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "It started the day when"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I left you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Refrain:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "I could never love"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "again the way that I lov"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ed you"
+            },
+            {
+              "chord": "G#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "I could never cry a"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "gain like I did when I"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "left you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "when we said goodbye"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh the look in your"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just left me besid"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "e myself without your hear"
+            },
+            {
+              "chord": "F",
+              "lyrics": "t"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(without your heart)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F# G# Ebm"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C#/F"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "F# G#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I could never love again now that we're apart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "When I was sorry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "It was too late to"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "turn around (turn around)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And tell"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you so."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "There was no reason"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "There was no reason"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Ebm",
+              "lyrics": "Just a foolish beat of m"
+            },
+            {
+              "chord": "Fsus",
+              "lyrics": "y hea"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rt."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Refrain)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Oh, can't you see I'm not fooling nobody"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Don't you see the tears are falling down my face?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Since you went away"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "Break my heart, you slipped away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Didn't know I was wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Never meant to hurt you now you're"
+            },
+            {
+              "chord": "F",
+              "lyrics": "gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sax Solo: Bbm-G#-F#-G#-(2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bbm-F#-G#-Fsus,F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F# G# Ebm"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C#/F"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "F# G#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I could never love again now that we're apart."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbm",
+              "lyrics": "(now"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "th"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "at"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "we're apart)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F# G# Ebm"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C#/F"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "F# G# Bb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I could never love again now that we're apart."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

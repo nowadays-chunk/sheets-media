@@ -1,0 +1,418 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/s/subway_to_sally/fatum_tab_ver_2.html",
+  "title": "Fatum",
+  "artist": "Subway to Sally",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:26:21.865Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro (thanks to the unregistred guy who wrote that):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E E E E E +E E E E E E Q +E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E E E E Q E E E E E E +E +E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E E E E E +E E E E E E Q +E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E E E E Q +E Q Q Q Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W +Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Ich kenne meinen Stammbaum"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Er reicht ins erste G"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "lied"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dort gab es meine Mutter"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Die von dem Vater sch"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "wieg"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sie"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "kam nach Haus mit Fremden"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dann"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "war ich fremd Daheim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ich"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "f�hlte mich verraten"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "unwert und al"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "lein"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeat Intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Als Bastardsohn geboren"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Brauch' ich kein Horos"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "kop"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Es steht nicht in den Sternen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Wer mich ins Ungl�ck"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "zog"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wo"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "euch Gestirne leuchten"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sind"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "meine l�ngst vergl�ht"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ich"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "f�hl' mein nacktes Leben"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Als"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "sei es schon"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "verbl�ht"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeat Intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "Meine Heimat ging ver"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lor�n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ihre"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "Seen ihre"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Auen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wird mein"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "Auge niemals"
+            },
+            {
+              "chord": "D",
+              "lyrics": "schauen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "So steht es"
+            },
+            {
+              "chord": "F",
+              "lyrics": "in meinem"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "Blut"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E E E E E E E E E E E Q E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E E E E Q E E E E E E E E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E E E S S S S E E E E E E S S S S E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E E E S S S S E E E E E E S S S S E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E E E S S S S E E E E E E S S S S E E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E E E S S S S E E Q Q Q Q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "W"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

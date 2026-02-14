@@ -1,0 +1,530 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/gazette/188538.html",
+  "title": "GENTLE LIE",
+  "artist": "the GazettE",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:12:36.328Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: A#maj7 C Dm ---> 4x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#maj7",
+              "lyrics": "Yowasa no sai ni"
+            },
+            {
+              "chord": "Dm9",
+              "lyrics": "shita no wa"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "tagai no \"sai ai\" no ta"
+            },
+            {
+              "chord": "Dm9",
+              "lyrics": "me darou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#maj7",
+              "lyrics": "Let's see in the cold bed.."
+            },
+            {
+              "chord": "Dm9",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#maj7",
+              "lyrics": "Please give me a gentle kiss..."
+            },
+            {
+              "chord": "C",
+              "lyrics": "SHIRUKU ni tokeru"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "futari"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ai"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "shi aisare"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai wo shiri"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "kuchi utsushi no tameiki"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ri"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "kairi au so"
+            },
+            {
+              "chord": "C",
+              "lyrics": "buri no ku"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "rikaeshi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tada"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "daite dakarete"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sore dake"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "hoka ni wa nani hito"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "tsu no"
+            },
+            {
+              "chord": "C",
+              "lyrics": "zoma"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "zu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#maj7",
+              "lyrics": "Truth can't be seen. \"nozomu n"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "o nara hora\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#maj7",
+              "lyrics": "No, no, no... sukoshi zutsu ko"
+            },
+            {
+              "chord": "C",
+              "lyrics": "toba wo kaetai dake"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo: A#maj7 C Dm ---> 8x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Sai"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "ai\" wo hoshiga"
+            },
+            {
+              "chord": "Dm9",
+              "lyrics": "ru mae ni ko"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "no te wo hanashi"
+            },
+            {
+              "chord": "Dm9",
+              "lyrics": "te hoshii"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#maj7",
+              "lyrics": "Let's see in the cold bed.."
+            },
+            {
+              "chord": "Dm9",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#maj7",
+              "lyrics": "Please give me a gentle kiss.."
+            },
+            {
+              "chord": "C",
+              "lyrics": ". modorenai to"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "rikaitteru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ai"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "shi aisare"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai wo shiri"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "kuchi utsushi no tameiki"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ri"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "kairi au so"
+            },
+            {
+              "chord": "C",
+              "lyrics": "buri wo ku"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "rikaesu no wa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#maj7",
+              "lyrics": "Daite dakarete"
+            },
+            {
+              "chord": "C",
+              "lyrics": "kanshoku ni"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "kodoku mieta ka"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "ra yu"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ruse"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ta"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kasane"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "ta y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ubi"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ni sarawa"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "re sou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ni na"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kot"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "ae wo mo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tomeru k"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "okkei sa wo rik"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "aitteta no"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Afur"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "e desu Sorrow SHADOO"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wo tokasu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ai"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "shi aisare"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai wo shiri"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "karame au toiki ni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nu"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "ke desena"
+            },
+            {
+              "chord": "C",
+              "lyrics": "i no wa"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "uso janaku"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kuri"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "kaesu tabi ni"
+            },
+            {
+              "chord": "C",
+              "lyrics": "netsu wo masu"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "sono yasashiki uso"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "ni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Iki"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ga tomari"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "sou de"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mata"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "aisuru koto"
+            },
+            {
+              "chord": "C",
+              "lyrics": "no omosa ni"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "tomadoi ga miete mo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Me"
+            },
+            {
+              "chord": "A#maj7",
+              "lyrics": "wo fusage"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ru no wa"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "anata no hou ne"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#maj7",
+              "lyrics": "Kodoku wo nugu"
+            },
+            {
+              "chord": "C",
+              "lyrics": "u dareka ni"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "yuraide oborete"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#maj7",
+              "lyrics": "Kono"
+            },
+            {
+              "chord": "C",
+              "lyrics": "te hanasu"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "no wa... \"atashi\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo: A#maj7 C Dm"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

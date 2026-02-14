@@ -1,0 +1,566 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/erasure/255051.html",
+  "title": "Here I Go Impossible Again",
+  "artist": "Erasure",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:07:43.183Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:Bm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "How many dreams am I looking for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In your eyes, in your eyes,"
+            },
+            {
+              "chord": "A/Bb",
+              "lyrics": "baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Bet it seems that you're reaching out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lone, on your"
+            },
+            {
+              "chord": "A/Bb",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Dreams are e"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "motion, baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "You know you gotta"
+            },
+            {
+              "chord": "D",
+              "lyrics": "try"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "How am I supposed to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What's in your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "head, what's on your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I'm searching for your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That's in your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "heart, I need"
+            },
+            {
+              "chord": "D",
+              "lyrics": "it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Here I go im"
+            },
+            {
+              "chord": "A",
+              "lyrics": "possible a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gain"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Should I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hold you close to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "keep the night from"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ending"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I know I put you on a pedastal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In my eyes, in my eyes"
+            },
+            {
+              "chord": "A/Bb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I don't like it when you put me down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'cause it"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hurts, yeah it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hurts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Win some and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lose some, baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know you gotta tr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I feel it in my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And in my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "soul, and through my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "veins"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Falling from my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lips"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Three little"
+            },
+            {
+              "chord": "G",
+              "lyrics": "words, \"I love y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou,\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "D",
+              "lyrics": "here I go im"
+            },
+            {
+              "chord": "A",
+              "lyrics": "possible a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gain"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Should I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hold you close to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "keep the night from e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nding"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INSTRUMENTAL(x2): D A G A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Dive into the o"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "cean, baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know you gotta"
+            },
+            {
+              "chord": "D",
+              "lyrics": "try"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "How am I supposed to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What's in your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "head, what's on your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I'm searching for your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That's in your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "heart, I need"
+            },
+            {
+              "chord": "D",
+              "lyrics": "it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS(x2):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Here I go im"
+            },
+            {
+              "chord": "A",
+              "lyrics": "possible a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gain"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Should I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hold you close to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "keep the night from"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ending"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO (x2): D A G A"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

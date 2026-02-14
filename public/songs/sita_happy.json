@@ -1,0 +1,38 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/sita/happy",
+  "title": "Happy",
+  "artist": "Sita",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:11:18.941Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO + VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRECHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All that matters..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

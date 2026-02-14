@@ -1,0 +1,642 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/carrie-underwood/107754.html",
+  "title": "I Know You Won't",
+  "artist": "Carrie Underwood",
+  "key": null,
+  "scrapedAt": "2026-02-14T14:01:32.808Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "URGENT: In verse 3 the A6 off in the distance should be played starting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "where it says \"But here I am\", Ikeep trying to fix it but it won't"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "do anything."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A A+ Dm6/A x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I know you don't mean to be mean"
+            },
+            {
+              "chord": "A+",
+              "lyrics": "to me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?c"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "ause when you want to, you can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "make"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "me feel like we"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "belong,"
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": "we belong."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "L"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ately, you make me feel"
+            },
+            {
+              "chord": "A+",
+              "lyrics": "all I am is a back-up plan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "say I'm done and then you"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "smile at me and I fo"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "rget"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E"
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": "verything I said."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I buy into those"
+            },
+            {
+              "chord": "A+/F",
+              "lyrics": "eyes,"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": "and into your l"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "ies."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say you'll"
+            },
+            {
+              "chord": "Dmaj9",
+              "lyrics": "call, but I"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "know you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say you're"
+            },
+            {
+              "chord": "Bm7(4)",
+              "lyrics": "coming home, but I k"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "now you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say you'll"
+            },
+            {
+              "chord": "Dmaj9",
+              "lyrics": "call,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I"
+            },
+            {
+              "chord": "E7sus",
+              "lyrics": "know"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you w"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "on't"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": "."
+            },
+            {
+              "chord": "B9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say you'll"
+            },
+            {
+              "chord": "Bm7(4)",
+              "lyrics": "call,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I"
+            },
+            {
+              "chord": "E7sus",
+              "lyrics": "know y"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ou"
+            },
+            {
+              "chord": "A",
+              "lyrics": "won't."
+            },
+            {
+              "chord": "A+",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I wish you were where you're s"
+            },
+            {
+              "chord": "A+",
+              "lyrics": "upposed to be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "clo"
+            },
+            {
+              "chord": "A6",
+              "lyrics": "se to me. But here I am,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "just staring"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "at this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "candle burning"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "out."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm6",
+              "lyrics": "Still no sound"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "of footsteps on my s"
+            },
+            {
+              "chord": "A+/",
+              "lyrics": "tair"
+            },
+            {
+              "chord": "F",
+              "lyrics": "s,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A/E",
+              "lyrics": "or your voice any"
+            },
+            {
+              "chord": "Ebm7(b5)",
+              "lyrics": "where."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say you'll"
+            },
+            {
+              "chord": "Dmaj9",
+              "lyrics": "call, but I"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "know you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say you're"
+            },
+            {
+              "chord": "Bm7(4)",
+              "lyrics": "coming home, but I k"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "now you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say you'll"
+            },
+            {
+              "chord": "Dmaj9",
+              "lyrics": "call,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I"
+            },
+            {
+              "chord": "E7sus",
+              "lyrics": "know"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "won't"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": "."
+            },
+            {
+              "chord": "B9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say you'll"
+            },
+            {
+              "chord": "Bm7(4)",
+              "lyrics": "call, but I"
+            },
+            {
+              "chord": "E7sus",
+              "lyrics": "know y"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ou"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "won't."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say you'll"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "call, but I"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "know you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say you're"
+            },
+            {
+              "chord": "Bm7(4)",
+              "lyrics": "coming home, but I"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "know you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You say you'll"
+            },
+            {
+              "chord": "Dmaj9",
+              "lyrics": "call,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I"
+            },
+            {
+              "chord": "E7sus",
+              "lyrics": "know"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you w"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "on't."
+            },
+            {
+              "chord": "A/E",
+              "lyrics": ""
+            },
+            {
+              "chord": "B9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ou say you'll call, but I know you won't."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A (x02220) A+ (x03221) Dm6/A (x00201) A6 (x02222)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A7 (x02020) Dmaj7 (xx0222) Dm6 (xx0201) E7sus (020200)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E (022100) B9 (x21222) F#m (244222) A+/"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(xx3221)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A/E (xx2220) Ebm7(b5)= (xx1222) Dmaj9 (x4565x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m7 (x46454) Bm7(4)= (7x775x)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

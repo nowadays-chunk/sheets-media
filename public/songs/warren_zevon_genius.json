@@ -1,0 +1,562 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/w/warren-zevon/313867.html",
+  "title": "Genius",
+  "artist": "Warren Zevon",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:12:05.982Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Genius - Warren Zevon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorded by Egg Flipper"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard Tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "V1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I've got a bitter pot of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "je ne sais quoi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Guess what? I'm stirring it with a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "monkey's paw"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Since I saw you coming out of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "my barber's shop"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "In that skimpy little"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "halter top"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "V2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Did you light the candles? Did you put on \""
+            },
+            {
+              "chord": "C",
+              "lyrics": "Kind of Blue\"?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Did you use that Ivy League"
+            },
+            {
+              "chord": "C",
+              "lyrics": "voodoo on him, too?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "He thinks he'll be alright but he"
+            },
+            {
+              "chord": "A",
+              "lyrics": "doesn't know for sure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Like every other unindicted"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "co-conspirator"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Mata Hari had a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "house in France"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Where she worked on all her"
+            },
+            {
+              "chord": "C",
+              "lyrics": "secret plans"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Men were falling for her"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sight unseen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She was a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "genius"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "V3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "There's a a face in every window of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Songwriters' Neighborhood"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Everybody's your best friend when you're doing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "well, I mean good"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "The poet who lived next door when"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you were young and poor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Grew up to be a backstabbing"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "entrepreneur"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Albert Einstein was a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ladies' man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "While he was working on his"
+            },
+            {
+              "chord": "C",
+              "lyrics": "universal plan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "He was making out like"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Charlie Sheen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He was a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "genius"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "V4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "When you dropped me and you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "staked your claim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "On a V.I.P. who could"
+            },
+            {
+              "chord": "C",
+              "lyrics": "make your name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "You latched on to him and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I became"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A minor incon-v"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "enience"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "V5:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Your protege don't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "care about art"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I'm the one who always"
+            },
+            {
+              "chord": "C",
+              "lyrics": "told you you were smart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "You broke my heart into"
+            },
+            {
+              "chord": "A",
+              "lyrics": "smithereens"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And that took"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "genius"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "V6:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "You and the barber make a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "handsome pair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Guess what? I never liked the way he"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cut your hair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "I didn't like the way he"
+            },
+            {
+              "chord": "A",
+              "lyrics": "turned your head"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But there's"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "nothing I can do or say I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "haven't done or said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Everybody needs a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "place to stand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And a method for their"
+            },
+            {
+              "chord": "C",
+              "lyrics": "schemes and scams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "If I could only get my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "record clean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'd be a"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "genius"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

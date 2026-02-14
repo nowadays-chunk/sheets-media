@@ -1,0 +1,990 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/gisbert-zu-knyphausen/201563.html",
+  "title": "Flugangst",
+  "artist": "Gisbert zu Knyphausen",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:05:57.375Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Flugangst ? Gisbert zu Knyphausen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: kleinerfeinschmecker"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: kleinerfeinschmecker@gmx.de"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: E A D G H e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Akkorde:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am: x02210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am/H: x2x210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C: x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/F#: 2x0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus4: x02230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G6 3x0030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dmadd9: xx0760"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F maj7: x33210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A5: x022xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D#5: x688xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C5: x355xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H5: x244xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H5/C: x344xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vorspiel:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am Am/H C D/F# G 2x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Ich"
+            },
+            {
+              "chord": "Am/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "und die"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "Leidenschaft,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "was f�r eine"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ungewohnte Kombina"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tion"
+            },
+            {
+              "chord": "Am/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ich wei�"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "auch nicht so genau, wie das pas"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sieren konnte"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Aber"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hier"
+            },
+            {
+              "chord": "Am/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "steht auf einmal ein"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "Sprungbrett,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "was f�r eine"
+            },
+            {
+              "chord": "G",
+              "lyrics": "merkw�rdige Situa"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tion"
+            },
+            {
+              "chord": "Am/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "soll ich jetzt"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "springen oder"
+            },
+            {
+              "chord": "G",
+              "lyrics": "was?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "(Asus4)",
+              "lyrics": "Und ich steh auf und renne los und sto�e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bl"
+            },
+            {
+              "chord": "(G6)",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "gegen die immer gleichen Fragen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "(add9)",
+              "lyrics": "die kleinen Teufel meiner Angst sind immer"
+            },
+            {
+              "chord": "F",
+              "lyrics": "be"
+            },
+            {
+              "chord": "(maj7)",
+              "lyrics": "i mir"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "schie�en mir"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Pfeile in den Magen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "(Asus4)",
+              "lyrics": "In meinem Kopf die Melodien aus tausend"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Ja"
+            },
+            {
+              "chord": "(G6)",
+              "lyrics": "hren"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sie zerm�rben meine Phanta"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "sie"
+            },
+            {
+              "chord": "add9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und da vorne schon das Brett und dann der Abgrund"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "(maj7)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und ich singe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "jetzt, jetzt oder"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "nie"
+            },
+            {
+              "chord": "Am/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jetzt oder"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "nie, oder"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nie, nie, nie, nie,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "nie,"
+            },
+            {
+              "chord": "Am/B",
+              "lyrics": "nie"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "oder"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "nie"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Ich."
+            },
+            {
+              "chord": "Am/B",
+              "lyrics": "????.u"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nd die"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "Schwerkraft,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "was f�r eine"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nervenaufreibende Kombina"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tion"
+            },
+            {
+              "chord": "Am/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ach, wenn das"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "Grade-Stehen nicht schon so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "anstrengend w�r"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Manchmal wei� ich nicht mehr,"
+            },
+            {
+              "chord": "Am/B",
+              "lyrics": "wei� i"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ch nicht mehr,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "wo unten und"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "oben ist"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "aber das hat eine"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ungeheure Faszina"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tion"
+            },
+            {
+              "chord": "Am/B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und ich glaub"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "so rum, ja so rum bin ich"
+            },
+            {
+              "chord": "G",
+              "lyrics": "richtig"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "(Asus4)",
+              "lyrics": "Und kann mir einer mal verraten wieso wir"
+            },
+            {
+              "chord": "G",
+              "lyrics": "si"
+            },
+            {
+              "chord": "(G6)",
+              "lyrics": "nd,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "wie wir sind in diesen Tagen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "add9",
+              "lyrics": "unsere Ohren empfangen alles in"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Re"
+            },
+            {
+              "chord": "(maj7)",
+              "lyrics": "inform"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und ich"
+            },
+            {
+              "chord": "G",
+              "lyrics": "h�r dich noch sagen klar und deut"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lic"
+            },
+            {
+              "chord": "(Asus4)",
+              "lyrics": "h"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Durch die Strassen fingen wir den kalten"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Wi"
+            },
+            {
+              "chord": "(G6)",
+              "lyrics": "nd,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "wie die Kinder ihre Phanta"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "sie"
+            },
+            {
+              "chord": "add9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und wir atmen die Musik so gut wie"
+            },
+            {
+              "chord": "F",
+              "lyrics": "he"
+            },
+            {
+              "chord": "(maj7)",
+              "lyrics": "ute ging?s uns"
+            },
+            {
+              "chord": "G",
+              "lyrics": "selten,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A5 D#5 C5 ||: H5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ":||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "oder vielleicht nie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A5 D#5 C5 ||: H5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ":||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "vielleicht auch nie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A5 D#5 C5 ||: H5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ":||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "vielleicht auch nie, nie, nie, nie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A5 D#5 C5 ||: H5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ":||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "vielleicht auch nie, nie, nie, nie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ich trag den schwier"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ige"
+            },
+            {
+              "chord": "/Asus4",
+              "lyrics": "n Stempel der Stadt auf der Stirn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "es"
+            },
+            {
+              "chord": "G",
+              "lyrics": "da"
+            },
+            {
+              "chord": "(G6)",
+              "lyrics": "uert nicht mehr lang und er brennt sich mir ins Hirn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und statt"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "Haa"
+            },
+            {
+              "chord": "add9",
+              "lyrics": "ren wachsen mir wundervolle"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Fl"
+            },
+            {
+              "chord": "(maj7)",
+              "lyrics": "ausen aus dem"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Kopf"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ich trag den"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sch"
+            },
+            {
+              "chord": "/Asus4",
+              "lyrics": "wierigen Stempel der Stadt auf der Stirn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "es"
+            },
+            {
+              "chord": "G",
+              "lyrics": "da"
+            },
+            {
+              "chord": "(G6)",
+              "lyrics": "uert nicht mehr lang und er brennt sich mir ins Hirn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und statt"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "Haa"
+            },
+            {
+              "chord": "add9",
+              "lyrics": "ren wachsen mir wundervolle"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Fl"
+            },
+            {
+              "chord": "(maj7",
+              "lyrics": "ausen aus dem"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Kopf"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "und die gehn so"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wdh.: Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Super Song, super K�nstler!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Viel Spa�"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

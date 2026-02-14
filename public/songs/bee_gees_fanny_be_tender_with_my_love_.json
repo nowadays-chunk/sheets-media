@@ -1,0 +1,886 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/bee-gees/325273.html",
+  "title": "Fanny (Be Tender With My Love)",
+  "artist": "Bee Gees",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:18:20.426Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fanny (Be Tender With My Love) - Bee Gees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: maguri"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bee Gees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fanny (Be Tender With My Love) (1975)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Barry, Robin & Maurice Gibb)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: \"Main Course\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e-B-G-D-A-E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dmaj7 2-2-2-0-x-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus4add9 0-0-2-0-0-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/A x-3-4-5-0-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G(add9)/A 5-3-4-5-0-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G#(add9)/A# x-4-5-6-x-6"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A(add9)/B x-5-6-7-x-7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 2nd fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Dmaj7 | Asus4add9 | Dmaj7 | Asus4add9 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Dmaj7 | Asus4add9 | Dmaj7 | Asus4add9 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "First I"
+            },
+            {
+              "chord": "Asus4add9",
+              "lyrics": "rise"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Then I"
+            },
+            {
+              "chord": "Asus4add9",
+              "lyrics": "fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "Seems like you"
+            },
+            {
+              "chord": "Asus4add9",
+              "lyrics": "don't want"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "love of"
+            },
+            {
+              "chord": "Asus4add9",
+              "lyrics": "this man at"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sure been a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lonely"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Right"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "up to the"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "time I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "met you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So if you"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "take a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "love like"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "mine,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ooh, be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tender with my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know how"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "easy it"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "is to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "hurt me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fanny, be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tender with my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause it's"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "all that I've got,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And my"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "love won't desert me"
+            },
+            {
+              "chord": "G(add9)/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So you"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "say to your"
+            },
+            {
+              "chord": "Asus4add9",
+              "lyrics": "self, \"Boy, you're"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "out of your"
+            },
+            {
+              "chord": "Asus4add9",
+              "lyrics": "brain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Do you"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "think I'm gonna"
+            },
+            {
+              "chord": "Asus4add9",
+              "lyrics": "stand here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmaj7",
+              "lyrics": "All night in the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rain?\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "start of a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "love af"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "fair:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "moment when"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "I first"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "met you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And if you"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "want, I'll"
+            },
+            {
+              "chord": "A",
+              "lyrics": "take you"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ooh, be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tender with my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know how"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "easy it"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "is to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "break me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fanny, be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tender with my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause it's"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "all that I've got,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/A G(add9)/A (break)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And my love won't forsake me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love, our love will seal it to"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "gether"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, with our"
+            },
+            {
+              "chord": "G",
+              "lyrics": "love, you made a promise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'll"
+            },
+            {
+              "chord": "A",
+              "lyrics": "always love me forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ooh, be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tender with my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know how"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "easy it"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "is to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "break it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fanny, be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tender with my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause it's"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "all that I've got,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And my"
+            },
+            {
+              "chord": "G/A",
+              "lyrics": "love won't forsake me"
+            },
+            {
+              "chord": "G(add9)/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ooh, be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tender with my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know how"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "easy it"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "is to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "break it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fanny, be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tender with my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause it's"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "all that I've got,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/A | G(add9)/A | % | G#(add9)/A# | A(add9)/B |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And my love won't forsake me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ooh, be"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tender with my"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know how"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "easy it i"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "s to b"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "reak it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fanny, be"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tender with my"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "love,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause it's"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "all that I've got,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And my"
+            },
+            {
+              "chord": "A(add9)/B",
+              "lyrics": "love won't forsake me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Be"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tender with my"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "love;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know how"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "easy it i"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "s to h"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "urt me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fanny, be"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tender with my"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeat and fade)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

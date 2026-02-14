@@ -1,0 +1,762 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/staind/323493.html",
+  "title": "Failing",
+  "artist": "Staind",
+  "key": null,
+  "scrapedAt": "2026-02-14T04:56:44.758Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "--STAIND - FAILING--"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is my first time putting the chords on this site. I also have the electric version"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "on here, minus the lead. I'm almost 100% positive on the verses and chorus, but the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "rest, not too sure."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard (yes, these chords can be played in standard. If you've already detuned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a half step, just put a capo on the first fret if you have one. Or you can just"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "transpose them up a fret.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ", like the threat of the d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "arkest clouds rolling in"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On a sunny day."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ", like a fi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eld that has no rain."
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ", like a dog"
+            },
+            {
+              "chord": "D",
+              "lyrics": "that wanders a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "imless"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With no name."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ", like a c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ut without the p"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "(Ye"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ah) You couldn't fe"
+            },
+            {
+              "chord": "E",
+              "lyrics": "el this!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "You couldn't ta"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ke the pain!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "(Yeah) You couldn't live"
+            },
+            {
+              "chord": "E",
+              "lyrics": "this!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS (words in parentheses implied but not sung):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "And I'm"
+            },
+            {
+              "chord": "E",
+              "lyrics": "just"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "trying to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "get through to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I am failing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(You)"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "lie like I'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "not even"
+            },
+            {
+              "chord": "A",
+              "lyrics": "here."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "E",
+              "lyrics": "heart is breaking."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(I'm)"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "trying to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "see through your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "stare."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It"
+            },
+            {
+              "chord": "E",
+              "lyrics": "looks right through me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(I)"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "smile and pre"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tend I'm not"
+            },
+            {
+              "chord": "A",
+              "lyrics": "there,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To keep from g"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oing crazy."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTERLUDE:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m E (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ", like the day that your gu"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ardian angel"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dec"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ided to fly away."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ", like a br"
+            },
+            {
+              "chord": "E",
+              "lyrics": "uise that doesn't f"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ade."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ", like a memory that t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ortures your soul"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Unt"
+            },
+            {
+              "chord": "A",
+              "lyrics": "il your dying day."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yeah"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ", like a l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ife you couldn't s"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ave."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-SOLO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m E (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SOLO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m E (x4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "POST-SOLO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I try to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "get through to"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I try to,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I try."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I try to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "get through to"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I try to..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N.C. F#m D A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm still trying to get through to you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I am failing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m E (x4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I try to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "get through to"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I try to."
+            },
+            {
+              "chord": "E",
+              "lyrics": ".."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I try to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "get through to"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I try to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "get through."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m E (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I try to"
+            },
+            {
+              "chord": "E",
+              "lyrics": "get through to"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I try to."
+            },
+            {
+              "chord": "E",
+              "lyrics": ".."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

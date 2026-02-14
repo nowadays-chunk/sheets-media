@@ -1,0 +1,674 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/marc-broussard/182100.html",
+  "title": "Evil Things",
+  "artist": "Marc Broussard",
+  "key": null,
+  "scrapedAt": "2026-02-14T04:44:01.700Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "EVIL THINGS ? Marc Broussard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Kengus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "An amazing piano-driven ballad by Broussard. It was a bit difficult to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "get the chords working for guitar, but give these a go. The B7sus2 is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "something else, I know, but it kinda works. Try it out. (I think capo on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "4th is perhaps the easiest way to go)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo on fourth fret!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 = 020030 C#m7#5 = x42200 E = 022100 Dsus2 = xx0230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A = x02220 D = xx0232 A#m7b5 = x12120 B7sus4 = x24252"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7sus2 = x24222 B7/D# = xx1202 Amaj7 = x02120 B7 = x24242"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*************************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 A Em7 A x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "You don't k"
+            },
+            {
+              "chord": "A",
+              "lyrics": "now me, but I,"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "don't even"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know myself"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "We can't pre"
+            },
+            {
+              "chord": "B7sus2",
+              "lyrics": "tend that I'm"
+            },
+            {
+              "chord": "C#m7#5",
+              "lyrics": "someone e"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lse"
+            },
+            {
+              "chord": "B7/D#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Try to surr"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ender,"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "and I try to unde"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rstand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I can't"
+            },
+            {
+              "chord": "B7sus2",
+              "lyrics": "remember who I"
+            },
+            {
+              "chord": "C#m7#5",
+              "lyrics": "am"
+            },
+            {
+              "chord": "B7/D#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "E",
+              "lyrics": "evil things that I've"
+            },
+            {
+              "chord": "A#m7b5",
+              "lyrics": "done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wash a"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "way, in the"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "warmth of your"
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": "sun"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The b"
+            },
+            {
+              "chord": "E",
+              "lyrics": "roken man that you"
+            },
+            {
+              "chord": "A#m7b5",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Amaj7 Dsus2 B7sus4 B7 Em7..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is not me, no, just a shadow where I used to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTERLUDE (repeat intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...A Em7 A Em7 A Em7 A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Took you for"
+            },
+            {
+              "chord": "A",
+              "lyrics": "granted and I"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ", I had to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "pay the price"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I've lost y"
+            },
+            {
+              "chord": "B7sus2",
+              "lyrics": "ou once, but I"
+            },
+            {
+              "chord": "C#m7#5",
+              "lyrics": "won't lose you t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wice"
+            },
+            {
+              "chord": "B7/D#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "You try to hol"
+            },
+            {
+              "chord": "A",
+              "lyrics": "d me, but"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "I, I cann"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ot sit still"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Baby I"
+            },
+            {
+              "chord": "B7sus2",
+              "lyrics": "love you, and I"
+            },
+            {
+              "chord": "C#m7#5",
+              "lyrics": "always"
+            },
+            {
+              "chord": "B7/D#",
+              "lyrics": "will"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "E",
+              "lyrics": "evil things that I've"
+            },
+            {
+              "chord": "A#m7b5",
+              "lyrics": "done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wash a"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "way, in the"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "warmth of your"
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": "sun"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The b"
+            },
+            {
+              "chord": "E",
+              "lyrics": "roken man that you"
+            },
+            {
+              "chord": "A#m7b5",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Amaj7 Dsus2 B7sus4 B7 E..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is not me, no no, just a shadow where I'll be wonderful"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(originally posted on www.ultimate-guitar.com)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...A#m7b5 Amaj7 Dsus2 B7sus4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll be everything, there's a miracle in the melody of this song I sing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "We'll be"
+            },
+            {
+              "chord": "E",
+              "lyrics": "beautiful endless"
+            },
+            {
+              "chord": "A#m7b5",
+              "lyrics": "everything"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're the"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "miracle in the melody and this"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "song's for y"
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": "ou"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "E",
+              "lyrics": "evil things that I've"
+            },
+            {
+              "chord": "A#m7b5",
+              "lyrics": "done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They ju"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "st wash away, in the"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "warmth of your su"
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": "n"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "E",
+              "lyrics": "broken man that you"
+            },
+            {
+              "chord": "A#m7b5",
+              "lyrics": "see, is"
+            },
+            {
+              "chord": "Amaj7",
+              "lyrics": "not me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jus"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "t a shadow"
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": "."
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "========================================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Comment, rate, appreciate!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

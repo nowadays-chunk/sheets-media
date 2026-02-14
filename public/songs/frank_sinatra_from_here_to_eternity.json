@@ -1,0 +1,502 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/fromhere.htm",
+  "title": "From Here to Eternity",
+  "artist": "Frank Sinatra",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:52:10.318Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Edim",
+              "lyrics": "You v"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "owed your"
+            },
+            {
+              "chord": "Bm7/E",
+              "lyrics": "love"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "from"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "here"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "to e -"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ter - ni -"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ty,"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cdim",
+              "lyrics": "A"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "love so"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "true,"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "it"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "nev"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "- er would"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "die."
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Edim",
+              "lyrics": "You g"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ave your"
+            },
+            {
+              "chord": "Bm7/E",
+              "lyrics": "lips,"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "gave them"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "so w"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "ill - ing"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "- ly,"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How c"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ould I k"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "now"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "your"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "kiss meant good-b"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ye?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Edim",
+              "lyrics": "Now"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "I'm a -"
+            },
+            {
+              "chord": "Bm7/E",
+              "lyrics": "lone,"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "with"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "on - l"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "y a m"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "em - o -"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ry."
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cdim",
+              "lyrics": "My"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "emp - ty"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "arms"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "will"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "nev - er"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "know"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "why."
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T"
+            },
+            {
+              "chord": "A7+5",
+              "lyrics": "hough"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "you are g"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "one,"
+            },
+            {
+              "chord": "Dm+7",
+              "lyrics": "this"
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": "love that you"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "left with"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": "me"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "live"
+            },
+            {
+              "chord": "Bm7/E",
+              "lyrics": "from h"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ere to e -"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "ter -"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "ni - t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "y."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Edim",
+              "lyrics": "Now"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "I'm a -"
+            },
+            {
+              "chord": "Bm7/E",
+              "lyrics": "lone,"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "with"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "on - l"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "y a m"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "em - o -"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ry."
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cdim",
+              "lyrics": "My"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "emp - ty"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "arms"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "will"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "nev - er"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "know"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "why."
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T"
+            },
+            {
+              "chord": "A7+5",
+              "lyrics": "hough"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "you are g"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "one,"
+            },
+            {
+              "chord": "Dm+7",
+              "lyrics": "this l"
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": "ove that you l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eft with"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "me"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "endless des"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ire,"
+            },
+            {
+              "chord": "C#m7-5",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "will l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ive"
+            },
+            {
+              "chord": "Bm7/E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From h"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ere to e -"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ter"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "-"
+            },
+            {
+              "chord": "E7-9",
+              "lyrics": "ni"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ty."
+            },
+            {
+              "chord": "D9",
+              "lyrics": ""
+            },
+            {
+              "chord": "BM7",
+              "lyrics": ""
+            },
+            {
+              "chord": "AM7",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

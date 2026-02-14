@@ -1,0 +1,110 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/w/wintersleep/145534.html",
+  "title": "Fog",
+  "artist": "Wintersleep",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:09:42.061Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tuned down a whole step - G G Bm D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tuned normally - F F Am C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it is the same chord progresion throughout the entire song."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "this is a basic idea, it ain't hard...have fun!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "These broken"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "arms won't hold"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "These ruptured"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lungs won't make"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "These syllable"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "s won't bring"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you back,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Won't stitch the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "holes, no bones"
+            },
+            {
+              "chord": "C",
+              "lyrics": "intact"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

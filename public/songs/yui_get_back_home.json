@@ -1,0 +1,662 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/y/yui/get_back_home_crd.html",
+  "title": "Get Back Home",
+  "artist": "YUI",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:15:55.586Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Muzu"
+            },
+            {
+              "chord": "F",
+              "lyrics": "kashi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ku"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "kanga"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "esug"
+            },
+            {
+              "chord": "F",
+              "lyrics": "i da"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wa"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sai"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "shuu de"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nsha wo"
+            },
+            {
+              "chord": "F",
+              "lyrics": "machi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "naga"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ra"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Hitori"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tsubuyai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ta"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Give me up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Zutt"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "o kitai sa"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "retai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sukara"
+            },
+            {
+              "chord": "F",
+              "lyrics": "darou?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sou o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mottarishi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ta"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Kit"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "to jibun no"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tame ni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ho"
+            },
+            {
+              "chord": "G",
+              "lyrics": "shii mono n"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ado"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nani mo na"
+            },
+            {
+              "chord": "G",
+              "lyrics": "i ka"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ra"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intrumental:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Utsum"
+            },
+            {
+              "chord": "F",
+              "lyrics": "uit"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": "dens"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ha no naka"
+            },
+            {
+              "chord": "C",
+              "lyrics": "de"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tame"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "iki w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o koraete"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Tsurika"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wa"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Te wo n"
+            },
+            {
+              "chord": "F",
+              "lyrics": "obashi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ta"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Give me up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/y/yui/get_back_home_crd.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Kitt"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "o sekai no"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "doko ka"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Matte kure"
+            },
+            {
+              "chord": "F",
+              "lyrics": "teru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hito ga"
+            },
+            {
+              "chord": "G",
+              "lyrics": "iru hazu"
+            },
+            {
+              "chord": "C",
+              "lyrics": "to"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I wi"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "sh shinjite"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "nakucha"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ko"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ete yuke"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nai yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ru da"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wa"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "La la la Get Back Home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Tsugi no yume wo sagasu"
+            },
+            {
+              "chord": "C",
+              "lyrics": "no"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "La la la Get Back Home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Saenai jibu"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n ga"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mado ni utsuteiru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Kino"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "u futo kizu"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "itara"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Na"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gareboshi"
+            },
+            {
+              "chord": "F",
+              "lyrics": "wo data mi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sugoshite"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ta"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Kitt"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "o jibun no"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tame ni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ho"
+            },
+            {
+              "chord": "G",
+              "lyrics": "shii mono"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nado"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nani mo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nai ka"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ra"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ki ni todometeta jite"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nsha wo saga"
+            },
+            {
+              "chord": "C",
+              "lyrics": "su"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tsukia"
+            },
+            {
+              "chord": "F",
+              "lyrics": "kari uchi e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "kaerou"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

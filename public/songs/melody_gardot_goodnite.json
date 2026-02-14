@@ -1,0 +1,98 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/melody-gardot/301029.html",
+  "title": "Goodnite",
+  "artist": "Melody Gardot",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:26:47.526Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm6",
+              "lyrics": "Bb9"
+            },
+            {
+              "chord": "Am7(b5)",
+              "lyrics": "Am7(b5)"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "D7"
+            },
+            {
+              "chord": "Gm6",
+              "lyrics": "(zang stopt)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "solo chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "scatting:"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

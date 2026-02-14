@@ -1,0 +1,486 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/chantal-kreviazuk/90580.html",
+  "title": "Ghosts of You",
+  "artist": "Chantal Kreviazuk",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:27:29.952Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ghosts of You - Chantal Kreviazuk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Rob McLellan rob_444@hotmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I used the sus2 and maj7 chords to try and hit some of the notes played by piano to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "some of the vocals and chord progressions. Modify or remove them as needed..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm xx0231 or x57765"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dsus2 xx0230 or x57755"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A# x13331 or 688766"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A#sus2 x13311"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C x32010 or x35553"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cm x35543"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F xx3211 or 133211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F7 xx3210 132211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D xx0232 or x57775"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We were"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "occupied"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "never had to"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "go outside"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was your"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "alibi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We were planning"
+            },
+            {
+              "chord": "C",
+              "lyrics": "our escape"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We stayed"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "up all night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wi"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "th Lucy in the"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "diamond sky"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Drank c"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "heap red wine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And tucked"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ourselves to sleep"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please don't"
+            },
+            {
+              "chord": "F",
+              "lyrics": "go"
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "These"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ghosts of you"
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "The only thing that helped get me through the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Baby please don't"
+            },
+            {
+              "chord": "F",
+              "lyrics": "go"
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I love you"
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "You're the only one that will stay the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "same"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat intro and verse chords)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We could laugh out loud"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And sing until the sun came out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We took a secret vow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That we would never change"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You always loved to dance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wish we had another chance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To go back in time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And do it all again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "REPEAT CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#sus2",
+              "lyrics": "I don't want to live forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "But if we could be together"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Then I wouldn't mind infinit"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#sus2",
+              "lyrics": "I don't want to live forever"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "Oh, but I can still remember"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "No, I wouldn't mind infinit"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "REPEAT CHORUS x 2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

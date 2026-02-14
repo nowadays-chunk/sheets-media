@@ -1,0 +1,66 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.christianguitar.org/csong15680/Paul-Colman-Trio-I-Dream",
+  "title": "I Dream",
+  "artist": "Paul Colman Trio",
+  "key": null,
+  "scrapedAt": "2026-02-14T13:40:54.381Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "by Paul Coleman Trio"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro and verse-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bsus4",
+              "lyrics": "F# F#s"
+            },
+            {
+              "chord": "Esus2",
+              "lyrics": "us4 (2x)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/p/paul_mccartney/golden_earth_girl_crd_ver_2.html",
+  "title": "Golden Earth Girl",
+  "artist": "Paul McCartney",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:02:39.192Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Golden Earth Girl\" (Capo: 5th. fret)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "_____Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "_____Verse: 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Golden"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "earth girl,"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "female"
+            },
+            {
+              "chord": "C#/F",
+              "lyrics": "animal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Sings__"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "to___"
+            },
+            {
+              "chord": "Em6",
+              "lyrics": "the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wind,"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "resting at"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "sunset"
+            },
+            {
+              "chord": "Dm#7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In a"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "mossy nest"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sensing"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "moonlight in the a"
+            },
+            {
+              "chord": "Bm7/E",
+              "lyrics": "ir,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "moonlight in the air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "_____Verse: 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Good clear"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "water,"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "friend of"
+            },
+            {
+              "chord": "C#/F",
+              "lyrics": "wilderness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Sees__"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "in___"
+            },
+            {
+              "chord": "Em6",
+              "lyrics": "the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "pool"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "her own re"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "flection"
+            },
+            {
+              "chord": "Dm#7",
+              "lyrics": "."
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In an"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "other world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "Someone over th"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ere is counting."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "_____Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/p/paul_mccartney/golden_earth_girl_crd_ver_2.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6",
+              "lyrics": "Fish in a sunbeam,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In eggshell"
+            },
+            {
+              "chord": "E",
+              "lyrics": "seas."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6",
+              "lyrics": "Fish in a sunbeam."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eggshell fi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nish."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "_____Verse: 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Natures"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "lover"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "climbs the"
+            },
+            {
+              "chord": "C#/F",
+              "lyrics": "primrose hill,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Smiles__"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "at___"
+            },
+            {
+              "chord": "Em6",
+              "lyrics": "the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sky"
+            },
+            {
+              "chord": "D6",
+              "lyrics": "watching the"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "sunset"
+            },
+            {
+              "chord": "Dm#7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm6",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From a"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "mossy nest."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "As she falls asl"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eep she's counting ..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "_____Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6",
+              "lyrics": "Fish in a sunbeam,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In eggshell"
+            },
+            {
+              "chord": "E",
+              "lyrics": "seas."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6",
+              "lyrics": "Fish in a sunbeam."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eggshell fi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nish."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "_____Music"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "As she falls asl"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eep she's counting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "_____Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6",
+              "lyrics": "Fish in a sunbeam,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In eggshell"
+            },
+            {
+              "chord": "E",
+              "lyrics": "seas."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6",
+              "lyrics": "Fish in a sunbeam."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eggshell fi"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nish."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

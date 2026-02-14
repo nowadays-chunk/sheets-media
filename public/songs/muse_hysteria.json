@@ -1,0 +1,614 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/m/muse/hysteria_tab_ver_2.html",
+  "title": "Hysteria",
+  "artist": "Muse",
+  "key": null,
+  "scrapedAt": "2026-02-14T12:33:10.109Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "=="
+            },
+            {
+              "chord": "TAB SYMBOLS",
+              "lyrics": "======================================================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^ 1/2 Beat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/b0.5r\\ Bend half note up and release"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/b1.0 Bend whole note up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* * Play twice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| ... |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____________"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|1. Play on first time around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____________"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|2. Play on second time around"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "12\\\\\\\\\\ Slide down from 12th fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There are 12 character spaces to a beat."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "=="
+            },
+            {
+              "chord": "SONG ORDER",
+              "lyrics": "========================================================================================"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1. INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2. BRIDGE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3. VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "4. CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "5. BRIDGE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "6. VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "7. CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "8. BRIDGE 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "9. SOLO 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "10. SOLO 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "11. CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "12. OUTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "=="
+            },
+            {
+              "chord": "INTRO",
+              "lyrics": "============================================================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==="
+            },
+            {
+              "chord": "BRIDGE 1",
+              "lyrics": "========================================================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/b0.5r\\ /b0.5r\\"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/b0.5r\\ /b0.5r-b0.5r-b0.5-\\"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "=="
+            },
+            {
+              "chord": "VERSE",
+              "lyrics": "============================================================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PM.............................................."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "=="
+            },
+            {
+              "chord": "CBORUS",
+              "lyrics": "============================================================================================"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____________"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|1."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "______________________ ______________________"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|2. (1st chorus only) |2. (2nd & 3rd chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==="
+            },
+            {
+              "chord": "BRIDGE 2",
+              "lyrics": "========================================================================================"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==="
+            },
+            {
+              "chord": "SOLO 1",
+              "lyrics": "==========================================================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____________"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|1."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____________"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|2."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==="
+            },
+            {
+              "chord": "SOLO 2",
+              "lyrics": "==========================================================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==="
+            },
+            {
+              "chord": "OUTRO",
+              "lyrics": "============================================================================================"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|^ ^ ^ ^ ^ ^ ^ ^ |^ ^ ^ ^ ^ ^ ^ ^ |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "======================================================================================================"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

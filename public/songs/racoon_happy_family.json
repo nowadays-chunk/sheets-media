@@ -1,0 +1,326 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/racoon/happy-family",
+  "title": "Happy Family",
+  "artist": "Racoon",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:12:43.077Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">Racoon �?? Happy Family"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stemming = Eb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Akkoordenschema:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G5 : 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C : x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bsus4: x24452"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm : xx0231"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 : x2245x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B : x24442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj7: x33210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D : xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G5 Dm Fmaj7 C x4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "It would be"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "nice if we could"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "all just sleep together"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G5",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "It would be"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "great if we could"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "have a cup of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ev"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "erytin"
+            },
+            {
+              "chord": "Cadd9/G",
+              "lyrics": "g"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "What'd you do wit"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "h ever"
+            },
+            {
+              "chord": "Cadd9/G",
+              "lyrics": "yting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "It would be"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "lovely, to see"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "all your faces"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sm"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "iling"
+            },
+            {
+              "chord": "Cadd9/G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G5",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "It would be"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "wonderful if"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "all this shit"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "sing"
+            },
+            {
+              "chord": "Cadd9/G",
+              "lyrics": "about"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Was h"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "appening, was h"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "appen"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9/G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

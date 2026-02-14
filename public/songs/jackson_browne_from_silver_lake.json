@@ -1,0 +1,654 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/jackson-browne/109260.html",
+  "title": "From Silver Lake",
+  "artist": "Jackson Browne",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:53:00.266Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From Silver Lake - Jackson Browne (CD: Saturate Before Using)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|D |G |D |G/A |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/A",
+              "lyrics": "Did you see our brothe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "r"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He was"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "here the other"
+            },
+            {
+              "chord": "A",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But he"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "only came to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "say that he was"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "leaving"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Did you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "see his lad"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She was"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "looking where he'd"
+            },
+            {
+              "chord": "A",
+              "lyrics": "gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But she"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "wasn't letting"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "on that she was"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "grieving"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "She's bound to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rhaps she'll find him waiting for his"
+            },
+            {
+              "chord": "A",
+              "lyrics": "boat in some city far a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "She's bound to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "go"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus",
+              "lyrics": "Lately I re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "member after"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "noons of smoke and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There was"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "nothing we could"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "find but peace and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "pleasure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And with a smile he told"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That he"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "wanted just to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "be on his"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "way across the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sea no man can"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "measure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "He won't be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "back,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sun may find him sleeping in the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "dust of some ruin far a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "He won't be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "back"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Early today as I watched while the skyline was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "shaking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I heard a"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "rumbling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Early today the mechanical city was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "waking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I ran out"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "stumbling, mumbling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus",
+              "lyrics": "Out through the laughter of children and dogs"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Did you see our"
+            },
+            {
+              "chord": "D",
+              "lyrics": "brother"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He was"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "here the other"
+            },
+            {
+              "chord": "A",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But he"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "only came to"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "say that he can't"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "breathe here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Did you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "see his la"
+            },
+            {
+              "chord": "D",
+              "lyrics": "dy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She was"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": "reaching for his"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just as"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "if to tell her"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "man that she can't"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "either"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "They're bound to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sun may find me running after"
+            },
+            {
+              "chord": "A",
+              "lyrics": "them, seeing something far a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "We won't be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "back"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ".....Someone who had been away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ".....Suddenly came back today"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ".....And I allowed him home today into my mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ".....For a moment face to face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ".....Evil packed upon the place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ".....Long ago he meant to stay out there this time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ".....Oh, what do you know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ".....The love that I've been feeling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ".....The past is healing so slow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ".....By tomorrow, gone from sorrow."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed by Gerard Koot (Amsterdam, The Netherlands) ? june 2008"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: gerardkoot@hotmail.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.christianguitar.org/csong13948/Jeff-Deyo-I-Give-You-My-Heart",
+  "title": "I Give You My Heart",
+  "artist": "Jeff Deyo",
+  "key": null,
+  "scrapedAt": "2026-02-14T13:46:27.838Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Words and Music by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1st Chorus-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A C#m7 F#m11 Dm (Back to intro and then repeat verse)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2nd Chorus-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A C#m7 F#m11 Dm (2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C(add11) Em7 Am7 Fmaj9 C(add11) (3x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3rd Chorus (changed key from A Major to D Major)-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D F#m7 Bm11 Gm6 (3x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "D"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "F#m7"
+            },
+            {
+              "chord": "Bm11",
+              "lyrics": "Bm7 G"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "m6 (3x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D5 (ending chord)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/p/paul-giovanni/113176.html",
+  "title": "Gently Johnny (failed - reindex)",
+  "artist": "Paul Giovanni",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:13:13.083Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I put my hand"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "on her knee and she"
+            },
+            {
+              "chord": "C",
+              "lyrics": "said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "do you want to"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "see? I put my hand"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "on her breast and she"
+            },
+            {
+              "chord": "C",
+              "lyrics": "said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "do you want a"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "kiss?"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "Gently gently gently"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Johnny gently"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "Johnny"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "my"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "jingalo"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "Gently gently gently"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Johnny, gently"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "Johnny"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "my"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "jingalo"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.tabcountry.com/song1985/Willie-Nelson-I-Never-Cared-For-You",
+  "title": "I Never Cared for You",
+  "artist": "Willie Nelson",
+  "key": null,
+  "scrapedAt": "2026-02-14T16:32:48.927Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Willie Nelson I Never Cared For You written by Willie Nelson"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bobbie Nelson piano"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Daniel Lanois guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Brian Griffiths guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mickey Raphael harmonica"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tony Mangurian drums"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Victor Indrizzo drums"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Emmylou Harris harmony"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Willie Nelson vocals/acoustic guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The sun is filled with ice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And gives no"
+            },
+            {
+              "chord": "G",
+              "lyrics": "warmth at all and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The sky was never"
+            },
+            {
+              "chord": "E",
+              "lyrics": "blue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The stars are raindrops"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Searching for a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "place to fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I never"
+            },
+            {
+              "chord": "E",
+              "lyrics": "cared for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "I know you won't believe these things I tell you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "No, you won't b"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "elieve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Your heart has been forewarned all men will lie to you and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Your mind cannot conc"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "eive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Now all depends on what I say to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And on your doubting"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "So I've prepared these statements far from truth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Pay"
+            },
+            {
+              "chord": "E",
+              "lyrics": "heed and disbe"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lieve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The sun is filled with ice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And gives no"
+            },
+            {
+              "chord": "G",
+              "lyrics": "warmth at all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The sky was never"
+            },
+            {
+              "chord": "E",
+              "lyrics": "blue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The stars are raindrops"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Searching for a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "place to fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I never"
+            },
+            {
+              "chord": "E",
+              "lyrics": "cared for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SOLO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The sun is filled with ice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And gives no"
+            },
+            {
+              "chord": "G",
+              "lyrics": "warmth at all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "The sky was never"
+            },
+            {
+              "chord": "E",
+              "lyrics": "blue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The stars are raindrops"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Searching for a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "place to fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I never"
+            },
+            {
+              "chord": "E",
+              "lyrics": "cared for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I never"
+            },
+            {
+              "chord": "E",
+              "lyrics": "cared for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I never"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cared for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

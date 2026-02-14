@@ -1,0 +1,150 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/a/arthur-tannous/385880.html",
+  "title": "I Just Want To Praise You (failed - reindex)",
+  "artist": "Arthur Tannous",
+  "key": null,
+  "scrapedAt": "2026-02-14T13:57:16.805Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I just want to"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "praise You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "Lift my hands and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "say I love You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "You are every"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "thing to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gm7 C F Bb/F F (ch)Bb/C(/ch)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I exalt Your holy name on high"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I just want to"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "praise You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "Lift my hands and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "say I love You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "You are every"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "thing to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "I exalt Your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "holy name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "I exalt Your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "holy name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm7",
+              "lyrics": "I exalt Your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "holy name on"
+            },
+            {
+              "chord": "Bb/F",
+              "lyrics": "high"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

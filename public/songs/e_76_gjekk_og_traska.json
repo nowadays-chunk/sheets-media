@@ -1,0 +1,442 @@
+{
+  "url": "https://www.chordie.com/chord.pere/nortabs.net/tab/3702/",
+  "title": "Gjekk og traska",
+  "artist": "E-76",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:41:04.161Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gjekk og traska (Georg Hagen)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eg gjekk og"
+            },
+            {
+              "chord": "D",
+              "lyrics": "traska ette vegen,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "eg va kji edru, eg ha"
+            },
+            {
+              "chord": "A",
+              "lyrics": "teki meg ein"
+            },
+            {
+              "chord": "D",
+              "lyrics": "dram,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "eg si på fest på l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ok"
+            },
+            {
+              "chord": "D",
+              "lyrics": "alet,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "det tok litt tid fyri eg en"
+            },
+            {
+              "chord": "A",
+              "lyrics": "deleg kom"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fram."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Men på"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "vegen, der måtte e"
+            },
+            {
+              "chord": "D",
+              "lyrics": "g støppe,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "og ta ein"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "slurk ut av flaska"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mi,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "det for b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ilar ette"
+            },
+            {
+              "chord": "D",
+              "lyrics": "vegen,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "dei støppa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ikkje, dei"
+            },
+            {
+              "chord": "A",
+              "lyrics": "køyrde ret"
+            },
+            {
+              "chord": "D",
+              "lyrics": "t forbi."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eg kom no fram dit, utpå kvelden,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "eg høyrde køntrimusikk der innafrå,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "eg entra inn der og si betale,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "eg va kji edru sø eg ut att måtte gå."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Og eg havna i ein krangel,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "det va kji eg som fekk te det,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sø eg tok meg ein slurk av flaska,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "eg sat på trappe og roa meg litt ned."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eg sat og"
+            },
+            {
+              "chord": "E",
+              "lyrics": "tenkte, no vi eg heimatt,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "men eg ha søvna, og eg"
+            },
+            {
+              "chord": "B",
+              "lyrics": "vakna at eg"
+            },
+            {
+              "chord": "E",
+              "lyrics": "fraus,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "no fekk eg svi fe det eg"
+            },
+            {
+              "chord": "A",
+              "lyrics": "gjo"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rde,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "eg si på fest og"
+            },
+            {
+              "chord": "B",
+              "lyrics": "berre slå me"
+            },
+            {
+              "chord": "E",
+              "lyrics": "g laus."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Og den"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "flaska som eg"
+            },
+            {
+              "chord": "E",
+              "lyrics": "drakk av,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "den sett eg"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "att den va meste"
+            },
+            {
+              "chord": "B",
+              "lyrics": "tom,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "rusla"
+            },
+            {
+              "chord": "A",
+              "lyrics": "heimatt, langt utpå"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nåtte,"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "følte meg"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ussel og litt"
+            },
+            {
+              "chord": "E",
+              "lyrics": "dom."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No fekk eg prøve å få søva,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "men eg følte meg liten der eg låg,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "og eg tenkte, eg fær berre håpe,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "at det ikkje va mange som meg såg."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fe den drammen som eg tok då,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "fe å tøra og dra på fest,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "det va den seiste, no veit eg bæri,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "å vera edru, det æ no jammen best,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fe den drammen som eg tok då,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "fe å tøra og dra på fest,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "det va den seiste, no veit eg bæri,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "å vera edru, det æ no jammen best"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

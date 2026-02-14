@@ -1,0 +1,246 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/barclay-james-harvest/48500.html",
+  "title": "Harbour",
+  "artist": "Barclay James Harvest",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:14:37.439Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BJH - Harbour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "from XII"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "To our fore the"
+            },
+            {
+              "chord": "F#sus2",
+              "lyrics": "harbour"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "lights"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Shining out like"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "beacons burning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "They can stop this"
+            },
+            {
+              "chord": "F#sus2",
+              "lyrics": "endless"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "They can stop the"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "wheels from turning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Faces in a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "setting sun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Say again that"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "we soon will be"
+            },
+            {
+              "chord": "C#sus2",
+              "lyrics": "one"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "Starlight rakes the"
+            },
+            {
+              "chord": "F#sus2",
+              "lyrics": "silver"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "wing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Bringing home its"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "sons and daughters"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "No-one knows the"
+            },
+            {
+              "chord": "F#sus2",
+              "lyrics": "state I'm"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Spinning swift a"
+            },
+            {
+              "chord": "C#",
+              "lyrics": "bove the waters"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Faces in a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "setting sun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Say again that"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "we soon will be"
+            },
+            {
+              "chord": "C#sus2",
+              "lyrics": "one"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "D#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#sus2",
+              "lyrics": "Faces in a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "setting sun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#sus2",
+              "lyrics": "Faces in a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "setting sun"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,906 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/r/rob_de_nijs/het_werd_zomer_crd.html",
+  "title": "Het werd zomer",
+  "artist": "Rob de Nijs",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:14:48.583Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "HET WERD ZOMER - Rob de Nijs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Het leek wel zomer, toch"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "was het pas eind mei."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "zo'n"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "dag waar van je denkt die"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gaat niet meer voorbij."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "M'n vrienden"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": "kwamen langs, -"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "maar"
+            },
+            {
+              "chord": "G5/D",
+              "lyrics": "ik wilde al -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "leen,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Aan het strand wat"
+            },
+            {
+              "chord": "Emi",
+              "lyrics": "wandelen, -"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Asus4",
+              "lyrics": "zomaar nergens"
+            },
+            {
+              "chord": "A",
+              "lyrics": "heen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Toen zag"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ik jou, - je"
+            },
+            {
+              "chord": "G",
+              "lyrics": "riep me met je"
+            },
+            {
+              "chord": "Emi",
+              "lyrics": "ogen."
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ik keek je"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aan, - en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "kreeg een vreemd ge -"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "voel."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Want ik be -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "greep wat"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "jij me wilde"
+            },
+            {
+              "chord": "G",
+              "lyrics": "vragen"
+            },
+            {
+              "chord": "Emi",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "kom dichter"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bij me."
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ik was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "zestien, - en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "jij was achten -"
+            },
+            {
+              "chord": "Emi",
+              "lyrics": "twintig,"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "en van de"
+            },
+            {
+              "chord": "D",
+              "lyrics": "liefde, -"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wist ik nog niet"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "veel,"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "maar ik be -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "greep wat"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "jij me wilde"
+            },
+            {
+              "chord": "G",
+              "lyrics": "zeggen,"
+            },
+            {
+              "chord": "Emi",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ik was geen"
+            },
+            {
+              "chord": "D",
+              "lyrics": "kind meer,"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "en het werd"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": "zomer ...(zomer)"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Je was nog vrij, ik vond het"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eerst een beetje raar."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Je droeg niets"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "anders dan je"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "lange blonde haar."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Ik was ver -"
+            },
+            {
+              "chord": "A/E",
+              "lyrics": "legen, -"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "en"
+            },
+            {
+              "chord": "G5/D",
+              "lyrics": "wist niet wat te"
+            },
+            {
+              "chord": "D",
+              "lyrics": "doen,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ik"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stond daar maar te"
+            },
+            {
+              "chord": "Emi",
+              "lyrics": "kijken, -"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "oh wat"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "voelde ik me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "groen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ik be -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "grijp het, -"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hoorde ik je"
+            },
+            {
+              "chord": "Emi",
+              "lyrics": "zeggen,"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "je bent zo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "jong nog, - en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "weet niet wat je"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "moet."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wees maar niet"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bang, - de"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "nacht zal het je"
+            },
+            {
+              "chord": "G",
+              "lyrics": "leren."
+            },
+            {
+              "chord": "Emi",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "kom dichter"
+            },
+            {
+              "chord": "D",
+              "lyrics": "bij me."
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We liepen"
+            },
+            {
+              "chord": "D",
+              "lyrics": "samen, -"
+            },
+            {
+              "chord": "G",
+              "lyrics": "verder langs het"
+            },
+            {
+              "chord": "Emi",
+              "lyrics": "strand,"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "en als een"
+            },
+            {
+              "chord": "D",
+              "lyrics": "jongen, -"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pakte i k je"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "hand"
+            },
+            {
+              "chord": "A",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Maar als een"
+            },
+            {
+              "chord": "D",
+              "lyrics": "man zag"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ik de zon weer"
+            },
+            {
+              "chord": "G",
+              "lyrics": "opgaan,"
+            },
+            {
+              "chord": "Emi",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "en het werd"
+            },
+            {
+              "chord": "D",
+              "lyrics": "zomer, ..."
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "(zomer)"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "het werd"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": "zomer, ... (zomer)"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Het werd"
+            },
+            {
+              "chord": "D",
+              "lyrics": "zomer, - voor t'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eerst in heel mijn"
+            },
+            {
+              "chord": "Emi",
+              "lyrics": "leven,"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "het werd"
+            },
+            {
+              "chord": "D",
+              "lyrics": "zomer, - de"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alleerste eerste"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "keer"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "En ik was een"
+            },
+            {
+              "chord": "D",
+              "lyrics": "man, -"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "toen de zon weer"
+            },
+            {
+              "chord": "G",
+              "lyrics": "opkwam,"
+            },
+            {
+              "chord": "Emi",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Het het werd"
+            },
+            {
+              "chord": "D",
+              "lyrics": "zomer, ... (zomer)"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "en het werd"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": "zomer"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "toen was het"
+            },
+            {
+              "chord": "D",
+              "lyrics": "zomer"
+            },
+            {
+              "chord": "//",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em xx2000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dmaj7 xx0222"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A/E xx2220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G5/D xx0033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Emi 022000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus4 x02230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 022030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D7 xx0212"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A7sus4 x02030"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

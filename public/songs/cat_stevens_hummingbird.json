@@ -1,0 +1,522 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/cat-stevens/176772.html",
+  "title": "Hummingbird",
+  "artist": "Cat Stevens",
+  "key": "D",
+  "scrapedAt": "2026-02-14T12:22:09.362Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...HUMMINGBIRD... by Cat Stevens"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*from 'Matthew & Son' (1967)*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*CAPO 2nd FRET*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Original Key: D)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "yellow flower,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "by your bed;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Sadly droopin' it's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "perfumed head."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "So you won't smell"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "it;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know what you'll"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "miss."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And there's a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hummingbird, a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hummingbird,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hummingbird, A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hummingbird."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh there's a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hummingbird,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "singing."
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "There is the hat you made,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "clothes you wore;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Lying down on the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cold dirty floor."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "The colours are"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "fading;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They'll"
+            },
+            {
+              "chord": "G",
+              "lyrics": "never shine a-"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "gain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And there's a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hummingbird, a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hummingbird,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hummingbird, A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hummingbird."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh there's a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hummingbird,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "singing."
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Instrumental:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G, C F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G F, C F C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Now the road is"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "turning grey;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "There's a shadow where"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you once lay."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "They'll find it to-"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "morrow,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "think you went a-"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "lone."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And there's a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hummingbird, a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hummingbird,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hummingbird, A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hummingbird."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh there's a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hummingbird,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "crying."
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORD DIAGRAMS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32010"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "022000"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "133211"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32000"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x03210"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Joel from cLuMsY, Bristol, England, 2006"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(clumsyband@hotmail.com)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

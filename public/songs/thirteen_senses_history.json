@@ -1,0 +1,482 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/thirteen-senses/142531.html",
+  "title": "History",
+  "artist": "Thirteen Senses",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:33:29.534Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==============================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: ?History?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: Matthew West:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "History � 2005 Word Music (ASCAP)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==============================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I apologize for my last post of this tab. I posted it in the key i do it in. This one is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "right key. I know its not perfect but it will get you by. Any corrections are welcome."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Verse 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's been a bad day"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You've been looking back"
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And all you can see"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "is everything you wish you could take back"
+            },
+            {
+              "chord": "Gsus",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All your mistakes"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A world of regrets"
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All of those moments you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "would rather forget"
+            },
+            {
+              "chord": "Gsus",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know it's hard"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "to believe"
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Let me refresh y"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "our memory"
+            },
+            {
+              "chord": "Gsus",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yesterday is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "history"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And his"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tory is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "miles a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "way"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So, leave it all beh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ind you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But let it always r"
+            },
+            {
+              "chord": "A",
+              "lyrics": "emind you of the day"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The day th"
+            },
+            {
+              "chord": "A",
+              "lyrics": "at love made history"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know you can't stay right where yo"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "u fell"
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The hardest part is forg"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "iving yourself"
+            },
+            {
+              "chord": "Gsus",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But let's take a walk into"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "today"
+            },
+            {
+              "chord": "A2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And don't let your past get in th"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e way"
+            },
+            {
+              "chord": "Gsus",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Would"
+            },
+            {
+              "chord": "Gsus",
+              "lyrics": "you believe that you are history in the making, in the making?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Every choice that you are making"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "Every step that you are taking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Every chain that you are breaking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "History is in the making"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Every word that you are saying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "Every prayer that you are praying"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Every chain that you are breaking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "History is in the making"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "History is in the making"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "History is in the making"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro ( Begins with the line \"Every word you are saying\"):"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

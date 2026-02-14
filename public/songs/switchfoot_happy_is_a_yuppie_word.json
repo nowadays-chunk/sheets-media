@@ -1,0 +1,762 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/switchfoot/231582.html",
+  "title": "Happy Is a Yuppie Word",
+  "artist": "Switchfoot",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:13:18.606Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: Happy is a Yuppie Word"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: Switchfoot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Nothing Is Sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed By: Switchfoot Fan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: A5 D5 x3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ah!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro pt. 2: A5 D5 G5 C5 F5, A5 D G5 C5 Fsus2 F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Everyone"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Everyone"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "loves a"
+            },
+            {
+              "chord": "F5",
+              "lyrics": "fight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Nothing is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Nothing is"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "right side"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Evening"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "comes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When the"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "sun goes"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "down in"
+            },
+            {
+              "chord": "F5",
+              "lyrics": "red"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Nothing is"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "cool"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "When will all the"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "fighting"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "When will all the fightin"
+            },
+            {
+              "chord": "F5",
+              "lyrics": "g end"
+            },
+            {
+              "chord": "G5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Happy is a"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "yuppie word"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Nothing in the"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "world could fail me now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "It's empty as an"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "argument"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "I'm running down a"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "life that won't cash out (cash out)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Everything"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fails"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G6",
+              "lyrics": "Everythin"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "g runs it'"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "s course"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "time and a pla"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ce"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "all of this"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "loving"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "war"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Everyone"
+            },
+            {
+              "chord": "D",
+              "lyrics": "buys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G6",
+              "lyrics": "Everyone's"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "gotta p"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "rice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "nothing is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G6",
+              "lyrics": "When will all the"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "failures"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "rise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "When will all the"
+            },
+            {
+              "chord": "F5",
+              "lyrics": "failures rise,"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "rise!"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Happy is a"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "yuppie word"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Nothing in the"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "world could fail me"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "It's empty as an"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "argument"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "I'm running down a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "life that won't cash out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Happy is a"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "yuppie word"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G5",
+              "lyrics": "Blessed is the"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "man who's lost it all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Looking for an"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "orphanage"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm looking for a bridge I can't burn"
+            },
+            {
+              "chord": "G",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I don't believe the"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "emptiness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm looking for the kingdom coming"
+            },
+            {
+              "chord": "G",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Everything is"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "meaningless"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I want more than simple cash can"
+            },
+            {
+              "chord": "G",
+              "lyrics": "buy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Happy is a"
+            },
+            {
+              "chord": "Fsus2",
+              "lyrics": "yuppie word"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Happy is a yuppie word"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Csus2",
+              "lyrics": "Happy is a yuppie word"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Csus2",
+              "lyrics": "Happy is a yuppie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge pt. 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nothing is"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nothing is"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nothing is"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nothing is"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nothing is"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nothing is"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": "So calm down, yeah!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": "So calm down, yeah!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": "So calm down, yeah!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

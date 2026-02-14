@@ -1,0 +1,778 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/o/out-of-sight/190593.html",
+  "title": "Hey! (Walk Away)",
+  "artist": "Out of Sight",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:21:00.535Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hey! (Walk Away) - Out Of Sight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: cannibal_freak1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: ditto_ditto_3@hotmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Half a step down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://www.myspace.com/outofsight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is correct, i'm just putting the chords as I play them, and not as power chords."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Em, D, C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so this is"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "where it all"
+            },
+            {
+              "chord": "D",
+              "lyrics": "begins"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you see my"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "patience wearing thin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i know that your en"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "joying this"
+            },
+            {
+              "chord": "D",
+              "lyrics": "somehow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i never under"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "stood how you could be so proud"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "well this is"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "where"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we got it"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but step by"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "step"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we're moving on again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and for"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "such a careless"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mess"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i wish i"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "cared a little less about you now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "cos i'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "stressed out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a nervous wreck about"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "hands around my neck"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "now that"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ive learned who to love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and who to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "live without"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "Hey, walk a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way step"
+            },
+            {
+              "chord": "D",
+              "lyrics": "back and save this"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "fight for another"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It doesn't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "have to end this"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "Don't try and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "start, if we"
+            },
+            {
+              "chord": "D",
+              "lyrics": "both just play this"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "smart we'll walk a"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well that's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "what a friend would"
+            },
+            {
+              "chord": "D",
+              "lyrics": "say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "now you're"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "right under my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "skin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "soon these"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "fists will start to swing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you got until the"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "count 1, 2,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "until this"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "anger gets the best of me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and then we'll"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "stumble out the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i don't re"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "member just what for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but if you"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "push me ill re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "act"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "unless my"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "conscience holds me back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "cos i'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "stressed out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a nervous wreck about"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "your"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "hands around my neck"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "now that"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ive learned who to love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and who to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "live without"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "Hey, walk a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way step"
+            },
+            {
+              "chord": "D",
+              "lyrics": "back and save this"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "fight for another"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It doesn't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "have to end this"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "Don't try and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "start, if we"
+            },
+            {
+              "chord": "D",
+              "lyrics": "both just play this"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "smart we'll walk a"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well that's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "what a friend would"
+            },
+            {
+              "chord": "D",
+              "lyrics": "say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well that's what a friend would"
+            },
+            {
+              "chord": "D",
+              "lyrics": "say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well that's what a friend would"
+            },
+            {
+              "chord": "D",
+              "lyrics": "say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Look into my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eyes, and see that its too in"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "tense to hide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "D",
+              "lyrics": "stress but it all seems pointless"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "Hey, walk a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way step"
+            },
+            {
+              "chord": "D",
+              "lyrics": "back and save this"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "fight for another"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It doesn't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "have to end this"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "Don't try and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "start, if we"
+            },
+            {
+              "chord": "D",
+              "lyrics": "both just play this"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "smart we'll walk a"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well that's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "what a friend would"
+            },
+            {
+              "chord": "D",
+              "lyrics": "say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| / slide up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| \\ slide down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| h hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| p pull-off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| ~ vibrato"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| + harmonic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| x Mute note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==============================================================================="
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

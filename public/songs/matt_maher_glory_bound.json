@@ -1,0 +1,626 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/m/mattmaher-tabs-25631/glorybound1-tabs-842214.html",
+  "title": "Glory Bound",
+  "artist": "Matt Maher",
+  "key": "G",
+  "scrapedAt": "2026-02-14T07:45:16.854Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key: G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Em - G | C - G | Em - G | D - C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "There is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a train for the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "broken"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hearted"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "To carry"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you to the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "other"
+            },
+            {
+              "chord": "C",
+              "lyrics": "side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "There is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a train for the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ones for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "- gotten"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "To carry"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you to a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Heavenly"
+            },
+            {
+              "chord": "G",
+              "lyrics": "light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Which way"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you're going"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't know if you're"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lost or"
+            },
+            {
+              "chord": "C",
+              "lyrics": "found"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "All that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I know is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You've been"
+            },
+            {
+              "chord": "G",
+              "lyrics": "forgiven"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G D G C - G | C - G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I tell you this train is glory bound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C - G | D - G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Glory bound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "There is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a train for the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cheats and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "liars"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "For all"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the hitchers looking"
+            },
+            {
+              "chord": "D",
+              "lyrics": "for a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ride"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "There is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a train for the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lonely"
+            },
+            {
+              "chord": "G",
+              "lyrics": "drifter"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Tired of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "walking all"
+            },
+            {
+              "chord": "D",
+              "lyrics": "alone in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "come on make some"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "room in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "heart for"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mercy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Come on make some"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "room for a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "little grace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Co"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "me on make some"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "room for the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sinners a"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "nd the sai"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Well I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Which way"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you're going"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't know if you're"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lost or"
+            },
+            {
+              "chord": "C",
+              "lyrics": "found"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "All that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I know is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You've been"
+            },
+            {
+              "chord": "G",
+              "lyrics": "forgiven"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I tell"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you this train is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "glory"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "can hear"
+            },
+            {
+              "chord": "C",
+              "lyrics": "a band"
+            },
+            {
+              "chord": "G",
+              "lyrics": "of angels"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Ama"
+            },
+            {
+              "chord": "G",
+              "lyrics": "zing grace, how"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sweet the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "All that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I know is"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you've been"
+            },
+            {
+              "chord": "G",
+              "lyrics": "forgiven"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I tell"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you this train is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "glory"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bound (glory bound"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ")"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hey yea"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I tell"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you this train is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "glory"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bound"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

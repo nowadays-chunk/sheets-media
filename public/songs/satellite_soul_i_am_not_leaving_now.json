@@ -1,0 +1,638 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.christianguitar.org/csong3520/Satellite-Soul-I-Am-Not-Leaving-Now",
+  "title": "I Am Not Leaving Now",
+  "artist": "Satellite Soul",
+  "key": null,
+  "scrapedAt": "2026-02-14T12:46:29.912Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CD: Great big universe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Written by: Tim Suttle"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Copyright: 1999 Ardent / Koala (ASCAP) & Xebec Music (ASCAP)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords by: Tim Evans (hawkeyman98@hotmail.com)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(INTRO):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E-0 2h 2 3 2 7 7 5 0 2h 2 3 2 7 9 10 -E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B-3 3 3 3 3 8 8 7 3 3 3 3 3 8 10 10 -B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G-2",
+              "lyrics": "D-0"
+            },
+            {
+              "chord": "2",
+              "lyrics": "0"
+            },
+            {
+              "chord": "2",
+              "lyrics": "0"
+            },
+            {
+              "chord": "2",
+              "lyrics": "0"
+            },
+            {
+              "chord": "2",
+              "lyrics": "0"
+            },
+            {
+              "chord": "7",
+              "lyrics": "0"
+            },
+            {
+              "chord": "7",
+              "lyrics": "0"
+            },
+            {
+              "chord": "7",
+              "lyrics": "7"
+            },
+            {
+              "chord": "2",
+              "lyrics": "0"
+            },
+            {
+              "chord": "2",
+              "lyrics": "0"
+            },
+            {
+              "chord": "2",
+              "lyrics": "0"
+            },
+            {
+              "chord": "2",
+              "lyrics": "0"
+            },
+            {
+              "chord": "2",
+              "lyrics": "0"
+            },
+            {
+              "chord": "7",
+              "lyrics": "0"
+            },
+            {
+              "chord": "9",
+              "lyrics": "0"
+            },
+            {
+              "chord": "9",
+              "lyrics": "0"
+            },
+            {
+              "chord": "-G",
+              "lyrics": "-D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A-x x x x x x x x x x x x x x x x -A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E-x x x x x x x x x x x x x x x x -E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(VERSE 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I spent my"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "life / Stu"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mbling down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This r"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "oad that I must tr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "avel /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I spent my t"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "ime / Cha"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sing dreams /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That n"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "ever did un"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ravel /"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've seen the l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ight in the da"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rkness /"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I've seen the cl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ouds roll aw"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ay /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(CHORUS)"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "am not le"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aving n"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ow /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Faced the p"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rarie da"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rkness / Seen the c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "old wind ho"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wl /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "annot t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ake my b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ow /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Til I've s"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tated the reason for the h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ope I found /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I am not leavi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ng n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(INTRO)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(VERSE 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I run this r"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "ace / With we"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ary feet /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And a h"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "eart that's newly b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "randed /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I set my f"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "ace / T"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o the east /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And so f"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "ar I'm still s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tanding /"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Though I'm af"
+            },
+            {
+              "chord": "G",
+              "lyrics": "raid of the si"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lence / ("
+            },
+            {
+              "chord": "G",
+              "lyrics": "Wel"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "l)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am not run"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ning aw"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ay /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(CHORUS)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(BRIDGE)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Well I believe there is a p"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rize awaiting /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Those who will finish s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "trong /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I could stand around h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ere debating /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Or take my cross and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "carry on (for) /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(REPEAT VERSE 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(CHORUS)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(ENDING LINE)- I am not leaving"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "now"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D(9) is tabbed x x 0 2 3 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As Always all corrections and constructive critisism"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "will be very much appreciated."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

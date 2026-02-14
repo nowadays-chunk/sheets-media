@@ -1,0 +1,102 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/muse/202600.html",
+  "title": "Exogenesis: Symphony, Part 1: Overture",
+  "artist": "Muse",
+  "key": null,
+  "scrapedAt": "2026-02-14T04:46:59.568Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Great song, mostly simple chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Aping m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "y soul, you"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "stole my overtu"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "re"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "trapped in God's"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "program"
+            },
+            {
+              "chord": "C",
+              "lyrics": "i can't e"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "scape"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Who are we, where are we,"
+            },
+            {
+              "chord": "Adim",
+              "lyrics": "when are we, why are we?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Who are we, where are we?"
+            },
+            {
+              "chord": "C#dim",
+              "lyrics": "Why? Why? Why?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The rest is just a repeat of this with different lyrics blah blah blah."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Enjoy."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

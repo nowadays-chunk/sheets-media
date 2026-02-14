@@ -1,0 +1,826 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/t/twenty_one_pilots/holding_on_to_you_crd_ver_2.html",
+  "title": "Holding on to You",
+  "artist": "twenty one pilots",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:43:36.046Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Abm F# E B/F# x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "I'm taking over my body, b"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ack in control, no more shotty,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "bet a lot of me was lost, '"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "t's uncrossed and 'I's undotted,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "I fought it a lot and it se"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ems a lot like flesh is all I g"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ot,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Not anymore, f"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "lesh out the door, swat,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "I must've forgot, you c"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "an't trust me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm o"
+            },
+            {
+              "chord": "E",
+              "lyrics": "pen a moment and close when you show it,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "efore you know it I'm lost at sea,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "nd now that I write and think ab"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "out it,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the story unf"
+            },
+            {
+              "chord": "E",
+              "lyrics": "olds,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You should take my life,"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "you should take my soul."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E Abm B/F# F#"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C#m/G#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You are surrounding all my surroundings,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E Abm B/F# F#"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C#m/G#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sounding down the mountain range of my left-side brain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Abm B/F# F#"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C#m/G#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You are surrounding all my surroundings,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E Abm B/F# F#"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C#m/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Twisting the kaleidoscope behind both of my eyes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": "And i'll be H"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "oldin' on to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": "And i'll be H"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "oldin' on to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Break:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Abm F# E B/F# x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "Remember the moment you know ex"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "actly where you're going,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause the n"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ext moment, before you know it,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "ime is slowing and it's frozen still,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "Abm",
+              "lyrics": "window sill lo"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "oks really nice, right?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You think twice about your"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "life, it probably happens at night,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "Right? Fight it, t"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ake the pain, ignite it,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tie a n"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oose around your mind loo"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "se enough to breathe fine and tie it,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "To a tree, tell it, \""
+            },
+            {
+              "chord": "F#",
+              "lyrics": "You belong to me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This ain't a n"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oose, this is a leash,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I have n"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "ews for you, you must obey me"
+            },
+            {
+              "chord": "E",
+              "lyrics": ".\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Abm B/F# F#"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C#m/G#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You are surrounding all my surroundings,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E Abm B/F# F#"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C#m/G#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sounding down the mountain range of my left-side brain,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Abm B/F# F#"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C#m/G#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You are surrounding all my surroundings,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E Abm B/F# F#"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C#m/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Twisting the kaleidoscope behind both of my eyes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Abm"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "F#/A#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "B/F# E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Abm"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "F#/A#"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Entertain my faith"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B/F# E x10"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Entertain my faith"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Rap Solo Part:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "Lean wit it, rock wit it,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "When we gonna stop with it,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Lyrics that mean nothing, we were"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "gifted with thought,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Abm F# X4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is it time to move our feet to an introspective beat,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It ain't the sp"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eakers that bump hearts,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it's our h"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "earts that make the beat."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": "And i'll be H"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "oldin' on to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": "And i'll be H"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "oldin' on to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": "And i'll be H"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "oldin' on to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": "And i'll be H"
+            },
+            {
+              "chord": "B/F#",
+              "lyrics": "oldin' on to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Enjoy :) -DaVader333"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

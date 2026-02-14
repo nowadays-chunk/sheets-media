@@ -1,0 +1,54 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.christianguitar.org/csong20509/Jars-of-Clay-Good-Monsters",
+  "title": "Good Monsters",
+  "artist": "Jars of Clay",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:13:52.580Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Essential"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

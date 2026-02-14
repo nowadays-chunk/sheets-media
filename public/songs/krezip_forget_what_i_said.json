@@ -1,0 +1,78 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/krezip/forget-what-i-said",
+  "title": "Forget What I Said",
+  "artist": "Krezip",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:30:18.836Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">Krezip - Forget what I said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==========================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Wrap yourself a"
+            },
+            {
+              "chord": "Dbmaj7/Ab",
+              "lyrics": "round me baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dbmaj7",
+              "lyrics": "I need a lot of"
+            },
+            {
+              "chord": "Ebadd9",
+              "lyrics": "warmth these days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "hold me just"
+            },
+            {
+              "chord": "Dbmaj7/Ab",
+              "lyrics": "tighter baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dbmaj7",
+              "lyrics": "I ne"
+            },
+            {
+              "chord": "Ebadd9/C",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/p/petergabriel-tabs-26423/flume1-tabs-866364.html",
+  "title": "Flume",
+  "artist": "Peter Gabriel",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:05:58.818Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B/F#",
+              "lyrics": "I am my mother's only"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "enough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B/F#",
+              "lyrics": "I wear my garment so it"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "shows"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now you"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Only love is all"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "maro"
+            },
+            {
+              "chord": "B",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Gluey feathers on a"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "flum"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Sky is womb and she's the"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "moon"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E D#m | EM7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's the moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B/F#",
+              "lyrics": "I am my mother on the"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "wall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With us"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B/F#",
+              "lyrics": "I move in water, shore to"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "shore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nothing's"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Only love is all"
+            },
+            {
+              "chord": "D#m",
+              "lyrics": "maroon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM7",
+              "lyrics": "Lapping lakes like leery"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "loon"
+            },
+            {
+              "chord": "B",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Leaving rope burns, reddish"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "ruse"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D#m | G#m | D#m"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Reddish ruse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM7",
+              "lyrics": "Only love is all"
+            },
+            {
+              "chord": "BM7",
+              "lyrics": "maroon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM7",
+              "lyrics": "Gluey feathers on a"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "flum"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EM7",
+              "lyrics": "Sky is womb and"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "she's the moon"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D#m | G#m | D#m"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's the moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's the"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's the"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "moon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

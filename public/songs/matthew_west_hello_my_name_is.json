@@ -1,0 +1,478 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/matthew-west/355797.html",
+  "title": "Hello, My Name Is",
+  "artist": "Matthew West",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:00:17.400Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "by Matthew West"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The song is recorded in B, but I've transposed it to A for ease of singing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hello, my name is regr"
+            },
+            {
+              "chord": "A",
+              "lyrics": "et"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I?m pretty sure we have m"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "et"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every single day of your li"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I?m the whisper ins"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That won?t let you for"
+            },
+            {
+              "chord": "A",
+              "lyrics": "get"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hello, my name is def"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know you recognize"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just when you think you can w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "in"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I?ll drag you right back down ag"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?Til you?ve lost all beli"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ef."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PRE-CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "These are the voices, the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "se are the lies"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I have believed them"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ", for the very last time"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Hello, my name is c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hild of the one true King."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I?ve been saved, I?ve been ch"
+            },
+            {
+              "chord": "D",
+              "lyrics": "anged, I have been set free!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?Amazing G"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "race? is the song I s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hello, my name is c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hild of the one true King."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(1st x to Verse 3, 2nd x to Bridge)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am no longer defi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "by all the wreckage be"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "hind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The one who makes all things n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ew"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "has proven it?s t"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "rue;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just take a look at my l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ife. (to Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": "What love the Father has lavished"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "upon us that we should be called His c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hildren!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I am a c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hild of the one true King."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "What love the Father has lavished"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "upon us that we should be called His c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hildren!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "LAST CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hello, my name is c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hild of the one true King"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I?ve been saved, I?ve been c"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hanged, I have been set free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?Amazing G"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "race? is the song I s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hello, my name is c"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hild of the one true King"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Copyright 2012 by Sparrow Records, as heard on Into The Light"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

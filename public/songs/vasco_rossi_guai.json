@@ -1,0 +1,614 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/v/vascorossi-tabs-28273/guai1-tabs-849902.html",
+  "title": "Guai",
+  "artist": "Vasco Rossi",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:46:37.676Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro D G D A4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Guai,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Non devi dirlo m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ai,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Che adesso non lo sai"
+            },
+            {
+              "chord": "D",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Se poi mi amerai,"
+            },
+            {
+              "chord": "A4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Tutta la vita."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Tu dimmi solo s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Adesso sei con me"
+            },
+            {
+              "chord": "D",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oppure non mi vuoi,"
+            },
+            {
+              "chord": "A4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Ed e finita."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Sai,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Si vive senza mai"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sapere come andra"
+            },
+            {
+              "chord": "D",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Domani"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E' facile pero"
+            },
+            {
+              "chord": "E",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Adesso non si pu"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "o,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#M",
+              "lyrics": "Ritornare or"
+            },
+            {
+              "chord": "B",
+              "lyrics": "mai."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Tu non me la racc"
+            },
+            {
+              "chord": "A",
+              "lyrics": "onti,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Non mi interessa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "che,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Non mi puoi venire a dire che ora pi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "angi,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Se sei,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Insieme a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Togliti dalla te"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sta,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Non puo disfarti di"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Se non sei felice come una v"
+            },
+            {
+              "chord": "A",
+              "lyrics": "olta,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Non puoi dare,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "La colpa a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "La verita lo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "so,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E' semplice pe"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ro,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A un certo punto poi"
+            },
+            {
+              "chord": "A4",
+              "lyrics": ","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Bisogna dirla."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Non e per ones"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ta,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E neanche car"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ita,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Che dico che tra no"
+            },
+            {
+              "chord": "A4",
+              "lyrics": "i,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Non e finita."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Non chiedertelo ma"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "i,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Che cosa dur"
+            },
+            {
+              "chord": "D",
+              "lyrics": "era,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Davv"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ero."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "La vita e troppo br"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eve,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ci son delle sor"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "prese,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Che non ti aspetti"
+            },
+            {
+              "chord": "B",
+              "lyrics": "mai."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Tu non me la racc"
+            },
+            {
+              "chord": "A",
+              "lyrics": "onti,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Non mi interessa"
+            },
+            {
+              "chord": "A",
+              "lyrics": "che,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Non mi puoi venire a dire che ora pi"
+            },
+            {
+              "chord": "A",
+              "lyrics": "angi,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Se sei,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Insieme a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Togliti dalla te"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sta,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Non puo disfarti di"
+            },
+            {
+              "chord": "A",
+              "lyrics": "me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Se non sei felice come una v"
+            },
+            {
+              "chord": "A",
+              "lyrics": "olta,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Non puoi dare,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "La colpa a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Se non sei felice come una v"
+            },
+            {
+              "chord": "A",
+              "lyrics": "olta,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Non puoi dare,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "La colpa a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "me."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/c/carolineherring-tabs-59386/fairandtenderladies1-tabs-841558.html",
+  "title": "Fair And Tender Ladies",
+  "artist": "Caroline Herring",
+  "key": null,
+  "scrapedAt": "2026-02-14T04:57:10.228Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO: 2nd Fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO: G C G D F-C-G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You write about a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "place so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dear, in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "all its good and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "evil"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A loving cup, an"
+            },
+            {
+              "chord": "C",
+              "lyrics": "aching"
+            },
+            {
+              "chord": "G",
+              "lyrics": "scar, you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "need no thread and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "needle"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sew your name in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to your clothes or"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hem a ragged"
+            },
+            {
+              "chord": "D",
+              "lyrics": "line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All"
+            },
+            {
+              "chord": "G",
+              "lyrics": "muscular and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lumi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nous, oh,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hero"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ine of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "La"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "la"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "C",
+              "lyrics": "la"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fair and tender"
+            },
+            {
+              "chord": "C",
+              "lyrics": "la"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fair and tender"
+            },
+            {
+              "chord": "F-C-G",
+              "lyrics": "ladies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You raised yourself from"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mud and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "spit and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "opened up your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stretching out your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "graceful"
+            },
+            {
+              "chord": "G",
+              "lyrics": "limbs, from"
+            },
+            {
+              "chord": "D",
+              "lyrics": "heart and soul on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sidewalks and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "handlebars,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "summer sun and"
+            },
+            {
+              "chord": "D",
+              "lyrics": "evening stars"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "unincorpo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rated"
+            },
+            {
+              "chord": "G",
+              "lyrics": "streets, oh,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "heroine I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "long to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "meet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "La"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "la"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "C",
+              "lyrics": "la"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fair and tender"
+            },
+            {
+              "chord": "C",
+              "lyrics": "la"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fair and tender"
+            },
+            {
+              "chord": "F-C-G",
+              "lyrics": "ladies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "La-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dies,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "la-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dies,"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "la-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dies,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "la-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "a-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "F-C-G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You set aside your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "trays and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "flowers,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "like a ball and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "chain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You understood a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "time and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "place u"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pon which you pro"
+            },
+            {
+              "chord": "G",
+              "lyrics": "claimed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "skirt was not to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hide behind, your"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "womanhood, no"
+            },
+            {
+              "chord": "D",
+              "lyrics": "alibi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "would not live so"
+            },
+            {
+              "chord": "C",
+              "lyrics": "man could"
+            },
+            {
+              "chord": "G",
+              "lyrics": "die, oh,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "white-gloved hero"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ine of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "La"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "la"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "C",
+              "lyrics": "la"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fair and tender"
+            },
+            {
+              "chord": "C",
+              "lyrics": "la"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fair and tender"
+            },
+            {
+              "chord": "F-C-G",
+              "lyrics": "ladies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fair and tender"
+            },
+            {
+              "chord": "C",
+              "lyrics": "la"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fair and tender"
+            },
+            {
+              "chord": "F-C-G",
+              "lyrics": "ladies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO: G C G D G D G"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

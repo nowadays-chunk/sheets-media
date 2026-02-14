@@ -1,0 +1,594 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/b/bread/250042.html",
+  "title": "Everything I Own",
+  "artist": "Bread",
+  "key": null,
+  "scrapedAt": "2026-02-14T04:37:58.197Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 7th Fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Riff 1 x 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Riff 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You"
+            },
+            {
+              "chord": "Dmaj7/C#",
+              "lyrics": "sheltered me from h"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "arm,"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "kept me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "warm,"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "kept me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "warm"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You"
+            },
+            {
+              "chord": "Dmaj7/C#",
+              "lyrics": "gave my life to m"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "e,"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "set me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "free,"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "set me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "free"
+            },
+            {
+              "chord": "Dsus2",
+              "lyrics": "."
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "The finest"
+            },
+            {
+              "chord": "G",
+              "lyrics": "years I ever k"
+            },
+            {
+              "chord": "A",
+              "lyrics": "new"
+            },
+            {
+              "chord": "Asus",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "were all the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "years I had with y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ou."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus: 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I would give"
+            },
+            {
+              "chord": "D",
+              "lyrics": "anyt"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hing I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "own,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Give up my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "life, my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "heart, my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "home."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I would give"
+            },
+            {
+              "chord": "D",
+              "lyrics": "every"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "thing I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "own"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "just to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "have you back a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Riff 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You t"
+            },
+            {
+              "chord": "Dmaj7/C#",
+              "lyrics": "aught me how to lo"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ve, w"
+            },
+            {
+              "chord": "D/A",
+              "lyrics": "hat it's o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "f, w"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "hat it's o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "f"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You never"
+            },
+            {
+              "chord": "Dmaj7/C#",
+              "lyrics": "said too much but s"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "till you showed the way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "knew,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "from watching"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Riff 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Nobody"
+            },
+            {
+              "chord": "G",
+              "lyrics": "else could ever k"
+            },
+            {
+              "chord": "A",
+              "lyrics": "no"
+            },
+            {
+              "chord": "(add",
+              "lyrics": "w"
+            },
+            {
+              "chord": "sus4)",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": "the part of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me that can't let"
+            },
+            {
+              "chord": "A",
+              "lyrics": "go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is there"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "someone you know, you're l"
+            },
+            {
+              "chord": "Asus4add6",
+              "lyrics": "oving them so"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but"
+            },
+            {
+              "chord": "Gmaj7",
+              "lyrics": "taking them all for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "granted?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You may"
+            },
+            {
+              "chord": "EmaddG",
+              "lyrics": "lose them one day,"
+            },
+            {
+              "chord": "G/D",
+              "lyrics": "someone takes them away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and they"
+            },
+            {
+              "chord": "Cmaj7addG",
+              "lyrics": "don't hear the words you long to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "say."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "End Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I would give"
+            },
+            {
+              "chord": "D",
+              "lyrics": "anyt"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hing I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "own,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Give up my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "life, my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "heart, my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "home."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I would give"
+            },
+            {
+              "chord": "D",
+              "lyrics": "every"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "thing I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "own"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "just to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "have you back a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "just to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "touch you once a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gain."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

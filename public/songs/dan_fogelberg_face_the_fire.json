@@ -1,0 +1,502 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/d/dan_fogelberg/face_the_fire_crd.html",
+  "title": "Face the Fire",
+  "artist": "Dan Fogelberg",
+  "key": null,
+  "scrapedAt": "2026-02-14T04:53:14.278Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I hear the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thunder"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Three miles a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The island's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "leaking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Into the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "bay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The poison is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "spreading"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G",
+              "lyrics": "demon is"
+            },
+            {
+              "chord": "C",
+              "lyrics": "free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And people are"
+            },
+            {
+              "chord": "D",
+              "lyrics": "running from"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "can't even"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "see."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Face the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "G",
+              "lyrics": "can't turn"
+            },
+            {
+              "chord": "C",
+              "lyrics": "away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The risk grows"
+            },
+            {
+              "chord": "D",
+              "lyrics": "greater"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With"
+            },
+            {
+              "chord": "G",
+              "lyrics": "each passing"
+            },
+            {
+              "chord": "C",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The waiting's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "over"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G",
+              "lyrics": "moment has"
+            },
+            {
+              "chord": "C",
+              "lyrics": "come"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "To kill the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/d/dan_fogelberg/face_the_fire_crd.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "turn to the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sun."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "They'll take your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "money"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "then take your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "health"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "To line their"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pockets with"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Unequaled"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wealth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "These men are"
+            },
+            {
+              "chord": "D",
+              "lyrics": "under"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G",
+              "lyrics": "power of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "gold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "We won't be"
+            },
+            {
+              "chord": "D",
+              "lyrics": "safe until we"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Shut them down"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "cold."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The people"
+            },
+            {
+              "chord": "D",
+              "lyrics": "came to the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "capitol"
+            },
+            {
+              "chord": "C",
+              "lyrics": "town"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "One hundred"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thousand of them"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Laid their hearts"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They screamed in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "anger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "broadcast their"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fears"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Just to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "have them"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Fall on deaf"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ears."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INSTRUMENTAL (x16)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,818 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/v/vanessa_carlton/fools_like_me_crd.html",
+  "title": "Fools Like Me",
+  "artist": "Vanessa Carlton",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:15:17.618Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "FOOLS LIKE ME ? Vanessa Carlton"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Steph"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: cdashber@gmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Bm G D (x4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Beware the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "danger it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lurks for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "those who get swept away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "dreamers get"
+            },
+            {
+              "chord": "G",
+              "lyrics": "punished"
+            },
+            {
+              "chord": "D",
+              "lyrics": "most by truth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They say it's"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "all in a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "little"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ways"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "One reveals their"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love's gone a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "way,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Love's gone a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When my"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "hand was"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hand, my heart was pure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now I"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "see a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "different"
+            },
+            {
+              "chord": "D",
+              "lyrics": "man, rewriting memories"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "dogs run"
+            },
+            {
+              "chord": "G",
+              "lyrics": "down the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "beach, and all I'm left with"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sand in my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "shoes,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Sand in my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "shoes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Fools"
+            },
+            {
+              "chord": "G",
+              "lyrics": "like"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "blind"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "cracks"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "count"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's gotta"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "break in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "front of"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Now I re"
+            },
+            {
+              "chord": "G",
+              "lyrics": "call that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time at the cafe,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "thunder"
+            },
+            {
+              "chord": "G",
+              "lyrics": "storm out"
+            },
+            {
+              "chord": "D",
+              "lyrics": "side, words you could never say,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "hold the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "loudest"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tones, you say you'll write"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ink on a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "page, just"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ink on a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "page"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Fools"
+            },
+            {
+              "chord": "G",
+              "lyrics": "like"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, we"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "blind"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "cracks"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "count"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's gotta"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "break in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "front of"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Tic toc the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Distant"
+            },
+            {
+              "chord": "D",
+              "lyrics": "look grows in"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "A",
+              "lyrics": "fools never"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ask"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Afraid of what"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lurks in"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "always"
+            },
+            {
+              "chord": "G",
+              "lyrics": "knew, somehow,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "always"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "knew"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "always"
+            },
+            {
+              "chord": "G",
+              "lyrics": "knew the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "truth"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Fools"
+            },
+            {
+              "chord": "G",
+              "lyrics": "like"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, we"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "nev"
+            },
+            {
+              "chord": "G",
+              "lyrics": "er"
+            },
+            {
+              "chord": "D",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?Cause the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "cracks"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "count"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's gotta"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "break in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "front of"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it's break"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "in',"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's break"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "in',"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's break"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "in'"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's gotta"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "break for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At least"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "can"
+            },
+            {
+              "chord": "D",
+              "lyrics": "say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "not"
+            },
+            {
+              "chord": "G",
+              "lyrics": "afr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aid"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I loved you"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "all"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'd pick the"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "fool"
+            },
+            {
+              "chord": "G",
+              "lyrics": "any"
+            },
+            {
+              "chord": "D",
+              "lyrics": "day"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

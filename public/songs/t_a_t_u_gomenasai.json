@@ -1,0 +1,742 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/t/tatu/gomenasai_crd.html",
+  "title": "Gomenasai",
+  "artist": "t.A.T.u.",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:04:16.104Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: Gomenasai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: t.A.T.u."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Dangerous And Moving"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: K.C. (eternallykc@yahoo.com)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Played in: Standard tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "What I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thought wasn't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "In the l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Was o"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ne of a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "kind,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "D",
+              "lyrics": "precious pearl"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "When I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wanted to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "couldn't cause"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Wasn't allo"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "wed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Go"
+            },
+            {
+              "chord": "C",
+              "lyrics": "menas"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ai, for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "everything"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Go"
+            },
+            {
+              "chord": "C",
+              "lyrics": "menas"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ai, I know I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "let you down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Gomenas"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai till the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I never"
+            },
+            {
+              "chord": "D",
+              "lyrics": "needed a f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I do"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "What I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thought wasn't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "C",
+              "lyrics": "innocent"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Was a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "delicate d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oll"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Of"
+            },
+            {
+              "chord": "C",
+              "lyrics": "porcelain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "When I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wanted to call"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "ask you for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "help"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "stopped"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "myself"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Go"
+            },
+            {
+              "chord": "C",
+              "lyrics": "menas"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ai, for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "everything"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Go"
+            },
+            {
+              "chord": "C",
+              "lyrics": "menas"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ai, I know I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "let you down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Gomenas"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai till the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I never"
+            },
+            {
+              "chord": "D",
+              "lyrics": "needed a f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I do"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/t/tatu/gomenasai_crd.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*you can play the intro for this part too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "What I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thought was a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dream"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "A mirage"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Was as"
+            },
+            {
+              "chord": "D",
+              "lyrics": "real as it"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "seemed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "D",
+              "lyrics": "privilege"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "When I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wanted to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tell you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "made a mis"
+            },
+            {
+              "chord": "G",
+              "lyrics": "take"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "walked"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Go"
+            },
+            {
+              "chord": "C",
+              "lyrics": "menas"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ai, for e"
+            },
+            {
+              "chord": "D",
+              "lyrics": "verything"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Go"
+            },
+            {
+              "chord": "C",
+              "lyrics": "menas"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ai, Gome"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nasai,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Go"
+            },
+            {
+              "chord": "C",
+              "lyrics": "menas"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ai, I never"
+            },
+            {
+              "chord": "D",
+              "lyrics": "needed a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "friend,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I do n"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Go"
+            },
+            {
+              "chord": "C",
+              "lyrics": "men na"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sai, I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "let you down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Go"
+            },
+            {
+              "chord": "C",
+              "lyrics": "men na"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sai, Gom"
+            },
+            {
+              "chord": "D",
+              "lyrics": "enasai"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Gomenas"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ai till the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I never"
+            },
+            {
+              "chord": "D",
+              "lyrics": "needed a f"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "riend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I do"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "now"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Guitar solo again)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

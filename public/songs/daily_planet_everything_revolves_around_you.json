@@ -1,0 +1,38 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.christianguitar.org/csong9850/Daily-Planet-Everything-Revolves-Around-You",
+  "title": "Everything Revolves Around You",
+  "artist": "Daily Planet",
+  "key": null,
+  "scrapedAt": "2026-02-14T04:39:28.101Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro & Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B A E X3"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

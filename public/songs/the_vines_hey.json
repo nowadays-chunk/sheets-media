@@ -1,0 +1,638 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/v/vines/265452.html",
+  "title": "Hey",
+  "artist": "The Vines",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:15:32.065Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: Hey"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Band: The Vines"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Melodia"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords Used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B - x24442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E - 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D - x57775"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "B5"
+            },
+            {
+              "chord": "-",
+              "lyrics": "-"
+            },
+            {
+              "chord": "244322",
+              "lyrics": "x244xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 - 022xxx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D5 - x577xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C5 - x355xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Hey"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "What are you"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "doin' today?"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I had enough"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "of my time"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And so I thre"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "w it away"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "(All away)"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Give me"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "all or"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "give me"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "nothin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "All I wa"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "nt or n"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "othin' m"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "ore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "I'm as b"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "ored as"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "she is"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "lonely"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Waitin'"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "for no"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "one to c"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "So"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Is there ain'"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "t nothin' you"
+            },
+            {
+              "chord": "B",
+              "lyrics": "kno"
+            },
+            {
+              "chord": "E",
+              "lyrics": "w?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I had enough"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "of your smile"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "So I'm lettin"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "' it all go"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "(All it go)"
+            },
+            {
+              "chord": "F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Give me"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "all or"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "give me"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "nothin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "All I wa"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "nt or n"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "othin' m"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "ore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "I'm as b"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "ored as"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "she is"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "lonely"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Waitin'"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "for no"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "one to c"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 (PM)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Show me the daylight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "Oh when I'm"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 (PM)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tell me it's alright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "Oh when I'm"
+            },
+            {
+              "chord": "C5",
+              "lyrics": "there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Yeah"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": ""
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Yeah,"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": "No no no"
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Yeah"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": ""
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B5",
+              "lyrics": "Yeah,"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": "No no no"
+            },
+            {
+              "chord": "C5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "End:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Hey"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

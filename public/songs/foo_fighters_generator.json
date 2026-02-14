@@ -1,0 +1,782 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/f/foo-fighters/374754.html",
+  "title": "Generator",
+  "artist": "Foo Fighters",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:11:30.853Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "GENERATOR ? FOO FIGHTERS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard Tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF A RIFF B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF C RIFF D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF E RIFF F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF G RIFF H"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF A RIFF B (x2) RIFF C RIFF B RIFF C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(let chords ring out on every verse)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Lately I'm getting better"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Wish I could stay sick w"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "ith you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "But there's too many egos left t"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "o bruise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Call it a sin you call it what ever"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Eating deep inside of y"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "Well if were me it's all I'd ever do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF E (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "RIFF"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "B"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "RIFF"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "C"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "RIFF"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "B RI"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "FF"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "C"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Stealing now and forever"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I'll steal something goo"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "d for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "But the criminal in me is no-one new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF E (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Til you find something better"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "When there's nothing lef"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "t to use"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "And everything starts going down on you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF E (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'm the generator,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Firing whenever you quit,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah whatever it is,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You go out and it's on,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/C",
+              "lyrics": "Yeah can't you h"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ear my motor heart,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You're the one that star"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ted it."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "RIFF"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "B"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "RIF"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "F C"
+            },
+            {
+              "chord": "D5",
+              "lyrics": "RIF"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "F B"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "RI"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "FF C"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Standing out on a tether"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Swing me around I'll spin your news"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "You let it down I'll hang around with you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF E (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "Til you find something better"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "And there's no-one left"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "to use"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D5",
+              "lyrics": "And everyone keeps going down on you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF E (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'm the generator,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Firing whenever you quit,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah whatever it is,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You go out and it's on,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/C",
+              "lyrics": "Yeah can't you h"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ear my motor heart,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You're the one that started i"
+            },
+            {
+              "chord": "E",
+              "lyrics": "t."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Play an E chord for 16 beats then...."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF G (x4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'm the generator,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Firing whenever you quit,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yeah whatever it is,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You go out and it's on,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/G",
+              "lyrics": "Yeah can't you h"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ear my motor heart,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You're the one that star"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ted it."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'm the generator,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm the generator,"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm the generator,"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm the generator you're on,"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/C",
+              "lyrics": "Yeah can't you hear my m"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "otor heart,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "You're the one that star"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ted it."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A5",
+              "lyrics": "RIFF"
+            },
+            {
+              "chord": "E5",
+              "lyrics": "B"
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "RIFF H"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

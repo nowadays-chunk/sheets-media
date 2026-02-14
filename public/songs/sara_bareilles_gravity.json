@@ -1,0 +1,838 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/s/sara_bareilles/gravity_crd_ver_6.html",
+  "title": "Gravity",
+  "artist": "Sara Bareilles",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:36:33.575Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hey guys, its been a while since i've tabbed a song. This is Gravity by Sara Bareilles."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "other tabs on here are actually really good, except they are in a different key than"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "original song. This is the right key, and it looks kinda bad but its actually very easy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "least to me, so i'll mark it as intermediate). It comes right out of the song book. If"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "can't play the Dm7add4 chord, just play a Dm7, it sounds just as good. The same goes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the Amadd2, just play an Am (or Am7). Everything else is really easy to get to. I would"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to hear your comments"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning - Standard EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/E - 032010 Fmaj9 - 133010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj7/E - 032000 Dmadd2 - x57760"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G9 - 3x0201 Dm7add4 - xx0563"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G - 320003 Cadd9/E - 032030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm7 - xx0211 Gsus4 - 3x0013"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj9/E - 032430 G/F - 120003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/B - x20033 Amadd2 - x02410"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am/G - 302210 Am - x02210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj9/A - x03010 C/Bb - x12010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm9 - x5355x G7sus4 - 3x0011"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G7 - 3x0001 Bb* - x10011"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fsus2 - 133011 Am7 - x02010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gsus4/B - x20013 Em7 - 022030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F - 133211 Csus2 - x30023"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Csus2/B - x20023 Cmaj9/G - 335433"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fadd9/A - x03011"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "================================"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dmadd2",
+              "lyrics": "Something always brings me"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "back to you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/E",
+              "lyrics": "It never"
+            },
+            {
+              "chord": "Cmaj7/E",
+              "lyrics": "takes too l"
+            },
+            {
+              "chord": "Fmaj9",
+              "lyrics": "ong."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7add4",
+              "lyrics": "No matter what I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "say or do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll s"
+            },
+            {
+              "chord": "Cadd9/E",
+              "lyrics": "till feel you here 'til the"
+            },
+            {
+              "chord": "Cmaj7/E",
+              "lyrics": "moment I'm"
+            },
+            {
+              "chord": "Fmaj9",
+              "lyrics": "gone."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "You hold me wit"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "hout touch."
+            },
+            {
+              "chord": "G9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj9/E",
+              "lyrics": "You keep me"
+            },
+            {
+              "chord": "Cmaj7/E",
+              "lyrics": "without c"
+            },
+            {
+              "chord": "Fmaj9",
+              "lyrics": "hains."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7add4",
+              "lyrics": "I never wanted anything"
+            },
+            {
+              "chord": "G/F",
+              "lyrics": "so much"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Than to"
+            },
+            {
+              "chord": "Cmaj9/E",
+              "lyrics": "drown in your love and"
+            },
+            {
+              "chord": "Cmaj7/E",
+              "lyrics": "not feel"
+            },
+            {
+              "chord": "Fmaj9",
+              "lyrics": "your rain."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Set"
+            },
+            {
+              "chord": "Dm7add4",
+              "lyrics": "me free,leave"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "me be."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't want to f"
+            },
+            {
+              "chord": "Cadd2",
+              "lyrics": "all anothe"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "r moment into your"
+            },
+            {
+              "chord": "Amadd2",
+              "lyrics": "gravity."
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here I"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "am and I sta"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "nd so ta"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ll,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "just the way I'"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "m supposed to"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": "be."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But you're"
+            },
+            {
+              "chord": "Fmaj9/A",
+              "lyrics": "on to me and all"
+            },
+            {
+              "chord": "C/Bb",
+              "lyrics": "over me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm9",
+              "lyrics": "You loved me 'cause"
+            },
+            {
+              "chord": "G7sus4",
+              "lyrics": "I'm fragile."
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/E",
+              "lyrics": "When I though"
+            },
+            {
+              "chord": "Cmaj7/E",
+              "lyrics": "t that I was"
+            },
+            {
+              "chord": "Fmaj9",
+              "lyrics": "strong."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7add4",
+              "lyrics": "But you touch me for"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "a little while"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/E",
+              "lyrics": "And all my fragile"
+            },
+            {
+              "chord": "Cmaj7/E",
+              "lyrics": "strength is"
+            },
+            {
+              "chord": "Fmaj9",
+              "lyrics": "gone."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Set"
+            },
+            {
+              "chord": "Dm7add4",
+              "lyrics": "me free,leave"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "me be."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't want to f"
+            },
+            {
+              "chord": "Cadd2",
+              "lyrics": "all anothe"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "r moment into your"
+            },
+            {
+              "chord": "Amadd2",
+              "lyrics": "gravity."
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here I"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "am and I sta"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "nd so ta"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ll,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G/B",
+              "lyrics": "just the way I'"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "m supposed to"
+            },
+            {
+              "chord": "Am/G",
+              "lyrics": "be."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj9/A Bb*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But you're on to me and all over me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fsus2",
+              "lyrics": "I live he"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "re on my knee"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s as I"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Try"
+            },
+            {
+              "chord": "Gsus4/B",
+              "lyrics": "to make you se"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "e that you're"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fsus2",
+              "lyrics": "Everything"
+            },
+            {
+              "chord": "Gsus4",
+              "lyrics": "I think I n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eed he"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "re on the g"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "round."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fsus2",
+              "lyrics": "But you're neit"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "her friend nor foe though I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Can't seem"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "to let you go."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "The one thing t"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "hat I still know is that you're"
+            },
+            {
+              "chord": "F",
+              "lyrics": "keeping me down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Csus2",
+              "lyrics": "Woo...."
+            },
+            {
+              "chord": "Csus2/B",
+              "lyrics": "...."
+            },
+            {
+              "chord": "Amadd2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're keeping"
+            },
+            {
+              "chord": "Dm7add4",
+              "lyrics": "me down"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Yea"
+            },
+            {
+              "chord": "Csus2/B",
+              "lyrics": "h"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj9/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're"
+            },
+            {
+              "chord": "Fadd9/A",
+              "lyrics": "on to me, on to me, and al"
+            },
+            {
+              "chord": "C/Bb",
+              "lyrics": "l ove"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "r"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7add4",
+              "lyrics": "Something always brings me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "back to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9/E",
+              "lyrics": "It never takes"
+            },
+            {
+              "chord": "Cmaj7/E",
+              "lyrics": "too long"
+            },
+            {
+              "chord": "Fmaj9",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

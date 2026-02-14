@@ -1,0 +1,814 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/a/alain-clark/231899.html",
+  "title": "Father & Friend",
+  "artist": "Alain Clark",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:25:35.907Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CAPO @3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G7 320033 C#m 446654 F# 244322"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9/A 002033 Am/F# 202210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9 032033 E 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dsus4 xx0233 A 002220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D xx0232 B 224442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C 032010 C# x46664"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G7, Cadd9/A, Cadd9, Dsus4, D, Dsus4 x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "O, Papa s"
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": "it down, a"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "nd hear my"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "song."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "O, and if yo"
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": "u feel lik"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "e it then please"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "sing al"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ong"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "No nothing"
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": "that I wa"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "nna say, I have"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "n't sai"
+            },
+            {
+              "chord": "D",
+              "lyrics": "d b"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "efore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "But to use"
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": "your words"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ", you can nev"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "er be t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o s"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "ure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "See, even though. I don't always"
+            },
+            {
+              "chord": "D",
+              "lyrics": "show.."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm glad that you're around."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "I sa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "id"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "I'm glad that you're around."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "O son, it's so"
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": "strange,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "to hear and"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "see"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "That a someone so d"
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": "ifferent is,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "a Soul"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "like me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "."
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "You may have gone"
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": "right, wh"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ere I would"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "have g"
+            },
+            {
+              "chord": "D",
+              "lyrics": "one"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "left."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "But son, that's alr"
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": "ight. I w"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ill alw"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "ays hav"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e y"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "our back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "See even though. I don't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "always show."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm proud of that you're my son."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Old days, and all of the n"
+            },
+            {
+              "chord": "Am/F#",
+              "lyrics": "ew. Wanted a bit l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ike y"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ou."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Every time I look at you."
+            },
+            {
+              "chord": "B",
+              "lyrics": "I see myself"
+            },
+            {
+              "chord": "D",
+              "lyrics": ". And I'm so proud o"
+            },
+            {
+              "chord": "E",
+              "lyrics": "f you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "For you have made me what"
+            },
+            {
+              "chord": "B",
+              "lyrics": "I am. A bett"
+            },
+            {
+              "chord": "D",
+              "lyrics": "er man. I'm just so"
+            },
+            {
+              "chord": "E",
+              "lyrics": "proud of you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "O dad, if using"
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": "life. Te"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ll me how th"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "ey came"
+            },
+            {
+              "chord": "D",
+              "lyrics": "it"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "be."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "Well see, I did"
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": "n't know m"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "y father li"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "ke the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "that you know me."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "Son, life is ju"
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": "st too sh"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ort. For us"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "never b"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e i"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "n touch."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G7",
+              "lyrics": "So that's why I"
+            },
+            {
+              "chord": "Cadd9/A",
+              "lyrics": "Wanna te"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ll you that"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "I love"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "very much."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9 A C (not for sure)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Even though, I don't always show. You know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I want you to know that."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Every time I look at you."
+            },
+            {
+              "chord": "B",
+              "lyrics": "I see myself"
+            },
+            {
+              "chord": "D",
+              "lyrics": ". And I'm so proud o"
+            },
+            {
+              "chord": "E",
+              "lyrics": "f you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "For you have made me what"
+            },
+            {
+              "chord": "B",
+              "lyrics": "I am. A bett"
+            },
+            {
+              "chord": "D",
+              "lyrics": "er man. I'm just so"
+            },
+            {
+              "chord": "E",
+              "lyrics": "proud of you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "I'm here. And I'll be if"
+            },
+            {
+              "chord": "Am/F#",
+              "lyrics": "I can. A fathe"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r and a frie"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nd."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(i couldn't find out this part of the song, please comment it if you know)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "oooooooooooooooooooooo, woeeeeeeeeehoeeeeeeeeeee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "everytime i look at you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Every time I look at you."
+            },
+            {
+              "chord": "B",
+              "lyrics": "I see myself"
+            },
+            {
+              "chord": "D",
+              "lyrics": ". And I'm so proud o"
+            },
+            {
+              "chord": "E",
+              "lyrics": "f you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "For you have made me what"
+            },
+            {
+              "chord": "B",
+              "lyrics": "I am. A son"
+            },
+            {
+              "chord": "D",
+              "lyrics": "and a friend. I'm ju"
+            },
+            {
+              "chord": "E",
+              "lyrics": "st so proud of you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "You know that one day too."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": "I'll be walking in your shoes."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "and i know that you'll be fine, cau"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "sse you're a son of mine."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "O papa tell me what've you learn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": "so that i don't get my fingers burn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "son you'll see that if you go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "you make mistakes off your own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "b"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ut thats okay men"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": "see you're leave and you're learn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "you're leave and you're"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "learn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "repeat till the end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://www.youtube.com/watch?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "v=6wpgTwAsthY&feature=PlayList&p=7A7336EEB634BE24&playnext_from=PL&playnext=1"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

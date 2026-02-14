@@ -1,0 +1,94 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/d/distillers/gypsy_rose_lee_tab_ver_2.html",
+  "title": "Gypsy Rose Lee",
+  "artist": "The Distillers",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:53:02.055Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cborus",
+              "lyrics": "x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "gtr.1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "gtr.2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Verse",
+              "lyrics": "x4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Interlude",
+              "lyrics": "x4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Verse",
+              "lyrics": "x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cborus",
+              "lyrics": "x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus: 4x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

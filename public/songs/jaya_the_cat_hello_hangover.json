@@ -1,0 +1,46 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/jaya-the-cat/225145.html",
+  "title": "Hello Hangover",
+  "artist": "Jaya the Cat",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:58:48.404Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verses"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Couplet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "same chords in the same order but strummed once."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

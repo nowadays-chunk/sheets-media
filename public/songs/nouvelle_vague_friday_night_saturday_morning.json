@@ -1,0 +1,542 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/n/nouvelle-vague/195751.html",
+  "title": "Friday Night Saturday Morning",
+  "artist": "Nouvelle Vague",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:47:41.968Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "song: Friday Night Saturday Morning (The Specials Cover)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D (200232)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E"
+            },
+            {
+              "chord": "G",
+              "lyrics": "7"
+            },
+            {
+              "chord": "(355433)",
+              "lyrics": "(020100)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "bm"
+            },
+            {
+              "chord": "(244322)",
+              "lyrics": "(X13321)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E (022100)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ebm (668876)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Out of bed at eight AM"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Out my head by half past ten"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Out with mates and dates and friends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "That's what I do at weekends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I can't talk and I can't walk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But I know where I'm going to go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'm going watch my money go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "At the Locarno"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "When my feet go through the door"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I know what my right arm is for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Buy a drink and pull a chair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Up to the edge of the dance floor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Bouncers bouncing through the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Trying to stop or start a fight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I sit and watch the flashing lights"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Moving legs in footless tights"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "I go out on Frida"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "y night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I come home on Saturday morni"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "ng"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "I go out on Frida"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "y night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I come home on Saturday morni"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "ng"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I like to venture into town"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I like to get a few drinks down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "The floor gets packed the bar gets full"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I don't like life when things get dull"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The hen party have saved the night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And freed themselves from drunken stags"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Having fun and dancing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "In a circle round their leather bags"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "I go out on Frida"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "y night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I come home on Saturday morni"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "ng"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "I go out on Frida"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "y night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I come home on Saturday morni"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "ng"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But two o'clock has come again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "It's time to leave this paradise"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hope the chip shop isn't closed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Cos' their pies are really nice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'll eat in the taxi queue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Standing in someone else's spew"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Wish I had lipstick on my shirt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E7",
+              "lyrics": "Instead of piss stains on my shoes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "I go out on Frida"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "y night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I come home on Saturday morni"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "ng"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "I go out on Frida"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "y night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I come home on Saturday morni"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "ng"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "I go out on Frida"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "y night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I come home on Saturday morni"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "ng"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "I go out on Frida"
+            },
+            {
+              "chord": "Bbm",
+              "lyrics": "y night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And I come home on Saturday morni"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "ng"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

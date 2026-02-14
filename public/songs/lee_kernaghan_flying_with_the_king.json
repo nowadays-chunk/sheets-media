@@ -1,0 +1,502 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/l/lee_kernaghan/flying_with_the_king_crd.html",
+  "title": "Flying With the King",
+  "artist": "Lee Kernaghan",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:09:10.679Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is my first ever tab so i hope you like it :)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "It was Ansett 603"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He sits d"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "own next to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We were f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lyin' out across the Great Di"
+            },
+            {
+              "chord": "G",
+              "lyrics": "vide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Bound for WA"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He shook my h"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "and and said g'day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "There I was, Slim Dusty by my s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was fl"
+            },
+            {
+              "chord": "C",
+              "lyrics": "yin' wi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "th the k"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ridin' on the w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A small town boy from no"
+            },
+            {
+              "chord": "C",
+              "lyrics": "where"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My head up in the cl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ouds"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All the ti"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mes I h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eard him pl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And here I was t"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "oday"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was fl"
+            },
+            {
+              "chord": "C",
+              "lyrics": "yin', I was fl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "yin' with the ki"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ng"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Was Tr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "umby ridin' slow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "0,000 feet below"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y down there round a fire of gidgee c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e desert stretchin' on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Home to c"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ountless Dusty songs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "as the man who walked a country m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat through the rest of the song)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was flyin' with the king"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ridin' on the wind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A small town boy from nowhere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My head up in the clouds"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All the times I heard him play"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And here I was today"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was flyin', I was flyin' with the king"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(solo)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Before I knew the wheels touched down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He smiled and said \"I'll see you round\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There was so much more to say but he was gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "An' now he's gone?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was flyin' with the king"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ridin' on the wind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A small town boy from nowhere"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My head up in the clouds"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All the times I heard him play"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And here I was today"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was flyin', I was flyin' with the king"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "End on G."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

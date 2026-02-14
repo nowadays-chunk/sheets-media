@@ -1,0 +1,490 @@
+{
+  "url": "https://www.chordie.com/chord.pere/chordiearchive.chordie.com/chord.pere/www.guitaretab.com/p/phish/142702.html",
+  "title": "Friday",
+  "artist": "Phish",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:47:05.029Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I crashed, I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "burned, but then I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "learned \\"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B -- Play Softly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To keep my eye on you /"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You always"
+            },
+            {
+              "chord": "D",
+              "lyrics": "say, you'll lead the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "But then you never do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Prechorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I slowed, I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "swerved, but lost my"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nerve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And quickly looked away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "When I looked"
+            },
+            {
+              "chord": "B",
+              "lyrics": "back, the day was"
+            },
+            {
+              "chord": "E",
+              "lyrics": "black"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Then I heard you say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Why is the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "sun hot and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Why does it"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rain?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Why is there"
+            },
+            {
+              "chord": "C",
+              "lyrics": "danger and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Why is there"
+            },
+            {
+              "chord": "A",
+              "lyrics": "pain?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Why can't the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "burden"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "carry go a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "way?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "why isn't it"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Friday to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "day?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Your lack of"
+            },
+            {
+              "chord": "D",
+              "lyrics": "trust is hardly"
+            },
+            {
+              "chord": "B",
+              "lyrics": "just"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "So do as you've been told"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Please follow"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me into the"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Don't worry if it's cold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Prechorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I knew right"
+            },
+            {
+              "chord": "B",
+              "lyrics": "then, my chance a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Had quickly slipped away"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I crash, I"
+            },
+            {
+              "chord": "B",
+              "lyrics": "cry, I burn, but"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Still follow anyway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Why is the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "sea cool?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Why is it"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "blue?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Why do I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "stay here?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Why is it"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "notice the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "danger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but don't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "help in any"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "way?"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Why isn't it"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Friday to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "day?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What follows is:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-Verse Progression (No Lyrics)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-Prechorus 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-Chorus Progression (No Lyrics) X5"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

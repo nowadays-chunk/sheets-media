@@ -1,0 +1,538 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/gene-autry/249746.html",
+  "title": "Here Comes Santa Claus",
+  "artist": "Gene Autry",
+  "key": "C#",
+  "scrapedAt": "2026-02-14T10:05:31.009Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...HERE COMES SANTA CLAUS... by Gene Autry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*Released 1947*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*CAPO 1st FRET*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Original Key: C#)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F Em G7 C, F C G7 C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Here comes Santa Claus, here comes Santa Claus,"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "right down Santa Claus Lane."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vixen and Blitzen and all his reindeer's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "pulling on the rein."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Bells are ringing,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "children singing;"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "all is merry and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bright,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hang your stockings and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "say your pray'rs, 'cos"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "Santa Claus comes to-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "night."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Here comes Santa Claus, here comes Santa Claus,"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "right down Santa Claus Lane."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He's got a bag that's filled with toys, for the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "boys and girls again."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Hear those sleigh bells,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "jingle, jangle;"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "oh, what a beautiful"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sight."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "F",
+              "lyrics": "jump in bed, and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "cover your head, 'cos"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "Santa Claus comes to-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "night."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G, D7, G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C Bm D7 G, C G, D7 G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Here comes Santa Claus, here comes Santa Claus,"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "right down Santa Claus Lane."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He doesn't if you're rich or poor; he"
+            },
+            {
+              "chord": "C",
+              "lyrics": "loves you just the same."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Santa Claus know's we're"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "all God's children;"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "that makes everything"
+            },
+            {
+              "chord": "C",
+              "lyrics": "right."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "F",
+              "lyrics": "fill your hearts with"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Christmas cheer, 'cos"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "Santa Claus comes to-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "night."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Here comes Santa Claus, here comes Santa Claus,"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "right down Santa Claus Lane."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He'll come around when the chimes ring out that it's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Christmas morn again."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Peace on earth will"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "come to all, if"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "we just follow the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "light."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "F",
+              "lyrics": "let's give thanks to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Lord above, 'cos"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "Santa Claus comes to-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "night."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C, G7, C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F Em G7 C, F C, G7 C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 5:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Here comes Santa Claus, here comes Santa Claus,"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "right down Santa Claus Lane."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vixen and Blitzen and all his reindeer's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "pulling on the rein."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Bells are ringing,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "children singing;"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "all is merry and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bright,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So"
+            },
+            {
+              "chord": "F",
+              "lyrics": "hang your stockings and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "say your pray'rs, 'cos"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "Santa Claus comes to-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "night."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORD DIAGRAMS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "133211"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "022000"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "323000"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32010"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "320003"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0212"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x24432"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Joel from cLuMsY, Bristol, England, 2004 (clumsyband@hotmail.com)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

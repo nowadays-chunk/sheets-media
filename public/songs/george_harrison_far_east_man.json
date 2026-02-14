@@ -1,0 +1,862 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/george-harrison/304137.html",
+  "title": "Far East Man",
+  "artist": "George Harrison",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:19:52.348Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Far East Man ? George Harrison"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: maguri"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Drop D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "George Harrison"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Far East Man (1974)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(George Harrison & Ron Wood/George Harrison)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: \"Dark Horse\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "e-B-G-D-A-D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 0-0-0-0-2-2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dmaj7 2-2-2-0-0-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gmaj7/A 2-3-4-5-0-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D* x-3-2-0-0-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gmaj7 2-0-0-0-x-5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "Fdim"
+            },
+            {
+              "chord": "1-1-1-1-3-3",
+              "lyrics": "x-0-1-0-x-3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bdim x-3-1-3-2-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "LINK"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D* (no3rd)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 2nd fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Em7 | % | Dmaj7 | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Em7 | Gmaj7/A | D* |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(LINK)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "While the"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "world wages"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "war"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "It gets"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "harder to"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "Who your"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "friends really"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "are"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I won't let him"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Got to do what I"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I won't let him"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "drown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 Gmaj7/A D* (LINK)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He's a far east man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "All these"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "ups and those"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "downs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "Makes me"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "question what"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "love is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "Is it a"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "lie or worth"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "while"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I won't let him"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Got to do what I"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I won't let him"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "drown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 Gmaj7/A D* (LINK)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He's a far east man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "Sometime is so short"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it takes so"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "Wondering if it is"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or if I'm"
+            },
+            {
+              "chord": "Bdim",
+              "lyrics": "wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Even then my heart seems"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "be the one in charge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 Gm7 (break)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can only do what ... it tells me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SOLO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Gmaj7 | F#m7 | Bm7 | F#m7 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Gmaj7 | F#m7 | Bm7 | Am7 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Gmaj7 | F#m7 | Bm7 | F#m7 Fm7 |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "We can't let them"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "We've got to do what we"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "We can't let him"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "drown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 Gmaj7/A D* (LINK)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He's a far east man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "Looks like"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "right here on"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "God, it's"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "hellish at"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "times"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "But I feel that a"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "heaven's in"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "sight"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And I can't let him"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Got to do what I"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I can't let him"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "drown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 Gmaj7/A D*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He's a far east man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I can't let him"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Gonna do what I"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I can't let him"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "drown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 Gmaj7/A D*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He's a far east man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| Em7 | % | Dmaj7 | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Gonna do what I"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I can't let him"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "drown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 Gmaj7/A D*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He's a far east man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And I can't let him"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Got to do what I"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I can't let him"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "drown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 Gmaj7/A D*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He's a far east ..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

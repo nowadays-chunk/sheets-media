@@ -1,0 +1,346 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/junoon/205149.html",
+  "title": "Garaj Baras",
+  "artist": "Junoon",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:06:21.626Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Am-B"
+            },
+            {
+              "chord": "(333553)",
+              "lyrics": "(555775) '-B' refers to the barre chord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "AM",
+              "lyrics": "AM"
+            },
+            {
+              "chord": "(556775)",
+              "lyrics": "(012200)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C (010230)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro/Main riff:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Garaj baras sa"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "awan gir aayo x4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "AM-B",
+              "lyrics": "Dekho kaisay anjanay raston pe ba"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "rsay gh"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "ata"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "AM-B",
+              "lyrics": "Ao le lain matwali mastani"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "rut ka m"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "aza"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Garaj baras sa"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "awan gir aayo x4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Main Riff x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "Aa aa bhi j"
+            },
+            {
+              "chord": "F",
+              "lyrics": "aa meri j"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "aan aa bhi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "jaa"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "Chahay tu z"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ehar de y"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "a jeenay ki"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dua"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "Kaisa yeh naat"
+            },
+            {
+              "chord": "F",
+              "lyrics": "a hai saanson"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "say saa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nson ka"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "Sunn to le de sa"
+            },
+            {
+              "chord": "F",
+              "lyrics": "da bheegi bh"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "eegi fa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "za"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "Yeh zindagi rangon"
+            },
+            {
+              "chord": "F",
+              "lyrics": "main doo"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "bay gee"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "Surmaee shaam y"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eh bhoola"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "y gee na ka"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bhi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "Koi to baatein h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "on aankho"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "n say aankh"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on ki"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A#",
+              "lyrics": "Pyaar ki roshn"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ee jaltee"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "bujhtee hu"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "AM-B",
+              "lyrics": "Ao dhondain mil kay khushion ka"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "lamha k"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "oi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "AM-B",
+              "lyrics": "Seenay main jo bharkay to bharkaey s"
+            },
+            {
+              "chord": "AM",
+              "lyrics": "hola k"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "oi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Garaj baras sa"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "awan gir aayo x4"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

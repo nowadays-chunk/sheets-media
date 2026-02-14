@@ -1,0 +1,122 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/teitur/hitchhiker",
+  "title": "Hitchhiker",
+  "artist": "Teitur",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:35:04.489Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">Powerchords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E5 = 02xxxx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A5 = 577xxx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "She was just a hitchhiker"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "That I picked up by the side of the road"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "What you did to me, w"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "hat you put me through"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "What you did to me, w"
+            },
+            {
+              "chord": "A5",
+              "lyrics": "hat you put me through"
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "I�??ve got no money, but I�??ll paint your picture"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E5",
+              "lyrics": "If I wake up to the morning sun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "She was just a hit"
+            },
+            {
+              "chord": "A",
+              "lyrics": "chhiker"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "I said my name was Ch"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ristoph"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

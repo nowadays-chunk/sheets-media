@@ -1,0 +1,522 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/p/paul_mccartney/here_today_tab.html",
+  "title": "Here Today",
+  "artist": "Paul McCartney",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:09:22.337Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PAUL MCCARTNEY - HERE TODAY"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Album: Back in the US)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Swayne (3.8.2007) - swayne@pobox.sk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1: (same as VERSE 2 and VERSE 3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "AND IF I SAY... I REALLY KNEW... WHAT"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "WOULD... BE... IF YOU WERE..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OOH - OOH - OOH - HERE TO- DAY"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em 022000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em/C# x4200x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em/C x3200x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ebdim7 001212 (x01212)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 320033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/F# 200033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Csus2",
+              "lyrics": "C"
+            },
+            {
+              "chord": "335533",
+              "lyrics": "33201x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F 13321x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am x02210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj7 x03210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D7 x00212"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/C#",
+              "lyrics": "And if I say"
+            },
+            {
+              "chord": "Em/C",
+              "lyrics": "I really knew you well"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What"
+            },
+            {
+              "chord": "G",
+              "lyrics": "would your answer"
+            },
+            {
+              "chord": "G",
+              "lyrics": "be"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "If you were here today"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Ooh -"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "ooh -"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "ooh... Here to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/C#",
+              "lyrics": "Well knowing you,"
+            },
+            {
+              "chord": "Em/C",
+              "lyrics": "you'd probably laugh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And say that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "we were worlds a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "part"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "If you were here today"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Ooh -"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "ooh -"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "ooh... Here to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But as for me"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I still remember how it"
+            },
+            {
+              "chord": "C",
+              "lyrics": "was before"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And I'm holding back the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tears"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "no"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Ooh -"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "no -"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "no... I"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "love you..."
+            },
+            {
+              "chord": "D7",
+              "lyrics": "Ooh..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "What about the time we met"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well I su"
+            },
+            {
+              "chord": "Ebdim7",
+              "lyrics": "ppose you could say that we were"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "playing hard to get"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "didn't understand a thing but we could"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "always"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "sing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "What about the night we cried"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Because there"
+            },
+            {
+              "chord": "Ebdim7",
+              "lyrics": "wasn't any reason left to"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "keep it all inside"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Never understood a word but you were"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "always"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "there with a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "smile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/C#",
+              "lyrics": "And if I say"
+            },
+            {
+              "chord": "Em/C",
+              "lyrics": "I really loved you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And was"
+            },
+            {
+              "chord": "G",
+              "lyrics": "glad you came a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "long"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And you were here today"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm",
+              "lyrics": "Ooh -"
+            },
+            {
+              "chord": "Csus2",
+              "lyrics": "ooh -"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "ooh... for you were in my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cm Csus Cm G C, G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ooh - ooh - ooh... Here today"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

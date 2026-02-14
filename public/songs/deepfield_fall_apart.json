@@ -1,0 +1,726 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/deepfield/171310.html",
+  "title": "Fall Apart",
+  "artist": "Deepfield",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:04:02.423Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Deepfield ? Fall Apart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is my first tab, so if anyone wants to tell me how to improve it, please do so."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Enjoy!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "So don't turn your back on"
+            },
+            {
+              "chord": "C",
+              "lyrics": "this"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "G",
+              "lyrics": "all is lost, then"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "how did"
+            },
+            {
+              "chord": "C",
+              "lyrics": "we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "find"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(and we could)"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Go back to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "way it was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sacrifice the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way it could be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We could fall a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "part"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We're caught up in"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ll is lost, then"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "how did"
+            },
+            {
+              "chord": "C",
+              "lyrics": "we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "find"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I found"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "letters from better ti"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That you had"
+            },
+            {
+              "chord": "C",
+              "lyrics": "balled up and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "thrown away for"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me to find"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(and we could)"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Go back to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "way it was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sacrifice the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way it could be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We could fall a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "part or we could"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fall in love a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(and we could)"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Go back to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "way it was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sacrifice the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way it could be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We could fall a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "part or we could"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fall in"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Is this a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll in vain?--you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "stepped on my heart,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "spit on"
+            },
+            {
+              "chord": "C",
+              "lyrics": "my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "name"
+            },
+            {
+              "chord": "D",
+              "lyrics": "--did you really need to?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I made a promise I'd"
+            },
+            {
+              "chord": "G",
+              "lyrics": "never be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caught up in"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "pain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But it seems the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "only way(that we could)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus :"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Go back to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "way it was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sacrifice the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way it could be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We could fall a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "part or we could"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fall in love a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(and we could)"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Go back to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "way it was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sacrifice the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way it could be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We could fall a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "part or we could"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fall in love a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C ? G - Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And we found"
+            },
+            {
+              "chord": "C",
+              "lyrics": "love"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You have taken the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "best of me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "turned it in to the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "rest of you--unt"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like a moth to the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "flame that burns so"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "clean--it's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "i scream)You have taken the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "best of me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But now"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "all is lost...."
+            },
+            {
+              "chord": "C",
+              "lyrics": "how did"
+            },
+            {
+              "chord": "G",
+              "lyrics": "we find"
+            },
+            {
+              "chord": "A",
+              "lyrics": "love?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Go back to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "way it was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sacrifice the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way it could be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We could fall a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "part or we could"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fall in love a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(and we could)"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Go back to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "way it was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sacrifice the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "way it could be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "We could fall a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "part or we could"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fall in love a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em C(Hold)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We could fall in love"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

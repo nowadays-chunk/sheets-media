@@ -1,0 +1,410 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/f/feeder/222817.html",
+  "title": "Fallen",
+  "artist": "Feeder",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:09:31.081Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SONG NAME - Band Name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Craig Holroyd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: cragsterman@msn.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Let me know if you think anything's wrong!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj |x32013|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9|x3203x|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7 |x02213|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus4|x0223x|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D5/B |x2023x|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F |x33211|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am |x02210|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C |x32010|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gmaj |x2003x|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj, Cadd9, Cmaj, Cadd9,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7, Asus4, Am7, Asus4, D5/B x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "Got drunk on summer,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "Fallen lover,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "Teenage mother,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Nothing"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "'s gonna hold her"
+            },
+            {
+              "chord": "D5/B",
+              "lyrics": "back again."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "It's just the way it is."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cmaj",
+              "lyrics": ""
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "She wants to l"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ive."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's just the way it is."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'C"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ause you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "don't bel"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ong,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gmaj",
+              "lyrics": "You're flesh and blood and bone within,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bu"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "t you d"
+            },
+            {
+              "chord": "F",
+              "lyrics": "on't bel"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ong."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Structure:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Enjoy! :)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lyrics from http://wicksworld.co.uk/music/Feeder/Fallen/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

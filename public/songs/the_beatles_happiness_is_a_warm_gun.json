@@ -1,0 +1,482 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/b/beatles/happiness_is_a_warm_gun_crd_ver_5.html",
+  "title": "Happiness Is a Warm Gun",
+  "artist": "The Beatles",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:10:37.318Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The Beatles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lennon/McCartney"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've posted chord diagrams at bottom of the page."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "not a"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "girl who"
+            },
+            {
+              "chord": "Emadd9",
+              "lyrics": "misses much."
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Do-do-do-do-do-d"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "o,"
+            },
+            {
+              "chord": "Emadd9",
+              "lyrics": "oh yeah."
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm6",
+              "lyrics": "She's well acquainted with the touch of the velvet hand,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like a lizard on a w"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "indow pane."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm6",
+              "lyrics": "The man in the crowd, with the multicolored mirrors on his"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hobnail boots."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm6",
+              "lyrics": "Lying with his eyes, while his hands are busy working"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "overtime"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm6",
+              "lyrics": "A soap impression of his wife, which he ate, and donated to the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "National Trust."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A7 | A7 | C Am ||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "I need a fix, 'cause I'm going down,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Down to the bits that I left uptown."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I need a fix 'cause I'm"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "going down."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Mother Superior, j"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ump the gun,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Mother Superior, j"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ump the gun. (Play three times)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Happin"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ess is a w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "arm gun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Bang,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bang, shoot,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shoot)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Happin"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ess is a w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "arm gun, mom"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ma."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Bang, bang, shoot,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shoot)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hold you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "in my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "arms,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I f"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eel my"
+            },
+            {
+              "chord": "F",
+              "lyrics": "finger on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "your trigger,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "know no"
+            },
+            {
+              "chord": "F",
+              "lyrics": "body can do me"
+            },
+            {
+              "chord": "G",
+              "lyrics": "no harm,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Because"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Happin"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ess is a w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "arm gun, mom"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ma."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Bang, bang, shoot,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shoot)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Happin"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ess is a w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "arm gun, yes it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "is."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Bang, bang, shoot,"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "shoot)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Fm) N.C."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Happiness is a warm, yes it is..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gun."
+            },
+            {
+              "chord": "C",
+              "lyrics": "_____ (Happi"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ness."
+            },
+            {
+              "chord": "F",
+              "lyrics": "..bang,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bang, shoot, shoot)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well don't you know that"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Happin"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ess is a w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "arm gun, mom"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ma."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Happiness... is a warm gun, yeah!)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(6th Fret) Dm6"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

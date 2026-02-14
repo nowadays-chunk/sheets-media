@@ -1,0 +1,662 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/do-as-infinity/360996.html",
+  "title": "Fukai Mori",
+  "artist": "Do As Infinity",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:58:23.924Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: D#add9 A# F Gm7 (2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "fukai"
+            },
+            {
+              "chord": "D#add9",
+              "lyrics": "fukai mori no oku"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "ni ima"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mo kitto"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ok"
+            },
+            {
+              "chord": "D#add9",
+              "lyrics": "izari ni shita ko"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "koro kaku"
+            },
+            {
+              "chord": "F",
+              "lyrics": "shite'ru y"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "o"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sa"
+            },
+            {
+              "chord": "D#add9",
+              "lyrics": "gasu hodo no chikar"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "a mo naku tsuk"
+            },
+            {
+              "chord": "F",
+              "lyrics": "arehate"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "ta"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "hi"
+            },
+            {
+              "chord": "D#add9",
+              "lyrics": "tobito wa eie"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "n no ya"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mi ni ki"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "eru"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "chi--sa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "i mama"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nara ki"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "tto ima"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "demo miet"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a ka"
+            },
+            {
+              "chord": "Dsus4-D-Dadd9-D",
+              "lyrics": "na"
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "boku-tachi"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "wa i"
+            },
+            {
+              "chord": "D",
+              "lyrics": "kiru"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hodo"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "nakushite'"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ku s"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ukos"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hi zutsu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "itsuwari"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ya"
+            },
+            {
+              "chord": "D",
+              "lyrics": "uso wo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mat"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "oni"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "tachisukum"
+            },
+            {
+              "chord": "C",
+              "lyrics": "u"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "koe mo na"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ku"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Intro) D#add9 A# F Gm7 (2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "aoi"
+            },
+            {
+              "chord": "D#add9",
+              "lyrics": "aoi sora"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "no iro mo k"
+            },
+            {
+              "chord": "F",
+              "lyrics": "idzukanai"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "mama"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sugi"
+            },
+            {
+              "chord": "D#add9",
+              "lyrics": "te yuku main"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "ichi ga ka"
+            },
+            {
+              "chord": "F",
+              "lyrics": "watte y"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "uku"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tsuk"
+            },
+            {
+              "chord": "D#add9",
+              "lyrics": "urareta wakug"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "umi wo koe"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ima wo i"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "kite"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sabi"
+            },
+            {
+              "chord": "D#add9",
+              "lyrics": "tsuita kok"
+            },
+            {
+              "chord": "A#",
+              "lyrics": "oro mata"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ugokidas"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "u yo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cadd9",
+              "lyrics": "to---ki n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o RIZU"
+            },
+            {
+              "chord": "D",
+              "lyrics": "MU wo shir"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eba mo"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ichido tobe"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ru d"
+            },
+            {
+              "chord": "Dsus4-D-Dadd9-D",
+              "lyrics": "arou"
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "boku-tachi"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "wa s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "amayoi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "na"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "gara"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "ikite yu"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ku d"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "oko m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ade mo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "shinjite'"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ru h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ikari"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mo"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "tome"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "arukida"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "su k"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "imi to im"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude (violins/flute):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Chorus 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "boku-tachi"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "wa s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "amayo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "i n"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "agara"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "ikite yu"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ku d"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "oko m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ade mo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "furikae"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ru mi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "chi wo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "to"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "zashi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "aruite'"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ku e"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ien n"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "i"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "tachisu"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "kumu k"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "oe mo nak"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "u"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "ikite yu"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ku"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "eien"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ni"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

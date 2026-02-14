@@ -1,0 +1,658 @@
+{
+  "url": "https://www.chordie.com/chord.pere/tabfu.thudspace.net/l/led_zeppelin/hot_dog.tab",
+  "title": "Hot Dog",
+  "artist": "Led Zeppelin",
+  "key": null,
+  "scrapedAt": "2026-02-14T11:07:06.809Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From sportiga@uoguelph.ca Fri Oct 15 18:31:44 1993"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: from herman.cs.uoguelph.ca by snowhite.cis.uoguelph.ca (5.64/1.35)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "id AA01541; Fri, 15 Oct 93 18:31:44 -0400"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Message-Id:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: by herman.cs.uoguelph.ca"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(1.37.109.4/16.2) id AA09806; Fri, 15 Oct 93 18:34:44 -0400"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: Fri, 15 Oct 93 18:34:44 -0400"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: Steve L Portigal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To: sportiga@herman.cs.uoguelph.ca"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: (fwd) TAB: Hot Dog by LED ZEPPELIN"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Newsgroups: rec.music.makers.guitar.tablature"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Status: OR"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Organization: Akbar and Jeff's Thesis Hut"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Reply-To: stevep@snowhite.cis.uoguelph.ca"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Path: nermal.cs.uoguelph.ca!torn!utnut!cs.utexas.edu!uunet!europa.eng.gtefsd.com!mozart.amil.jhu.edu!blaze.cs.jhu.edu!jhunix.hcf.jhu.edu!jhunix.hcf.jhu.edu!not-for-mail"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: xavier@jhunix.hcf.jhu.edu (Jason R Black)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Newsgroups: rec.music.makers.guitar.tablature"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: TAB: Hot Dog by LED ZEPPELIN"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Followup-To: rec.music.makers.guitar.tablature"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: 15 Oct 1993 17:33:13 -0400"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Organization: Homewood Academic Computing, Johns Hopkins University, Baltimore, Md, USA"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lines: 155"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sender: xavier@jhunix.hcf.jhu.edu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Distribution: world"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Message-ID:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NNTP-Posting-Host: jhunix.hcf.jhu.edu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "TAB and Chords for Led Zeppelin's Hot Dog (on In Through The Out Door, I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "believe). For the lyrics that I was unsure of I put underlines, and for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the tab I was unsure of, I left blank. I also did not denote any hammer-ons/"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "pull-offs in the solo, and I am not sure whether or not they belong in the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "beginning and at the end."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^ Hammer-On/Pull-Off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ") Bend up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Release Bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Well I just got in to town today,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "To find my girl has gone away,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "She took the Greyhound in the general"
+            },
+            {
+              "chord": "D",
+              "lyrics": "store."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I searched myself, I searched the town,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And when I finally did set down,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I found myself no"
+            },
+            {
+              "chord": "D",
+              "lyrics": "wiser than"
+            },
+            {
+              "chord": "G",
+              "lyrics": "before."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She said we couldn't do no wrong,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No other love could be so strong,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She locked up my heart in the bottom drawer."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now, she took my heart, and she took my keys,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">From in my old blue dungarees,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'll never love old Texas anymore."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Now that my baby's gone,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I don't know what to do,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "She took my love and walked right out the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "door."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And if I ever find that girl,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I know one thing for sure,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I'm gonna give her something like she"
+            },
+            {
+              "chord": "D",
+              "lyrics": "never had before."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I took her love at seventeen,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A little late these days, it seems,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But they said_________________before."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I took her word, I took it all,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I made the__________________"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Shouldn't let______________ more."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hot Dog!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now that my baby's gone, I don't know what to do,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She took my love and walked right out the door."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And if I ever find that girl, I know one thing for sure."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm gonna give her something like she never had before."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I_________________ luck,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I________________________ truck,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But____________________________."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I never did quite understand,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All that junk about _____ _ands,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But they just rolled my ____ right out the door."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But they just rolled my ____ right out the door."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But they just rolled my ____ right out the door."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "--",
+              "lyrics": "_____ 3339 N. Charles St."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "xavier@jhunix.hcf.jhu.edu Box 3236"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "xavier@jhuvms.hcf.jhu.edu Baltimore, MD 21218"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\\_/ ason R. Black (410) 516-3184"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Steve Portigal, Dep't of CIS, University of Guelph, Guelph, ON, N1G 2W1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "email: stevep@snowhite.cis.uoguelph.ca Phone: (519) 824-4120 ext 3580"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~~~~~~~~ ask me about 'undercover' the Rolling Stones mailing list ~~~~~~~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wanna ride the big wave...open up the bomb bay.."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

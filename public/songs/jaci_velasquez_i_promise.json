@@ -1,0 +1,714 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.christianguitar.org/csong4526/-I-Promise",
+  "title": "I Promise",
+  "artist": "Jaci Velasquez",
+  "key": null,
+  "scrapedAt": "2026-02-14T16:34:45.986Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"I Promise\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "By: Jaci Velasquez"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: \"Heavenly Place\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Written by: Johnny Ramirez and Jaci Velasquez"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(C)1996 Briante Music/Word Music/ASCAP"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tab: Chris Rickman (crickman@bellsouth.net) Version 1.02"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "e e e e e e e e"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e e e e e e e e"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1ST VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "e e e q e q"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e e e q e q"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#min7",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "G#min7",
+              "lyrics": "e e q"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e"
+            },
+            {
+              "chord": "E",
+              "lyrics": "q e e e"
+            },
+            {
+              "chord": "F#min7sus4",
+              "lyrics": "e e e q e q"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e q e q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2ND VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "e e e q e q"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e e e e e e q"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#min7",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "G#min7",
+              "lyrics": "e e q"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e"
+            },
+            {
+              "chord": "E",
+              "lyrics": "q e e e"
+            },
+            {
+              "chord": "F#min7sus4",
+              "lyrics": "e e e q e q"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e Q q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e"
+            },
+            {
+              "chord": "E",
+              "lyrics": "q e q"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e q e q"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e q"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e q"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e e e q e q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e Q q"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e e e Q q"
+            },
+            {
+              "chord": "F#min7",
+              "lyrics": "e e e q e q"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e q e q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e"
+            },
+            {
+              "chord": "E",
+              "lyrics": "q e q"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e q e q"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e q"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e q"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e e e q e q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e q e q"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e e e q e q"
+            },
+            {
+              "chord": "F#min7",
+              "lyrics": "e e e Q q"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e Q q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "REPEAT INTRO (MODIFIED w GUITAR 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Guitar 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "e e e e e e e e"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e e e e e e e e"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Guitar 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "w"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "q q"
+            },
+            {
+              "chord": "E",
+              "lyrics": "w"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#min7",
+              "lyrics": "e e e Q q"
+            },
+            {
+              "chord": "G#7",
+              "lyrics": "q e q e q"
+            },
+            {
+              "chord": "A",
+              "lyrics": "q e Q q"
+            },
+            {
+              "chord": "E",
+              "lyrics": "q e e e e q"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#min7",
+              "lyrics": "q e q e q"
+            },
+            {
+              "chord": "G#7",
+              "lyrics": "q e q e q"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e e e q e q"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e e+h +w"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2ND CHORUS (WITH MODIFICATION)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#min7",
+              "lyrics": "e e e e+h"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ENDING (MODIFIED INTRO WITH GUITAR 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Guitar 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "e e e e q q"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e q"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e q"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e e e e q q"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e q"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e q"
+            },
+            {
+              "chord": "E",
+              "lyrics": "w"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Guitar 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "w"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "q q"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "q q"
+            },
+            {
+              "chord": "E",
+              "lyrics": "w"
+            },
+            {
+              "chord": "Aadd9",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "e e e e"
+            },
+            {
+              "chord": "E",
+              "lyrics": "w"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Legend:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "w,h,q,e,s = whole,half,quarter,eighth,sixteenth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H,Q,E = dotted half, quarter, eighth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "+ = tie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ = slide up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\\ = slide down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "r = rest"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^ = strum"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "h = hammer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "p = pulloff"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ". = staccato"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x = mute or percussive"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "() = optional note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Performance notes: I found the G#7 in the bridge pretty rough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "initially; slide the C#min7 up to the 8th fret, add the pinky at"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the 11th on the 3rd, then oblique the index finger to the 9th on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the 5th. Cleans up fairly quickly."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Comments, suggestions, corrections:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "crickman@bellsouth.net"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

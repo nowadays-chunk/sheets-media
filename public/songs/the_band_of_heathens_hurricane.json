@@ -1,0 +1,586 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/the-band-of-heathens/385659.html",
+  "title": "Hurricane",
+  "artist": "The Band of Heathens",
+  "key": null,
+  "scrapedAt": "2026-02-14T12:25:42.803Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am Cm Dm Am (2X)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Thirty miles on th"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "e Gulf Stream"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "I hear the South wind m"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "oan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The bridges getting l"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "ower, s"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "hrimp boats coming home"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The old man down in th"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "e Quarter"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "slowly turns his"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "head"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Takes a sip from his"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "whiskey bottle and"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "this is what he"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "was born in the rain on"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "the Pontchartrain U"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "nderneath the Louisiana"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I don't mind the stra"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "in of a hurricane"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ", they come around every"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "June"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "High black water, a de"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "vils daughter, s"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "hes hard, shes cold, and shes"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "mean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "But nobody taught her i"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "t takes a lot of"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "water, to wash away New Orl"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eans"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Man came down from C"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "hicago, he go"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "nna set that levee ri"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ght"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "He says It needs to be at least"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "three feet higher"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ", it won't make it through t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "he night."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "But the old man down in the Quarte"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "r, he said don"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "'t you listen to tha"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "t boy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The water be down by the mor"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "ning, and he"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "'ll be back to Illin"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ois"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "was born in the rain on"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "the Pontchartrain U"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "nderneath the Louisiana"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I don't mind the stra"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "in of a hurricane"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ", they come around every"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "June"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "High black water, a de"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "vils daughter, s"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "hes hard, shes cold, and shes"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "mean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "But nobody taught her i"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "t takes a lot of"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "water, to wash away New Orl"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eans"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(solo)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Thirty miles on th"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "e Gulf Stream"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "I hear the South wind m"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "oan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The bridges getting l"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "ower, s"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "hrimp boats coming home"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The old man down in th"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "e Quarter"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "slowly turns his"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "head"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Takes a sip from his"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "whiskey bottle and"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "this is what he"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "said"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus (repeat 2X)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "was born in the rain on"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "the Pontchartrain U"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "nderneath the Louisiana"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Moon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I don't mind the stra"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "in of a hurricane"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ", they come around every"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "June"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "High black water, a de"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "vils daughter, s"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "hes hard, shes cold, and shes"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "mean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "But nobody taught her i"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "t takes a lot of"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "water, to wash away New Orl"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eans"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

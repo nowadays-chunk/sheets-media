@@ -1,0 +1,902 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.xguitar.com/guitar-tabs/oasis/be_here_now/i_hopei_thinki_know.txt",
+  "title": "I Hope, I Think, I Know",
+  "artist": "Oasis",
+  "key": null,
+  "scrapedAt": "2026-02-14T13:54:55.985Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I HOPE, I THINK, I KNOW"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Gallagher)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From the album \"Be Here Now\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Fred Lidskog <swede@email.unc.edu>"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A (x02220)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A2",
+              "lyrics": "Asus2"
+            },
+            {
+              "chord": "(577655)",
+              "lyrics": "(x02200)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm (x24432)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D (xx0232)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D2 (x57775)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em (022000)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m11 (x44200)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G (3x0033)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G2",
+              "lyrics": "Tab Key:"
+            },
+            {
+              "chord": "(355433)",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "h = hammer on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "p = pull off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "b = bend (7b8 means bend string at 7th fret to make approximately the note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the string would make if played at the 8th fret with no bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "r = release bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "s = slide (a quick slide, two notes sound like one)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ = a slower slide, play first note specified, then slide to second"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "> = slide sown an unspecified amount"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~ = hold note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "====="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-Starts with amplifier feedback, then:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "======="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "They're trying hard to put me"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "in my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "that is why I've"
+            },
+            {
+              "chord": "A",
+              "lyrics": "gotta keep"
+            },
+            {
+              "chord": "G",
+              "lyrics": "runnin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "D",
+              "lyrics": "future's mine and it's"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "no dis"
+            },
+            {
+              "chord": "G",
+              "lyrics": "grace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cos"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "in the end the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "past means"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You tell me I'm free then you tie me down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And from my chains I think it's a pity"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What did it cost you to wear my crown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You don't like me why don't you admit it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "========="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D'you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feel a little down"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "today"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bet you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ain't got much to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But you're gonna"
+            },
+            {
+              "chord": "A",
+              "lyrics": "miss me when I'm not"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "NOTE: If you don't think the tabbed part above sounds just right, perhaps"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you might try alternating between"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a G and a G/F# or a G5 and a G5/F#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "======"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "As we"
+            },
+            {
+              "chord": "A",
+              "lyrics": "beg and steal and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "borrow Life is hit and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "miss, and"
+            },
+            {
+              "chord": "A2",
+              "lyrics": "this, I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "hope I think I"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "know if I ever hear the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "names you"
+            },
+            {
+              "chord": "A2",
+              "lyrics": "call, and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "if I stumble"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "catch me when I"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cos baby after"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "all You'll never forget my"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "name"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "====="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "They're trying hard to put me"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "in my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "place"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "that is why I've"
+            },
+            {
+              "chord": "A",
+              "lyrics": "gotta keep"
+            },
+            {
+              "chord": "G",
+              "lyrics": "runnin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "D",
+              "lyrics": "future's mine and it's"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "no dis"
+            },
+            {
+              "chord": "G",
+              "lyrics": "grace"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cos"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "in the end the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "past means"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nothing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pre-chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "========="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D'you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feel a little down"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "today"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bet you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ain't got much to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But you're gonna"
+            },
+            {
+              "chord": "A",
+              "lyrics": "miss me when I'm not"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "don't care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "======"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "As we"
+            },
+            {
+              "chord": "A",
+              "lyrics": "beg and steal and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "borrow Life is hit and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "miss, and this, I hope I think I know if I ever hear the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D2",
+              "lyrics": "names you"
+            },
+            {
+              "chord": "A2",
+              "lyrics": "call, and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "if I stumble"
+            },
+            {
+              "chord": "G2",
+              "lyrics": "catch me when I"
+            },
+            {
+              "chord": "F#m11",
+              "lyrics": "fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cos baby after"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "all You'll never forget my"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "===="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "name"
+            },
+            {
+              "chord": "G2",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": "You'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll never..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "name"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(CHORUS)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-then:"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

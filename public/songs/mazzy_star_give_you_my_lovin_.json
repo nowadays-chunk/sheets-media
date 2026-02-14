@@ -1,0 +1,582 @@
+{
+  "url": "https://www.chordie.com/chord.pere/tabfu.thudspace.net/m/mazzy_star/give_you_my_loving.tab",
+  "title": "Give You My Lovin'",
+  "artist": "Mazzy Star",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:39:48.291Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: Tue, 26 Nov 1996 20:02:57 EST"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: Brian F Mojica"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: TAB: GIVE YOU MY LOVING by Mazzy Star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Give You My Loving"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Sandoval/Roback)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "from the album \"She Hangs Brightly\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tabbed by Brian Mojica"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "lyrics courtesy of Kevin Jenkins"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "h = hammer on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "p = pull off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "/ = slide up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\\ = slide down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "~ = vibrato"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^ = bend (half-, full-, two-steps etc. specified)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "rb=release bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C C G(lovin^�....seven"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "days..)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Give you my l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ovin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Seven days a w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eek"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll be a h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oney"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you'll be sw"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eet"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know I'm the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "only one for you"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know that you th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ink this is not true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Man says it's r"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ainin'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Rainin' o"
+            },
+            {
+              "chord": "C",
+              "lyrics": "utside"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll be o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ut there in a little wh"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ile"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause you see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Rain rem"
+            },
+            {
+              "chord": "C",
+              "lyrics": "inds me of you"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And everything h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "as turned to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "See you in pl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "aces"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm following y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You'll be up"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stairs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'll be there t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "oo"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Everywhere you go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I will follow"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know it won't be the s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ame tomorrow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "People give me w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "arnings"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stay away from y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They say you'll h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "urt me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't think that's tr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ue"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Discomfort arouses when"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I speak of you"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As if you've been sayin' something b"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "About me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When I s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ee you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I want to k"
+            },
+            {
+              "chord": "C",
+              "lyrics": "iss you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I know th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "at ain't right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I ask if I can h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "old you"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh babe I ne"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ed you so bad"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh babe I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "only want to make you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ad"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

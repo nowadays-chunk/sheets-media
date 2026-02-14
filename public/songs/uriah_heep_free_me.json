@@ -1,0 +1,538 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/u/uriah-heep/25821.html",
+  "title": "Free Me",
+  "artist": "Uriah Heep",
+  "key": null,
+  "scrapedAt": "2026-02-14T06:42:52.692Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x 3 2"
+            },
+            {
+              "chord": "C",
+              "lyrics": "0 1 0 x x"
+            },
+            {
+              "chord": "D",
+              "lyrics": "0 2 3 2 x 2"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "4 4 3 2 0 2"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "2 0 0 0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#m G A C(type 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2 4 4 2 2 2 3 5 5 4 3 3 5 7 7 6 5 5 x 3 2 0 1 x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x 2 0 0 1 x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "b - bend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "r - bend release"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Guitar Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Free me...free me..)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ee me, fr"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ee me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Why won't you fr"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ee me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Free me from your sp"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come on and fr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ee me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Why won't you fr"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ee me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come on and fr"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ee me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Free me from your sp"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Guitar Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wh"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y should I worry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That you m"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ight not love me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're not the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "only love"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That I've ever h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your sw"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "eet memory"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will always c"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "omfort me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So wh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "y should I be feeling s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As far as I can tell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You knew so well"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I was always"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At the end of the line"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've loved you as much"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As any man can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But not enough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To make you mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o long, e"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "asy r"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ider"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C(type 2) Gsus4/B D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know I'll miss you for awhile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ooner or later"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I know that I'll f"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "orget you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I tell you babe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Free me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come on and free me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Why won't you free me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Free me from your spell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh babe, free me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Why won't you free me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Come on and free me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Free me from your spell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "guitar intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Guitar Solo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Double lead from here"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

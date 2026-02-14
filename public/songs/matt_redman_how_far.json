@@ -1,0 +1,790 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/m/mattredman-tabs-2489/howfar-tabs-901991.html",
+  "title": "How Far",
+  "artist": "Matt Redman",
+  "key": null,
+  "scrapedAt": "2026-02-14T11:21:17.849Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Nazareth of"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "Galilee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "An"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "angel speaks the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sacred words"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Ma-"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "ry"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "will"
+            },
+            {
+              "chord": "A",
+              "lyrics": "be"
+            },
+            {
+              "chord": "A",
+              "lyrics": "with"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "child"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "miracle of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "virgin"
+            },
+            {
+              "chord": "D",
+              "lyrics": "birth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Joseph heeds the"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "angels sign"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "takes her as his"
+            },
+            {
+              "chord": "A",
+              "lyrics": "promised wife"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "through"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D/F#",
+              "lyrics": "They"
+            },
+            {
+              "chord": "G",
+              "lyrics": "jour-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ney"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How"
+            },
+            {
+              "chord": "G",
+              "lyrics": "far is it to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Bethle"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hem?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/D",
+              "lyrics": "Wise men plan their"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "course ahead"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/D",
+              "lyrics": "Searching for the"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "promised King"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "from"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "east"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Guid-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ing"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "star"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How"
+            },
+            {
+              "chord": "G",
+              "lyrics": "far is it to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Bethle"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hem?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "How"
+            },
+            {
+              "chord": "F#m/G",
+              "lyrics": "far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "How"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "To the place"
+            },
+            {
+              "chord": "A",
+              "lyrics": "where hope was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "born?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "D",
+              "lyrics": "walls outside Je"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "rusalem"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "O"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "see the mount of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "calvary"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "lift-"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "ed"
+            },
+            {
+              "chord": "G",
+              "lyrics": "high"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "up -"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on"
+            },
+            {
+              "chord": "A",
+              "lyrics": "a"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "cross"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Savior of hu"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mani"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ty"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He"
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": "conquered sin and"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "buried shame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em/D",
+              "lyrics": "Rose to life and"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "burst the grave"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ev -"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "er"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bridged"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "great"
+            },
+            {
+              "chord": "A",
+              "lyrics": "div-"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ied"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With"
+            },
+            {
+              "chord": "G",
+              "lyrics": "perfect grace and"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sacri"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fice"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "How"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "How"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Love has come"
+            },
+            {
+              "chord": "A",
+              "lyrics": "to bring us"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "How far they went to"
+            },
+            {
+              "chord": "Dsus4",
+              "lyrics": "Bethlehem"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "far You went to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Calvary"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "great-"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "er"
+            },
+            {
+              "chord": "G",
+              "lyrics": "grace"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "was"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ev-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "er"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "known"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No"
+            },
+            {
+              "chord": "G",
+              "lyrics": "greater love was"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ever"
+            },
+            {
+              "chord": "D",
+              "lyrics": "seen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We"
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": "set our hearts on"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "pilgrimage"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We're"
+            },
+            {
+              "chord": "Em/D",
+              "lyrics": "caught up in Your"
+            },
+            {
+              "chord": "A/C#",
+              "lyrics": "stoty too"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "Beth-"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "le -"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hem"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cal-"
+            },
+            {
+              "chord": "A",
+              "lyrics": "va-"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Our"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hearts will always"
+            },
+            {
+              "chord": "A",
+              "lyrics": "follow"
+            },
+            {
+              "chord": "D",
+              "lyrics": "You"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "How"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "How"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Savior lead us"
+            },
+            {
+              "chord": "A",
+              "lyrics": "to Your heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "How"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "How"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "far"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Jesus lead"
+            },
+            {
+              "chord": "A",
+              "lyrics": "us to Your"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "O"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Jesus lead"
+            },
+            {
+              "chord": "A",
+              "lyrics": "us to Your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hear"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/clueso/352790.html",
+  "title": "Ey der Regen",
+  "artist": "Clueso",
+  "key": null,
+  "scrapedAt": "2026-02-14T04:49:02.002Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "here are the chords for the chorus, dind't figure out the other parts yet:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Ey, der Regen ist wie'n kleiner A"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "pplaus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "komm mal kurz r"
+            },
+            {
+              "chord": "C",
+              "lyrics": "aus und lass dich f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eiern."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Ey, der Regen ist wie'n tobendes H"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "aus,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ich glaub das muntert dich a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "uf, komm, lass dich f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eiern."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,774 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/jon-brion/54138.html",
+  "title": "Her Ghost",
+  "artist": "Jon Brion",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:03:35.804Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Author/Artist: Jon Brion"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Title: Her Ghost"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Meaningless"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Transcribed by: James Veitch"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: veitchj179@hotmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please send me any corrections or additions"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bmaj7-x2434x Bbm7-x13121 Ebm7-668676"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Abm7-464444 Abm-466444 E-022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Db7-x4342x B-799877 Bb7-686766"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dbm7-446454 Cmaj7-x35453x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "Her ghost is"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "six or so feet"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "tall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and the"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "lights in the house are dim"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "his voice still"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "echoes through the"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "hall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "she can't get"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "away from him"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "I clear the c"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "ouch off and I"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "sit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "she hangs up the"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "phone and"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "then"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "she says she"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "can't believe he"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "quit"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but I know he'll be"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "back"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Prechorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "Every hour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "on the"
+            },
+            {
+              "chord": "Db7",
+              "lyrics": "hour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "He will rea"
+            },
+            {
+              "chord": "Bb7",
+              "lyrics": "ppear and make it"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "clear that"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "he's"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "around"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "It's not your average"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "social call he"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "does it all with"
+            },
+            {
+              "chord": "Dbm7",
+              "lyrics": "out"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "a"
+            },
+            {
+              "chord": "Bmaj",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "Her ghost is"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "propped up in the"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "hall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "he speaks no"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "evil"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "he doesn't"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "notice me at"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I find it a"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "bit un"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "fair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "I'm bathed in"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "shadow from that"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "wall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know he'll b"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "e in the"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "air"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Prechorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "Every hour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "on the"
+            },
+            {
+              "chord": "Db7",
+              "lyrics": "hour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "She'll watch her appe"
+            },
+            {
+              "chord": "Bb7",
+              "lyrics": "rition stare her"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "down then"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "pass her"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "by"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "and I've no ammu"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "nition, I'm the"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "one who's being"
+            },
+            {
+              "chord": "Dbm7",
+              "lyrics": "ex....."
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "or......"
+            },
+            {
+              "chord": "Bmaj",
+              "lyrics": "cised"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bmaj7 Bbm7 Ebm7 Abm7 (x4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Prechorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "Every hour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "on the hour"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Abm",
+              "lyrics": "every moment"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "all my"
+            },
+            {
+              "chord": "Db7",
+              "lyrics": "power"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B Bb7 Ebm7 Bbm7 (N.C.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And everywhere I turn I turn to learn that she's got memories that never burn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "and this is of"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "concern and I pre"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "pare to go cause"
+            },
+            {
+              "chord": "Dbm7",
+              "lyrics": "this I"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "that though he's out of"
+            },
+            {
+              "chord": "Bb7",
+              "lyrics": "sight he's in her"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "mind and"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "in my"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "hair"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "I'm tiring of this"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "fight besides its"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "getting me"
+            },
+            {
+              "chord": "Dbm7",
+              "lyrics": "no....."
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "where"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "Her ghost makes"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "all of this oc"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "cure"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "he does it"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "breathlessly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bmaj7",
+              "lyrics": "so long as"
+            },
+            {
+              "chord": "Bbm7",
+              "lyrics": "he's the life in"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "her"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "he'll be the"
+            },
+            {
+              "chord": "Abm7",
+              "lyrics": "death of me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can figure it out from here. Just listen for the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "strum pattern and the blah blah blah...."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

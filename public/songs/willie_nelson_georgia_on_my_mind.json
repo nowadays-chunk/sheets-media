@@ -1,0 +1,554 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.tabcountry.com/song2048/Willie-Nelson-Georgia-On-My-Mind",
+  "title": "Georgia on My Mind",
+  "artist": "Willie Nelson",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:14:04.615Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Willie Nelson recorded this song in the key of C#. I transposed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it to the key of C. Please send me e-mail if any of the chords do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "not sound right to you. (This is my first posting to any newsgroup,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so I apologize in advance if I'm not doing it right.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Georgia,"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "Georgia"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ", the"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "whole day"
+            },
+            {
+              "chord": "F",
+              "lyrics": "through"
+            },
+            {
+              "chord": "F#dim",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "just an"
+            },
+            {
+              "chord": "C",
+              "lyrics": "old sweet"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "song keeps"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "Georgi"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "a on my"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "mind"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            },
+            {
+              "chord": "D7",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Georgia,"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "Georgia"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ", a"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "song of"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you"
+            },
+            {
+              "chord": "F#dim",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Comes"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sweet and"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "clear as"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "moonligh"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "t through the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "pines"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Other"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "arms reach"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "out to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Other"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "eyes sm"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ile tender"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "ly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Stil"
+            },
+            {
+              "chord": "F",
+              "lyrics": "l in peaceful"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dreams I"
+            },
+            {
+              "chord": "Bdim",
+              "lyrics": "see the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "road leads"
+            },
+            {
+              "chord": "C#dim",
+              "lyrics": "back to"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "you"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Georgia,"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "Georgia"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ", no p"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "eace I fin"
+            },
+            {
+              "chord": "F",
+              "lyrics": "d"
+            },
+            {
+              "chord": "F#dim",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "just and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "old sweet"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "song keeps"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "Georgi"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "a on my mind"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "harmonica solo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Georgia,"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "Georgia"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ", no p"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "eace I f"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ind"
+            },
+            {
+              "chord": "F#dim",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nd old swe"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "et song k"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "eeps Geo"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "rgia on my mi"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "nd"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just and"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "old sweet song keeps"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "Georgia on my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mind"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mind"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mind"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mind"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "On my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mind"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

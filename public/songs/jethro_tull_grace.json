@@ -1,0 +1,110 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/j/jethrotull-tabs-2012/grace-tabs-144206.html",
+  "title": "Grace",
+  "artist": "Jethro Tull",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:31:07.187Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Hello"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sun"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hello"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bird"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hello m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "y l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ady"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hello"
+            },
+            {
+              "chord": "E",
+              "lyrics": "breakfast"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "May I b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "uy you agai"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "n tomo"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rrow?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I think he capos on the second fret..."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

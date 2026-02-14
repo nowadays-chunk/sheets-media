@@ -1,0 +1,518 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/juha-tapio/192673.html",
+  "title": "Haaveilija",
+  "artist": "Juha Tapio",
+  "key": null,
+  "scrapedAt": "2026-02-14T08:53:39.057Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "HAAVEILIJA ? Juha Tapio"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Kengus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo on second fret!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "T�ss� oon, ei"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "tarvi sun"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hapuilla tai h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "uitoo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "T�ss� oon ja"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "suhun keskit"
+            },
+            {
+              "chord": "C",
+              "lyrics": "yn"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Tied�n kyll�"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "mist� tuut ja"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mink�laiseen t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "untoon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Uponnut on m"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "oni pettym"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ys"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Kauneute"
+            },
+            {
+              "chord": "(Cadd9)",
+              "lyrics": "s sun kertois"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in ja"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "luvan jos saisin,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sun kyyn"
+            },
+            {
+              "chord": "(Cadd9)",
+              "lyrics": "elees kuivai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sin"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Pystyyn su"
+            },
+            {
+              "chord": "(Cadd9)",
+              "lyrics": "n p��s nostais"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in, varo"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "en koskettaisin,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "niin kauan sua odo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Odotin sua ennen kuin s� tiesit musta mit��n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kaiken aikaa tuntenut sut oon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tiesin kyll� senkin ett� l�nteen sek� it��n"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hamuaisit ennen kuin mun luo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Kauneute"
+            },
+            {
+              "chord": "(Cadd9)",
+              "lyrics": "s sun kertois"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in ja"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "luvan jos saisin,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sun kyyn"
+            },
+            {
+              "chord": "(Cadd9)",
+              "lyrics": "elees kuivai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sin"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C (Cadd9) G Bm C G..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pystyyn sun p��s nostaisin, varoen koskettaisin, niin kauan sua odotin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTERLUDE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...Am G Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vuorosanas hallitset ja niiss� pystyt kulkee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pystyisitk� j�tt�m��n ne pois?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Kun m� en tahdo sulta muuta kun vain syliin sulkee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "T��ll� sulle tilaa viel� ois"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Kauneute"
+            },
+            {
+              "chord": "(Cadd9)",
+              "lyrics": "s sun kertois"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in ja"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "luvan jos saisin,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sun kyyn"
+            },
+            {
+              "chord": "(Cadd9)",
+              "lyrics": "elees kuivai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sin"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Pystyyn su"
+            },
+            {
+              "chord": "(Cadd9)",
+              "lyrics": "n p��s nostais"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in, varo"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "en koskettaisin,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "niin kauan sua odo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tin"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Kauneute"
+            },
+            {
+              "chord": "(Cadd9)",
+              "lyrics": "s sun kertois"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in ja"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": "luvan jos saisin,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "sun kyyn"
+            },
+            {
+              "chord": "(Cadd9)",
+              "lyrics": "elees kuivai"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sin"
+            },
+            {
+              "chord": "Gadd9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C (Cadd9) G Bm C Em..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Pystyyn sun p��s nostaisin, varoen koskettaisin, niin kauan sua odotin"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO (repeat intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "========================================================================="
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

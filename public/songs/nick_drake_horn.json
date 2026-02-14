@@ -1,0 +1,90 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/n/nick_drake/horn_tab.html",
+  "title": "Horn",
+  "artist": "Nick Drake",
+  "key": null,
+  "scrapedAt": "2026-02-14T11:04:41.508Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nick Drake - Horn (from the album \"Pink Moon\")"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Francisco Stagnaro (BA, Argentina)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1 e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "5",
+              "lyrics": "6"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Starts picking 8 times the D string."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A B C D e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A, B, A, B, C, D, D, e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A, B, A, B, C, e"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

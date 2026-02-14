@@ -1,0 +1,62 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/sinterklaas/hij-komt-hij-komt",
+  "title": "Hij komt, hij komt",
+  "artist": "Sinterklaas",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:30:10.456Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hij"
+            },
+            {
+              "chord": "E",
+              "lyrics": "komt, hij"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "komt, de"
+            },
+            {
+              "chord": "A",
+              "lyrics": "lieve goede"
+            },
+            {
+              "chord": "E",
+              "lyrics": "Sint"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mijn"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "beste Sint, mijn"
+            },
+            {
+              "chord": "E",
+              "lyrics": "beste vrind, de"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": "vriend van ieder"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "kind"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

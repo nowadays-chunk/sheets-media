@@ -1,0 +1,498 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/matt-bianco/303190.html",
+  "title": "Get Out of Your Lazy Bed",
+  "artist": "Matt Bianco",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:19:21.828Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A D A (bass 2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A D C Bm E (2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Get out, get"
+            },
+            {
+              "chord": "D",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "C",
+              "lyrics": "out, get"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "out your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lazy"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bef"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ore I count to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "three"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Step to it"
+            },
+            {
+              "chord": "E",
+              "lyrics": "baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "She goes out every"
+            },
+            {
+              "chord": "D",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'till the morning is"
+            },
+            {
+              "chord": "C",
+              "lyrics": "light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And she"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "sleeps all"
+            },
+            {
+              "chord": "E",
+              "lyrics": "day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "So come on, g"
+            },
+            {
+              "chord": "D",
+              "lyrics": "et up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I won't say it ag"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "drag you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm E (4x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(daa-doo-daa)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A D C Bm E (4x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Get out, get"
+            },
+            {
+              "chord": "D",
+              "lyrics": "out, get"
+            },
+            {
+              "chord": "C",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "out your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lazy"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bef"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ore I count to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "three"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Step to it"
+            },
+            {
+              "chord": "E",
+              "lyrics": "baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I don't care any"
+            },
+            {
+              "chord": "D",
+              "lyrics": "more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you sleep on the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "floor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause I'm"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "knocking you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "So come on, get"
+            },
+            {
+              "chord": "D",
+              "lyrics": "up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I won't say it a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "gain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "drag you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm E (4x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(daa-doo-daa)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo sax:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A D C Bm E (4x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm E (4x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(daa-doo-daa)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get up!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Crazed solo:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A D C Bm E (2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Repeat next till fade..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Get out, get"
+            },
+            {
+              "chord": "D",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "C",
+              "lyrics": "out, get"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "out your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "lazy"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://www.mattbianco.com/HOME.html"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

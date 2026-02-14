@@ -1,0 +1,794 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/b/bryan_john_appleby/honey_jars_tab.html",
+  "title": "Honey Jars",
+  "artist": "Bryan John Appleby",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:58:42.286Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "song: honey jars"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "artist: bryan john appleby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "as performed on kexp"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://www.youtube.com/watch?v=O7u7dO9e-8U"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "capo 6"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "numbers relative to capo (fret 6 = 0)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "chords named by relative open shape, not by true sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G ="
+            },
+            {
+              "chord": "E",
+              "lyrics": "3"
+            },
+            {
+              "chord": "A",
+              "lyrics": "2"
+            },
+            {
+              "chord": "D",
+              "lyrics": "0"
+            },
+            {
+              "chord": "G",
+              "lyrics": "0"
+            },
+            {
+              "chord": "B",
+              "lyrics": "0("
+            },
+            {
+              "chord": "E",
+              "lyrics": "0)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em = 0 2 2 0 0(0)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C =(3)3 2 0 1(0)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am = X 0 2 2 1(0)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G2 = 3 X 2 0 1(3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C2 = X 3 2 0 3(0)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "********************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro i *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G Em *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "********************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro ii *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G Em *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro iii *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G Em *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "********************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "********************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"though i'm blind...\" *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\".....blind.......i...see.........\" *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\".................without me....\" *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"..body.....my..mind....................\" *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\".....you..........you\" *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "********************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-SONG-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i pick"
+            },
+            {
+              "chord": "C",
+              "lyrics": "up a broken"
+            },
+            {
+              "chord": "G",
+              "lyrics": "comb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "run it"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "through my thin grey"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hair"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "though i"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "don't have any"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "plans tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i'm not"
+            },
+            {
+              "chord": "C",
+              "lyrics": "going any"
+            },
+            {
+              "chord": "G",
+              "lyrics": "where"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "well i"
+            },
+            {
+              "chord": "C",
+              "lyrics": "should have seen this"
+            },
+            {
+              "chord": "G",
+              "lyrics": "coming"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "don't"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "know why i'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "surprised"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "cos every"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "vessel on its"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "way down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "takes with"
+            },
+            {
+              "chord": "C",
+              "lyrics": "it the captain's life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "though i'm blind my dear i see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the parade goes on without me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "my body aches my mind it weeps"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "for you .... for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tonight i'm"
+            },
+            {
+              "chord": "C",
+              "lyrics": "locked outside my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "building"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "guess i"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "must have lost the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "keys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so i'll just"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sit on the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "sidewalk"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and let the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "snow fall on my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "knees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and if i"
+            },
+            {
+              "chord": "C",
+              "lyrics": "made it to a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "payphone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i don't"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "know who i would"
+            },
+            {
+              "chord": "G",
+              "lyrics": "call"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so for"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "now i'll close my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "eyes and rest"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "my crooked"
+            },
+            {
+              "chord": "C",
+              "lyrics": "back against the wall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i read that"
+            },
+            {
+              "chord": "C",
+              "lyrics": "old men will see"
+            },
+            {
+              "chord": "G",
+              "lyrics": "visions"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and young"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "men will follow"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dreams"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and i"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "believed it when i"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "read it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i see your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "face in every"
+            },
+            {
+              "chord": "G",
+              "lyrics": "thing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "now your"
+            },
+            {
+              "chord": "C",
+              "lyrics": "honey jars are"
+            },
+            {
+              "chord": "G",
+              "lyrics": "frozen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and in the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "window your books have"
+            },
+            {
+              "chord": "G",
+              "lyrics": "browned"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and there's"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "too much room in"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "side our bed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i think i'll"
+            },
+            {
+              "chord": "C",
+              "lyrics": "join you in the ground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "though i'm blind my dear i see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "let the chorus sing without me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "my body breaks my mind it sleeps"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you"
+            },
+            {
+              "chord": "C2",
+              "lyrics": "oh oh oh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

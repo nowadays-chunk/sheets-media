@@ -1,0 +1,634 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/p/patti-page/64012.html",
+  "title": "Hush, Hush Sweet Charlotte",
+  "artist": "Patti Page",
+  "key": null,
+  "scrapedAt": "2026-02-14T12:28:17.688Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard (EBGDAE)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo: 3rd fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus/Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hush"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "hush, sweet"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Charlott"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Charlotte,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don't you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "cry"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hush"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hush, sweet"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Charlott"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He'll"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "till he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse One"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh, hold him"
+            },
+            {
+              "chord": "G",
+              "lyrics": "darling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Please hold him"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "brush the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tear from your"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "C",
+              "lyrics": "weep be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cause you had a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "dream last"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dreamed that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "he said"
+            },
+            {
+              "chord": "G",
+              "lyrics": "goodbye"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "He held two"
+            },
+            {
+              "chord": "G",
+              "lyrics": "roses"
+            },
+            {
+              "chord": "C",
+              "lyrics": "within his"
+            },
+            {
+              "chord": "C",
+              "lyrics": "hand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Two"
+            },
+            {
+              "chord": "G",
+              "lyrics": "roses"
+            },
+            {
+              "chord": "A",
+              "lyrics": "he gave to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C",
+              "lyrics": "red rose"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tells you of his"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "paaaa"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ssion"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C",
+              "lyrics": "white rose his"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love so"
+            },
+            {
+              "chord": "G",
+              "lyrics": "true"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hush"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "hush, sweet"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Charlott"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Charlotte,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don't you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "cry"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hush"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hush, sweet"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Charlott"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He'll"
+            },
+            {
+              "chord": "D",
+              "lyrics": "love you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "till he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse Two"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And every"
+            },
+            {
+              "chord": "G",
+              "lyrics": "night after"
+            },
+            {
+              "chord": "C",
+              "lyrics": "he shall"
+            },
+            {
+              "chord": "C",
+              "lyrics": "die"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yes"
+            },
+            {
+              "chord": "G",
+              "lyrics": "every"
+            },
+            {
+              "chord": "A",
+              "lyrics": "night when he's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "The wind will"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sing to you a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "luuuulla"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "by"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Swee"
+            },
+            {
+              "chord": "C",
+              "lyrics": "t Charlotte was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "loved by"
+            },
+            {
+              "chord": "G",
+              "lyrics": "John"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hush"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "hush, sweet"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Charlott"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Charlotte,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don't you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "cry"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hush"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hush, sweet"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Charlott"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He'll"
+            },
+            {
+              "chord": "D",
+              "lyrics": "looooove"
+            },
+            {
+              "chord": "D",
+              "lyrics": "youuuu"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tilllll"
+            },
+            {
+              "chord": "D",
+              "lyrics": "heeee"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dies"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

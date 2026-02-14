@@ -1,0 +1,438 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/john-prine/198266.html",
+  "title": "Hello in There",
+  "artist": "John Prine",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:59:01.423Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hello in There - John Prine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Dave S."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: prime-prine@hotmail.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard (CAPO 5th Fret)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We had an"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "apartment in the"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "city,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Me and Lo"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "retta liked living"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "there."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Well its been years since the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "kids had grown,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A life"
+            },
+            {
+              "chord": "G",
+              "lyrics": "of their own left"
+            },
+            {
+              "chord": "D",
+              "lyrics": "us alone."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "John and"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Linda live in"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "Omaha,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And Joe is"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "somewhere on the"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "road."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "We lost Davy in the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Korean war,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I still don't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know what for don't matter"
+            },
+            {
+              "chord": "D",
+              "lyrics": "anymore."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Ya know that old trees just grow"
+            },
+            {
+              "chord": "G",
+              "lyrics": "stronger,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And old"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rivers grow wilder every"
+            },
+            {
+              "chord": "G",
+              "lyrics": "day."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Old"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "people just grow"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lonesome"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Waiting for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "someone to say"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Hello in there,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hello."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Me and"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Loretta we don't"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "talk much more,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "She sits and"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "stares through the back door"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "screen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And all the news just re"
+            },
+            {
+              "chord": "C",
+              "lyrics": "peats itself"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like some"
+            },
+            {
+              "chord": "G",
+              "lyrics": "forgotten dream that"
+            },
+            {
+              "chord": "D",
+              "lyrics": "we've both seen."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Someday"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I'll go and call up"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "Rudy,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We worked to"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "gether at the fac"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "tory."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "But what could I say if"
+            },
+            {
+              "chord": "C",
+              "lyrics": "asks What's new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Nothing,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "what's with you? Nothing"
+            },
+            {
+              "chord": "D",
+              "lyrics": "much to do."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "So if you're"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "walking down the"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "street sometime"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And spot some"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "hollow ancient"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "eyes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Please don't just pass them"
+            },
+            {
+              "chord": "C",
+              "lyrics": "by and stare"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As if you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "didn't care, say"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Hello in there,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hello"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

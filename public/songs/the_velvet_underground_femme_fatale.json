@@ -1,0 +1,362 @@
+{
+  "url": "https://www.chordie.com/chord.pere/tabfu.thudspace.net/v/velvet_underground/femme_fatale.crd",
+  "title": "Femme Fatale",
+  "artist": "The Velvet Underground",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:35:55.898Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: from animal-farm.nevada.edu by redrock.nevada.edu (5.65c/M1.4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with SMTP id ; Mon, 8 Feb 1993 19:54:39 -0800"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: from post1.INRE.ASU.EDU by animal-farm.nevada.edu id ; Mon, 8 Feb 1993 19:54:37 -0800"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: from ASUVM.INRE.ASU.EDU (MAILER@ASUACAD) by asu.edu (PMDF #2382 ) id"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "; Mon, 8 Feb 1993 20:54:31 MST"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: from ASUACAD (IFSXM) by ASUVM.INRE.ASU.EDU (Mailer R2.08) with BSMTP"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "id 1630; Mon, 08 Feb 93 20:56:58 MST"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: 08 Feb 1993 20:55:11 -0700 (MST)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: Paul Zimmerman"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: CRD: Femme Fatale - Velvet Underground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To: jamesb@animal-farm.nevada.edu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Message-Id:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Content-Transfer-Encoding: 7BIT"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "FEMME FATALE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Velvet Underground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Here she"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "comes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "You better watch your"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "step"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "She's gonna"
+            },
+            {
+              "chord": "F",
+              "lyrics": "break your heart in"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "two, yes it's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "It's not hard to rea"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "lize"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "Just look into her false colored"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "She'll bring you"
+            },
+            {
+              "chord": "F",
+              "lyrics": "up just to put you"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "down, what a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cos everybody"
+            },
+            {
+              "chord": "C",
+              "lyrics": "knows (she's a femme fa"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tale)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The things she does to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "please (she's a femme fa"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tale)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's just a little"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tease (she's a femme fa"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tale)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just see the way she"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "walks and hear the way she"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "talks"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You're written in her book"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Number 47 have a look"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's going to play you for a fool, it's true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The voices in the street"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Before you start you're already beat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She's going to smile just to make you frown, what a clown"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

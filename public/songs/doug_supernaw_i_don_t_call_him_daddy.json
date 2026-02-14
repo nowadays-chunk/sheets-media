@@ -1,0 +1,830 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/d/dougsupernaw-tabs-47986/idontcallhimdaddy-tabs-589896.html",
+  "title": "I Don't Call Him Daddy",
+  "artist": "Doug Supernaw",
+  "key": null,
+  "scrapedAt": "2026-02-14T13:30:37.235Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"I Don't Call Him Daddy\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "by Doug Supernaw"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D4 (also called D suspended) = XX0233, D = XX0232, D2 = XX0230"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 355433, A = X02220, C = X32010, Bm = XX4432 or X24432"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO: |D4 D |D2 D |D4 D |D2 D ||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It was"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "six in the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "morning when I"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "made the county"
+            },
+            {
+              "chord": "D",
+              "lyrics": "line;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "someone I've got to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "talk to, can't"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "get it off my"
+            },
+            {
+              "chord": "D",
+              "lyrics": "mind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He is"
+            },
+            {
+              "chord": "G",
+              "lyrics": "just a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "kid, and he's"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in a pretty rough"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "spot;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Two dimes to make a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "phone call,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "that's about all I"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "got"
+            },
+            {
+              "chord": "D",
+              "lyrics": "."
+            },
+            {
+              "chord": "D2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How's my"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "boy to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "day? I"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "know it's been three"
+            },
+            {
+              "chord": "D",
+              "lyrics": "weeks;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But you"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "know how far I've"
+            },
+            {
+              "chord": "D",
+              "lyrics": "got to go these"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "days to make ends"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "me"
+            },
+            {
+              "chord": "D",
+              "lyrics": "et."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How's your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mama"
+            },
+            {
+              "chord": "D",
+              "lyrics": "now, with"
+            },
+            {
+              "chord": "A",
+              "lyrics": "her new live-in"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "friend?"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Oh, how I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hate the wounds that"
+            },
+            {
+              "chord": "A",
+              "lyrics": "never seem to"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "mend"
+            },
+            {
+              "chord": "D",
+              "lyrics": "."
+            },
+            {
+              "chord": "D2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You said, \""
+            },
+            {
+              "chord": "G",
+              "lyrics": "I don't call him"
+            },
+            {
+              "chord": "G",
+              "lyrics": "daddy, but"
+            },
+            {
+              "chord": "C",
+              "lyrics": "he takes care of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "things."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pick me up on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Friday, are you gonna"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bring me any"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thing?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh, don't worry"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Dad, you know, it don't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "matter what we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "do"
+            },
+            {
+              "chord": "-",
+              "lyrics": ";"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I don't call him"
+            },
+            {
+              "chord": "G",
+              "lyrics": "daddy, he can"
+            },
+            {
+              "chord": "D",
+              "lyrics": "never be like"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "you."
+            },
+            {
+              "chord": "D",
+              "lyrics": "\""
+            },
+            {
+              "chord": "D2D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D4",
+              "lyrics": "God bless the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "little hearts, there the"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "ones who really"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "Mom and Dad can't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "get along and they"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "go their separate"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ays."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way I'm glad there's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "someone there to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "fill the empty"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sp"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ace;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Tears of unders"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tanding stream"
+            },
+            {
+              "chord": "A",
+              "lyrics": "down a dirty"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "face"
+            },
+            {
+              "chord": "D",
+              "lyrics": "."
+            },
+            {
+              "chord": "D2",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You said, \""
+            },
+            {
+              "chord": "G",
+              "lyrics": "I don't call him"
+            },
+            {
+              "chord": "G",
+              "lyrics": "daddy, but"
+            },
+            {
+              "chord": "C",
+              "lyrics": "he takes care of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "things."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pick me up on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Friday, are you gonna"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bring me any"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thing?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh, don't worry"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Dad, you know, it don't"
+            },
+            {
+              "chord": "C",
+              "lyrics": "matter what we"
+            },
+            {
+              "chord": "G",
+              "lyrics": "do"
+            },
+            {
+              "chord": "-",
+              "lyrics": ";"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I don't call him"
+            },
+            {
+              "chord": "G",
+              "lyrics": "daddy, he can"
+            },
+            {
+              "chord": "G",
+              "lyrics": "never be like"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Be like"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you,"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Be like"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He is"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "quite a little"
+            },
+            {
+              "chord": "D",
+              "lyrics": "man growin' up as"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "fast as he"
+            },
+            {
+              "chord": "D",
+              "lyrics": "can;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "I don't get to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "see him half as"
+            },
+            {
+              "chord": "D2",
+              "lyrics": "much as I had"
+            },
+            {
+              "chord": "D",
+              "lyrics": "planned."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "so much I need to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tell him, so"
+            },
+            {
+              "chord": "A",
+              "lyrics": "precious litt"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "le time;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A little"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "rain on the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "window"
+            },
+            {
+              "chord": "G",
+              "lyrics": ", and a"
+            },
+            {
+              "chord": "A",
+              "lyrics": "little wave"
+            },
+            {
+              "chord": "A",
+              "lyrics": "... good"
+            },
+            {
+              "chord": "D4",
+              "lyrics": "bye"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You said, \"I don't call him daddy, but he takes care of things."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you pick me up on Friday, are you gonna bring me anything?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, don't worry Dad, you know, it don't matter what we do;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I don't call him daddy, he can never be like you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(repeating while slowly fading out)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "He said, \"I don't call him daddy, but he takes care of things."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you pick me up on Friday, are you gonna bring me anything?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, don't worry Dad, you know, it don't matter what we do;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I don't call him daddy, he can never be like you."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

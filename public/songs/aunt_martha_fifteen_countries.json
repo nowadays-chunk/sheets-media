@@ -1,0 +1,778 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/a/aunt-martha/313282.html",
+  "title": "Fifteen Countries",
+  "artist": "Aunt Martha",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:39:32.275Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The lyrics might be off, and I tabbed this based on this video: http://vimeo.com/24655104,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so it might vary a tiny bit from the album version."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I put two options for each chord. In the video he uses the chords on the left, I like to"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "use the open chords on the right (fretting 3 on the high E string is optional)."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Also, for the lines \"fifteen countries long\" and \"that was not enough\" the chords refer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to the bass note that you should hit."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 35540x or 32000(3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A 50540x or x0200(3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C 53540x or x3200(3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "well"
+            },
+            {
+              "chord": "G",
+              "lyrics": "i keep trying to tell you that i"
+            },
+            {
+              "chord": "A",
+              "lyrics": "feel like i am losing my min"
+            },
+            {
+              "chord": "C",
+              "lyrics": "d"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "man you always wanted i should"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tell you that i left him beh"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "when i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wake up in the morning there are"
+            },
+            {
+              "chord": "A",
+              "lyrics": "strangers i have yet to beco"
+            },
+            {
+              "chord": "C",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lie down in the evening it is"
+            },
+            {
+              "chord": "A",
+              "lyrics": "spinning from the things that i've d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you could have been"
+            },
+            {
+              "chord": "G",
+              "lyrics": "right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i could have been"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and here i am l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ost on the highway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "fif"
+            },
+            {
+              "chord": "B",
+              "lyrics": "teen"
+            },
+            {
+              "chord": "A",
+              "lyrics": "coun"
+            },
+            {
+              "chord": "E",
+              "lyrics": "tries"
+            },
+            {
+              "chord": "G",
+              "lyrics": "long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you could have been"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sure it's been"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i could have been"
+            },
+            {
+              "chord": "C",
+              "lyrics": "holding you tightly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but"
+            },
+            {
+              "chord": "C",
+              "lyrics": "that"
+            },
+            {
+              "chord": "B",
+              "lyrics": "was"
+            },
+            {
+              "chord": "A",
+              "lyrics": "not"
+            },
+            {
+              "chord": "E",
+              "lyrics": "en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "they keep trying to tell me that it's"
+            },
+            {
+              "chord": "A",
+              "lyrics": "best i take some time and slow d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fires they burn brightest in the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mornings just before they burn o"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ut"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "here i'm getting used to all these"
+            },
+            {
+              "chord": "A",
+              "lyrics": "strangers and the things that they"
+            },
+            {
+              "chord": "C",
+              "lyrics": "do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "every time you call me i am"
+            },
+            {
+              "chord": "A",
+              "lyrics": "further from the man that you k"
+            },
+            {
+              "chord": "C",
+              "lyrics": "new"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you could have been"
+            },
+            {
+              "chord": "G",
+              "lyrics": "right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i could have been"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and here i am l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ost on the highway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "fif"
+            },
+            {
+              "chord": "B",
+              "lyrics": "teen"
+            },
+            {
+              "chord": "A",
+              "lyrics": "coun"
+            },
+            {
+              "chord": "E",
+              "lyrics": "tries"
+            },
+            {
+              "chord": "G",
+              "lyrics": "long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you could have been"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sure it's been"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i could have been"
+            },
+            {
+              "chord": "C",
+              "lyrics": "holding you tightly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but"
+            },
+            {
+              "chord": "C",
+              "lyrics": "that"
+            },
+            {
+              "chord": "B",
+              "lyrics": "was"
+            },
+            {
+              "chord": "A",
+              "lyrics": "not"
+            },
+            {
+              "chord": "E",
+              "lyrics": "en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "that was not enou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "gh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "that"
+            },
+            {
+              "chord": "B",
+              "lyrics": "was"
+            },
+            {
+              "chord": "A",
+              "lyrics": "not"
+            },
+            {
+              "chord": "E",
+              "lyrics": "en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "floorboards call on you again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "loneliness and some new friend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "counting down the days that i have"
+            },
+            {
+              "chord": "C",
+              "lyrics": "left"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i'm"
+            },
+            {
+              "chord": "G",
+              "lyrics": "getting up you're still asleep"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wish you'd never think of me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "honestly believe that would be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "best"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you could have been"
+            },
+            {
+              "chord": "G",
+              "lyrics": "right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i could have been"
+            },
+            {
+              "chord": "A",
+              "lyrics": "wrong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and here i am l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ost on the highway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "fif"
+            },
+            {
+              "chord": "B",
+              "lyrics": "teen"
+            },
+            {
+              "chord": "A",
+              "lyrics": "coun"
+            },
+            {
+              "chord": "E",
+              "lyrics": "tries"
+            },
+            {
+              "chord": "G",
+              "lyrics": "long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you could have been"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "sure it's been"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i could have been"
+            },
+            {
+              "chord": "C",
+              "lyrics": "holding you tightly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but"
+            },
+            {
+              "chord": "C",
+              "lyrics": "that"
+            },
+            {
+              "chord": "B",
+              "lyrics": "was"
+            },
+            {
+              "chord": "A",
+              "lyrics": "not"
+            },
+            {
+              "chord": "E",
+              "lyrics": "en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "that was not enou"
+            },
+            {
+              "chord": "C",
+              "lyrics": "gh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "that"
+            },
+            {
+              "chord": "B",
+              "lyrics": "was"
+            },
+            {
+              "chord": "A",
+              "lyrics": "not"
+            },
+            {
+              "chord": "E",
+              "lyrics": "en"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ough"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

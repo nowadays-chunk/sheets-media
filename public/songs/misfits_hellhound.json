@@ -1,0 +1,62 @@
+{
+  "url": "https://www.chordie.com/chord.pere/chordiearchive.chordie.com/chord.pere/www.xguitar.com/guitar-tabs/misfits/wolfsblood/hellhound.txt",
+  "title": "Hellhound",
+  "artist": "Misfits",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:57:37.844Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "F#"
+            },
+            {
+              "chord": "E",
+              "lyrics": "F"
+            },
+            {
+              "chord": "G",
+              "lyrics": "F"
+            },
+            {
+              "chord": "DCF",
+              "lyrics": "# F XXXXXX(Mute on F)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "F#"
+            },
+            {
+              "chord": "F",
+              "lyrics": "F"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "F#"
+            },
+            {
+              "chord": "F",
+              "lyrics": "F XXXXXX(Mute on F)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E E G DCF F# G (5x)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

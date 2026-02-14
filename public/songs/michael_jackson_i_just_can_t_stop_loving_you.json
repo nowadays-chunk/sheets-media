@@ -1,0 +1,822 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/michael-jackson/231346.html",
+  "title": "I Just Can't Stop Loving You",
+  "artist": "Michael Jackson",
+  "key": "C",
+  "scrapedAt": "2026-02-14T13:55:35.580Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...I JUST CAN'T STOP LOVING YOU... by Michael Jackson"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*from 'Bad' (1987)*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*CAPO 3rd FRET*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Original Key: C)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Each time the wind blows,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hear your voice so,"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "I call your name..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Whispers at morning, our love is dawning,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Heaven's glad you came..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "know how I feel; this thing can't go wrong,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I'm so proud to say; I love"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Your"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "love's got me high; I long to get by,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "This time is forever;"
+            },
+            {
+              "chord": "Bm7/E",
+              "lyrics": "love is the answer."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I hear your voice now, you are my choice now,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "love you bring."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Heaven's in my heart,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At your call, I hear harps;"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "and angels sing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "know how I feel; this thing can't go wrong,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I can't live my life without"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "just can't hold on, I feel we belong,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "My life ain't worth living, if"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I can't be with you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I just can't stop loving"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I just can't stop loving"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And if I stop...then"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "tell me; just"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "what will I"
+            },
+            {
+              "chord": "F#m7/E",
+              "lyrics": "do?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cos I just can't stop loving"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you."
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At"
+            },
+            {
+              "chord": "A",
+              "lyrics": "night when the stars shine,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I pray in you I'll find,"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "a love so true..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When"
+            },
+            {
+              "chord": "A",
+              "lyrics": "morning awakes me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will you come and take me;"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "I'll wait for you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "know how I feel, I won't stop until,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I hear your voice saying; \"I"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "do\" (\"I do\")."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "thing can't go wrong, this feeling's so strong,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "My life ain't worth living, if"
+            },
+            {
+              "chord": "Bm7/E",
+              "lyrics": "I can't be with you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I just can't stop loving"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "I just can't stop loving"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "And if I stop...then"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "tell me; just"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "what will I"
+            },
+            {
+              "chord": "F#m7/E",
+              "lyrics": "do?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cos I just can't stop loving"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you."
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Middle 8:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We can"
+            },
+            {
+              "chord": "F/G",
+              "lyrics": "change all the"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "world tomorrow,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We can"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "sing songs of yester-"
+            },
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "day."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I can"
+            },
+            {
+              "chord": "Ab",
+              "lyrics": "say, hey...farewell to"
+            },
+            {
+              "chord": "C#maj7",
+              "lyrics": "sorrow,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is my"
+            },
+            {
+              "chord": "Fm9",
+              "lyrics": "life, and I want to"
+            },
+            {
+              "chord": "Bb7",
+              "lyrics": "see you for always."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*KEY CHANGE*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coda:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(with Vocal Ad-libs)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "I just can't stop loving"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "I just can't stop loving"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "And if I stop...then"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "tell me; just"
+            },
+            {
+              "chord": "C#maj7",
+              "lyrics": "what will I"
+            },
+            {
+              "chord": "G#m7/F",
+              "lyrics": "do?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "I just can't stop loving"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "I just can't stop loving"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fm7",
+              "lyrics": "And if I stop...then"
+            },
+            {
+              "chord": "Ebm7",
+              "lyrics": "tell me; just"
+            },
+            {
+              "chord": "C#maj7",
+              "lyrics": "what will I"
+            },
+            {
+              "chord": "G#m7/F",
+              "lyrics": "do?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat to Fade)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORD DIAGRAMS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02220"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "022030"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0222"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0231"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "242222"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0211"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "024232"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "002222"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02233"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "303210"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "6665xx"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x68676"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "4443xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "x46564"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "1x0110"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x13131"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "131111"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x13331"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x68676"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "110033"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Joel from cLuMsY, Bristol, England, 2006"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(clumsyband@hotmail.com)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

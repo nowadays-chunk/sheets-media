@@ -1,0 +1,842 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/stevie-wonder/109453.html",
+  "title": "Heaven Help Us All",
+  "artist": "Stevie Wonder",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:48:50.083Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Heaven help the"
+            },
+            {
+              "chord": "E7/G#",
+              "lyrics": "child,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who"
+            },
+            {
+              "chord": "A",
+              "lyrics": "never had a home."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Heaven help the"
+            },
+            {
+              "chord": "E7/G#",
+              "lyrics": "girl,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who"
+            },
+            {
+              "chord": "A",
+              "lyrics": "walks the street alone."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Heaven help the"
+            },
+            {
+              "chord": "E7/G#",
+              "lyrics": "roses,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bombs begin to fall;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Heaven"
+            },
+            {
+              "chord": "A",
+              "lyrics": "help us"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Heaven help the"
+            },
+            {
+              "chord": "E7/G#",
+              "lyrics": "black man,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If he"
+            },
+            {
+              "chord": "A",
+              "lyrics": "struggles one more day."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Heaven help the"
+            },
+            {
+              "chord": "E7/G#",
+              "lyrics": "white man,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If he"
+            },
+            {
+              "chord": "A",
+              "lyrics": "turns his back away."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Heaven help the"
+            },
+            {
+              "chord": "E7/G#",
+              "lyrics": "man,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who kicks the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "man who has to crawl;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Heaven"
+            },
+            {
+              "chord": "A",
+              "lyrics": "help us"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Heaven"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "help"
+            },
+            {
+              "chord": "E7/G#",
+              "lyrics": "us"
+            },
+            {
+              "chord": "A",
+              "lyrics": "all,"
+            },
+            {
+              "chord": "B7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Heaven"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "help"
+            },
+            {
+              "chord": "E7/G#",
+              "lyrics": "us"
+            },
+            {
+              "chord": "A",
+              "lyrics": "all,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": "Help us"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Heaven"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "help"
+            },
+            {
+              "chord": "D",
+              "lyrics": "us,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Lord,"
+            },
+            {
+              "chord": "G#7",
+              "lyrics": "hear our"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "call,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m7",
+              "lyrics": "When we call."
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7",
+              "lyrics": "Oh...."
+            },
+            {
+              "chord": "A#7",
+              "lyrics": "... yeah!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*KEY CHANGE*"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Heaven help the"
+            },
+            {
+              "chord": "F7/A",
+              "lyrics": "boy,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who wont"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "reach twenty-one."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Heaven help the"
+            },
+            {
+              "chord": "F7/A",
+              "lyrics": "man,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Who"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "gave that boy a gun."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Heaven help the"
+            },
+            {
+              "chord": "F7/A",
+              "lyrics": "people,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With their"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "backs against the wall;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C7",
+              "lyrics": "Lord, heaven"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "help us"
+            },
+            {
+              "chord": "F",
+              "lyrics": "all."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Heaven"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "help"
+            },
+            {
+              "chord": "F7/A",
+              "lyrics": "us"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "all,"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Heaven"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "help"
+            },
+            {
+              "chord": "F7/A",
+              "lyrics": "us"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "all,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C7",
+              "lyrics": "Heaven help us,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Lord,"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "hear our"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "call,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "When we"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "call."
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Help us"
+            },
+            {
+              "chord": "F",
+              "lyrics": "all."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F Bb/F, F Bb/F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Break:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Spoken):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Now I lay me"
+            },
+            {
+              "chord": "Bb/F",
+              "lyrics": "down,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Before I go to sleep."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "In a troubled world,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Bb/F",
+              "lyrics": "pray the lord to keep."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Keep hatred from the mighty,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb/F",
+              "lyrics": "And the mighty from the small;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Coda:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Slower Tempo):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C7",
+              "lyrics": "Heaven"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "help us..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Original Tempo):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "All."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh, oh, oh, yeah!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Heaven"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "help"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "us"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "all."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat to Fade)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORD DIAGRAMS:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "022100"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "002220"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "402400"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02220"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "021200"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "242222"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "244222"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "464544"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x46654"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x46454"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "242322"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x32310"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x13131"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "133211"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x01211"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x13331"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "353333"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "x02223"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0231"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "xx0211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "EADGBE",
+              "lyrics": "323000"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "3x0330"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "133211"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "113331"
+            },
+            {
+              "chord": "EADGBE",
+              "lyrics": "131211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Joel from cLuMsY, Bristol, England, 2006"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(clumsyband@hotmail.com)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

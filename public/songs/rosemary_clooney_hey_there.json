@@ -1,0 +1,570 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/heythere.htm",
+  "title": "Hey There",
+  "artist": "Rosemary Clooney",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:20:11.051Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hey there"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ","
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "you with the s"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "tars in your e"
+            },
+            {
+              "chord": "D",
+              "lyrics": "yes"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "L"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ove never"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "made a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "fool of you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Y"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ou used to"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "be too w"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "ise."
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#7-5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "H"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ey there,"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "you on that h"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "igh-flyin'"
+            },
+            {
+              "chord": "F#(6)",
+              "lyrics": "cloud"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tho"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "ugh she won't"
+            },
+            {
+              "chord": "C#7",
+              "lyrics": "throw a c"
+            },
+            {
+              "chord": "F#M7",
+              "lyrics": "rumb to you,"
+            },
+            {
+              "chord": "F#7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You"
+            },
+            {
+              "chord": "B7/4",
+              "lyrics": "think some d"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ay she'll c"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ome"
+            },
+            {
+              "chord": "B+",
+              "lyrics": "to"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "you"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Better"
+            },
+            {
+              "chord": "D",
+              "lyrics": "forget her,"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "h"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "er with her n"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ose in the a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ir"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "S"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "he has you d"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ancin'"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "on a string,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "reak it and s"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "he won't"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "care"
+            },
+            {
+              "chord": "D9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Won't you t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ake this ad"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "vice I h"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "and you l"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ike a br"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "other,"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cdim",
+              "lyrics": "Or are you"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "not seein' t"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "hings too"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "clear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Are you"
+            },
+            {
+              "chord": "E9",
+              "lyrics": "too much in l"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ove to"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "hear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is it"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "all goin'"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "in one"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ear"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "and o"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ut the"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "oth -"
+            },
+            {
+              "chord": "D",
+              "lyrics": "er."
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7-9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Hey there,"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "y"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ou with the s"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "tars in your ey"
+            },
+            {
+              "chord": "D",
+              "lyrics": "es"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "L"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ove never m"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ade a"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "fool of you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Y"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ou used to b"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "e too w"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "ise."
+            },
+            {
+              "chord": "G#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#7-5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will you t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ake this"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "advice I"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "hand you l"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ike a b"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "rother,"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "are you"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "not seein' th"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ings too"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "clear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Are you t"
+            },
+            {
+              "chord": "E9",
+              "lyrics": "oo much in"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "love to"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "hear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Is it"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "all goin'"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "in one"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ear"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "and"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "out the"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "oth"
+            },
+            {
+              "chord": "-",
+              "lyrics": "-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "er."
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7-9",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

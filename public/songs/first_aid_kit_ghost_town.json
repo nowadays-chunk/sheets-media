@@ -1,0 +1,990 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/f/first_aid_kit/ghost_town_tab.html",
+  "title": "Ghost Town",
+  "artist": "First Aid Kit",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:26:04.506Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G H O S T T O W N"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "FIRST AID KIT"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "1ST VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "P"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "add9",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "P"
+            },
+            {
+              "chord": "F",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "P P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "P"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "add9",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "P P"
+            },
+            {
+              "chord": "F",
+              "lyrics": "I P P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "P I P P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P"
+            },
+            {
+              "chord": "F",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "add6",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "G",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "G",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "P"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "F",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "P I P P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P P P P"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add9",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "add6",
+              "lyrics": "P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "P I P P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I"
+            },
+            {
+              "chord": "add9",
+              "lyrics": "P"
+            },
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P I P P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "add9",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I P P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "F/A",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "F/A",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "P I P P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I P P I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2ND VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "add9",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "P P I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "P"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add9",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "G",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "add6",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P"
+            },
+            {
+              "chord": "F",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "add6",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/f/first_aid_kit/ghost_town_tab.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "P"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "F/Aadd6",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "P P P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "P I P P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I"
+            },
+            {
+              "chord": "add9",
+              "lyrics": "P"
+            },
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P I P P I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "P"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "P I P P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I"
+            },
+            {
+              "chord": "add9",
+              "lyrics": "P"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "add6",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "add9",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "add6",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "I P P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "F/A",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "F/A",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "add6",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "P I P P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I P P I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P I P P I P"
+            },
+            {
+              "chord": "F/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "add6",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "G",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P I P P I P"
+            },
+            {
+              "chord": "F/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "add6",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "G",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "P I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P I P P I P"
+            },
+            {
+              "chord": "F/A",
+              "lyrics": ""
+            },
+            {
+              "chord": "add6",
+              "lyrics": "P P P"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "FINAL CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "P I P P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I P P I P"
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            },
+            {
+              "chord": "add6",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "sus4",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add9",
+              "lyrics": "I P P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "I P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "P"
+            },
+            {
+              "chord": "add6",
+              "lyrics": ""
+            },
+            {
+              "chord": "C",
+              "lyrics": "P I P P I P"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F/A",
+              "lyrics": "P I"
+            },
+            {
+              "chord": "add6",
+              "lyrics": "P"
+            },
+            {
+              "chord": "C",
+              "lyrics": "STRUM"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

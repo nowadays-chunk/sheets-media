@@ -1,0 +1,926 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/p/paulsimon-tabs-9369/hurricaneeye1-tabs-867998.html",
+  "title": "Hurricane Eye",
+  "artist": "Paul Simon",
+  "key": null,
+  "scrapedAt": "2026-02-14T12:25:48.846Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: | D | % ||: D | A :|| A7 D |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sect 1: | D | G | D | A D | D | A | D | A D | D | G | D | A D |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sect 2:"
+            },
+            {
+              "chord": "6/8",
+              "lyrics": "| D | Em | A7 | G D |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| D | Em | A7 | G D |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| D | % | G | % | A | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| D | % | G | A | D | Bm | G | A | D | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "4/4",
+              "lyrics": "| D | A7 | D | A7 D |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sect 2.1:"
+            },
+            {
+              "chord": "6/8",
+              "lyrics": "| D | Em | A7 | G D |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| D | Em | A7 | G D |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| D | % | G | % | A | % | D | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "7/8",
+              "lyrics": "||: E :|| x 16"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sect 3:"
+            },
+            {
+              "chord": "6/8",
+              "lyrics": "||: D | C G | G / / / / A | D :|| x5"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sect 4:"
+            },
+            {
+              "chord": "2/2",
+              "lyrics": "||: D | C G / / | G / / A | D :|| x4 end on D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Note: This song changes time signatures a quite a bit. Unless explicitly noted, the chart is in"
+            },
+            {
+              "chord": "4/4",
+              "lyrics": "."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've noted below when a time signature change occurs."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: | D | % ||: D | A :|| A7 D |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Section 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Tell us all a story about"
+            },
+            {
+              "chord": "G",
+              "lyrics": "how it used to be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Make it up and then write it down"
+            },
+            {
+              "chord": "A",
+              "lyrics": "just like histor"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "About Goldilocks and the three bears"
+            },
+            {
+              "chord": "A",
+              "lyrics": "nature in the crosshairs"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "D",
+              "lyrics": "how we all ascended from the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "deep green"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When it's not too hot, not too cold, not too"
+            },
+            {
+              "chord": "G",
+              "lyrics": "meek, not too bold"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where it's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "just right and you have"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sunlight"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Section 2:"
+            },
+            {
+              "chord": "6/8",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then we're"
+            },
+            {
+              "chord": "D",
+              "lyrics": "home"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Finally"
+            },
+            {
+              "chord": "G",
+              "lyrics": "home"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Home in the"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "land of the homeless"
+            },
+            {
+              "chord": "A7",
+              "lyrics": ", finally"
+            },
+            {
+              "chord": "G",
+              "lyrics": "home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Oh,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "what are we going to do?"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I never did a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "thing to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Tim"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e peaceful"
+            },
+            {
+              "chord": "D",
+              "lyrics": "as a hurricane"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "eye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Peaceful"
+            },
+            {
+              "chord": "A",
+              "lyrics": "as a hurrican"
+            },
+            {
+              "chord": "D",
+              "lyrics": "e eye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Section 1:"
+            },
+            {
+              "chord": "4/4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "D",
+              "lyrics": "history of whispers, a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "shadow of a horse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Faces painted black in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sorrow and re"
+            },
+            {
+              "chord": "D",
+              "lyrics": "morse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "White cloud, black crow,"
+            },
+            {
+              "chord": "A",
+              "lyrics": "crucifix and arrow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "D",
+              "lyrics": "oldest silence speaks the loudest"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Under the deep green"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sea, when"
+            },
+            {
+              "chord": "G",
+              "lyrics": "speech becomes a crime"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Silence leads the spirit over the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bridge of"
+            },
+            {
+              "chord": "D",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Section 2.1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "6/8",
+              "lyrics": "| D | Em |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Over the bridge of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "time,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I'm walking with my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "family"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "road begins to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "climb"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "And then it's, oh, Lord,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "how we going to pray"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With"
+            },
+            {
+              "chord": "A",
+              "lyrics": "crazy angel voices"
+            },
+            {
+              "chord": "D",
+              "lyrics": "all night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "7/8",
+              "lyrics": "E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Until it's a new day"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Peaceful as a hurricane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Peaceful as a hurricane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Peaceful as a hurricane eye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Peaceful as a hurricane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Peaceful as a hurricane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Peaceful as a hurricane eye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Peaceful as a hurricane eye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Section 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You want to be leader? You want to change"
+            },
+            {
+              "chord": "C",
+              "lyrics": "the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "game?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Turn your back on money, walk away fr"
+            },
+            {
+              "chord": "A",
+              "lyrics": "om"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You want to be a missionary? You got that missio"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nary"
+            },
+            {
+              "chord": "G",
+              "lyrics": "zeal?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Let a stranger change your life. How's that make"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "feel?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You want to be a writer, but you don't know how"
+            },
+            {
+              "chord": "C",
+              "lyrics": "or"
+            },
+            {
+              "chord": "G",
+              "lyrics": "when"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Find a quiet place, use a hum"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ble"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Section 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You want to talk, talk, talk about it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All night"
+            },
+            {
+              "chord": "C",
+              "lyrics": "squawk"
+            },
+            {
+              "chord": "G",
+              "lyrics": "about"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The ocean and the atmos"
+            },
+            {
+              "chord": "A",
+              "lyrics": "phere"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, I've been away for a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "long"
+            },
+            {
+              "chord": "G",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And it looks like a mess"
+            },
+            {
+              "chord": "A",
+              "lyrics": "a-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "round here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'll be away for a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "long"
+            },
+            {
+              "chord": "G",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So here's how the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "story"
+            },
+            {
+              "chord": "D",
+              "lyrics": "goes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There was an old woman who"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lived in a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "shoe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She was baking a cinna"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mon"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She fell asleep in a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "washing ma"
+            },
+            {
+              "chord": "G",
+              "lyrics": "chine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Woke up in a hurri"
+            },
+            {
+              "chord": "A",
+              "lyrics": "cane"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eye"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

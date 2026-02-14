@@ -1,0 +1,554 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/johnny-cash/332505.html",
+  "title": "Highwayman",
+  "artist": "Johnny Cash",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:29:54.752Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 2nd fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Willie)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I was a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "highwayman. Along the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "coach roads I di"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "d ride"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "With sword and"
+            },
+            {
+              "chord": "F",
+              "lyrics": "pistol by my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Many a young"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "maid lost her"
+            },
+            {
+              "chord": "G",
+              "lyrics": "baubles to m"
+            },
+            {
+              "chord": "F",
+              "lyrics": "y trade"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Many a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "soldier shed his"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lifeblood on m"
+            },
+            {
+              "chord": "F",
+              "lyrics": "y blade"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "The bastards"
+            },
+            {
+              "chord": "G",
+              "lyrics": "hung me, in the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "spring of twent"
+            },
+            {
+              "chord": "C",
+              "lyrics": "y-five"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But I am still"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alive."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Kris)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I was a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sailor. I was"
+            },
+            {
+              "chord": "F",
+              "lyrics": "born upon the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And with the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "sea I did"
+            },
+            {
+              "chord": "G",
+              "lyrics": "abide."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I sailed a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "schooner round the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Horn to"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Mexico"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I went"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "aloft and furled the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mainsail in a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "blow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "And when the yards"
+            },
+            {
+              "chord": "G",
+              "lyrics": "broke off, they"
+            },
+            {
+              "chord": "F",
+              "lyrics": "said that I got"
+            },
+            {
+              "chord": "C",
+              "lyrics": "killed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But I am living"
+            },
+            {
+              "chord": "G",
+              "lyrics": "still."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Waylon)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I was a dam"
+            },
+            {
+              "chord": "G",
+              "lyrics": "builder. Across the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "river deep and"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "wide."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Where steel and"
+            },
+            {
+              "chord": "F",
+              "lyrics": "water did"
+            },
+            {
+              "chord": "G",
+              "lyrics": "collide."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "A place called"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "Boulder on the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wild Colora"
+            },
+            {
+              "chord": "F",
+              "lyrics": "do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I slipped and"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "fell into the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "wet concrete"
+            },
+            {
+              "chord": "F",
+              "lyrics": "below"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "They buried me,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "in that great"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tomb that knows no"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But I am still"
+            },
+            {
+              "chord": "G",
+              "lyrics": "around.."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'll always be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "around and"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "around..."
+            },
+            {
+              "chord": "G",
+              "lyrics": "........"
+            },
+            {
+              "chord": "F",
+              "lyrics": "."
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Johnny)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I fly a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "starship across the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Universe"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "divide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And when I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "reach the other"
+            },
+            {
+              "chord": "G",
+              "lyrics": "side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I'll find a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "place to rest my"
+            },
+            {
+              "chord": "G",
+              "lyrics": "spirit if I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "can"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Perhaps I"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "may become a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "highwayman"
+            },
+            {
+              "chord": "F",
+              "lyrics": "again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Or I may"
+            },
+            {
+              "chord": "G",
+              "lyrics": "simply be a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "single drop of"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "rain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "But I"
+            },
+            {
+              "chord": "F",
+              "lyrics": ", will r"
+            },
+            {
+              "chord": "G",
+              "lyrics": "emain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And I'll be back"
+            },
+            {
+              "chord": "C",
+              "lyrics": "again, and"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "again and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "again and"
+            },
+            {
+              "chord": "F",
+              "lyrics": "again and"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "again"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ".."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

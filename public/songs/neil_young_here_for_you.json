@@ -1,0 +1,510 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/n/neil_young/here_for_you_crd.html",
+  "title": "Here for You",
+  "artist": "Neil Young",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:06:39.387Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here For You Neil Young from Prairie Wind.....tabbed by AVH"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intro w/ harp: A, Bmin, C#min, D, A, C#min, G, E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "When your summer days come t"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "umbling down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And you f"
+            },
+            {
+              "chord": "C#min",
+              "lyrics": "ind yourself a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "lone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Then"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you can come back"
+            },
+            {
+              "chord": "C#min",
+              "lyrics": "and be with"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Just close your eyes and"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "I'll be there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#min",
+              "lyrics": "Listen to the s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Of th"
+            },
+            {
+              "chord": "A",
+              "lyrics": "is old heart b"
+            },
+            {
+              "chord": "F#min",
+              "lyrics": "eating for y"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yes I'd m"
+            },
+            {
+              "chord": "E",
+              "lyrics": "iss you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ever want to h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "old"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You might say I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "'m here for"
+            },
+            {
+              "chord": "E-A",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intro again: A, Bmin, C#min, D, A, C#min, G, E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/n/neil_young/here_for_you_crd.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "When the winter comes to your"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "new home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And sn"
+            },
+            {
+              "chord": "C#min",
+              "lyrics": "owflakes are falling d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Then"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you can come back"
+            },
+            {
+              "chord": "C#min",
+              "lyrics": "and be with"
+            },
+            {
+              "chord": "G",
+              "lyrics": "me"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Just close your eyes and I"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "'ll be there"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#min",
+              "lyrics": "Listen to the s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Of this"
+            },
+            {
+              "chord": "A",
+              "lyrics": "old heart b"
+            },
+            {
+              "chord": "F#min",
+              "lyrics": "eating for y"
+            },
+            {
+              "chord": "Bmin",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yes I'd miss"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ever want to h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "old y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ou d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You might say"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I'm here f"
+            },
+            {
+              "chord": "E-A",
+              "lyrics": "or you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "In the spring, protective arms surr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ounding you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "In the fall, we let you go your w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Happiness I know will always f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ind you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F G....E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And when it does, I hope that it will stay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "harp solo: A, Bmin, C#min, D A, C#min, G, E x 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yes I miss y"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ever want to h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "old y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ou"
+            },
+            {
+              "chord": "D",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You might say I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "'m here for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Yes I miss y"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ever want to h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "old y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ou d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "own"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "You might say I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "'m here for you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I'll always be h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ere for you"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

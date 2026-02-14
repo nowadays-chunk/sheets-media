@@ -168,7 +168,23 @@ async function scrapeSong(entry) {
 // MAIN
 // -------------------------------------------------------
 (async () => {
-  const index = await fs.readJson(INDEX_FILE);
+  let index = await fs.readJson(INDEX_FILE);
+
+  // ------------------------------------
+  // Start from specific song
+  // ------------------------------------
+  const targetArtist = "Mark Lanegan";
+  const targetSong = "I Love You Little Girl";
+  const startIndex = index.findIndex(
+    e => e.artist_name === targetArtist && e.song_name === targetSong
+  );
+
+  if (startIndex !== -1) {
+    console.log(`📍 Starting from index ${startIndex}: ${targetArtist} — ${targetSong}`);
+    index = index.slice(startIndex);
+  } else {
+    console.warn(`⚠️ Could not find "${targetArtist} — ${targetSong}" in index. Starting from beginning.`);
+  }
 
   let scraped = 0;
   let skipped = 0;
@@ -186,11 +202,11 @@ async function scrapeSong(entry) {
     // ------------------------------------
     // Resume support
     // ------------------------------------
-    if (await fs.pathExists(outFile)) {
-      console.log(`↩︎ Skipping: ${entry.artist_name} — ${entry.song_name}`);
-      skipped++;
-      continue;
-    }
+    // if (await fs.pathExists(outFile)) {
+    //   console.log(`↩︎ Skipping: ${entry.artist_name} — ${entry.song_name}`);
+    //   skipped++;
+    //   continue;
+    // }
 
     try {
       console.log(`🎵 Scraping: ${entry.artist_name} — ${entry.song_name}`);

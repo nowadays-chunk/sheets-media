@@ -1,0 +1,806 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/f/finch/288765.html",
+  "title": "Grey Matter",
+  "artist": "Finch",
+  "key": "B",
+  "scrapedAt": "2026-02-14T08:43:19.234Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Grey Matter feat. DAryl Palumbo of Glassjaw"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "What It Is To Burn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2002"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Submitted by: paramore_fans@yahoo.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key: B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m x46654"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B x24442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "F#/Bb"
+            },
+            {
+              "chord": "466444",
+              "lyrics": "x143xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B/Eb x698xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "E"
+            },
+            {
+              "chord": "244322",
+              "lyrics": "022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ebm x68876"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: C#m B x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Bite the tongue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "to live with what you've done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "It's so good"
+            },
+            {
+              "chord": "B",
+              "lyrics": "It's so good"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Lie to myself while I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "lie with myself"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "B",
+              "lyrics": "Monday and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it's raining down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "Sunday in the sun"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "It's so good but"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Would it be"
+            },
+            {
+              "chord": "F#/Bb",
+              "lyrics": "so"
+            },
+            {
+              "chord": "B",
+              "lyrics": "bad"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if you were to pre"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "tend"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "that you"
+            },
+            {
+              "chord": "B/Eb",
+              "lyrics": "were so"
+            },
+            {
+              "chord": "B",
+              "lyrics": "happy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Keep it to"
+            },
+            {
+              "chord": "F#/Bb",
+              "lyrics": "your s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "elf"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't let the secret"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "go"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you"
+            },
+            {
+              "chord": "B/Eb",
+              "lyrics": "were so"
+            },
+            {
+              "chord": "B",
+              "lyrics": "willing but"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": "Let's pray for"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "this suicide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And all these pictures"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "falling"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "down around"
+            },
+            {
+              "chord": "B",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "surrounded myself"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with"
+            },
+            {
+              "chord": "B",
+              "lyrics": "all I have in"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "side"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "C#m",
+              "lyrics": ""
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Would I"
+            },
+            {
+              "chord": "F#/Bb",
+              "lyrics": "bite my"
+            },
+            {
+              "chord": "B",
+              "lyrics": "tongue"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and live with"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "what you've"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "done"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just conti"
+            },
+            {
+              "chord": "B/Eb",
+              "lyrics": "nue s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "leeping"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "Selfish"
+            },
+            {
+              "chord": "F#/Bb",
+              "lyrics": "ly con"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sumed with"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "everything you've"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "wrought"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's nothing"
+            },
+            {
+              "chord": "B/Eb",
+              "lyrics": "I can"
+            },
+            {
+              "chord": "B",
+              "lyrics": "do but"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": "Let's pray for"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "this suicide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And all these pictures"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "falling"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "down"
+            },
+            {
+              "chord": "E",
+              "lyrics": "One wish full"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "step to the side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And please just let me know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Are you"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "happy"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "I'll de"
+            },
+            {
+              "chord": "B",
+              "lyrics": "cide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "These stories are so"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "old"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "how they"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "match your"
+            },
+            {
+              "chord": "B",
+              "lyrics": "eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Are you hap"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "py I'll"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "decide"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "These stories are so"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "old"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "how they"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "match your eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Silence:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "B",
+              "lyrics": "Are you"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "happy"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "I'll de"
+            },
+            {
+              "chord": "B",
+              "lyrics": "cide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "These stories are so"
+            },
+            {
+              "chord": "Ebm",
+              "lyrics": "old"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "how they"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "match your"
+            },
+            {
+              "chord": "B",
+              "lyrics": "eyes but"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": "Let's pray for"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "this suicide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "And all these pictures"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "falling"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "down"
+            },
+            {
+              "chord": "E",
+              "lyrics": "One wish full"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#",
+              "lyrics": "step to the side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "and all these pictures"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F# B(hold)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "from the ground that surround me"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

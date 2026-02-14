@@ -1,0 +1,786 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/c/celtic-thunder/304024.html",
+  "title": "Heartland",
+  "artist": "Celtic Thunder",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:44:41.068Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"Heartland\" by Celtic Thunder"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: Jen Marks"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(jenmarks.tumblr.com)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* CAPO on 2nd fret!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "INTRO",
+              "lyrics": "-- Steady Am along with the tribal beat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "When"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "storm is"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "raging"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "thunder"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "rolls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Deli"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ver"
+            },
+            {
+              "chord": "F",
+              "lyrics": "us from the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ocean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Save"
+            },
+            {
+              "chord": "G",
+              "lyrics": "our"
+            },
+            {
+              "chord": "E",
+              "lyrics": "souls"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Thiarna, d�an"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Chr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ost, d�an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Thiarna, d�an"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Chr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ost, d�an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Fill: Am)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "When"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the"
+            },
+            {
+              "chord": "F",
+              "lyrics": "winds are"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "howling"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Vi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gil"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "keep"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Shel"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ter"
+            },
+            {
+              "chord": "F",
+              "lyrics": "us and"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "save us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "From"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "deep"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Thiarna, d�an"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Chr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ost, d�an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Thiarna, d�an"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Chr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ost, d�an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Fill: Am)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Thank"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Lord,"
+            },
+            {
+              "chord": "you",
+              "lyrics": "have"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "brought us"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Sa"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fe to"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "shore"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "our"
+            },
+            {
+              "chord": "F",
+              "lyrics": "strength and pro"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "tection"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Ev"
+            },
+            {
+              "chord": "G",
+              "lyrics": "er"
+            },
+            {
+              "chord": "E",
+              "lyrics": "more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Thiarna, d�an"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Chr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ost, d�an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Thiarna, d�an"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Chr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ost, d�an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D�an tr�caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C~"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D�an tr�caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Thiar"
+            },
+            {
+              "chord": "G",
+              "lyrics": "na"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Thiarna, d�an"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Chr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ost, d�an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Thiarna, d�an"
+            },
+            {
+              "chord": "F",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Chr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ost, d�an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Short fill: Am)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Thiarna, d�an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "D",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Chr�"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ost, d�an"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Thiarna, d�an"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "D",
+              "lyrics": "caire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "G",
+              "lyrics": "Chr�"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ost, d�an"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tr�"
+            },
+            {
+              "chord": "D",
+              "lyrics": "caire"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

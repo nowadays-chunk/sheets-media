@@ -1,0 +1,594 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/p/paul-baloche/220911.html",
+  "title": "Glorious",
+  "artist": "Paul Baloche",
+  "key": "C",
+  "scrapedAt": "2026-02-14T07:44:31.274Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "By Paul Baloche"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key: C Tempo: 102"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C / Em / Am / F (2x)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1 (0:20)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Look inside the mystery,"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "See the empty cross"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gadd4",
+              "lyrics": "See the risen Saviour,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Vic-"
+            },
+            {
+              "chord": "Fadd9",
+              "lyrics": "torious and strong"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "No one else above Him"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "None as strong to save"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gadd4",
+              "lyrics": "He alone has conquered,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fadd9",
+              "lyrics": "The power of the grave"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus (0:57)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Glori-"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ous, my eyes have the seen the glory of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Lord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Glori-"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ous, He stands above the rulers of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2 (1:26)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Look beyond the tombstone"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "See the living God"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gadd4",
+              "lyrics": "See the resurrected"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Fadd9",
+              "lyrics": "ruler of my heart"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "No one else above him"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "None to match his worth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Gadd4",
+              "lyrics": "hope of his returning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fi"
+            },
+            {
+              "chord": "Fadd9",
+              "lyrics": "lls the universe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus (2:03)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Glori-"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ous, my eyes have the seen the glory of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Lord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Glori-"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ous, He stands above the rulers of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Glori-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ous, glor"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ious"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lord"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo (2:46) - electric guitar"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "glorio"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "us"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge 1 (3:02)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh____"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "_______ Y"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ou are"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Glorious"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C Cmaj7 Am F F (extra one)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh___________ You are Glorious"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus (3:27)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Glori"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ous, my eyes have the seen the glory of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Lord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Glori"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ous, He stands above the rulers of the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "Earth"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Glori"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ous, glor-"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "i-ous"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Lord"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you"
+            },
+            {
+              "chord": "G",
+              "lyrics": "are glo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ri-o"
+            },
+            {
+              "chord": "/",
+              "lyrics": "us"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            },
+            {
+              "chord": "/",
+              "lyrics": ""
+            },
+            {
+              "chord": "F",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge 2 (4:28) - electic solo starts here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh____"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "_______ Y"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ou are"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Glorious"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh____"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "_______ Y"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ou are"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Glorious"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh____"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "_______ Y"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ou are"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Glorious"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh____"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "_______ Y"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ou are"
+            },
+            {
+              "chord": "F",
+              "lyrics": "Glorious"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,650 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/s/shins/85742.html",
+  "title": "Girl Sailor",
+  "artist": "The Shins",
+  "key": null,
+  "scrapedAt": "2026-02-14T07:33:07.672Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "THE SHINS - Girl Sailor"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: AlexLeff"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Email: leffelman@wisc.edu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "--Verse 1--"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "The gutter may"
+            },
+            {
+              "chord": "E",
+              "lyrics": "profess its love,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Then follow it with"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "hesitati"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "But there are just so"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "many of"
+            },
+            {
+              "chord": "E",
+              "lyrics": "you out there for rent"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "A stronger girl would"
+            },
+            {
+              "chord": "E",
+              "lyrics": "shake this off in flight,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "And never give it"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "more than a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "frowning hour,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "But you have let your"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "heart decide,"
+            },
+            {
+              "chord": "E",
+              "lyrics": "loss has conquered you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "--Chorus--"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You've won"
+            },
+            {
+              "chord": "E",
+              "lyrics": "one too many"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fights,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wearing"
+            },
+            {
+              "chord": "E",
+              "lyrics": "many hats every time,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But you"
+            },
+            {
+              "chord": "E",
+              "lyrics": "wont win here ton"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ight,"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "--Verse 2--"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Same chords as Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You've made it through the direst of straits alright,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you help it if plain love now seems less interesting?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You haven't changed an ounce in my eyes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I cannot lecture you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And does anything I say seem relevant at all?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You've been at the helm since you were just five,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "While I cannot claim to be more than a passenger,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "--Chorus--"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "But, you've"
+            },
+            {
+              "chord": "E",
+              "lyrics": "won one too many"
+            },
+            {
+              "chord": "D",
+              "lyrics": "fights,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wearing"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all of your clothes at the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "same time,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Let the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "good times end"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "tonight,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "girl, sail her, don't"
+            },
+            {
+              "chord": "D",
+              "lyrics": "sink her, this"
+            },
+            {
+              "chord": "E",
+              "lyrics": "time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D (Repeat Intro)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "--Guitar Solo--"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "--Middle Part--"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Just a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "moment or two from"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "now,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Not a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mind will retain even"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "a trace,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Of the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "thoughts that I struggled to"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And how"
+            },
+            {
+              "chord": "E",
+              "lyrics": "our stack of cards just fell,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "--Verse 3--"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Same chords as Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So settle this once and for all,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The light no longer shows the cracks around my door,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I have no lantern to light your way home tonight,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "--Chors--"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Same chords as previous chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You are not some saint who's above,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Giving someone a stroll through the flowers,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You've got so much more to dream of,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh girl, sail her, don't sink her,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This time,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This time,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This time."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "End on D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==============================================================================="
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| / slide up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| \\ slide down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| h hammer-on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| p pull-off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| ~ vibrato"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| + harmonic"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| x Mute note"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "==============================================================================="
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

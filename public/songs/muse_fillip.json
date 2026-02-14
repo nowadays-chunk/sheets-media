@@ -1,0 +1,102 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/muse/27155.html",
+  "title": "Fillip",
+  "artist": "Muse",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:42:39.906Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning - Normal Tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tempo - 128 bpm"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "0.15",
+              "lyrics": "- Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "0.32",
+              "lyrics": "- Verse 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "0.46",
+              "lyrics": "- Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1.01",
+              "lyrics": "- Fill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1.08",
+              "lyrics": "- Verse 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1.24",
+              "lyrics": "- Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1.39",
+              "lyrics": "- Fill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "1.44",
+              "lyrics": "- Bridge (Mainly piano)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "2.54",
+              "lyrics": "- Chorus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

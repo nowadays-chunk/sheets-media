@@ -1,0 +1,822 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/the-gaslight-anthem/321426.html",
+  "title": "Here Comes My Man",
+  "artist": "The Gaslight Anthem",
+  "key": null,
+  "scrapedAt": "2026-02-14T10:05:26.496Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here Comes My Man - The Gaslight Anthem - Handwritten"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard or whole step down tuning (DGCFAD)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(CAPO 3 for standard, CAPO 5 for whole step)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Arranged by Jack Cookson (Torn_Asunder)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This is the way I saw Brian play it during Gaslight's set on Letterman show."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It doesn't really matter if you tune down or not because his use of a capo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "is purely for the chord voicings - so if you don't wanna tune down, just"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "stick a capo on 3rd."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Performance video:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "http://www.youtube.com/watch?v=9OOEnkNogNk&feature=related"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G (320033)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cadd9 (x32033)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D (x00232)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7 (022033)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse one:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And how much ti"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "me do you think that we ha"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ve?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If I w"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "anted to I could start o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ver again"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Let the g"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ood night decide who she w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ants me to find"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'll n"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ever let you drop another te"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ar in my eye"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Singing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh sha la la, o"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "h sha la la, li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sten honey, here comes"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "my man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Singing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh sha la la,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "oh sha la la, li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sten honey, here comes"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "my man"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse two:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And all my l"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ife, I never had a ch"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ance"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't you"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "think I knew about all your pr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "etty girlfriends?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I wa"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ited for you, gave you t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ime to decide"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But you n"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ever saw it from any"
+            },
+            {
+              "chord": "G",
+              "lyrics": "body else's side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse three:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So I p"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "acked up my things and I fa"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ced up my doubts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know I"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "think I will grow my h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "air back out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Neverm"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ind what you think, nevermi"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nd what you like"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll take it o"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ut to the streets for somebody e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lse to admire"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Singing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh sha la la, o"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "h sha la la, li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sten honey, here comes"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "my man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Singing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh sha la la,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "oh sha la la, li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sten honey, here comes"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "my man"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Middle eight:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Maybe t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ime will tell you why I got"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "so much hell to sell you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please, p"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "lease understand me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh you c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "an't just dance aro"
+            },
+            {
+              "chord": "D",
+              "lyrics": "und me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Maybe your w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ork will love you when I'm j"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ust not there to hold you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Maybe your pr"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "ide can be your companion"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I ju"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "st won't be there to s"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "tand through it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Not one more"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "minute will I s"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "tand through it"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "You got me singing baby"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Final chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "h sha la la, oh"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "sha la la, lis"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ten honey, here comes"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "my man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Singing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh sha la la,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "oh sha la la, li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sten honey, here comes"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "my man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Singing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh sha la la, o"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "h sha la la, li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sten honey, here comes"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "my man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Singing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oh sha la la,"
+            },
+            {
+              "chord": "Cadd9",
+              "lyrics": "oh sha la la, li"
+            },
+            {
+              "chord": "G",
+              "lyrics": "sten honey, here comes"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "my man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro (fast strums, listen to song for Rhythm):"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em7, D, Cadd9,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here comes my man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D Em7, D, Cadd9,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh here comes my man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D Em7, D, Cadd9,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Here comes my man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D Em7, D, Cadd9"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh here comes my man"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh h"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ere comes my m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "an"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

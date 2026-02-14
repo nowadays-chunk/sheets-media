@@ -1,0 +1,718 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/moody-blues/190794.html",
+  "title": "I Know You're Out There Somewhere",
+  "artist": "The Moody Blues",
+  "key": null,
+  "scrapedAt": "2026-02-14T14:01:44.616Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Em N.C."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know you're out there some-where, some-where,some-where."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I know I'll find you some-how, and some-how I'll re-turn"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a-gain to you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mist is lift-ing slow-ly. I can"
+            },
+            {
+              "chord": "C",
+              "lyrics": "see the way a-head."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I've"
+            },
+            {
+              "chord": "G",
+              "lyrics": "left be-hind the emp-ty streets,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "that once in-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "spired my life."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "strength of the e-mo-tion, is like"
+            },
+            {
+              "chord": "C",
+              "lyrics": "thund-er in the air."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pro-mise that we made each oth-er,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "haunts me to the end."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "know you're out there"
+            },
+            {
+              "chord": "C",
+              "lyrics": "some-where,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "some-where,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "some-where."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "know you're out there"
+            },
+            {
+              "chord": "C",
+              "lyrics": "some-where, and some-where you can"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hear my voice."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "know I'll find you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "some-how,"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "some-how,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "some-how."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "know I'll find you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "some-how, and some-how I'll re-"
+            },
+            {
+              "chord": "D",
+              "lyrics": "turn a-gain to"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G",
+              "lyrics": "se-cret of your beaut-y, and the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "mys-t'ry of your soul."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've been"
+            },
+            {
+              "chord": "G",
+              "lyrics": "search-ing for it in ev'ry-one I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "meet."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "times I've mis-tak-en, it's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "im-pos-si-ble to say."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "grass is grow-ing un-der-neath our"
+            },
+            {
+              "chord": "C",
+              "lyrics": "feet."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "...............................you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You see, I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "know you're out there"
+            },
+            {
+              "chord": "D",
+              "lyrics": "some-where."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh yes, I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "know you're out there"
+            },
+            {
+              "chord": "D",
+              "lyrics": "some-where."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "C/D",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You see, I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "know I'll find you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "some-how."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh yes, I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "know I'll find you"
+            },
+            {
+              "chord": "D",
+              "lyrics": "some-how."
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C D C(3rd fr)Bm7 G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "G",
+              "lyrics": "words that I re-mem-ber from my"
+            },
+            {
+              "chord": "C",
+              "lyrics": "child-hood still are true."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That's there're are"
+            },
+            {
+              "chord": "G",
+              "lyrics": "none so blind as those who will not"
+            },
+            {
+              "chord": "C",
+              "lyrics": "see-e."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "those who lack the cour-age,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and say it's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dan-ger-ous to try."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "just don't know that love e-ter-nal,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "will not be de-nied."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Yes, I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "know it's gon-na hap-pen. I can"
+            },
+            {
+              "chord": "C",
+              "lyrics": "feel you get-ting near."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(know it's gon-na hap-pen.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Feel you get-ting near.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It"
+            },
+            {
+              "chord": "G",
+              "lyrics": "seemed to be re-turn-ing to the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "foun-tain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "of our youth."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "if you wake up won-der-ing. In the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dark-ness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(If you wake up won-der-ing.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll be there. My"
+            },
+            {
+              "chord": "G",
+              "lyrics": "arms will close a-round you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(You know I'll be there.)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And pro-"
+            },
+            {
+              "chord": "C",
+              "lyrics": "tect you with the truth."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Slower G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E,B,G,D,A,E = guitar strings, \\ = slide up, p = pull off"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "h = hammer on, vvv = vibrato, # = background notes played"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "over main verses throughout the song."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chord diagrams:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "355433"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "022000"
+            },
+            {
+              "chord": "C",
+              "lyrics": "032010"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "xx4432"
+            },
+            {
+              "chord": "D",
+              "lyrics": "x00232"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "x32030"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "x22030"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "224232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C(3rd fr)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "xx5553"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed from: The Best of the Moody Blues. 1996"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

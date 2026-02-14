@@ -1,0 +1,566 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/d/dubliners/165208.html",
+  "title": "Fiddlers Green",
+  "artist": "The Dubliners",
+  "key": null,
+  "scrapedAt": "2026-02-14T05:38:17.677Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A wonderful traditional folk song! I've only heard the Dubliners' cover, here it is!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo 5th fret."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As I wa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lked by the do"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ckside one ev"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ening so fa"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ir,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "to vi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ew the salt w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "aters and t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ake the salt a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ir,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I hea"
+            },
+            {
+              "chord": "F",
+              "lyrics": "rd an old fisherman sin"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ging a song,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Oh take me aw"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay boys, me t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ime is not lo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ng'."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wrap me"
+            },
+            {
+              "chord": "C",
+              "lyrics": "up in me oi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lskins and j"
+            },
+            {
+              "chord": "C",
+              "lyrics": "umpers,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "no m"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ore on the d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ocks I'll be s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "een."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ell me old shipmates, I'm ta"
+            },
+            {
+              "chord": "C",
+              "lyrics": "king a trip, mates,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'ll see you some day on F"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "iddler's Gr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "een."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now F"
+            },
+            {
+              "chord": "C",
+              "lyrics": "iddler's Gr"
+            },
+            {
+              "chord": "F",
+              "lyrics": "een is a pl"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ace I've heard t"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ell,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "where the fi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "shermen go"
+            },
+            {
+              "chord": "F",
+              "lyrics": "if they do"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n't go to he"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where the sk"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ies are all clear and the dol"
+            },
+            {
+              "chord": "C",
+              "lyrics": "phins do play,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and the cold coast of Gre"
+            },
+            {
+              "chord": "G",
+              "lyrics": "enland is far,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "far a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where the ski"
+            },
+            {
+              "chord": "C",
+              "lyrics": "es are all cl"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ear and there's ne"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ver a g"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ale,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and the f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ish jump on b"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oard with one s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "wish of their t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ail."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where you l"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ie at your leisure, there's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "no work to do,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and the skipper's bel"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ow making t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ea for the cr"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ew."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you g"
+            },
+            {
+              "chord": "C",
+              "lyrics": "et back on d"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ocks and the lo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ng trip is thr"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ough,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "there's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "pubs and there's cl"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ubs and there's la"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ssies there, to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where the g"
+            },
+            {
+              "chord": "F",
+              "lyrics": "irls are all pretty and the be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "er it is free,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and there's bottles of r"
+            },
+            {
+              "chord": "G",
+              "lyrics": "um growing f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rom every t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ree."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Now I d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on't want a h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "arp nor a h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "alo, not m"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "just"
+            },
+            {
+              "chord": "C",
+              "lyrics": "give me a bre"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eze on a go"
+            },
+            {
+              "chord": "C",
+              "lyrics": "od rolling s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ea."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "F",
+              "lyrics": "play me old squeezebox as w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e sail along,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with the wind in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rigging to s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ing me a s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ong."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

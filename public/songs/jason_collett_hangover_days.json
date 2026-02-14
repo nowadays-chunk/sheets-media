@@ -1,0 +1,762 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/jason-collett/78817.html",
+  "title": "Hangover Days",
+  "artist": "Jason Collett",
+  "key": null,
+  "scrapedAt": "2026-02-14T09:08:53.326Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Title: 'Hangover Days'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Artist: Jason Collett"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Idols of Exile"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by Jorge D�az (j_diaz_s@yahoo.com)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1 - 2: (0:17)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It was"
+            },
+            {
+              "chord": "A",
+              "lyrics": "in your basement apartment"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with all of its earth and s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ea"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "making l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ove on th"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e carp"
+            },
+            {
+              "chord": "D",
+              "lyrics": "et"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "under the l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ight of th"
+            },
+            {
+              "chord": "E",
+              "lyrics": "e t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "v"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "utside the sour moon minstrels"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "shook their dark tambo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "urines"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "the morning c"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ame in s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "inist"
+            },
+            {
+              "chord": "D",
+              "lyrics": "er"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "well w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "indow l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ight menac"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1: (0:53)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with cl"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ouds up ab"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ove"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#7",
+              "lyrics": "and clouds d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "own below"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "k"
+            },
+            {
+              "chord": "D",
+              "lyrics": "illing t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ime but it w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "on't st"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "and st"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it w"
+            },
+            {
+              "chord": "E",
+              "lyrics": "on't stand st"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3 - 4: (1:13)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "old you never make a promise (Emily)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A promise I can k"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eep (Emily)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I thanked y"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ou for b"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eing hon"
+            },
+            {
+              "chord": "D",
+              "lyrics": "est (Jason)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I told you, don't p"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ull that shit on m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "e (Emily)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "t"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hese are the hangover days (Jason)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "of frosted glass and metallic gl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eam (Jason)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ll these n"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ew n"
+            },
+            {
+              "chord": "A",
+              "lyrics": "on-pl"
+            },
+            {
+              "chord": "D",
+              "lyrics": "aces (Emily)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "they erase your m"
+            },
+            {
+              "chord": "E",
+              "lyrics": "emor"
+            },
+            {
+              "chord": "A",
+              "lyrics": "y (Emily)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2: (1:50) (Both)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we tr"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "y so h"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ard,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#7",
+              "lyrics": "we try s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o hard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ry so h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ard"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "to l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ove"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we try s"
+            },
+            {
+              "chord": "E",
+              "lyrics": "o hard to l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ove"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 5 - 6: (2:29)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "as underneath London bridge"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I finally realized what you m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ean"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "m"
+            },
+            {
+              "chord": "D",
+              "lyrics": "eanwhile"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all of fas"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hion's la"
+            },
+            {
+              "chord": "D",
+              "lyrics": "test"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "were n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ipping at the he"
+            },
+            {
+              "chord": "E",
+              "lyrics": "els of hist"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ory"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tried to send you a postcard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but all you could write were apolog"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ies (Emily)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "so"
+            },
+            {
+              "chord": "D",
+              "lyrics": "out the Colu"
+            },
+            {
+              "chord": "E",
+              "lyrics": "mbia h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "otel win"
+            },
+            {
+              "chord": "D",
+              "lyrics": "dow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I threw my h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eart into the st"
+            },
+            {
+              "chord": "A",
+              "lyrics": "reet (Both)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 3: (3:05) (Both)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with st"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ars up ab"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ove"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#7",
+              "lyrics": "and stars d"
+            },
+            {
+              "chord": "D",
+              "lyrics": "own below"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "k"
+            },
+            {
+              "chord": "D",
+              "lyrics": "illing t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ime but it w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "on't st"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": "and st"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it w"
+            },
+            {
+              "chord": "E",
+              "lyrics": "on't stand st"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ill"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro: (3:23) (Both)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we tr"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "y so h"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ard,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#7",
+              "lyrics": "we try s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "o hard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "we tr"
+            },
+            {
+              "chord": "D",
+              "lyrics": "y so h"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ard to l"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ove"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Keep playing A )"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

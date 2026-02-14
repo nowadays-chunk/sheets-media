@@ -1,0 +1,734 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/h/hey-monday/175533.html",
+  "title": "Hurricane Streets",
+  "artist": "Hey Monday",
+  "key": "E",
+  "scrapedAt": "2026-02-14T12:26:03.173Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hold On Tight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2008 Fueled By Ramen Records"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Submitted by: paramore_fans@yahoo.com"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Key: E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard EADGBe"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords used:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E - 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B - x24442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m - x46654"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#m",
+              "lyrics": "A -"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "466444",
+              "lyrics": "x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The s"
+            },
+            {
+              "chord": "E",
+              "lyrics": "torm is rushing"
+            },
+            {
+              "chord": "B",
+              "lyrics": "on me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Here's the flood"
+            },
+            {
+              "chord": "A",
+              "lyrics": "flash"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "feel so"
+            },
+            {
+              "chord": "B",
+              "lyrics": "locked and loaded"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Let me"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "out, let me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Wake up in a"
+            },
+            {
+              "chord": "B",
+              "lyrics": "wasteland"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where the"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "trees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "are crashing"
+            },
+            {
+              "chord": "A",
+              "lyrics": "fast"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Make or break"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "B",
+              "lyrics": "road explodes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "out get"
+            },
+            {
+              "chord": "A",
+              "lyrics": "out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "of this"
+            },
+            {
+              "chord": "B",
+              "lyrics": "town"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Let"
+            },
+            {
+              "chord": "B",
+              "lyrics": "the storm"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "s--"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "tronger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Let us s"
+            },
+            {
+              "chord": "E",
+              "lyrics": "peed up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or"
+            },
+            {
+              "chord": "A",
+              "lyrics": "get blown"
+            },
+            {
+              "chord": "B",
+              "lyrics": "over"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Time's"
+            },
+            {
+              "chord": "B",
+              "lyrics": "wasting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "How much"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "longer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Before I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "get myself free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Of these"
+            },
+            {
+              "chord": "B",
+              "lyrics": "hurricane streets?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Interlude: E--B--"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Headed for di"
+            },
+            {
+              "chord": "B",
+              "lyrics": "saster"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Way beyond the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "fear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rearview"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Watch it"
+            },
+            {
+              "chord": "B",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "just disap"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "pear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Disap"
+            },
+            {
+              "chord": "A",
+              "lyrics": "pear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "don't care"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "where I'm"
+            },
+            {
+              "chord": "B",
+              "lyrics": "headed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "Anywhere but"
+            },
+            {
+              "chord": "A",
+              "lyrics": "here"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Won't"
+            },
+            {
+              "chord": "E",
+              "lyrics": "waste my life"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can't"
+            },
+            {
+              "chord": "B",
+              "lyrics": "waste another"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In this"
+            },
+            {
+              "chord": "A",
+              "lyrics": "town this"
+            },
+            {
+              "chord": "B",
+              "lyrics": "town"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus 2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Let"
+            },
+            {
+              "chord": "B",
+              "lyrics": "the storm"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "s--"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "tronger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Let us s"
+            },
+            {
+              "chord": "E",
+              "lyrics": "peed up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or"
+            },
+            {
+              "chord": "A",
+              "lyrics": "get blown"
+            },
+            {
+              "chord": "B",
+              "lyrics": "over"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "Time's"
+            },
+            {
+              "chord": "B",
+              "lyrics": "wasting"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#m",
+              "lyrics": "How much"
+            },
+            {
+              "chord": "G#m",
+              "lyrics": "longer"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Before I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "get myself free"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Of these"
+            },
+            {
+              "chord": "B",
+              "lyrics": "hurricane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Leaves are blowing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "down the s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "treets"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Wind crawling up our"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "knees"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Somebody get the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "keys"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Rain is flowing from the s"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But no fear in our"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We're ready to"
+            },
+            {
+              "chord": "B",
+              "lyrics": "fly"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Repeat Chorus 1 twice)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro: E(hold)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
