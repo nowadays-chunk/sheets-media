@@ -389,6 +389,10 @@ FretboardControls.propTypes = {
   progression: PropTypes.array,
   onElementChange: PropTypes.func.isRequired,
   playSelectedNotes: PropTypes.func.isRequired,
+  createNewBoardDisplay: PropTypes.func.isRequired,
+  boards: PropTypes.array,
+  selectedFretboardIndex: PropTypes.number,
+  setSelectedFretboardIndex: PropTypes.func,
 };
 
 export default FretboardControls;
