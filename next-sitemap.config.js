@@ -12,7 +12,7 @@ module.exports = {
     const slugify = (text) => text.toLowerCase().replace(/#/g, 'sharp').replace(/ /g, '_');
 
     // 1. Songs (~30,000)
-    const songsDir = path.join(process.cwd(), 'songs');
+    const songsDir = path.join(process.cwd(), 'public', 'songs');
     if (fs.existsSync(songsDir)) {
       const songFiles = fs.readdirSync(songsDir);
       songFiles.forEach(file => {
