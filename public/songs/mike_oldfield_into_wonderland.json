@@ -1,0 +1,634 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/mike-oldfield/329315.html",
+  "title": "Into Wonderland",
+  "artist": "Mike Oldfield",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:58:06.797Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Into Wonderland - Mike Oldfield"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: maguri"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Mike Oldfield"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Into Wonderland (1979)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Mike Oldfield)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: \"Platinum\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G#m7 x-4-4-4-x-4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E/G# 0-0-1-2-x-4"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hsus 0-0-4-4-2-x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| G | % |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E | A (H)| E | A |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A H | G#m7 C#m |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| F#m E/G# | Hsus H |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "May I"
+            },
+            {
+              "chord": "A",
+              "lyrics": "say,"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "One fine"
+            },
+            {
+              "chord": "A",
+              "lyrics": "day,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "If"
+            },
+            {
+              "chord": "B",
+              "lyrics": "you"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "say you"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "would,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "We could"
+            },
+            {
+              "chord": "E/G#",
+              "lyrics": "run a"
+            },
+            {
+              "chord": "Bsus",
+              "lyrics": "way"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just"
+            },
+            {
+              "chord": "E",
+              "lyrics": "say good"
+            },
+            {
+              "chord": "A",
+              "lyrics": "bye"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With"
+            },
+            {
+              "chord": "E",
+              "lyrics": "no cloud in the"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sky"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "This"
+            },
+            {
+              "chord": "B",
+              "lyrics": "time"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "sun--"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "shine,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "We're"
+            },
+            {
+              "chord": "E/G#",
+              "lyrics": "gonna"
+            },
+            {
+              "chord": "Bsus",
+              "lyrics": "fly"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can"
+            },
+            {
+              "chord": "E",
+              "lyrics": "hear the whistle"
+            },
+            {
+              "chord": "A",
+              "lyrics": "blow"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's"
+            },
+            {
+              "chord": "E",
+              "lyrics": "no one gonna"
+            },
+            {
+              "chord": "A",
+              "lyrics": "know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Take"
+            },
+            {
+              "chord": "B",
+              "lyrics": "my"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "hand"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "and"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "We can"
+            },
+            {
+              "chord": "E/G#",
+              "lyrics": "softly"
+            },
+            {
+              "chord": "Bsus",
+              "lyrics": "go"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When the"
+            },
+            {
+              "chord": "E",
+              "lyrics": "stars come out to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "shine,"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "You are gonna be"
+            },
+            {
+              "chord": "A",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Sure"
+            },
+            {
+              "chord": "B",
+              "lyrics": "as I"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "love that"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "jazz,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "We are"
+            },
+            {
+              "chord": "E/G#",
+              "lyrics": "gonna be"
+            },
+            {
+              "chord": "Bsus",
+              "lyrics": "fine"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SOLO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E | A (H)| E | A |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A H | G#m7 C#m |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| F#m E/G# | Hsus H |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| E | A (H)| E | A |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| A H | G#m7 C#m |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| F#m E/G# | Hsus H |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Just"
+            },
+            {
+              "chord": "E",
+              "lyrics": "take my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hand"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "E",
+              "lyrics": "try to under"
+            },
+            {
+              "chord": "A",
+              "lyrics": "stand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "We'll"
+            },
+            {
+              "chord": "B",
+              "lyrics": "fly,"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "honey"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "pie,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Into"
+            },
+            {
+              "chord": "E/G#",
+              "lyrics": "wonder"
+            },
+            {
+              "chord": "Bsus",
+              "lyrics": "land"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "E",
+              "lyrics": "if you want me"
+            },
+            {
+              "chord": "A",
+              "lyrics": "to,"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "I'll come back with"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Sure"
+            },
+            {
+              "chord": "B",
+              "lyrics": "as I"
+            },
+            {
+              "chord": "G#m7",
+              "lyrics": "love that"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "jazz,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I"
+            },
+            {
+              "chord": "E/G#",
+              "lyrics": "love"
+            },
+            {
+              "chord": "B",
+              "lyrics": "you"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

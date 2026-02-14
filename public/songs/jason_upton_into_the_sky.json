@@ -1,0 +1,86 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.christianguitar.org/csong18353/-Into-The-Sky",
+  "title": "Into the Sky",
+  "artist": "Jason Upton",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:57:24.056Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Cho"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "rus:"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Ver"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "se 2"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse 3, and then Chorus"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
