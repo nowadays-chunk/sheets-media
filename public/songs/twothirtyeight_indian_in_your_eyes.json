@@ -1,0 +1,62 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.christianguitar.org/csong9016/-Indian-In-Your-Eyes",
+  "title": "Indian in Your Eyes",
+  "artist": "twothirtyeight",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:38:29.056Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "cho"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ru"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "s"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C Em then pick the E and and B cords which chould be closed at the third fret Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bride"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C (i forgot what it's called but it's 002122) Am (002122)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

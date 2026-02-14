@@ -1,0 +1,654 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/a/amy-macdonald/323471.html",
+  "title": "In the End",
+  "artist": "Amy Macdonald",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:26:26.831Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In The End by Amy MacDonald"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Life In A Beautiful Light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Track 12"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "2012"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Standard Tuning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo on the 2nd fret"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am: x02210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: 320033 or 320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F: 133211 or x33211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C: x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(to play without a capo replace the chords above by Bm, A, G and D)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am G F x2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Wishing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I was dr"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eaming"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Wishing"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I didn't kn"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "All the th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oughts I was th"
+            },
+            {
+              "chord": "F",
+              "lyrics": "inking"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I don't w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ant to kn"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Every"
+            },
+            {
+              "chord": "G",
+              "lyrics": "one's always m"
+            },
+            {
+              "chord": "F",
+              "lyrics": "oving"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "I'm standing st"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ill for all the t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ime"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Thoughts that"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I was l"
+            },
+            {
+              "chord": "F",
+              "lyrics": "iving"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Echoes i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "n my m"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "There's so much m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ore that"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I could b"
+            },
+            {
+              "chord": "F",
+              "lyrics": "e"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "So many plac"
+            },
+            {
+              "chord": "G",
+              "lyrics": "es that I'll n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ever s"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "So many lives"
+            },
+            {
+              "chord": "G",
+              "lyrics": "that I'll n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ever m"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll just dr"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eam until we g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "et there in the e"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Always th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "inking 'bout t"
+            },
+            {
+              "chord": "F",
+              "lyrics": "omorrow"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Before tod"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ay is even thr"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "Always th"
+            },
+            {
+              "chord": "G",
+              "lyrics": "inking 'bout the f"
+            },
+            {
+              "chord": "F",
+              "lyrics": "uture"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "What on e"
+            },
+            {
+              "chord": "G",
+              "lyrics": "arth will happen"
+            },
+            {
+              "chord": "F",
+              "lyrics": "to you?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "There's so much m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ore that"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I could"
+            },
+            {
+              "chord": "F",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "So many plac"
+            },
+            {
+              "chord": "G",
+              "lyrics": "es that I'll n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ever s"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "So many lives"
+            },
+            {
+              "chord": "G",
+              "lyrics": "that I'll n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ever m"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll just dr"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eam until we g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "et there in the e"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And if the w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "orld stops spinning"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Would I start moving h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ome"
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And if the w"
+            },
+            {
+              "chord": "F",
+              "lyrics": "orld stopped dreaming"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Would I stop bel"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ieving in it a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ll"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "There's so much m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ore that"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I could"
+            },
+            {
+              "chord": "F",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "So many plac"
+            },
+            {
+              "chord": "G",
+              "lyrics": "es that I'll n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ever s"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "So many lives"
+            },
+            {
+              "chord": "G",
+              "lyrics": "that I'll n"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ever m"
+            },
+            {
+              "chord": "F",
+              "lyrics": "eet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll just dr"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eam until we g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "et there in the e"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll just dr"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eam until we g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "et there in the e"
+            },
+            {
+              "chord": "C",
+              "lyrics": "nd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll just dr"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eam until we g"
+            },
+            {
+              "chord": "G",
+              "lyrics": "et there in the e"
+            },
+            {
+              "chord": "F",
+              "lyrics": "nd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "url": "https://www.chordie.com/chord.pere/nortabs.net/tab/1107/",
+  "title": "Ingen har skylda",
+  "artist": "Jokke med Tourettes",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:42:35.120Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "- Jokke Med Tourettes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "vers1:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Livet ditt"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "går i"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "nedove"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rbakke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "det"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "har det gjort"
+            },
+            {
+              "chord": "F",
+              "lyrics": "lenge"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nå"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "du"
+            },
+            {
+              "chord": "C",
+              "lyrics": "flakker"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "rundt i din"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "gamle"
+            },
+            {
+              "chord": "G",
+              "lyrics": "jakke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "du"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "sjangler når du"
+            },
+            {
+              "chord": "F",
+              "lyrics": "burde"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gå"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "o"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "g ingen har vært vonde"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mot deg"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lle har vært s"
+            },
+            {
+              "chord": "E",
+              "lyrics": "nille"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "u har havna her på ege"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nhånd,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "h"
+            },
+            {
+              "chord": "C",
+              "lyrics": "elt uten assist"
+            },
+            {
+              "chord": "E",
+              "lyrics": "anse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "u har løpt din egen ma"
+            },
+            {
+              "chord": "G",
+              "lyrics": "raton"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "p"
+            },
+            {
+              "chord": "C",
+              "lyrics": "å sprit og dop og p"
+            },
+            {
+              "chord": "E",
+              "lyrics": "iller"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "u behersker ikke len"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ger"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "d"
+            },
+            {
+              "chord": "C",
+              "lyrics": "in arrogante el"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eganse"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ref:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "i"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ngen har sky"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lda ik"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ke engang f"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ylla"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D"
+            },
+            {
+              "chord": "F",
+              "lyrics": "et er ingen du kan klan"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dre in"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "gen du kan ba"
+            },
+            {
+              "chord": "G",
+              "lyrics": "nke"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G"
+            },
+            {
+              "chord": "F",
+              "lyrics": "itt bort alt du e"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ier, p�"
+            },
+            {
+              "chord": "G",
+              "lyrics": "�lma dine v"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "enner"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "m"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ista den du els"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ker, hvo"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "r skal du ta vei"
+            },
+            {
+              "chord": "G",
+              "lyrics": "en n�"
+            },
+            {
+              "chord": "C",
+              "lyrics": "�?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "De"
+            },
+            {
+              "chord": "C",
+              "lyrics": "t kan fort"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "bli v"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "eldig l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "angt å gå"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "når"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "du ikke h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ar no'"
+            },
+            {
+              "chord": "G",
+              "lyrics": "; mål"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Og"
+            },
+            {
+              "chord": "C",
+              "lyrics": "det kan l"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ett bl"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "i jævl"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a hardt"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "å ti"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "gge når"
+            },
+            {
+              "chord": "F",
+              "lyrics": "du ikke ha"
+            },
+            {
+              "chord": "G",
+              "lyrics": "r trua på"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "F",
+              "lyrics": "t alle ting"
+            },
+            {
+              "chord": "C",
+              "lyrics": "skal o"
+            },
+            {
+              "chord": "G",
+              "lyrics": "rdne seg"
+            },
+            {
+              "chord": "Am",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "d"
+            },
+            {
+              "chord": "F",
+              "lyrics": "et er et lys i enden"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "vis du finne"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r ut h"
+            },
+            {
+              "chord": "G",
+              "lyrics": "vor bryter&"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "#039;n er"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "o"
+            },
+            {
+              "chord": "F",
+              "lyrics": "g åssen du skrur'"
+            },
+            {
+              "chord": "C",
+              "lyrics": "n på"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": ""
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F"
+            },
+            {
+              "chord": "F",
+              "lyrics": "or folk er l"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ei av"
+            },
+            {
+              "chord": "G",
+              "lyrics": "deg, og din"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "e velkjente metoder"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "d"
+            },
+            {
+              "chord": "F",
+              "lyrics": "riter langt i dem, du e"
+            },
+            {
+              "chord": "C",
+              "lyrics": "r nok"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "gjennomskua n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "å"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ref."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "vers1."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ref."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

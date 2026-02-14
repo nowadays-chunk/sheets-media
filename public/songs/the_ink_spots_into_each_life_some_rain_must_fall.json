@@ -1,0 +1,526 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/t/the-inkspots/382442.html",
+  "title": "Into Each Life Some Rain Must Fall",
+  "artist": "The Ink Spots",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:55:31.949Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The Inkspots (1944)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C7sus2: x3533x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C7add#5: x35354"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F6",
+              "lyrics": "Into each life some"
+            },
+            {
+              "chord": "F6",
+              "lyrics": "rain must fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "F6",
+              "lyrics": "too much is falling in"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "mine."
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7sus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Gm",
+              "lyrics": "Into each heart some"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "tears must fall,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "some day the sun"
+            },
+            {
+              "chord": "C7add#5",
+              "lyrics": "will"
+            },
+            {
+              "chord": "F",
+              "lyrics": "sh"
+            },
+            {
+              "chord": "Gbdim",
+              "lyrics": "ine."
+            },
+            {
+              "chord": "Gm",
+              "lyrics": ""
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "Some folks can lose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "blues in their hearts,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "when I think of you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Another shower"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "starts."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F6",
+              "lyrics": "Into each life some"
+            },
+            {
+              "chord": "F6",
+              "lyrics": "rain must"
+            },
+            {
+              "chord": "D7",
+              "lyrics": "fall,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "Gm",
+              "lyrics": "too much is falling in"
+            },
+            {
+              "chord": "F",
+              "lyrics": "mine."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Into each life some"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "rain must fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "too much, too much is falling in"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "mine."
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm7",
+              "lyrics": "Into each heart some"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "tears must fall,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "some day the sun"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "will"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "shi"
+            },
+            {
+              "chord": "Bdim",
+              "lyrics": "ne."
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Some folks can lose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "blues in their hearts,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "when I think of you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Another shower"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "starts."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Into each life some"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "rain must"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "fall,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "too much is falling in"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "min"
+            },
+            {
+              "chord": "Bdim",
+              "lyrics": "e."
+            },
+            {
+              "chord": "Cm",
+              "lyrics": ""
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Spoken)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Into each and every lif"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "e some rain has got to fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "But too much of that stuff has"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "fallen into"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "mine"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm7",
+              "lyrics": "And into each heart"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "some tears gotta fall"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cm7",
+              "lyrics": "But I know that someday that sun is bou"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "nd"
+            },
+            {
+              "chord": "Bdim",
+              "lyrics": "to sh"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "ine"
+            },
+            {
+              "chord": "F7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Sung)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D7",
+              "lyrics": "Some folks can lose"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "blues in their hearts,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "when I think of you,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Another shower"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "starts."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bb",
+              "lyrics": "Into each life some"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "rain must"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "fall,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But"
+            },
+            {
+              "chord": "Cm",
+              "lyrics": "too much is falling in"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "min"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "e."
+            },
+            {
+              "chord": "Eb7",
+              "lyrics": ""
+            },
+            {
+              "chord": "Bb",
+              "lyrics": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

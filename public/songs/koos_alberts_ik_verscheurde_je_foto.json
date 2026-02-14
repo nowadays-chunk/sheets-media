@@ -1,0 +1,74 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/koos-alberts/ik-verscheurde-je-foto",
+  "title": "Ik verscheurde je foto",
+  "artist": "Koos Alberts",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:02:17.563Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">D G7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jij komt nooit meer terug"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Voorb"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ij ... het ging allemaal zo"
+            },
+            {
+              "chord": "D",
+              "lyrics": "vlug"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Al die kennissen die vragen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hoe het met ons gaat"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'t Is te"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "laat, 't is te"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

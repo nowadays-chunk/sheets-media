@@ -1,0 +1,70 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/golden-earring/in-my-house",
+  "title": "In My House",
+  "artist": "Golden Earring",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:20:24.335Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "AH AH AH"
+            },
+            {
+              "chord": "D",
+              "lyrics": "AH AH AH"
+            },
+            {
+              "chord": "C",
+              "lyrics": "AH..."
+            },
+            {
+              "chord": "D",
+              "lyrics": "..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "AH AH AH"
+            },
+            {
+              "chord": "D",
+              "lyrics": "AH AH AH"
+            },
+            {
+              "chord": "C",
+              "lyrics": "AH..."
+            },
+            {
+              "chord": "D",
+              "lyrics": "..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "IN MY HOUSE THERE IS ANYTHING YOU NEED D G, D G, D G, D G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "IN MY HOUSE YEAH BABY YOU DON'T HAVE TO WIPE YOU"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

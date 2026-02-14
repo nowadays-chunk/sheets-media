@@ -1,0 +1,746 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/y/yo-la-tengo/308776.html",
+  "title": "If It's True",
+  "artist": "Yo La Tengo",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:49:39.222Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "IF IT'S TRUE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "by yo la tengo"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "from the album 'Popular Songs'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "tabbed by drew (iamdrew@gmail.com)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "capo 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORDS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cmaj7"
+            },
+            {
+              "chord": "EADGAE",
+              "lyrics": "x35453"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am7 x02010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "C"
+            },
+            {
+              "chord": "355433",
+              "lyrics": "x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/B x22010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#dim xx1212"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F* x 8 10 10 10 8"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO RIFF"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "I hear the things yo"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "u say"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I read your mind and"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I understand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Baby the"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "plans you make somehow got"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "off the track"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "maybe"
+            },
+            {
+              "chord": "F",
+              "lyrics": "so or we just for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "got to plan"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if it's"
+            },
+            {
+              "chord": "F",
+              "lyrics": "true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C C\\B Am7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "there's a million other things that keep me up at night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "maybe it's not quite"
+            },
+            {
+              "chord": "F#dim",
+              "lyrics": "right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but we'll"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "find out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm F* (C / intro riff)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if it's true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Cmaj7",
+              "lyrics": "the coast is never"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "clear"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "answers always be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "yond our reach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and though it's"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "not my way won't you"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "help me try"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "let's make jam when life"
+            },
+            {
+              "chord": "G",
+              "lyrics": "gives us a peach"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if it's"
+            },
+            {
+              "chord": "F",
+              "lyrics": "true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C C\\B Am7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "there's a million other things that keep me up at night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "maybe it's not quite"
+            },
+            {
+              "chord": "F#dim",
+              "lyrics": "right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but we'll"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "find out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm F* (C / intro riff)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if it's true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "with every passing year the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "end draws near"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "another hope that's"
+            },
+            {
+              "chord": "G",
+              "lyrics": "smashed"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "tell me it doesn't matter"
+            },
+            {
+              "chord": "G",
+              "lyrics": "anyway"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I don't"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "feel let"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "it's"
+            },
+            {
+              "chord": "F",
+              "lyrics": "always"
+            },
+            {
+              "chord": "G",
+              "lyrics": "better when"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "you are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "near"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "won't you"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "try a little bit"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "harder?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I could"
+            },
+            {
+              "chord": "F",
+              "lyrics": "try a little bit"
+            },
+            {
+              "chord": "G",
+              "lyrics": "more"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if you could"
+            },
+            {
+              "chord": "Cmaj7",
+              "lyrics": "only stop thinking about"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "all of all that we miss"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "may"
+            },
+            {
+              "chord": "F",
+              "lyrics": "be we'll find just what we're"
+            },
+            {
+              "chord": "G",
+              "lyrics": "looking for"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if it's"
+            },
+            {
+              "chord": "F",
+              "lyrics": "true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C C\\B Am7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "there's a million other things that keep me up at night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "maybe it's not quite"
+            },
+            {
+              "chord": "F#dim",
+              "lyrics": "right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but we'll"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "find out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "find out"
+            },
+            {
+              "chord": "F",
+              "lyrics": "if"
+            },
+            {
+              "chord": "G",
+              "lyrics": "it's"
+            },
+            {
+              "chord": "F",
+              "lyrics": "true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I don't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C C\\B Am7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "there's a million other things that keep me up at night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "maybe it's not quite"
+            },
+            {
+              "chord": "F#dim",
+              "lyrics": "right"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but we'll"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "find out"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm F* (C / intro riff)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if it's true"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

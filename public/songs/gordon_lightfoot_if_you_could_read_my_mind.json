@@ -1,0 +1,646 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/gordon-lightfoot/255604.html",
+  "title": "If You Could Read My Mind",
+  "artist": "Gordon Lightfoot",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:55:40.902Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "by Gordon Lightfoot"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Arranged for a single guitar by Baddguitar v1.1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo = 2 to play with song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The recorded version of this song contains two main guitars and a"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "string section. This tab is for a single guitar and a singer."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 320003 G7 32300x Dm6/F 1x020x C X32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D X00232 Em 022000 G/B X2003x Am7 X02030"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO and fill Riff #1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fill #2: Fill #3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If you could read my mind love,"
+            },
+            {
+              "chord": "Dm6/F",
+              "lyrics": "what a tale my thoughts could tell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Just like an old time movie '"
+            },
+            {
+              "chord": "Dm6/F",
+              "lyrics": "bout a ghost from a wishin' well"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "In a castle"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "dark or a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fortress strong with"
+            },
+            {
+              "chord": "D",
+              "lyrics": "chains upon my feet"
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G"
+            },
+            {
+              "chord": "Fill #2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You know that ghost is me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C",
+              "lyrics": "I will never"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "be set free as"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "long as I'm a"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ghost that you can't"
+            },
+            {
+              "chord": "G",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Riff #1",
+              "lyrics": "G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If I could read your mind love,"
+            },
+            {
+              "chord": "Dm6/F",
+              "lyrics": "what a tale your thoughts could tell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Just like a paperback novel"
+            },
+            {
+              "chord": "Dm6/F",
+              "lyrics": "the kind that drugstores sell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "When you reach the"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "part where the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "heartaches come the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hero would be"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G"
+            },
+            {
+              "chord": "Fill #2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But heroes often fail"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C",
+              "lyrics": "you won't read that"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "book again"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "because the ending's"
+            },
+            {
+              "chord": "D",
+              "lyrics": "just too hard to"
+            },
+            {
+              "chord": "G",
+              "lyrics": "take"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fill #3",
+              "lyrics": "G Dm6/F G Dm6/F"
+            },
+            {
+              "chord": "Fill #3",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I'd walk"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "away like a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "movie star who gets"
+            },
+            {
+              "chord": "D",
+              "lyrics": "burned in a three way"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "script"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G"
+            },
+            {
+              "chord": "Fill #2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Enter number two"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A"
+            },
+            {
+              "chord": "C",
+              "lyrics": "movie queen to"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "play the scene of"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "bringing all the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "good things out in"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G"
+            },
+            {
+              "chord": "Fill #2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But for now love, let's be real"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never thought I could"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "act this way and I've"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "got to say that I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "just don't get it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "don't know where"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "we went wrong but the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "feelin's gone and I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "just can't get it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G (Riff #1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If you could read my mind love,"
+            },
+            {
+              "chord": "Dm6/F",
+              "lyrics": "what a tale my thoughts could tell"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Just like an old time movie '"
+            },
+            {
+              "chord": "Dm6/F",
+              "lyrics": "bout a ghost from a wishin' well"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "In a castle"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "dark or a"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fortress strong with"
+            },
+            {
+              "chord": "D",
+              "lyrics": "chains upon my"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "feet"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G"
+            },
+            {
+              "chord": "Fill #2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But stories always end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C",
+              "lyrics": "if you read"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "between the lines you'll"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "know that I'm just"
+            },
+            {
+              "chord": "D",
+              "lyrics": "tryin' to under"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "stand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C G"
+            },
+            {
+              "chord": "Fill #2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The feelin's that you lack"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "never thought I could"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "feel this way and I've"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "got to say that I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "just don't get it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I don't know where"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "we went wrong but the"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "feelin's gone And I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "just can't get it"
+            },
+            {
+              "chord": "G",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ending:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G Dm6/F (rit.) G"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

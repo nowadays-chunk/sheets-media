@@ -1,0 +1,626 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/e/edenbridge/166730.html",
+  "title": "In the Rain",
+  "artist": "Edenbridge",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:30:36.585Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#, G#, C#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A, F#m, E, C#m"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#m, H, A, H"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ref:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E, C#m, F#m"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C, H, F, E"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#, C, Hm, B"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#, H, G,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C, Hm, Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F, C, G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "_________________________________________________"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(B:x13331, H:x24442)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#, G#, C# 3x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#, G#"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm walking along the r"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "iver"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Raindrops fall from the sk"
+            },
+            {
+              "chord": "E",
+              "lyrics": "y"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The eagle above never w"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "onders"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'bout"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "all the f"
+            },
+            {
+              "chord": "B",
+              "lyrics": "eelings gone"
+            },
+            {
+              "chord": "A",
+              "lyrics": "by"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The flower buds open their h"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "earts"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They're begging for water to f"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As they're starting to fill up my s"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "enses"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I r"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ecogn"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ize them"
+            },
+            {
+              "chord": "A",
+              "lyrics": "all"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F"
+            },
+            {
+              "chord": "E",
+              "lyrics": "alling far beyond the horizon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "alling in my and your lane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "alling in fear as the ground comes near"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They're f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "alling in the r"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They're f"
+            },
+            {
+              "chord": "F",
+              "lyrics": "alling in the r"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ain"
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Throstle in the tree can you h"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ear me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Let me hear singing your t"
+            },
+            {
+              "chord": "E",
+              "lyrics": "une"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Stars in the sky let me b"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "e part"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When we t"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ake a d"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ance with the m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "oon"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Butterfly open your w"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "ings"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Woodpecker answer my c"
+            },
+            {
+              "chord": "E",
+              "lyrics": "all"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Walking in midst the s"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ilence"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where I h"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "ear the r"
+            },
+            {
+              "chord": "B",
+              "lyrics": "aindrops f"
+            },
+            {
+              "chord": "A",
+              "lyrics": "all"
+            },
+            {
+              "chord": "B",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F"
+            },
+            {
+              "chord": "E",
+              "lyrics": "alling far beyond the horizon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F"
+            },
+            {
+              "chord": "C#m",
+              "lyrics": "alling in my and your lane"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "alling in fear as the ground comes near"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They're f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "alling in the r"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "They're f"
+            },
+            {
+              "chord": "F",
+              "lyrics": "alling in the r"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C#",
+              "lyrics": "In s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ilence they r"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "oam in the gr"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ass"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In s"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "ilence they dr"
+            },
+            {
+              "chord": "B",
+              "lyrics": "op on a st"
+            },
+            {
+              "chord": "G",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "asses they f"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "all from h"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "eaven above"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But wh"
+            },
+            {
+              "chord": "F",
+              "lyrics": "en they fall th"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ey die al"
+            },
+            {
+              "chord": "G",
+              "lyrics": "one"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

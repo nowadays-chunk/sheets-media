@@ -1,0 +1,802 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.azchords.com/f/foofighters-tabs-1517/intheclear2-tabs-823996.html",
+  "title": "In the Clear",
+  "artist": "Foo Fighters",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:25:18.647Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PM* * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "G",
+              "lyrics": "There are days I might not make it??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "G",
+              "lyrics": "There are days I might start break-in???"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "When the rain"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "starts co"
+            },
+            {
+              "chord": "G",
+              "lyrics": "min? down as"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "heavy as"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "the a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ir??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "You can find"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "me d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ancin? with the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "spirits in"
+            },
+            {
+              "chord": "B",
+              "lyrics": "the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "square, godd*mn, I-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PM* * * * * * * * * * * * * *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-"
+            },
+            {
+              "chord": "G",
+              "lyrics": "swear??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "G",
+              "lyrics": "There are times I feel like givin? in??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "G",
+              "lyrics": "There are times I begin to begin again??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Look outside"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "the w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "orld keeps spinnin?"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "like a pa"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "ddlewh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "eel??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* * * * * * * * * * * * * * * * * *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Rollin for"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "the b"
+            },
+            {
+              "chord": "G",
+              "lyrics": "roken-hearted w"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "aitin? on"
+            },
+            {
+              "chord": "B",
+              "lyrics": "a m"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eal??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?You know I?m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clear, you are"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not i"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "n the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clear. Don?t you go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?c"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ount me out"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "now,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dear??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?You know I?m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clear, you are"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not i"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "n the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clear. Don?t you go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?c"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ount me out"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "now,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dear?In the clear??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "VERSE 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "___________________________________________________________________"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In this verse there?s a little lead in bars 2, 4, 5, 6, 7 and 8:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "____________________________________________________________________"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "PM* * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "G",
+              "lyrics": "There are places I don?t remember??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "G",
+              "lyrics": "There are faces I don?t remember??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "How could I"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "forget"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you painted s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "tars into"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "the s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ky??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "Comin? like"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "a Re"
+            },
+            {
+              "chord": "G",
+              "lyrics": "birth marchin? i"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "n a sec"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ond"
+            },
+            {
+              "chord": "C",
+              "lyrics": "line??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS 2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?You know I?m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clear, you are"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not i"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "n the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clear. Don?t you go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?c"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ount me out"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "now,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dear??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?You know I?m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clear, you are"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not i"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "n the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clear. Don?t you go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "count me out"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "now,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dear?In the clear??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "BRIDGE"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?And if I should drown??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?May this be the sound? ?to wash me out??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "SOLO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "CHORUS 3"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?You know I?m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clear, you are"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not i"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "n the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clear. Don?t you go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?c"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ount me out"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "now,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dear??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?You know I?m"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not"
+            },
+            {
+              "chord": "F#",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clear, you are"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "not i"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "n the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "clear. Don?t you go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "?"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "count me out"
+            },
+            {
+              "chord": "C/B",
+              "lyrics": "now,"
+            },
+            {
+              "chord": "C",
+              "lyrics": "dear?In the clear??"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "OUTRO"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

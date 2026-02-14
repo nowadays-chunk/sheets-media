@@ -1,0 +1,738 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/g/george-harrison/381631.html",
+  "title": "If You Believe",
+  "artist": "George Harrison",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:54:55.792Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "IF YOU BELIEVE - George Harrison"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G - C/G -"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "-"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You can worry your life away with"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Not knowing what"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "each new day may"
+            },
+            {
+              "chord": "G",
+              "lyrics": "bring to you"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Or take each day as it goes on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Wake up to the"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "love that flows on, a -"
+            },
+            {
+              "chord": "G",
+              "lyrics": "round you"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you be -"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "lieve"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "F F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if you be - lieve in you - ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every -"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "thing you thought is"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "possible"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if you be -"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "lieve"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "F F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you be - lieve in me - ee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All your"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "love's reflected"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When you be -"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "lieve"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G -"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "- F - Fm - G - G7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Too many troubles you can't control"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "To get you falling in -"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "to the holes they"
+            },
+            {
+              "chord": "G",
+              "lyrics": "dig for you"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Get up you have all your needs Pray"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Give up and it"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "all recedes a -"
+            },
+            {
+              "chord": "G",
+              "lyrics": "way from you"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you be -"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "lieve"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "F F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if you be - lieve in you - ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every -"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "thing you thought is"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "possible"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if you be -"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "lieve"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "F F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you be - lieve in me - ee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All your"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "love's reflected"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "back to you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you be -"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "lieve"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "F F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if you be - lieve in you - ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every -"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "thing you thought is"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "true"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if you be -"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "lieve"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "F F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you be - lieve in me - ee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "All your"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "love's reflected"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "START FADING"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you be -"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "lieve"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "F F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if you be - lieve in you - ou"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every -"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "thing you thought is"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "possible"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "if you be -"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "lieve"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "F F"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If you be - lieve in me - ee"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G 320003"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G 332010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "C7/G"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "332310"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Fm"
+            },
+            {
+              "chord": "133211",
+              "lyrics": "133000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G7 320031"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

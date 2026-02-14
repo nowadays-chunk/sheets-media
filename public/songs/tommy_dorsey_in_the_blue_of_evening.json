@@ -1,0 +1,402 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/intheblu.htm",
+  "title": "In the Blue of Evening",
+  "artist": "Tommy Dorsey",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:25:00.393Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#7 A7 Dalt D Dm6"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the blue of evening"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "When"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "you"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ap -"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "pear cl"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ose"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "to"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "me, d"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ear"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "one,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D D9 D A7 G/B Em7 Gdim Em7 A7 Dalt Cdim G G/B A7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There in the dusk we'll share a dream rev - er - ie"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#7 A7 Dalt D Dm6"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the blue of evening"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "While"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "crick -"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "ets"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "call an"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "d s"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "tars"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "are f"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "all -"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "ing"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ere 'n"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "eath t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "he"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "mid -n"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ight s"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ky"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "you'll"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "come to"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "me"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7",
+              "lyrics": "In the s"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "hadows of the"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "night we'll s"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "tand"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Fdim",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "Cm7",
+              "lyrics": "touch your"
+            },
+            {
+              "chord": "F7",
+              "lyrics": "hand and t"
+            },
+            {
+              "chord": "Bb",
+              "lyrics": "hen"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Softly"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "as your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lovely"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "eyes"
+            },
+            {
+              "chord": "D",
+              "lyrics": "en - tr"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "eat,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Edim",
+              "lyrics": "Our l"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ips"
+            },
+            {
+              "chord": "G/F#",
+              "lyrics": "will m"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "eet"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "a - g"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ain"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#7 A7 Dalt D Dm6"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the blue of evening,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D9",
+              "lyrics": "Night"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "winds"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "a -"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "bove w"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "hisp'"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "rin'"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "\"I l"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "ove"
+            },
+            {
+              "chord": "Gdim",
+              "lyrics": "you\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ere w"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "ill"
+            },
+            {
+              "chord": "D",
+              "lyrics": "we"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "find"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ro - m"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ance"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "in the"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "blue"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "of"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "eveni"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ng."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

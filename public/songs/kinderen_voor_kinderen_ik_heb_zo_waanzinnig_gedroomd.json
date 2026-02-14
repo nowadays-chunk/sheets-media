@@ -1,0 +1,82 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/kinderen-voor-kinderen/ik-heb-zo-waanzinnig-gedroomd",
+  "title": "Ik heb zo waanzinnig gedroomd",
+  "artist": "Kinderen voor Kinderen",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:01:58.808Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Refrein:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ik heb"
+            },
+            {
+              "chord": "G",
+              "lyrics": "zo wa-wa-wa-waanzinnig gedroomd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ik was zo mooi-mooi-mooi, 't was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "echt niet gewoon"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Iedereen riep: \""
+            },
+            {
+              "chord": "G",
+              "lyrics": "Hieperdepiep!\","
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Daarna werd ik ge"
+            },
+            {
+              "chord": "D",
+              "lyrics": "kust en gekroond."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ik heb"
+            },
+            {
+              "chord": "G",
+              "lyrics": "zo wa-wa-wa-waanzinnig gedroomd"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

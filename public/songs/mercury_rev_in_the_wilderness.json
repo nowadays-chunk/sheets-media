@@ -1,0 +1,82 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.gitaartabs.nl/chords/mercury-rev/in-the-wilderness",
+  "title": "In the Wilderness",
+  "artist": "Mercury Rev",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:32:05.162Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": ">G Em"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Has she found a way to make her man work out rite"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "An has she found a way to let her man into her l"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ife"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Has she found a way to teach her man, some c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ontrol"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Oh make him understand her, as a wh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ole"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Will she find a way to tell him just how lost she"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "is"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

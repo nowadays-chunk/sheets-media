@@ -1,9 +1,9 @@
 {
-  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/mumford-and-sons/324893.html",
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/m/mumford-and-sons/328798.html",
   "title": "I Will Wait",
   "artist": "Mumford & Sons",
   "key": null,
-  "scrapedAt": "2026-02-14T17:55:42.754Z",
+  "scrapedAt": "2026-02-14T19:01:04.801Z",
   "sections": [
     {
       "name": "Verse",
@@ -12,7 +12,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "\"I Will Wait\" - Muford And Sons"
+              "lyrics": "I'll keep adding things on this tab when I know them, I don't know the parts where"
             }
           ]
         },
@@ -20,7 +20,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "2x Intro: Bbm Ab Db Ebm Db Ab"
+              "lyrics": "Marcus just goes crazy on his guitar and I don't know how to play the"
             }
           ]
         },
@@ -28,7 +28,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "Verse 1:"
+              "lyrics": "'Raise my hands, paint my spirit gold' thing either."
             }
           ]
         },
@@ -36,15 +36,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "I came"
-            },
-            {
-              "chord": "Db",
-              "lyrics": "home like a sto"
-            },
-            {
-              "chord": "Gb",
-              "lyrics": "ne"
+              "lyrics": "I might be on to something here but I think the standard tuning for this song is Open C"
             }
           ]
         },
@@ -52,15 +44,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "And I fell he"
-            },
-            {
-              "chord": "Db",
-              "lyrics": "avy into your ar"
-            },
-            {
-              "chord": "Ab",
-              "lyrics": "ms"
+              "lyrics": "and I will keep working on that aswell."
             }
           ]
         },
@@ -68,14 +52,134 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "These days of d"
+              "lyrics": "Please put in mind before posting that it's wrong that I won't sound exactly as the song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "since they got Keyboards and a Banjo aswell."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Playing Mumford and Sons song only on a guitar is not the way to play them. Have fun."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Open D Tuning: DADF#AD"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "x - Muted string"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Look at this chart for the chords"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B B/D Gb or Gb G or G A or A D"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro/Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse: Strumming pattern, Down Up Down Down x4 for each chord"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I came"
             },
             {
-              "chord": "Db",
-              "lyrics": "ust, which we've"
+              "chord": "D",
+              "lyrics": "home"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like a"
             },
             {
-              "chord": "Gb",
+              "chord": "G",
+              "lyrics": "stone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I fell"
+            },
+            {
+              "chord": "D",
+              "lyrics": "heavy into yo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ur arms"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "These days of"
+            },
+            {
+              "chord": "D",
+              "lyrics": "dust"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Which we've"
+            },
+            {
+              "chord": "G",
               "lyrics": "known"
             }
           ]
@@ -84,15 +188,15 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "Will blow aw"
+              "lyrics": "Will blow"
             },
             {
-              "chord": "Db",
-              "lyrics": "ay with this new"
+              "chord": "D",
+              "lyrics": "away with this n"
             },
             {
-              "chord": "Ab",
-              "lyrics": "sun"
+              "chord": "A",
+              "lyrics": "ew sun"
             }
           ]
         },
@@ -100,7 +204,7 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "Pre-chorus:"
+              "lyrics": "Bridge/Interlude or whatever, same as intro"
             }
           ]
         },
@@ -108,63 +212,43 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "And I"
+              "lyrics": "B B/D Gb G Gb A Strumming pattern, Down Down Down Up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
             },
             {
-              "chord": "Bbm",
-              "lyrics": "'ll kn"
+              "chord": "B",
+              "lyrics": "I'll"
             },
             {
-              "chord": "Ab",
-              "lyrics": "eel do"
-            },
-            {
-              "chord": "Db",
-              "lyrics": "wn; Wa"
+              "chord": "B/D",
+              "lyrics": "kneel"
             },
             {
               "chord": "Gb",
-              "lyrics": "it f"
-            },
-            {
-              "chord": "Db",
-              "lyrics": "or n"
-            },
-            {
-              "chord": "Ab",
-              "lyrics": "ow"
+              "lyrics": "down"
             }
           ]
         },
         {
           "chunks": [
             {
-              "chord": null,
-              "lyrics": "And I"
-            },
-            {
-              "chord": "Bbm",
-              "lyrics": "'ll kn"
-            },
-            {
-              "chord": "Ab",
-              "lyrics": "eel do"
-            },
-            {
-              "chord": "Db",
-              "lyrics": "wn; K"
+              "chord": "G",
+              "lyrics": "Wait"
             },
             {
               "chord": "Gb",
-              "lyrics": "now m"
+              "lyrics": "for"
             },
             {
-              "chord": "Db",
-              "lyrics": "y gro"
-            },
-            {
-              "chord": "Ab",
-              "lyrics": "und"
+              "chord": "A",
+              "lyrics": "now"
             }
           ]
         },
@@ -172,38 +256,62 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "Chorus:"
+              "lyrics": "And"
+            },
+            {
+              "chord": "B",
+              "lyrics": "I'll"
+            },
+            {
+              "chord": "B/D",
+              "lyrics": "kneel"
+            },
+            {
+              "chord": "Gb",
+              "lyrics": "down"
             }
           ]
         },
         {
           "chunks": [
             {
-              "chord": "Db",
-              "lyrics": "And I will wait I will wait for you"
+              "chord": "G",
+              "lyrics": "Know"
             },
             {
-              "chord": "Fm",
+              "chord": "Gb",
+              "lyrics": "my"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ground"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus: Single Strums Down"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "D",
+              "lyrics": "I will wait, I will wait for you"
+            },
+            {
+              "chord": "Gb",
               "lyrics": ""
             },
             {
-              "chord": "Ab",
-              "lyrics": ""
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": "Db",
-              "lyrics": "And I will wait I will wait for you"
-            },
-            {
-              "chord": "Fm",
-              "lyrics": ""
-            },
-            {
-              "chord": "Ab",
+              "chord": "A",
               "lyrics": ""
             }
           ]
@@ -212,227 +320,19 @@
           "chunks": [
             {
               "chord": null,
-              "lyrics": "Verse 2:"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "So break my s"
+              "lyrics": "And"
             },
             {
-              "chord": "Db",
-              "lyrics": "tep and re"
+              "chord": "D",
+              "lyrics": "I will wait, I will wait for you"
             },
             {
               "chord": "Gb",
-              "lyrics": "lent"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "You forga"
+              "lyrics": ""
             },
             {
-              "chord": "Db",
-              "lyrics": "ve and I won't for"
-            },
-            {
-              "chord": "Ab",
-              "lyrics": "get"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "Know what we've"
-            },
-            {
-              "chord": "Db",
-              "lyrics": "seen and him with l"
-            },
-            {
-              "chord": "Gb",
-              "lyrics": "ess"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "Now in some w"
-            },
-            {
-              "chord": "Db",
-              "lyrics": "ay shake the ex"
-            },
-            {
-              "chord": "Ab",
-              "lyrics": "cess"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "2x Chorus"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "Verse 3:"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "Now I'll be b"
-            },
-            {
-              "chord": "Db",
-              "lyrics": "old as well as st"
-            },
-            {
-              "chord": "Gb",
-              "lyrics": "rong"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "Use my h"
-            },
-            {
-              "chord": "Db",
-              "lyrics": "ead alongside my h"
-            },
-            {
-              "chord": "Gb",
-              "lyrics": "eart"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "So take my f"
-            },
-            {
-              "chord": "Db",
-              "lyrics": "lesh and fix my ey"
-            },
-            {
-              "chord": "Gb",
-              "lyrics": "es"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "A tethered m"
-            },
-            {
-              "chord": "Db",
-              "lyrics": "ind free from the l"
-            },
-            {
-              "chord": "Ab",
-              "lyrics": "ies"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "1x Pre-chorus"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "Bridge: 2x Db Ab Bbm Gb Fm Ab"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": "Db",
-              "lyrics": "Raise m"
-            },
-            {
-              "chord": "Ab",
-              "lyrics": "y ha"
-            },
-            {
-              "chord": "Bbm",
-              "lyrics": "nds, p"
-            },
-            {
-              "chord": "Gb",
-              "lyrics": "aint my spir"
-            },
-            {
-              "chord": "Fm",
-              "lyrics": "it go"
-            },
-            {
-              "chord": "Ab",
-              "lyrics": "ld and"
-            },
-            {
-              "chord": "Db",
-              "lyrics": "bow"
-            },
-            {
-              "chord": "Ab",
-              "lyrics": "my h"
-            },
-            {
-              "chord": "Bbm",
-              "lyrics": "ead, ke"
-            },
-            {
-              "chord": "Gb",
-              "lyrics": "ep my he"
-            },
-            {
-              "chord": "Fm",
-              "lyrics": "art s"
-            },
-            {
-              "chord": "Ab",
-              "lyrics": "low"
-            }
-          ]
-        },
-        {
-          "chunks": [
-            {
-              "chord": null,
-              "lyrics": "2x Chorus"
+              "chord": "A",
+              "lyrics": ""
             }
           ]
         }

@@ -1,0 +1,482 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/ifiruled.htm",
+  "title": "If I Ruled the World",
+  "artist": "Tony Bennett",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:46:26.742Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "If"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "I ruled the"
+            },
+            {
+              "chord": "CM7/6",
+              "lyrics": "world,"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ev'ry"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "day would"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "be the"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "first day of s"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": "pring,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7/5",
+              "lyrics": "Ev'ry h"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": "eart would have a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "new song to s"
+            },
+            {
+              "chord": "Am+7",
+              "lyrics": "ing,"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And we'd"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "sing of the"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "joy ev'ry"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "morning would br"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ing."
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "If I"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "ruled the wo"
+            },
+            {
+              "chord": "CM7/6",
+              "lyrics": "rld,"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ev'ry"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "man would"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "be as"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "free as a"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": "bird,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7/5",
+              "lyrics": "Ev'ry v"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": "oice would be a v"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "oice to be h"
+            },
+            {
+              "chord": "Am+7",
+              "lyrics": "eard -"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Take my"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "word, we"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "would treasure each"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "day that oc"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "curred."
+            },
+            {
+              "chord": "E9",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "world"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "would be a"
+            },
+            {
+              "chord": "Bm7",
+              "lyrics": "beautiful p"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "lace,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Where we would"
+            },
+            {
+              "chord": "AM7",
+              "lyrics": "weave such"
+            },
+            {
+              "chord": "AM7/6",
+              "lyrics": "wonderful dr"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "eams;"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "My w"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "orld"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "would wear a s"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "mile on its f"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ace,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Like the"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "man in the"
+            },
+            {
+              "chord": "Am+7",
+              "lyrics": "moon w"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "hen the"
+            },
+            {
+              "chord": "F#m7",
+              "lyrics": "moon bea"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ms. *"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm7",
+              "lyrics": "If"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "I ruled the w"
+            },
+            {
+              "chord": "CM7/6",
+              "lyrics": "orld,"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ev'ry"
+            },
+            {
+              "chord": "Gm7",
+              "lyrics": "man would"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "say the"
+            },
+            {
+              "chord": "Bm7-5",
+              "lyrics": "world was his f"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": "riend,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7/5",
+              "lyrics": "There'd be"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": "happiness that"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "no man could"
+            },
+            {
+              "chord": "Am+7",
+              "lyrics": "end;"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No, my f"
+            },
+            {
+              "chord": "Am6",
+              "lyrics": "riend, not if"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "I"
+            },
+            {
+              "chord": "Em7-5",
+              "lyrics": "ruled the"
+            },
+            {
+              "chord": "A7sus4",
+              "lyrics": "world."
+            },
+            {
+              "chord": "A7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A7+5",
+              "lyrics": "Ev'ry"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "head would be"
+            },
+            {
+              "chord": "Dm+7",
+              "lyrics": "held up"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "high,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There'd be"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "sunshine in"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "ev'ryone's"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "sky,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If the"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "day ever"
+            },
+            {
+              "chord": "FM7",
+              "lyrics": "dawned when"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "I r"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "uled the w"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "orld."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

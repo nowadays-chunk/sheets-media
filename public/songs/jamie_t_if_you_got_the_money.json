@@ -1,0 +1,86 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/jamie-t/82937.html",
+  "title": "If You Got the Money",
+  "artist": "Jamie T",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:56:52.633Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "If you've got the money"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I think it would be"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "funny ah ah oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "take your girl and spend a bit of your"
+            },
+            {
+              "chord": "G",
+              "lyrics": "cash for me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Cos' then she might be happy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "No longer"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "lonely ah ah oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "C/G",
+              "lyrics": "I could take her out the next day for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "pretty much free"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

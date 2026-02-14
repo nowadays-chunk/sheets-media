@@ -1,0 +1,618 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/jon-allen/222892.html",
+  "title": "In Your Light",
+  "artist": "Jon Allen",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:35:11.210Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo on 1st fret!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A X-0-2-2-2-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A/G 3-X-2-2-2-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A/F# 2-X-2-2-2-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm X-2-4-4-3-2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bm7 X-2-4-2-3-2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D X-X-0-2-3-2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "D/C# X-4-X-2-3-2"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm X-X-0-2-3-1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E 0-2-2-1-0-0"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Eb X-6-8-8-X-X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Jon Allen plays this song in D-tuning. With this version you can play along in standard tuning."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "When the sun is gone a"
+            },
+            {
+              "chord": "E",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "In the d"
+            },
+            {
+              "chord": "E",
+              "lyrics": "arkness of the"
+            },
+            {
+              "chord": "D",
+              "lyrics": "night"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "I dont"
+            },
+            {
+              "chord": "E",
+              "lyrics": "have to look too"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "hard to"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "see"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "A/G",
+              "lyrics": "That Im"
+            },
+            {
+              "chord": "A/F#",
+              "lyrics": "living"
+            },
+            {
+              "chord": "E",
+              "lyrics": "in your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "light"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "When I look into your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "eyes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "It all m"
+            },
+            {
+              "chord": "E",
+              "lyrics": "akes perfect se"
+            },
+            {
+              "chord": "D",
+              "lyrics": "nse to me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "I didnt"
+            },
+            {
+              "chord": "E",
+              "lyrics": "know that I could"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "feel this"
+            },
+            {
+              "chord": "Eb",
+              "lyrics": "way"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "A/G",
+              "lyrics": "I am"
+            },
+            {
+              "chord": "A/F#",
+              "lyrics": "happy"
+            },
+            {
+              "chord": "E",
+              "lyrics": "just to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "be"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "In your light, In your"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Theres no"
+            },
+            {
+              "chord": "A/G",
+              "lyrics": "shadow theres no"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "dark"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I dont"
+            },
+            {
+              "chord": "A/G",
+              "lyrics": "feel alone w"
+            },
+            {
+              "chord": "A/F#",
+              "lyrics": "ithout"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Cause Im l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "iving in your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "light"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "When I wake up to your"
+            },
+            {
+              "chord": "E",
+              "lyrics": "face"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "You dont"
+            },
+            {
+              "chord": "E",
+              "lyrics": "have to say th"
+            },
+            {
+              "chord": "D",
+              "lyrics": "at its alright"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm7",
+              "lyrics": "When I"
+            },
+            {
+              "chord": "E",
+              "lyrics": "feel you lyin her"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "e by me"
+            },
+            {
+              "chord": "E#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I"
+            },
+            {
+              "chord": "A/G",
+              "lyrics": "know Im"
+            },
+            {
+              "chord": "A/F#",
+              "lyrics": "living"
+            },
+            {
+              "chord": "E",
+              "lyrics": "in your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "In your light, In your"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Theres no"
+            },
+            {
+              "chord": "A/G",
+              "lyrics": "shadow theres no"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "dark"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I dont"
+            },
+            {
+              "chord": "A/G",
+              "lyrics": "feel alone w"
+            },
+            {
+              "chord": "A/F#",
+              "lyrics": "ithout"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Cause Im l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "iving in your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "light"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Solo (chords same as verse)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "In your light, In your"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Theres no"
+            },
+            {
+              "chord": "A/G",
+              "lyrics": "shadow theres no"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "dark"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "ness"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I dont"
+            },
+            {
+              "chord": "A/G",
+              "lyrics": "feel alone w"
+            },
+            {
+              "chord": "A/F#",
+              "lyrics": "ithout"
+            },
+            {
+              "chord": "D",
+              "lyrics": "you"
+            },
+            {
+              "chord": "D/C#",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Cause Im l"
+            },
+            {
+              "chord": "E",
+              "lyrics": "iving in your"
+            },
+            {
+              "chord": "A",
+              "lyrics": "light"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

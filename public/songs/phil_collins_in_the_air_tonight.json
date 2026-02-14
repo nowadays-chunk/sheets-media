@@ -1,0 +1,762 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/p/phil-collins/345533.html",
+  "title": "In the Air Tonight",
+  "artist": "Phil Collins",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:23:56.734Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Song: In the air tonight"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: DJ"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "20th Feb 2013"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A version with acoustic players in mind..."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: DADGBE - Dropped 'D'"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Tune bottom E string down to D)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*****************************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm(type2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| / / / / | / / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "||:"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "/ / / / :||(Twice)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I can feel it c"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "oming in the air to -"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "night, oh,"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "Lord,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And I've been waiting for this m"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "oment for all my"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "life, oh,"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "Lord,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm C/D Bb/D C/D Dm(type2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Can you feel it coming in the air to - night? Oh, Lord, oh, Lord!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, if"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "you told me you were drowning, I w"
+            },
+            {
+              "chord": "Am/D",
+              "lyrics": "ould not lend a hand,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I've"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "seen your face before, my friend, but I don't"
+            },
+            {
+              "chord": "F/D",
+              "lyrics": "know if you know who I am,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well,"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "I was there, and I saw what you did,"
+            },
+            {
+              "chord": "Am/D",
+              "lyrics": "saw it with my own two eyes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "So you can"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "wipe off that grin, I know where you've been, it's"
+            },
+            {
+              "chord": "F/D",
+              "lyrics": "all been a pack of lies!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And I can feel it c"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "oming in the air to -"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "night, oh,"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "Lord,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Well, I've been waiting for this m"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "oment for all my"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "life, oh,"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "Lord,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I can feel it co"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "ming in the air to - n"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "ight, oh, L"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "ord,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm C/D Bb/D C/D Dm(type2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, I've been waiting for this moment for all my life, oh, Lord, oh, Lord!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, I re -"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "mem - ber... I remember, don't worry!"
+            },
+            {
+              "chord": "Am/D",
+              "lyrics": "How could I ever forget?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^ ^"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's the"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "first time, the last time, we e"
+            },
+            {
+              "chord": "F/D",
+              "lyrics": "ver met,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But---"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "I know the reason why... you keep this silence up,"
+            },
+            {
+              "chord": "Am/D",
+              "lyrics": "...no, you don't fool me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Well, the"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "hurt doesn't show, but the pain still grows, it's no st"
+            },
+            {
+              "chord": "F/D",
+              "lyrics": "ranger to you and me!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm(type3)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "| /__/ /__/ / /__/ | /__/ / / / |"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "^ ^ ^ ^ ^ ^ ^ ^ ^ ^"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "And I can feel it c"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "oming in the air to -"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "night, oh,"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "Lord,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Well, I've been waiting for this m"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "oment for all my"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "life, oh,"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "Lord,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I can feel it in the"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "air tonight, oh,"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "Lord, oh, L"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "ord,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Well, I've been waiting for this m"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "oment for all my"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "life, oh,"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "Lord!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I can feel it c"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "oming in the air--- to -"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "night, oh,"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "Lord,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "I can feel it in the"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "air tonight, oh,"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "Lord, oh, Lord, oh,"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "Lord----,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "Well, I've been waiting for this m"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "oment all--- my"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "life, oh,"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "Lord, oh, Lord!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Suggestion for coda)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "|"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "Bb/D",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "C/D",
+              "lyrics": "/ / / / |"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "/ ||"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*****************************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You could use any combination of these alternative chord shapes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "or stick to one set throughout. For variety, I like to use the open 4th string as the drone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "for the earlier parts of the song, saving the bottom D until the drum break"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "and final choruses, hitting the bass note first, then strumming the rest of the chord,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "but avoiding the 5th string on the C and Bb chords."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm(type2)= 000232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm = xx0765"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/D = xx0553"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb/D = xx0331"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verses & 1st Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm = xx0765"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/D = xx0553"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb/D = xx0331"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am/D = xx0210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F/D = xx0565"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Drum Break:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm(type3)= 007765 (On last beat of break, slide down to Dm(type 2) chord)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "3rd & 4th Choruses:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm(type2)= 000231"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/D = 0x0010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bb/D = 0x0331"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

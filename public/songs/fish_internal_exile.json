@@ -1,0 +1,814 @@
+{
+  "url": "https://www.chordie.com/chord.pere/tabfu.thudspace.net/f/fish/internal_exile.crd",
+  "title": "Internal Exile",
+  "artist": "Fish",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:54:21.924Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: from animal-farm.nevada.edu by redrock.nevada.edu (5.65c/M1.4)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "with SMTP id ; Mon, 27 Sep 1993 05:46:08 -0700"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: from sysc.CSC.PeachNet.EDU by animal-farm.nevada.edu id ; Mon, 27 Sep 1993 05:46:05 -0700"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: from zodiac.csc.peachnet.edu by SYSC.csc.PeachNet.EDU with SMTP"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(5.59/LAI-3.2) id AA04424; Mon, 27 Sep 93 08:47:23 EDT"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Received: From AA/WORKQUEUE by zodiac.csc.peachnet.edu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "via Charon-4.0-VROOM with IPX id 100.930927084700.384;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "27 Sep 93 08:48:50 +500"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Message-Id:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To: alt-guitar-tab@cs.utexas.edu,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "rec-music-makers-guitar-tablature@cs.utexas.edu,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "jamesb@animal-farm.nevada.edu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "From: \"Dan Newcombe\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Date: 27 Sep 93 08:46:56 EDT"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Subject: CRD: _Internal Exile_ by Fish"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Reply-To:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Priority: normal"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "X-Mailer: Pegasus Mail v2.3 (R4)."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Internal Exile by Fish, from the album Internal Exile."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "This song is rather easy to play, at least the guitar part. The fiddles"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "whistle and accordian make it sound tough. Listen to the album for the"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "rythym."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "-Dan Newcombe, dnewcomb@cybernet.cse.fau.edu"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The chords used are:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "320033 x32010 x20010 x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I saw a blue"
+            },
+            {
+              "chord": "C",
+              "lyrics": "umbrell"
+            },
+            {
+              "chord": "G",
+              "lyrics": "a in Princes Street Gardens,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Heading"
+            },
+            {
+              "chord": "B",
+              "lyrics": "out west"
+            },
+            {
+              "chord": "A",
+              "lyrics": "for"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the Lothian Road."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "An Evening N"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ews stuf"
+            },
+            {
+              "chord": "G",
+              "lyrics": "fed deep in his pocket,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Wrapped up"
+            },
+            {
+              "chord": "B",
+              "lyrics": "in his p"
+            },
+            {
+              "chord": "A",
+              "lyrics": "roblems, t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "o keep away the cold."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Grierson's"
+            },
+            {
+              "chord": "C",
+              "lyrics": "spirit"
+            },
+            {
+              "chord": "G",
+              "lyrics": "haunts the dockyards,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Where th"
+            },
+            {
+              "chord": "B",
+              "lyrics": "e only men wor"
+            },
+            {
+              "chord": "A",
+              "lyrics": "king are on"
+            },
+            {
+              "chord": "G",
+              "lyrics": "documentary crews,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Shooting film"
+            },
+            {
+              "chord": "C",
+              "lyrics": "as the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "lines get longer,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "As the se"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ams run o"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ut, all t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "he oil runs dry."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hey there"
+            },
+            {
+              "chord": "C",
+              "lyrics": "laddi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e, Intern"
+            },
+            {
+              "chord": "G",
+              "lyrics": "al Exile! When will"
+            },
+            {
+              "chord": "A",
+              "lyrics": "you re"
+            },
+            {
+              "chord": "G",
+              "lyrics": "alise, we got to let go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Hey there"
+            },
+            {
+              "chord": "C",
+              "lyrics": "lassi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e, Intern"
+            },
+            {
+              "chord": "G",
+              "lyrics": "al Exile! When w"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ill yo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "u realise, we got to let go?"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Starlings whe"
+            },
+            {
+              "chord": "C",
+              "lyrics": "eling"
+            },
+            {
+              "chord": "G",
+              "lyrics": "round Georgian spire,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And the f"
+            },
+            {
+              "chord": "B",
+              "lyrics": "ires of Grangemo"
+            },
+            {
+              "chord": "A",
+              "lyrics": "uth burn"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the skies"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "A lion slee"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ps in a t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "enemant close,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "In a countr"
+            },
+            {
+              "chord": "B",
+              "lyrics": "y that's"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tired"
+            },
+            {
+              "chord": "G",
+              "lyrics": "and deaf to his roar."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Same chords, just picked:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "They bury a wa"
+            },
+            {
+              "chord": "C",
+              "lyrics": "steland"
+            },
+            {
+              "chord": "G",
+              "lyrics": "deep in the wildernes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Poison"
+            },
+            {
+              "chord": "B",
+              "lyrics": "the soil"
+            },
+            {
+              "chord": "A",
+              "lyrics": "and reap"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the harvest,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "of blind indiff"
+            },
+            {
+              "chord": "C",
+              "lyrics": "erenc"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e, greed and apathy,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Sowed way"
+            },
+            {
+              "chord": "B",
+              "lyrics": "back in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "our hi"
+            },
+            {
+              "chord": "G",
+              "lyrics": "story."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The fish are"
+            },
+            {
+              "chord": "C",
+              "lyrics": "few and t"
+            },
+            {
+              "chord": "G",
+              "lyrics": "he harbours are empty,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "The kells now"
+            },
+            {
+              "chord": "B",
+              "lyrics": "rot on our"
+            },
+            {
+              "chord": "A",
+              "lyrics": "oil slicked"
+            },
+            {
+              "chord": "G",
+              "lyrics": "shores."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The sheep ar"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e go"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ne, the farms deserted,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "We're out of"
+            },
+            {
+              "chord": "B",
+              "lyrics": "sight and we're"
+            },
+            {
+              "chord": "A",
+              "lyrics": "out of"
+            },
+            {
+              "chord": "G",
+              "lyrics": "mind."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Like our fathers be"
+            },
+            {
+              "chord": "C",
+              "lyrics": "fore us,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "We've eyes for america,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Dream of a new"
+            },
+            {
+              "chord": "B",
+              "lyrics": "life"
+            },
+            {
+              "chord": "A",
+              "lyrics": "on f"
+            },
+            {
+              "chord": "G",
+              "lyrics": "oreign shores."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "But wherever w"
+            },
+            {
+              "chord": "C",
+              "lyrics": "e go, w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "e'll always know"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "that the l"
+            },
+            {
+              "chord": "B",
+              "lyrics": "and we s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "tand on, i"
+            },
+            {
+              "chord": "G",
+              "lyrics": "s never our own."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We gotta go now, ...."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Faster part)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(REAL FAST)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "--",
+              "lyrics": "Daniel A. Newcombe Clayton State College"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Computing Services Morrow, GA 30260"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E-Mail Address: newcombe@aa.csc.peachnet.edu (404)-961-3421"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "- I just want to be free - I'm happy to be lonely."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Marillion, Misplaced Childhood"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

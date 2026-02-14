@@ -259,7 +259,7 @@ async function mergePDF(key, items) {
 (async () => {
     const grouped = buildPathsByKey();
 
-    const keys = Object.keys(grouped).slice(0, 1); // Only process 'C' for test
+    const keys = Object.keys(grouped).slice(1); // Only process 'C' for test
     for (const key of keys) {
         console.log(`\n========================`);
         console.log(`📕 GENERATING PDF FOR ${key}`);

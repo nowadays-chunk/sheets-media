@@ -1,0 +1,694 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/ifyoukne.htm",
+  "title": "If You Knew Susie (failed - reindex)",
+  "artist": "Eddie Cantor",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:57:09.506Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I have"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "got a sw"
+            },
+            {
+              "chord": "A",
+              "lyrics": "eetie k"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "nown"
+            },
+            {
+              "chord": "A",
+              "lyrics": "as S"
+            },
+            {
+              "chord": "D",
+              "lyrics": "usie;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "In the w"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ords of"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Shakespeare,"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "she's"
+            },
+            {
+              "chord": "A",
+              "lyrics": "a \"w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ow.\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Th"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ough"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "all of"
+            },
+            {
+              "chord": "B7/9",
+              "lyrics": "you m"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ay"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "know her,"
+            },
+            {
+              "chord": "B7/9",
+              "lyrics": "too,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "I'd like to"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "shout right"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "now."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou k"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "new Su - s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ie, like"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "I know"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Su -"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "sie --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6",
+              "lyrics": "Oh!"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "Oh!"
+            },
+            {
+              "chord": "A9",
+              "lyrics": "Oh! W"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hat a g"
+            },
+            {
+              "chord": "A9",
+              "lyrics": "irl!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "There's n"
+            },
+            {
+              "chord": "A",
+              "lyrics": "one"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "so clas -"
+            },
+            {
+              "chord": "A",
+              "lyrics": "sy as t"
+            },
+            {
+              "chord": "A9",
+              "lyrics": "his fair las - s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ie --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Oh!"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "Oh!"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Oh my"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "goodness, w"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "hat a ch"
+            },
+            {
+              "chord": "A",
+              "lyrics": "assis!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "We"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "went rid"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ing,"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "she"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "did - n"
+            },
+            {
+              "chord": "G",
+              "lyrics": "'t b"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "alk;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ack f"
+            },
+            {
+              "chord": "E9",
+              "lyrics": "rom Yonke"
+            },
+            {
+              "chord": "E",
+              "lyrics": "rs,"
+            },
+            {
+              "chord": "A7/6",
+              "lyrics": "I'm the"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "one that"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": "had to w"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "alk."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou k"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "new Sus"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ie, like"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I k"
+            },
+            {
+              "chord": "E9",
+              "lyrics": "now Sus"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ie --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh!"
+            },
+            {
+              "chord": "A7/6",
+              "lyrics": "Oh! W"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "hat"
+            },
+            {
+              "chord": "A7/6",
+              "lyrics": "a g"
+            },
+            {
+              "chord": "D",
+              "lyrics": "irl!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Suzie"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "has a pe"
+            },
+            {
+              "chord": "A",
+              "lyrics": "rfect"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "rep -"
+            },
+            {
+              "chord": "A",
+              "lyrics": "u - t"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ation"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "No one e"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ver s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "aw her"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "on"
+            },
+            {
+              "chord": "A",
+              "lyrics": "a s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "pree"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "N"
+            },
+            {
+              "chord": "A",
+              "lyrics": "obody"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "knows"
+            },
+            {
+              "chord": "B7/9",
+              "lyrics": "where"
+            },
+            {
+              "chord": "A",
+              "lyrics": "Su -"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "sie"
+            },
+            {
+              "chord": "B7/9",
+              "lyrics": "goes"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Nobody"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "knows but"
+            },
+            {
+              "chord": "E7",
+              "lyrics": "me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou k"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "new Su - s"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ie, like"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "I know"
+            },
+            {
+              "chord": "D",
+              "lyrics": "Su -"
+            },
+            {
+              "chord": "DM7",
+              "lyrics": "sie --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D6",
+              "lyrics": "Oh!"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "Oh!"
+            },
+            {
+              "chord": "A9",
+              "lyrics": "Oh! W"
+            },
+            {
+              "chord": "A",
+              "lyrics": "hat a g"
+            },
+            {
+              "chord": "A9",
+              "lyrics": "irl!"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "She we"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ars"
+            },
+            {
+              "chord": "Asus4",
+              "lyrics": "long tress"
+            },
+            {
+              "chord": "A",
+              "lyrics": "es and"
+            },
+            {
+              "chord": "A9",
+              "lyrics": "nice ti"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ght dres"
+            },
+            {
+              "chord": "A9",
+              "lyrics": "ses --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em7",
+              "lyrics": "Oh!"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "Oh! W"
+            },
+            {
+              "chord": "D",
+              "lyrics": "hat a"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "future"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "she poss"
+            },
+            {
+              "chord": "A",
+              "lyrics": "esses."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Out"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "in publ"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ic,"
+            },
+            {
+              "chord": "G6",
+              "lyrics": "how"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "she c"
+            },
+            {
+              "chord": "G",
+              "lyrics": "an y"
+            },
+            {
+              "chord": "G5",
+              "lyrics": "awn;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "E",
+              "lyrics": "In"
+            },
+            {
+              "chord": "E9",
+              "lyrics": "a parl"
+            },
+            {
+              "chord": "E",
+              "lyrics": "our,"
+            },
+            {
+              "chord": "A7/6",
+              "lyrics": "you would"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "think the"
+            },
+            {
+              "chord": "E7/9",
+              "lyrics": "war was"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "on."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If y"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ou k"
+            },
+            {
+              "chord": "D9",
+              "lyrics": "new Sus"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ie, like"
+            },
+            {
+              "chord": "E",
+              "lyrics": "I k"
+            },
+            {
+              "chord": "E9",
+              "lyrics": "now Sus"
+            },
+            {
+              "chord": "E",
+              "lyrics": "ie --"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "Oh!"
+            },
+            {
+              "chord": "A7/6",
+              "lyrics": "Oh! W"
+            },
+            {
+              "chord": "A7",
+              "lyrics": "hat"
+            },
+            {
+              "chord": "A7/6",
+              "lyrics": "a g"
+            },
+            {
+              "chord": "D",
+              "lyrics": "irl!"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

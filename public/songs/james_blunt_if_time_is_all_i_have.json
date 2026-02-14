@@ -1,0 +1,874 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/j/james-blunt/276386.html",
+  "title": "If Time Is All I Have",
+  "artist": "James Blunt",
+  "key": null,
+  "scrapedAt": "2026-02-14T18:53:23.096Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tuning: Standard"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Capo: On 1st"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Special Chords:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Asus2: X02200"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj7: XX3210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E4: 033300"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C7: X32310"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C9: X3003X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F/G: 333211 or 3X3211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/G: 332010 or 3X20XX"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "At the end with the \"oooover\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G: XX003X First beat can be full G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G*: XX000X"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro: |Am|C|"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "When you wake up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Turn the radio"
+            },
+            {
+              "chord": "C",
+              "lyrics": "on"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And you'll hear this simple"
+            },
+            {
+              "chord": "F",
+              "lyrics": "song"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That I made up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That I made up for you"
+            },
+            {
+              "chord": "Asus2",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "When you're driving"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Turn the radio"
+            },
+            {
+              "chord": "C",
+              "lyrics": "up"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cause I can't sing loud en"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "ough"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Hard these days"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "To get my message thr"
+            },
+            {
+              "chord": "E4",
+              "lyrics": "ough"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "C",
+              "lyrics": "time is"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "all"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "have"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F\\G C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll waste it all on you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Each"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "day I'll"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "turn it"
+            },
+            {
+              "chord": "F",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F\\G Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's what the broken-hearted do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C C\\G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm tired of talking to an empty space"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Of silences keeping"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "me awake"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "When you marry"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And you look ar"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ound"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll be somewhere in that cr"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "owd"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Torn up, that it isn't m"
+            },
+            {
+              "chord": "E4",
+              "lyrics": "e"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am",
+              "lyrics": "When you're older"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And the memories f"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ade"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I know I'll still feel the s"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "ame"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "For as long as I l"
+            },
+            {
+              "chord": "E4",
+              "lyrics": "ive"
+            },
+            {
+              "chord": "E",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus#2:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And if"
+            },
+            {
+              "chord": "C",
+              "lyrics": "time is"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "all"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "have"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F\\G C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll waste it all on you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Each"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "day I'll"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "turn it"
+            },
+            {
+              "chord": "F",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F\\G Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's what the broken-hearted do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C C\\G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm tired of talking to an empty space"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Of silences keeping"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "me awake"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Won't you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "say my"
+            },
+            {
+              "chord": "F",
+              "lyrics": "name, one time"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Please just"
+            },
+            {
+              "chord": "C",
+              "lyrics": "say my"
+            },
+            {
+              "chord": "F",
+              "lyrics": "name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus#3:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "C",
+              "lyrics": "time is"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "all"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "have"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F\\G C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll waste it all on you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Each"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "day I'll"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "turn it"
+            },
+            {
+              "chord": "F",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F\\G Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's what the broken-hearted do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C C\\G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm tired of talking to an empty space"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Of silences keeping"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "me awake"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus#4:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "If"
+            },
+            {
+              "chord": "C",
+              "lyrics": "time is"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "all"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "I"
+            },
+            {
+              "chord": "F",
+              "lyrics": "have"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F\\G C"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'll waste it all on you"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Each"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "day I'll"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "turn it"
+            },
+            {
+              "chord": "F",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F\\G Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "It's what the broken-hearted do"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C C\\G"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I'm tired of talking to an empty space"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Of silences keeping"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "me awake"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Won't you"
+            },
+            {
+              "chord": "C",
+              "lyrics": "say my"
+            },
+            {
+              "chord": "F",
+              "lyrics": "name"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G(4beats) G*(4beats) Am"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When the song is oooo - ver."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Don't forget to read the special chords at the begging for better playing."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Enjoy."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,722 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/r/richard-harris/359543.html",
+  "title": "In the Final Hours",
+  "artist": "Richard Harris",
+  "key": null,
+  "scrapedAt": "2026-02-14T19:26:43.731Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "IN THE FINAL HOURS - Richard Harris"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Em7/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "G/B Fi"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the final hours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Cmaj7/E"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Fmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "With all my toydreams tattered"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/E",
+              "lyrics": "With all my"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "singing scattered,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "Out upon the wind"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbmaj7/",
+              "lyrics": "And"
+            },
+            {
+              "chord": "Cm7/",
+              "lyrics": "now"
+            },
+            {
+              "chord": "Dm7/",
+              "lyrics": "the"
+            },
+            {
+              "chord": "Ebmaj7",
+              "lyrics": "end"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Will"
+            },
+            {
+              "chord": "C#maj7",
+              "lyrics": "find me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Amaj7",
+              "lyrics": "Not prepared"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "strong, the way I"
+            },
+            {
+              "chord": "Dmaj7",
+              "lyrics": "thought I was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "But thinking from the"
+            },
+            {
+              "chord": "Dm",
+              "lyrics": "start"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "How very"
+            },
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "chord I was"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As though it"
+            },
+            {
+              "chord": "F/",
+              "lyrics": "mattered"
+            },
+            {
+              "chord": "G/",
+              "lyrics": "now"
+            },
+            {
+              "chord": "Gadd4/",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "G/",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "Now the"
+            },
+            {
+              "chord": "G/B",
+              "lyrics": "dying"
+            },
+            {
+              "chord": "F",
+              "lyrics": "flowers"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Cmaj7/E"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "Fmaj7"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sing an old song that haunts me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C/E",
+              "lyrics": "And now, nobo -"
+            },
+            {
+              "chord": "Fmaj7",
+              "lyrics": "dy wants me"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bbmaj7",
+              "lyrics": "All alone"
+            },
+            {
+              "chord": "G#",
+              "lyrics": "(all alone)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Lost between the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "last of summer -"
+            },
+            {
+              "chord": "C#m7",
+              "lyrics": "showers"
+            },
+            {
+              "chord": "E7",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "These are the"
+            },
+            {
+              "chord": "F#m",
+              "lyrics": "fi -"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "nal"
+            },
+            {
+              "chord": "F#madd4/E",
+              "lyrics": "ho -"
+            },
+            {
+              "chord": "E",
+              "lyrics": "urs"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "B7sus4",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "G#/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            },
+            {
+              "chord": "cb",
+              "lyrics": "F#/Bb"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( In the final hours"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ei B/Eb A/C#"
+            },
+            {
+              "chord": "cb",
+              "lyrics": "E5/B"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "- A"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "In the final hours )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Outro:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Emaj7 - Amaj7 (7x start fading at 5th)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Em7/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "x3203x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G/B x2003x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fi xx3211"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "Cmaj7/E"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "032000"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Fmaj7 133210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C/E 032010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bbmaj7 x13231"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Cm7 x35343"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dm7 x57565"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ebmaj7 x68786"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C#maj7 x46564"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Amaj7 x02120"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#m",
+              "lyrics": "Dmaj7"
+            },
+            {
+              "chord": "244222",
+              "lyrics": "xx0222"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Dm"
+            },
+            {
+              "chord": "133211",
+              "lyrics": "xx0231"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Gadd4 320013"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C x32010"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G#",
+              "lyrics": "C#m7"
+            },
+            {
+              "chord": "466544",
+              "lyrics": "x46454"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E7 020130"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7 x2424x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F#madd4/E 024222"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "E 022100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B7sus4 x2425x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C# x46664"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "G#/C"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "x36544"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "F#/Bb"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "x14322"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "C#/Ab"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "44x121"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "F# 24432x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "C#/F"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "143121"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F#maj7",
+              "lyrics": "Bmaj7"
+            },
+            {
+              "chord": "244321",
+              "lyrics": "x24342"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B x24442"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Ei x7999x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "B/Eb x6987x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A/C# x4765x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "cb",
+              "lyrics": "E5/B"
+            },
+            {
+              "chord": "/cb",
+              "lyrics": "x2245x"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "A x02220"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Emaj7 021100"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "022140"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
