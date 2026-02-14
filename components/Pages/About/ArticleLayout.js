@@ -81,20 +81,25 @@ const ArticleLayout = ({ article, relatedArticles }) => {
 
                     <Divider sx={{ mb: 6 }} />
 
-                    {/* Featured Image Placeholder */}
                     <Box sx={{
                         width: '100%',
-                        height: { xs: 300, md: 450 },
-                        bgcolor: '#f5f5f5',
-                        borderRadius: 4,
+                        height: { xs: 300, md: 500 },
+                        borderRadius: 6,
                         mb: 6,
-                        display: 'flex',
-                        alignItems: 'center',
-                        justifyContent: 'center',
                         overflow: 'hidden',
+                        boxShadow: '0 20px 40px rgba(0,0,0,0.15)',
                         border: '1px solid #eee'
                     }}>
-                        <Typography variant="h4" color="text.disabled">Article Hero Image</Typography>
+                        <CardMedia
+                            component="img"
+                            image={article.image}
+                            alt={article.title}
+                            sx={{
+                                width: '100%',
+                                height: '100%',
+                                objectFit: 'cover'
+                            }}
+                        />
                     </Box>
 
                     {/* Article Content */}

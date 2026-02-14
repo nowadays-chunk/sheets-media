@@ -48,6 +48,14 @@ const OptionButton = styled(Button, { shouldForwardProp: (prop) => prop !== 'sel
   })
 );
 
+const SectionTitle = styled(Typography)(({ theme }) => ({
+  fontSize: '0.875rem',
+  fontWeight: 700,
+  marginBottom: theme.spacing(1.5),
+  color: theme.palette.text.primary,
+  display: 'block',
+}));
+
 const StepLabel = styled(Typography)(({ theme }) => ({
   variant: "subtitle2",
   color: theme.palette.text.secondary,
@@ -152,8 +160,8 @@ const FretboardControls = ({
             {boards.map((b, i) => (
               <Grid item xs={3} key={b.id}>
                 <OptionButton
-                  selected={props.selectedFretboardIndex === i}
-                  onClick={() => props.setSelectedFretboardIndex(i)}
+                  selected={selectedFretboardIndex === i}
+                  onClick={() => setSelectedFretboardIndex(i)}
                   sx={{ justifyContent: 'center', minWidth: 'auto', px: 1 }}
                 >
                   {i + 1}

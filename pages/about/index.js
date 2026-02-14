@@ -90,16 +90,13 @@ const AboutPage = () => {
                                         boxShadow: '0 20px 40px rgba(0,0,0,0.1)'
                                     }
                                 }}>
-                                    <Box sx={{
-                                        height: 200,
-                                        bgcolor: '#eee',
-                                        display: 'flex',
-                                        alignItems: 'center',
-                                        justifyContent: 'center',
-                                        borderBottom: '1px solid #eee'
-                                    }}>
-                                        <Typography color="text.disabled">Article Image</Typography>
-                                    </Box>
+                                    <CardMedia
+                                        component="img"
+                                        height="200"
+                                        image={article.image}
+                                        alt={article.title}
+                                        sx={{ bgcolor: '#eee' }}
+                                    />
                                     <CardContent sx={{ flexGrow: 1, p: 4 }}>
                                         <Stack direction="row" justifyContent="space-between" alignItems="center" sx={{ mb: 2 }}>
                                             <Chip
