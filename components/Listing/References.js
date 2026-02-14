@@ -225,7 +225,8 @@ const References = ({ elements = [] }) => {
     searchDegree,
     searchChord,
     searchMatchType,
-    searchShape
+    searchShape,
+    searchCrossKey
   ]);
 
   // ============================================================

@@ -53,7 +53,7 @@ const QueryPair = ({ pair }) => {
                 dispatch(updateStateProperty(boards[1].id, "arppegioSettings.shape", match.shape));
             }
         }
-    }, [pair, boards.length, dispatch]);
+    }, [pair, boards, dispatch]);
 
     return (
         <Box mb={8} p={3} sx={{ border: '1px solid #ddd', borderRadius: 2, bgcolor: '#fff', boxShadow: '0 4px 12px rgba(0,0,0,0.05)' }}>

@@ -13,6 +13,7 @@ import {
 } from '@mui/material';
 import CloseIcon from '@mui/icons-material/Close';
 import InfoIcon from '@mui/icons-material/Info';
+import Image from 'next/image';
 
 const ArtworkGallery = ({ winners }) => {
     const [open, setOpen] = useState(false);
@@ -84,10 +85,11 @@ const ArtworkGallery = ({ winners }) => {
                             }}
                             onClick={() => handleOpen(winner)}
                         >
-                            <img
+                            <Image
                                 src={winner.artworkUrl}
                                 alt={winner.artworkTitle}
-                                loading="lazy"
+                                width={500}
+                                height={300}
                                 style={{
                                     height: 300,
                                     objectFit: 'cover',
@@ -148,16 +150,22 @@ const ArtworkGallery = ({ winners }) => {
                             </IconButton>
 
                             <Box
-                                component="img"
-                                src={selectedWinner.artworkUrl}
-                                alt={selectedWinner.artworkTitle}
                                 sx={{
+                                    position: 'relative',
                                     width: '100%',
-                                    maxHeight: '70vh',
-                                    objectFit: 'contain',
+                                    height: '70vh',
                                     bgcolor: 'black',
                                 }}
-                            />
+                            >
+                                <Image
+                                    src={selectedWinner.artworkUrl}
+                                    alt={selectedWinner.artworkTitle}
+                                    fill
+                                    style={{
+                                        objectFit: 'contain',
+                                    }}
+                                />
+                            </Box>
 
                             <Box sx={{ p: 3 }}>
                                 <Typography variant="h5" gutterBottom sx={{ fontWeight: 'bold' }}>

@@ -107,8 +107,7 @@ export default function LearnSong({ title, artist, slug }) {
   );
 }
 
-import fs from "fs";
-import path from "path";
+
 
 export async function getStaticPaths() {
   return {

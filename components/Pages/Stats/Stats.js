@@ -75,17 +75,17 @@ export default function Stats({
       }
     }
     fetchStats();
-  }, [boards.length]);
+  }, [boards.length, usage]);
 
   // ---------------------------------------------------------
   // DETECT HOMEPAGE
   // ---------------------------------------------------------
   const isHomepage =
     boards.length > 0 &&
-    chords.length === 0 &&
-    arpeggios.length === 0 &&
-    scales.length === 0 &&
-    !usage;
+    initialChords.length === 0 &&
+    initialArpeggios.length === 0 &&
+    initialScales.length === 0 &&
+    (!usage || Object.keys(usage).length === 0);
 
   const saveStats = async (filename, data) => {
     try {
@@ -125,9 +125,13 @@ export default function Stats({
       });
     }
 
-    // Stats page: merge chords + arpeggios + scales
-    return [...chords, ...arpeggios, ...scales];
-  }, [boards, chords, arpeggios, scales, isHomepage]);
+    // Stats page: merge chords + arpeggios + scales from precomputed state
+    return [
+      ...(precomputedStats?.chords || []),
+      ...(precomputedStats?.arpeggios || []),
+      ...(precomputedStats?.scales || [])
+    ];
+  }, [boards, precomputedStats, isHomepage]);
 
 
   // ---------------------------------------------------------
