@@ -117,32 +117,9 @@ const PlayPage = (props) => {
     }
   };
 
-  if (view === 'wizard') {
-    return <PlayWizard elements={props.elements} onSelect={handleSelect} />;
-  }
-
   return (
     <div style={{ marginTop: '100px' }}>
-      <ScoreProvider>
-        <MusicApp
-          board="play"
-          showAddMoreFretboardsButton={true}
-          showFretboardControls={true}
-          showCircleOfFifths={true}
-          showFretboard={true}
-          showChordComposer={false}
-          showProgressor={false}
-          showSongsSelector={false}
-          showStats={true}
-          leftDrawerOpen={props.leftDrawerOpen}
-          leftDrawerWidth={props.leftDrawerWidth}
-          title="Play And Visualize Guitar Music Sheets"
-          description="Play And Visualize Chords, Scales And Arppegios In A Complete Reference Of Guitar Music Sheets."
-        />
-      </ScoreProvider >
-      <div style={{ textAlign: 'center', padding: '20px' }}>
-        <Button variant="outlined" onClick={() => setView('wizard')}>Back to Search</Button>
-      </div>
+      <PlayWizard elements={props.elements} onSelect={handleSelect} />;
     </div>
   );
 };

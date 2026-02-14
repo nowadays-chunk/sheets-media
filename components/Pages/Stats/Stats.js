@@ -124,14 +124,10 @@ export default function Stats({
         };
       });
     }
-
-    // Stats page: merge chords + arpeggios + scales from precomputed state
-    return [
-      ...(precomputedStats?.chords || []),
-      ...(precomputedStats?.arpeggios || []),
-      ...(precomputedStats?.scales || [])
-    ];
-  }, [boards, precomputedStats, isHomepage]);
+    // Stats page: We rely on precomputedStats in the tab components.
+    // Return empty array to avoid spreading non-array precomputed stats objects.
+    return [];
+  }, [boards, isHomepage]);
 
 
   // ---------------------------------------------------------

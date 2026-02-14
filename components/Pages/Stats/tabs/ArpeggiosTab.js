@@ -14,6 +14,20 @@ import {
     FlowGraph
 } from "../Charts";
 import {
+    buildNoteUsage,
+    buildIntervalUsage,
+    buildKeyUsage,
+    buildShapeUsage,
+    buildModeUsage,
+    buildStringUsage,
+    buildNeckZones,
+    buildFretHeatmap,
+    buildFretHistogram,
+    buildFretRanges,
+    buildTreemapNotes,
+    buildScatterPositions,
+    buildRadarStringUsage,
+    buildChordFlow,
     combineStats
 } from "../utils";
 

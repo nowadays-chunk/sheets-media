@@ -14,7 +14,7 @@ import path from "path";
 // CONFIG
 // -------------------------------------------------------
 const INDEX_FILE = "./output_songs/second-songs.json";
-const OUTPUT_DIR = "./songs";
+const OUTPUT_DIR = "./public/songs";
 const REQUEST_DELAY = 1200;
 
 // -------------------------------------------------------
