@@ -1,0 +1,538 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.tabcountry.com/song3315/Alan-Jackson-I-Still-Love-You",
+  "title": "I Still Love You",
+  "artist": "Alan Jackson",
+  "key": null,
+  "scrapedAt": "2026-02-14T16:46:54.194Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Alan Jackson - I Still Love You (with picking)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G = 320003 D/G = 3x0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C = x32010 D = xx0232"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Dsus = xx0233 D7(add9) = xx0210"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Am = x02210 G(add9) = 3202xx"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "***********************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "G D/G G D/G (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "INTRO"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The door still"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "creaks,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "the roof still"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "leaks,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "When the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rain comes fallin' down."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "D",
+              "lyrics": "dog still"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "barks"
+            },
+            {
+              "chord": "D",
+              "lyrics": "at every"
+            },
+            {
+              "chord": "D7(add9)",
+              "lyrics": "car,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "That"
+            },
+            {
+              "chord": "C",
+              "lyrics": "comes a"
+            },
+            {
+              "chord": "G",
+              "lyrics": "round."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "My boss at"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "work,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "he's still a"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "jerk,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "That ain't nothin' new."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm such a"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "dope,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "my heart's still"
+            },
+            {
+              "chord": "D7(add9)",
+              "lyrics": "broke,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "still love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "My favourite picture of you, is still"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on my window sill."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You wrote to me don't ever change,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm a"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "fraid I never"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "will."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "INS"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "TRUME"
+            },
+            {
+              "chord": "G",
+              "lyrics": "NTA"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "L"
+            },
+            {
+              "chord": "C",
+              "lyrics": ""
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "When day is"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "done, the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "night still"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "comes,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "And I still toss and turn."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I still"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "try"
+            },
+            {
+              "chord": "D",
+              "lyrics": "to have some"
+            },
+            {
+              "chord": "D7(add9)",
+              "lyrics": "pride,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "While the"
+            },
+            {
+              "chord": "C",
+              "lyrics": "bridge still"
+            },
+            {
+              "chord": "G",
+              "lyrics": "burns."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "My arms still"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "ache,"
+            },
+            {
+              "chord": "G",
+              "lyrics": "my heart still"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "waits,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "I know there's no use."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "I'm still a"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "fool,"
+            },
+            {
+              "chord": "D",
+              "lyrics": "and its so"
+            },
+            {
+              "chord": "D7(add9)",
+              "lyrics": "cruel,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "'Cause I"
+            },
+            {
+              "chord": "C",
+              "lyrics": "still love"
+            },
+            {
+              "chord": "G",
+              "lyrics": "you."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "My favourite picture of you, is still"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on my window sill."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "You wrote to me don't ever change,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I'm"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "afraid I never"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "will."
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "The door still"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "creaks, the"
+            },
+            {
+              "chord": "G",
+              "lyrics": "roof still"
+            },
+            {
+              "chord": "D/G",
+              "lyrics": "leaks,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "But that ain't nothin' new."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Thanks for the"
+            },
+            {
+              "chord": "Dsus",
+              "lyrics": "call, I"
+            },
+            {
+              "chord": "D",
+              "lyrics": "guess thats"
+            },
+            {
+              "chord": "D7(add9)",
+              "lyrics": "all,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Except I still love"
+            },
+            {
+              "chord": "G(add9)",
+              "lyrics": "you."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "*********************************************************************"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "EXAMPLE OF PICKING PATTERN IN VERSE (not exact, use as a guide)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

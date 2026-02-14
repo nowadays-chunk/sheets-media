@@ -1,0 +1,514 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.theguitarguy.com/iseeyour.htm",
+  "title": "I See Your Face Before Me",
+  "artist": "Andy Williams",
+  "key": null,
+  "scrapedAt": "2026-02-14T16:42:43.347Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro verse:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "In"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "a wo"
+            },
+            {
+              "chord": "C",
+              "lyrics": "rld of"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "glit -"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "ter and g"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "low,"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "In"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "a w"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "orld"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "of"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "tin -"
+            },
+            {
+              "chord": "Emsus4",
+              "lyrics": "sel a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nd s"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "how,"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "The"
+            },
+            {
+              "chord": "C",
+              "lyrics": "unreal from the r"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "eal thing is h"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ard to"
+            },
+            {
+              "chord": "Bb9",
+              "lyrics": "know;"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "disc"
+            },
+            {
+              "chord": "C",
+              "lyrics": "overed"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "some"
+            },
+            {
+              "chord": "Am",
+              "lyrics": "body"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "who"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "C"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ould"
+            },
+            {
+              "chord": "G9",
+              "lyrics": "be t"
+            },
+            {
+              "chord": "C9",
+              "lyrics": "ru -"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "ly"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "worth"
+            },
+            {
+              "chord": "Emsus4",
+              "lyrics": "- y a"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "nd t"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "rue,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Am7",
+              "lyrics": "Yes"
+            },
+            {
+              "chord": "A9",
+              "lyrics": "I"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "met my"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "i - d"
+            },
+            {
+              "chord": "A9",
+              "lyrics": "eal th"
+            },
+            {
+              "chord": "B7",
+              "lyrics": "ing,"
+            },
+            {
+              "chord": "Cdim",
+              "lyrics": "when"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "I"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "met y"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ou."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Refrain:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "I"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "see your"
+            },
+            {
+              "chord": "FM7",
+              "lyrics": "face be"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "fore me,"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "cr"
+            },
+            {
+              "chord": "C",
+              "lyrics": "owding my"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "ev'ry d"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "ream,"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "There is your"
+            },
+            {
+              "chord": "Dm+7",
+              "lyrics": "face be"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "fore me"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "--"
+            },
+            {
+              "chord": "F",
+              "lyrics": "you are my"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "only t"
+            },
+            {
+              "chord": "C",
+              "lyrics": "heme."
+            },
+            {
+              "chord": "G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "C",
+              "lyrics": "It doesn't m"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "atter w"
+            },
+            {
+              "chord": "C7",
+              "lyrics": "here you"
+            },
+            {
+              "chord": "C7/G",
+              "lyrics": "are,"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "I can s"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ee how f"
+            },
+            {
+              "chord": "F",
+              "lyrics": "air you"
+            },
+            {
+              "chord": "Fm7",
+              "lyrics": "are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "I close my"
+            },
+            {
+              "chord": "Em+7",
+              "lyrics": "eyes and t"
+            },
+            {
+              "chord": "Em7",
+              "lyrics": "here you"
+            },
+            {
+              "chord": "Em6",
+              "lyrics": "are,"
+            },
+            {
+              "chord": "F",
+              "lyrics": "al -"
+            },
+            {
+              "chord": "Fdim",
+              "lyrics": "ways"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I"
+            },
+            {
+              "chord": "G",
+              "lyrics": "f"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "you could"
+            },
+            {
+              "chord": "FM7",
+              "lyrics": "share the"
+            },
+            {
+              "chord": "CM7",
+              "lyrics": "magic,"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "yes, if y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou could"
+            },
+            {
+              "chord": "Edim",
+              "lyrics": "see me"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "too"
+            },
+            {
+              "chord": "G7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Dm",
+              "lyrics": "There would be"
+            },
+            {
+              "chord": "Dm+7",
+              "lyrics": "nothing"
+            },
+            {
+              "chord": "Dm7",
+              "lyrics": "tragic"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "in a"
+            },
+            {
+              "chord": "F",
+              "lyrics": "ll my"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "dreams of y"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ou"
+            },
+            {
+              "chord": "C7",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "Would that my"
+            },
+            {
+              "chord": "E7-9",
+              "lyrics": "love could h"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "aunt you so,"
+            },
+            {
+              "chord": "C6",
+              "lyrics": "knowi"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ng I"
+            },
+            {
+              "chord": "Fm",
+              "lyrics": "want you so."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "F",
+              "lyrics": "I can't e"
+            },
+            {
+              "chord": "F/E",
+              "lyrics": "rase your"
+            },
+            {
+              "chord": "Am7",
+              "lyrics": "beautiful f"
+            },
+            {
+              "chord": "G7",
+              "lyrics": "ace bef"
+            },
+            {
+              "chord": "C",
+              "lyrics": "ore me."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

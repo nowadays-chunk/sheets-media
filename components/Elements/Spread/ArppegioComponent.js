@@ -7,7 +7,7 @@ import { Typography, Box, Grid, Chip, Divider, Stack } from '@mui/material';
 import { ScoreProvider } from "@/core/editor/ScoreContext";
 import { DEFAULT_KEYWORDS } from '../../../data/seo';
 import guitar from '../../../config/guitar';
-import { getAbsoluteNotes, getAnalysis, getNoteName, getIntervalName } from '../../../core/music/musicTheory';
+import { getAbsoluteNotes, getNoteName, getIntervalName } from '../../../core/music/musicTheory';
 
 const Root = styled('div')({
   marginTop: 100,
@@ -27,22 +27,6 @@ const ArppegioComponent = (props) => {
   const noteNames = rootNotes.map(getNoteName);
   const intervalNames = rootNotes.map(n => getIntervalName((n - firstBoard.keyIndex + 12) % 12));
 
-  // Expanded Comparative Analysis
-  const comparativeAnalysis = [];
-
-  // 1. Compare against Top Scales
-  matchingScales.slice(0, 2).forEach(scaleName => {
-    const targetNotes = getAbsoluteNotes('scale', scaleName.toLowerCase(), firstBoard.keyIndex);
-    const analysis = getAnalysis(rootNotes, targetNotes, firstBoard.keyIndex, firstBoard.keyIndex);
-    comparativeAnalysis.push({ association: scaleName, type: 'Scale', ...analysis });
-  });
-
-  // 2. Compare against Top Arpeggios
-  matchingArps.filter(a => a !== firstBoard.quality).slice(0, 2).forEach(arpName => {
-    const targetNotes = getAbsoluteNotes('arppegio', arpName.toLowerCase(), firstBoard.keyIndex);
-    const analysis = getAnalysis(rootNotes, targetNotes, firstBoard.keyIndex, firstBoard.keyIndex);
-    comparativeAnalysis.push({ association: arpName, type: 'Arpeggio', ...analysis });
-  });
 
   return (
     <>
@@ -142,51 +126,6 @@ const ArppegioComponent = (props) => {
             </Grid>
           </Box>
 
-          {comparativeAnalysis.length > 0 && (
-            <>
-              <Typography variant="h3" gutterBottom sx={{ fontWeight: 900, mb: 4 }}>
-                Acoustic & Comparative Analysis
-              </Typography>
-
-              <Grid container spacing={4}>
-                {comparativeAnalysis.map((item, idx) => (
-                  <Grid item xs={12} md={6} key={idx}>
-                    <Box p={4} sx={{ bgcolor: '#fff', borderRadius: 4, border: '1px solid #eee', height: '100%' }}>
-                      <Typography variant="overline" color="secondary" sx={{ fontWeight: 800 }}>
-                        Relation to {item.type}: {item.association}
-                      </Typography>
-                      <Divider sx={{ my: 2 }} />
-
-                      <Box mb={3}>
-                        <Typography variant="subtitle2" sx={{ fontWeight: 700, color: 'text.secondary' }}>Common Notes & Intervals:</Typography>
-                        <Typography variant="body1" sx={{ fontWeight: 600 }}>
-                          {item.commonNotes.join(', ')} ({item.commonIntervals.join(', ')})
-                        </Typography>
-                      </Box>
-
-                      <Box mb={3}>
-                        <Typography variant="subtitle2" sx={{ fontWeight: 700, color: 'error.main' }}>
-                          Unique to Arpeggio View:
-                        </Typography>
-                        <Typography variant="body1">
-                          {item.only1Notes.length > 0 ? `${item.only1Notes.join(', ')} (${item.only1Intervals.join(', ')})` : 'None'}
-                        </Typography>
-                      </Box>
-
-                      <Box>
-                        <Typography variant="subtitle2" sx={{ fontWeight: 700, color: 'success.main' }}>
-                          Potential Extensions:
-                        </Typography>
-                        <Typography variant="body1">
-                          {item.only2Notes.length > 0 ? `${item.only2Notes.join(', ')} (${item.only2Intervals.join(', ')})` : 'None'}
-                        </Typography>
-                      </Box>
-                    </Box>
-                  </Grid>
-                ))}
-              </Grid>
-            </>
-          )}
 
           {matchingArps.length > 0 && (
             <Box mt={8}>

@@ -173,8 +173,8 @@ async function scrapeSong(entry) {
   // ------------------------------------
   // Start from specific song
   // ------------------------------------
-  const targetArtist = "Mark Lanegan";
-  const targetSong = "I Love You Little Girl";
+  const targetArtist = "Helloween";
+  const targetSong = "I Want Out";
   const startIndex = index.findIndex(
     e => e.artist_name === targetArtist && e.song_name === targetSong
   );

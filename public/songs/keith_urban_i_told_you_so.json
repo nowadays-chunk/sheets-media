@@ -1,0 +1,834 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitaretab.com/k/keith-urban/152229.html",
+  "title": "I Told You So",
+  "artist": "Keith Urban",
+  "key": null,
+  "scrapedAt": "2026-02-14T16:50:26.869Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Keith Urban - I Told You So"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "****Capo 2nd fret****"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro - Bm - D - A - Em (x2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(verse 1)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Said you needed your sp"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ace,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I wasn't where you w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "anted to be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I didn't stand in your w"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ay,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "I only want you"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "to be happy,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(pre-cho)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "And so how s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "urprised am I,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "To see you h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ere toni"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ght well,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Oh"
+            },
+            {
+              "chord": "D",
+              "lyrics": ", Can't you s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ee, That for w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "orse or for better,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We're be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tter tog"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ether,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Please just come back h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ome,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "no don't"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "say that you're sorry,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I won't s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ay I t"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "old you so"
+            },
+            {
+              "chord": "-",
+              "lyrics": ","
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(verse 2)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sometimes in our l"
+            },
+            {
+              "chord": "D",
+              "lyrics": "ife,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "we get to where we w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "onder if the long,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Road that we're"
+            },
+            {
+              "chord": "D",
+              "lyrics": "on,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Is heading in the s"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "ame direction"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(pre-cho)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "When it comes to y"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ou and me,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "G",
+              "lyrics": "We're right where"
+            },
+            {
+              "chord": "A",
+              "lyrics": "I know we sh"
+            },
+            {
+              "chord": "G",
+              "lyrics": "ould be,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Can't you s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ee, That for w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "orse or for better,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We're be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tter tog"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ether,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Please just come back h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ome,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "no don't"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "say that you're sorry,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And"
+            },
+            {
+              "chord": "G",
+              "lyrics": "I won't s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ay I told you"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "so,"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(bridge)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "Sometimes it's like"
+            },
+            {
+              "chord": "G",
+              "lyrics": "we're deep in,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "nothing but l"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "ove,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "The slightest"
+            },
+            {
+              "chord": "D/F#",
+              "lyrics": "thing can grow so fo"
+            },
+            {
+              "chord": "G",
+              "lyrics": "olishly,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Remind me please"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(Chorus)"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Oh Can't you"
+            },
+            {
+              "chord": "A",
+              "lyrics": "see, That for"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "worse or for better,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We're be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tter tog"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ether,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Please just come back h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ome,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "no don't"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "say that you're sorry,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "You d"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on't have to say you're s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "orry baby,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Can't you s"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ee, That for w"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "orse or for better,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "We're be"
+            },
+            {
+              "chord": "G",
+              "lyrics": "tter tog"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ether,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "D",
+              "lyrics": "Please just come back h"
+            },
+            {
+              "chord": "A",
+              "lyrics": "ome,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "no don't"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "say that you're sorry,"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I w"
+            },
+            {
+              "chord": "G",
+              "lyrics": "on't"
+            },
+            {
+              "chord": "A",
+              "lyrics": "say I t"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "old you so"
+            },
+            {
+              "chord": "-",
+              "lyrics": ","
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "And I won't say I"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "told you s"
+            },
+            {
+              "chord": "-",
+              "lyrics": "o,"
+            },
+            {
+              "chord": "D",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "Em",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "But I told you so, y"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "ea"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "should have known better than to leave me baby"
+            },
+            {
+              "chord": "B5",
+              "lyrics": ","
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "should have known better than to leave me darl"
+            },
+            {
+              "chord": "B5",
+              "lyrics": "in,"
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "D5",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "A5",
+              "lyrics": ""
+            },
+            {
+              "chord": "-",
+              "lyrics": ""
+            },
+            {
+              "chord": "E5",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "(outro)"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

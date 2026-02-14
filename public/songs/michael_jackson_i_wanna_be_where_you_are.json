@@ -1,0 +1,486 @@
+{
+  "url": "https://www.chordie.com/chord.pere/www.guitartabs.cc/tabs/m/michael_jackson/i_wanna_be_where_you_are_crd.html",
+  "title": "I Wanna Be Where You Are",
+  "artist": "Michael Jackson",
+  "key": null,
+  "scrapedAt": "2026-02-14T16:53:08.881Z",
+  "sections": [
+    {
+      "name": "Verse",
+      "lines": [
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "\"I Wanna Be Where You Are\""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Written by: Leon Ware and Arthur \"T-Boy\" Ross 1972"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "As Performed by: Micheal Jackson"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Album: Got To Be There"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Tabbed by: E. Jay Apaga"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Thanks for checking out the tab. Chording is as complicated as I get as I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "play mostly acoustic guitar and like to get the base of the songs down. I"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "hope it starts you off in the right place so you can go elsewhere with it"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "especially the bridges into the chorus. I know something more interesting or"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "accurate can go there cest la vie. Enjoy"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Sorry, didn't tab out the opening harpsicord."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Intro"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Can it be I stayed away too"
+            },
+            {
+              "chord": "G",
+              "lyrics": "long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Did I leave your mind when I was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's not my thing trying to get"
+            },
+            {
+              "chord": "G",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "But this time let me tell you where I'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "at"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "You don't have to"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "worry 'cause I'm coming"
+            },
+            {
+              "chord": "Bm/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Back to where I sh"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "ould have always stayed"
+            },
+            {
+              "chord": "Bm/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "And now I've heard"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "the maybe to your stor"
+            },
+            {
+              "chord": "Bm/G",
+              "lyrics": "y"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And it's enough love for me to"
+            },
+            {
+              "chord": "A",
+              "lyrics": "stay"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "( Tab from: http://www.guitartabs.cc/tabs/m/michael_jackson/i_wanna_be_where_you_are_crd.html )"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Can it be I stayed away too"
+            },
+            {
+              "chord": "G",
+              "lyrics": "long"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "Did I leave your mind when I was"
+            },
+            {
+              "chord": "D",
+              "lyrics": "gone"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "It's not my thing trying to get"
+            },
+            {
+              "chord": "G",
+              "lyrics": "back"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "A",
+              "lyrics": "But this time let me tell you where I'm"
+            },
+            {
+              "chord": "D",
+              "lyrics": "at"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wanna, wanna be"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "where you are oh"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Any"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "where you are oh oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wanna, wanna be"
+            },
+            {
+              "chord": "Bm",
+              "lyrics": "where you are oh"
+            },
+            {
+              "chord": "E",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Every"
+            },
+            {
+              "chord": "Em",
+              "lyrics": "where you are oh oh"
+            },
+            {
+              "chord": "A",
+              "lyrics": "oh"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Bridge:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "Please don't close"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "the door to our future"
+            },
+            {
+              "chord": "Bm/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "There's so many th"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "ings we haven't tried"
+            },
+            {
+              "chord": "Bm/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Bm",
+              "lyrics": "I could love you b"
+            },
+            {
+              "chord": "Bm/A",
+              "lyrics": "etter than I used to"
+            },
+            {
+              "chord": "Bm/G",
+              "lyrics": ""
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": "Em",
+              "lyrics": "And give you all the love I have in"
+            },
+            {
+              "chord": "A",
+              "lyrics": "side"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Verse (No Vocals) x 1"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "at this point everything is taken a half step up from original key."
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "you can do this or just be lazy like me and keep it in the same key"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Chorus:"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wanna, wanna be where you are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "Any, any, anywhere you are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I wanna, wanna be where you are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "I gotta be where you are"
+            }
+          ]
+        },
+        {
+          "chunks": [
+            {
+              "chord": null,
+              "lyrics": "ejapaga@gmail.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
